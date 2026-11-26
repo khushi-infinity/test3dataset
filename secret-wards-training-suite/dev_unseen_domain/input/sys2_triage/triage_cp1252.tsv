@@ -1,0 +1,101 @@
+case_mrn	pat_alias	kin_info	age_val	contact_num	seen_on	symptoms	med_order	seen_by
+MRN/H2/50017	Chaudhary, Bhavna	C/O Santosh (PAN: SYNTH5235Z)	-1	8.82028E+09	2025-10-20	C/O fever – 4 days; Hodgkin's lymphoma; BP 114/101	Augmentin 625 Duo TDS x 7 days	Dr. Meenakshi Sundaram
+MRN/H4/50018	Zafar T.	C/O Kamlesh (PAN: SYNTH7225Z)	6	0878 225 2677	2024-07-17	C/O fever – 4 days; Crohn's disease; BP 153/93	Thyronorm 50 mcg OD empty stomach	Dr. Arvind Kejriwal
+MRN/H1/50019	Asha ji	C/O Kamlesh (PAN: SYNTH5177Z)	51	0643 679 7729	2024-12-23	C/O fever – 4 days; Apgar score 9/10; BP 152/90	Azee 500 mg OD x 3 days	Dr. Rajeshwar Rao
+MRN/H3/50020	Devendra M.	C/O Sanjay (PAN: SYNTH3689Z)	10	0747 289 8055	2025-08-18	C/O fever – 4 days; Ringer's lactate 500 mL IV; BP 149/77	Montair-LC HS	Dr. Ramesh Kulkarni
+MRN/H3/50021	Iyer, Zoya	C/O Vikram (PAN: SYNTH9732Z)	11	0613 226 5563	2024-11-08	C/O fever – 4 days; Crohn's disease; BP 168/93	Metformin 500 mg BD	Dr. P. V. Narasimhan
+MRN/H4/50022	Shri Alok Patel	C/O Devendra (PAN: SYNTH2072Z)	45	8.52622E+09	2024-04-28	C/O fever – 4 days; Ringer's lactate 500 mL IV; BP 112/79	Thyronorm 50 mcg OD empty stomach	Dr. S. K. Sharma
+MRN/H2/50023	Mishra, Sarita	C/O Sanjay (PAN: SYNTH3078Z)	6	0955 084 1606	2025-01-14	C/O fever – 4 days; Hodgkin's lymphoma; BP 130/84	Ecosprin 75 mg OD	Dr. Farhan Qureshi
+MRN/H3/50024	Gopal ji	C/O Gopal (PAN: SYNTH2547Z)	68	0887 282 0464	2025-04-18	C/O fever – 4 days; Apgar score 9/10; BP 170/73	Thyronorm 50 mcg OD empty stomach	Dr. P. V. Narasimhan
+MRN/H3/50025	Kalyani ji	C/O Devendra (PAN: SYNTH2184Z)	59	0926 662 2253	2024-02-16	C/O fever – 4 days; Babinski sign negative; BP 136/93	Metformin 500 mg BD	Dr. P. V. Narasimhan
+MRN/H4/50026	Alok ji	C/O Vikram (PAN: SYNTH9380Z)	72	0617 533 9871	2025-04-27	C/O fever – 4 days; Parkinson's disease; BP 110/67	Ramipril 5 mg OD x 30 days	Dr. Anita Deshmukh
+MRN/H3/50027	Chaudhary, Bhavna	C/O Kamlesh (PAN: SYNTH2962Z)	87	6.87843E+09	2024-06-08	C/O fever – 4 days; Parkinson's disease; BP 153/98	Ecosprin 75 mg OD	Dr. Nandini Menon
+MRN/H1/50028	Shri Devendra Kulkarni	C/O Sanjay (PAN: SYNTH6505Z)	65	0942 554 8727	2025-07-28	C/O fever – 4 days; Guillain-Barre syndrome; BP 117/106	Atorva 20 mg HS	Dr. Arvind Kejriwal
+MRN/H2/50029	Siddiqui, Kalyani	C/O Sanjay (PAN: SYNTH4829Z)	84	0991 821 7752	2024-06-23	C/O fever – 4 days; Addison's disease; BP 135/74	Dolo 650 mg BD x 5 days	Dr. Nandini Menon
+MRN/H4/50030	Sanjay M.	C/O Santosh (PAN: SYNTH1199Z)	26	0723 024 9451	2025-09-15	C/O fever – 4 days; Ringer's lactate 500 mL IV; BP 141/77	Glycomet-GP 1 mg 1-0-1	Dr. Farhan Qureshi
+MRN/H4/50031	Chaudhary, Sarita	C/O Devendra (PAN: SYNTH6235Z)	150	0951 434 8373	2025-02-04	C/O fever – 4 days; Foley catheter 16Fr; BP 140/82	Dolo 650 mg BD x 5 days	Dr. Nandini Menon
+MRN/H4/50032	Shri Sanjay Chaudhary	C/O Kamlesh (PAN: SYNTH6958Z)	82	6.96055E+09	2025-08-09	C/O fever – 4 days; Apgar score 9/10; BP 121/93	Azee 500 mg OD x 3 days	Dr. Arvind Kejriwal
+MRN/H3/50033	Asha ji	C/O Sanjay (PAN: SYNTH4745Z)	22	0796 141 8525	2025-09-24	C/O fever – 4 days; Foley catheter 16Fr; BP 149/96	Ramipril 5 mg OD x 30 days	Dr. Anita Deshmukh
+MRN/H4/50034	Shri Alok Thakur	C/O Santosh (PAN: SYNTH3788Z)	63	0889 613 7501	2024-12-05	C/O fever – 4 days; Cushing's syndrome; BP 170/65	Thyronorm 50 mcg OD empty stomach	Dr. Farhan Qureshi
+MRN/H2/50035	Zoya ji	C/O Gopal (PAN: SYNTH2726Z)	9	0850 056 1749	2025-05-08	C/O fever – 4 days; Babinski sign negative; BP 166/102	Pan-D 40 mg 1-0-0 AC	Dr. Arvind Kejriwal
+MRN/H2/50036	Shri Alok Siddiqui	C/O Kamlesh (PAN: SYNTH6555Z)	43	0791 651 1417	2024-05-29	C/O fever – 4 days; Parkinson's disease; BP 140/105	Pan-D 40 mg 1-0-0 AC	Dr. Nandini Menon
+MRN/H2/50037	P. Kulkarni	C/O Kamlesh (PAN: SYNTH9343Z)	36	9.05168E+09	2025-04-17	C/O fever – 4 days; Babinski sign negative; BP 174/94	Glycomet-GP 1 mg 1-0-1	Dr. Rajeshwar Rao
+MRN/H3/50038	Santosh R.	C/O Vikram (PAN: SYNTH3139Z)	33	0764 014 1316	2024-07-10	C/O fever – 4 days; Parkinson's disease; BP 106/103	Azee 500 mg OD x 3 days	Dr. S. K. Sharma
+MRN/H2/50039	Usha ji	C/O Santosh (PAN: SYNTH8205Z)	52	0978 586 4579	2025-08-20	C/O fever – 4 days; Foley catheter 16Fr; BP 137/100	Atorva 20 mg HS	Dr. Nandini Menon
+MRN/H3/50040	Gopal C.	C/O Kamlesh (PAN: SYNTH7627Z)	63	0882 384 6259	2025-01-18	C/O fever – 4 days; Bell's palsy; BP 105/82	Ramipril 5 mg OD x 30 days	Dr. S. K. Sharma
+MRN/H4/50041	Neha R.	C/O Santosh (PAN: SYNTH6338Z)	90	0747 565 7870	2024-04-10	C/O fever – 4 days; Addison's disease; BP 163/73	Shelcal 500 mg OD	Dr. Arvind Kejriwal
+MRN/H3/50042	Z. Siddiqui	C/O Zafar (PAN: SYNTH4618Z)	6	6.92682E+09	2025-10-01	C/O fever – 4 days; Guillain-Barre syndrome; BP 134/98	Amlong 5 mg OD	Dr. Rajeshwar Rao
+MRN/H4/50043	Siddiqui, Asha	C/O Zafar (PAN: SYNTH2306Z)	83	0659 263 6859	2024-11-03	C/O fever – 4 days; Guillain-Barre syndrome; BP 173/92	Augmentin 625 Duo TDS x 7 days	Dr. Rajeshwar Rao
+MRN/H1/50044	Shri Kamlesh Patel	C/O Sanjay (PAN: SYNTH5382Z)	17	0915 142 5809	2025-06-11	C/O fever – 4 days; Cushing's syndrome; BP 116/75	Pan-D 40 mg 1-0-0 AC	Dr. Arvind Kejriwal
+MRN/H1/50045	Thakur, Zoya	C/O Devendra (PAN: SYNTH3540Z)	2147483648	0678 257 4352	2025-09-21	C/O fever – 4 days; Addison's disease; BP 149/98	Telma 40 mg OD	Dr. P. V. Narasimhan
+MRN/H1/50046	Shri Kamlesh Chaudhary	C/O Kamlesh (PAN: SYNTH5005Z)	4	0767 668 8872	2025-04-02	C/O fever – 4 days; Apgar score 9/10; BP 150/80	Azee 500 mg OD x 3 days	Dr. P. V. Narasimhan
+MRN/H3/50047	Reddy, Kalyani	C/O Gopal (PAN: SYNTH7058Z)	12	8.93454E+09	2024-12-28	C/O fever – 4 days; Babinski sign negative; BP 155/97	Telma 40 mg OD	Dr. P. V. Narasimhan
+MRN/H2/50048	A. Reddy	C/O Alok (PAN: SYNTH9105Z)	11	0908 111 2770	2025-05-18	C/O fever – 4 days; Addison's disease; BP 123/102	Metformin 500 mg BD	Dr. Farhan Qureshi
+MRN/H3/50049	Iyer, Bhavna	C/O Gopal (PAN: SYNTH7042Z)	65	0804 327 0191	2025-02-07	C/O fever – 4 days; Guillain-Barre syndrome; BP 109/99	Atorva 20 mg HS	Dr. Farhan Qureshi
+MRN/H2/50050	Kulkarni, Gopal	C/O Alok (PAN: SYNTH9763Z)	4	0919 155 0593	2024-09-20	C/O fever – 4 days; Ringer's lactate 500 mL IV; BP 106/96	Pan-D 40 mg 1-0-0 AC	Dr. Nandini Menon
+MRN/H4/50051	Smt. Neha Chaudhary	C/O Sanjay (PAN: SYNTH8725Z)	60	0818 561 9955	2025-10-06	C/O fever – 4 days; Addison's disease; BP 149/87	Azee 500 mg OD x 3 days	Dr. Nandini Menon
+MRN/H3/50052	Zafar ji	C/O Alok (PAN: SYNTH2923Z)	52	8.33564E+09	2025-07-02	C/O fever – 4 days; Ringer's lactate 500 mL IV; BP 123/90	Shelcal 500 mg OD	Dr. Anita Deshmukh
+MRN/H4/50053	Smt. Bhavna Iyer	C/O Kamlesh (PAN: SYNTH9248Z)	60	0752 750 8782	2025-01-23	C/O fever – 4 days; Ryles tube 14Fr; BP 118/102	Shelcal 500 mg OD	Dr. Rajeshwar Rao
+MRN/H1/50054	Patel, Kamlesh	C/O Zafar (PAN: SYNTH3398Z)	13	0729 626 8477	2024-08-10	C/O fever – 4 days; Cushing's syndrome; BP 105/97	Montair-LC HS	Dr. Anita Deshmukh
+MRN/H2/50055	Kalyani ji	C/O Gopal (PAN: SYNTH1903Z)	25	0950 432 6498	2025-02-24	C/O fever – 4 days; Crohn's disease; BP 153/80	Augmentin 625 Duo TDS x 7 days	Dr. Meenakshi Sundaram
+MRN/H1/50056	Santosh ji	C/O Vikram (PAN: SYNTH9742Z)	3	0868 171 8655	2024-09-11	C/O fever – 4 days; Bell's palsy; BP 140/78	Amlong 5 mg OD	Dr. Meenakshi Sundaram
+MRN/H4/50057	Zoya ji	C/O Zafar (PAN: SYNTH2117Z)	4	9.95277E+09	2024-01-30	C/O fever – 4 days; Bell's palsy; BP 136/77	Amlong 5 mg OD	Dr. Nandini Menon
+MRN/H2/50058	Z. Chaudhary	C/O Kamlesh (PAN: SYNTH4477Z)	62	0861 029 0930	2024-03-27	C/O fever – 4 days; Hodgkin's lymphoma; BP 166/96	Glycomet-GP 1 mg 1-0-1	Dr. Farhan Qureshi
+MRN/H2/50059	Smt. Asha Mishra	C/O Devendra (PAN: SYNTH8154Z)	9223372036854775808	0857 420 6993	2024-08-18	C/O fever – 4 days; Ryles tube 14Fr; BP 156/69	Thyronorm 50 mcg OD empty stomach	Dr. Arvind Kejriwal
+MRN/H1/50060	Alok ji	C/O Sanjay (PAN: SYNTH4889Z)	50	0918 119 4056	2025-05-09	C/O fever – 4 days; Ryles tube 14Fr; BP 167/76	Ecosprin 75 mg OD	Dr. Arvind Kejriwal
+MRN/H1/50061	Smt. Bhavna Chaudhary	C/O Kamlesh (PAN: SYNTH7113Z)	30	0972 815 7868	2024-03-31	C/O fever – 4 days; Ringer's lactate 500 mL IV; BP 135/82	Atorva 20 mg HS	Dr. P. V. Narasimhan
+MRN/H3/50062	Shri Devendra Kulkarni	C/O Sanjay (PAN: SYNTH5296Z)	8	8.06297E+09	2025-02-07	C/O fever – 4 days; Ringer's lactate 500 mL IV; BP 146/103	Crocin Advance 500 mg SOS	Dr. Nandini Menon
+MRN/H1/50063	Iyer, Bhavna	C/O Devendra (PAN: SYNTH2547Z)	12	0914 394 8636	2025-11-05	C/O fever – 4 days; Babinski sign negative; BP 130/64	Dolo 650 mg BD x 5 days	Dr. Ramesh Kulkarni
+MRN/H4/50064	Alok K.	C/O Devendra (PAN: SYNTH8672Z)	70	0783 601 4458	2024-09-23	C/O fever – 4 days; Hodgkin's lymphoma; BP 168/77	Montair-LC HS	Dr. Meenakshi Sundaram
+MRN/H1/50065	Chaudhary, Zoya	C/O Santosh (PAN: SYNTH5367Z)	45	0967 011 8406	2024-06-10	C/O fever – 4 days; Cushing's syndrome; BP 112/79	Amlong 5 mg OD	Dr. Anita Deshmukh
+MRN/H1/50066	Patel, Kamlesh	C/O Gopal (PAN: SYNTH6243Z)	48	0938 189 0592	2025-08-10	C/O fever – 4 days; Ryles tube 14Fr; BP 102/90	Augmentin 625 Duo TDS x 7 days	Dr. Farhan Qureshi
+MRN/H3/50067	Thakur, Usha	C/O Vikram (PAN: SYNTH9882Z)	50	7.58897E+09	2024-04-17	C/O fever – 4 days; Ryles tube 14Fr; BP 126/82	Atorva 20 mg HS	Dr. Farhan Qureshi
+MRN/H2/50068	Patel, Vikram	C/O Alok (PAN: SYNTH3837Z)	91	0879 158 3139	2024-12-10	C/O fever – 4 days; Parkinson's disease; BP 156/74	Dolo 650 mg BD x 5 days	Dr. S. K. Sharma
+MRN/H2/50069	Chaudhary, Neha	C/O Santosh (PAN: SYNTH4531Z)	68	0768 680 3071	2024-09-19	C/O fever – 4 days; Crohn's disease; BP 105/97	Atorva 20 mg HS	Dr. Anita Deshmukh
+MRN/H1/50070	G. Patel	C/O Gopal (PAN: SYNTH2491Z)	58	0859 779 7542	2025-08-11	C/O fever – 4 days; Foley catheter 16Fr; BP 139/63	Dolo 650 mg BD x 5 days	Dr. Farhan Qureshi
+MRN/H3/50071	Smt. Sarita Chaudhary	C/O Santosh (PAN: SYNTH5327Z)	6	0860 708 1364	2024-08-15	C/O fever – 4 days; Ringer's lactate 500 mL IV; BP 146/89	Metformin 500 mg BD	Dr. P. V. Narasimhan
+MRN/H3/50072	Devendra ji	C/O Santosh (PAN: SYNTH2279Z)	24	8.28228E+09	2024-02-09	C/O fever – 4 days; Bell's palsy; BP 167/66	Crocin Advance 500 mg SOS	Dr. Meenakshi Sundaram
+MRN/H2/50073	Kulkarni, Asha	C/O Gopal (PAN: SYNTH2161Z)	NaN	0602 065 0293	2024-01-02	C/O fever – 4 days; Ringer's lactate 500 mL IV; BP 150/89	Montair-LC HS	Dr. Ramesh Kulkarni
+MRN/H4/50074	A. Patel	C/O Santosh (PAN: SYNTH6942Z)	82	0933 833 0021	2024-06-22	C/O fever – 4 days; Ryles tube 14Fr; BP 145/70	Ecosprin 75 mg OD	Dr. Nandini Menon
+MRN/H1/50075	Pushpa M.	C/O Santosh (PAN: SYNTH9425Z)	9	0847 861 2386	2025-10-15	C/O fever – 4 days; Parkinson's disease; BP 120/90	Azee 500 mg OD x 3 days	Dr. P. V. Narasimhan
+MRN/H3/50076	Vikram K.	C/O Devendra (PAN: SYNTH4093Z)	32	0829 697 2073	2024-01-22	C/O fever – 4 days; Ringer's lactate 500 mL IV; BP 140/71	Amlong 5 mg OD	Dr. Meenakshi Sundaram
+MRN/H4/50077	Patel, Bhavna	C/O Kamlesh (PAN: SYNTH3196Z)	52	6.04363E+09	2025-03-25	C/O fever – 4 days; Ringer's lactate 500 mL IV; BP 106/91	Azee 500 mg OD x 3 days	Dr. P. V. Narasimhan
+MRN/H1/50078	Shri Vikram Reddy	C/O Zafar (PAN: SYNTH1260Z)	83	0636 964 2661	2024-04-29	C/O fever – 4 days; Ryles tube 14Fr; BP 141/83	Shelcal 500 mg OD	Dr. Ramesh Kulkarni
+MRN/H1/50079	Thakur, Kalyani	C/O Sanjay (PAN: SYNTH2940Z)	30	0827 099 1728	2024-08-11	C/O fever – 4 days; Cushing's syndrome; BP 151/90	Glycomet-GP 1 mg 1-0-1	Dr. Nandini Menon
+MRN/H1/50080	Shri Santosh Patel	C/O Zafar (PAN: SYNTH8039Z)	89	0771 317 5603	2024-12-09	C/O fever – 4 days; Babinski sign negative; BP 142/68	Glycomet-GP 1 mg 1-0-1	Dr. Meenakshi Sundaram
+MRN/H4/50081	Chaudhary, Sarita	C/O Santosh (PAN: SYNTH7564Z)	90	0633 392 0894	2024-10-07	C/O fever – 4 days; Babinski sign negative; BP 103/68	Ecosprin 75 mg OD	Dr. S. K. Sharma
+MRN/H1/50082	Thakur, Alok	C/O Santosh (PAN: SYNTH4832Z)	66	6.99862E+09	2024-08-26	C/O fever – 4 days; Ryles tube 14Fr; BP 130/63	Crocin Advance 500 mg SOS	Dr. Arvind Kejriwal
+MRN/H2/50083	Iyer, Bhavna	C/O Zafar (PAN: SYNTH3691Z)	87	0895 386 2014	2024-08-07	C/O fever – 4 days; Guillain-Barre syndrome; BP 137/65	Glycomet-GP 1 mg 1-0-1	Dr. P. V. Narasimhan
+MRN/H2/50084	Shri Kamlesh Reddy	C/O Devendra (PAN: SYNTH6525Z)	21	0675 245 4362	2025-10-27	C/O fever – 4 days; Bell's palsy; BP 168/71	Montair-LC HS	Dr. Nandini Menon
+MRN/H4/50085	Mishra, Zoya	C/O Kamlesh (PAN: SYNTH5795Z)	39	0970 725 8000	2024-06-02	C/O fever – 4 days; Addison's disease; BP 150/86	Shelcal 500 mg OD	Dr. P. V. Narasimhan
+MRN/H3/50086	G. Iyer	C/O Alok (PAN: SYNTH1952Z)	2	0908 034 8136	2025-05-06	C/O fever – 4 days; Guillain-Barre syndrome; BP 158/65	Crocin Advance 500 mg SOS	Dr. Farhan Qureshi
+MRN/H2/50087	Iyer, Neha	C/O Zafar (PAN: SYNTH9079Z)	0x7fffffff	9.82399E+09	2025-08-01	C/O fever – 4 days; Parkinson's disease; BP 137/83	Dolo 650 mg BD x 5 days	Dr. Anita Deshmukh
+MRN/H1/50088	S. Thakur	C/O Devendra (PAN: SYNTH5305Z)	64	0906 505 4111	2024-06-19	C/O fever – 4 days; Guillain-Barre syndrome; BP 139/72	Ramipril 5 mg OD x 30 days	Dr. P. V. Narasimhan
+MRN/H1/50089	Zoya T.	C/O Zafar (PAN: SYNTH1489Z)	91	0855 890 3514	2025-04-25	C/O fever – 4 days; Bell's palsy; BP 156/97	Augmentin 625 Duo TDS x 7 days	Dr. Farhan Qureshi
+MRN/H2/50090	Santosh ji	C/O Santosh (PAN: SYNTH8600Z)	29	0780 986 7209	2025-03-25	C/O fever – 4 days; Guillain-Barre syndrome; BP 117/101	Crocin Advance 500 mg SOS	Dr. Ramesh Kulkarni
+MRN/H3/50091	Smt. Zoya Kulkarni	C/O Devendra (PAN: SYNTH3381Z)	13	0967 624 4658	2025-03-04	C/O fever – 4 days; Guillain-Barre syndrome; BP 151/71	Glycomet-GP 1 mg 1-0-1	Dr. Anita Deshmukh
+MRN/H1/50092	Kamlesh ji	C/O Devendra (PAN: SYNTH5491Z)	63	9.11405E+09	2024-01-29	C/O fever – 4 days; Cushing's syndrome; BP 138/71	Ecosprin 75 mg OD	Dr. Arvind Kejriwal
+MRN/H1/50093	Thakur, Zoya	C/O Gopal (PAN: SYNTH6611Z)	34	0751 682 2587	2024-06-05	C/O fever – 4 days; Addison's disease; BP 130/101	Dolo 650 mg BD x 5 days	Dr. P. V. Narasimhan
+MRN/H2/50094	Vikram R.	C/O Vikram (PAN: SYNTH8192Z)	18	0784 044 2303	2024-03-20	C/O fever – 4 days; Addison's disease; BP 129/68	Telma 40 mg OD	Dr. Anita Deshmukh
+MRN/H3/50095	Reddy, Pushpa	C/O Zafar (PAN: SYNTH3461Z)	53	0735 037 0930	2025-08-15	C/O fever – 4 days; Addison's disease; BP 136/78	Atorva 20 mg HS	Dr. P. V. Narasimhan
+MRN/H2/50096	Shri Sanjay Siddiqui	C/O Santosh (PAN: SYNTH3480Z)	79	0739 436 0941	2024-12-13	C/O fever – 4 days; Addison's disease; BP 168/80	Ecosprin 75 mg OD	Dr. Meenakshi Sundaram
+MRN/H1/50097	P. Mishra	C/O Sanjay (PAN: SYNTH4521Z)	56	8.39181E+09	2025-03-21	C/O fever – 4 days; Babinski sign negative; BP 122/63	Telma 40 mg OD	Dr. Anita Deshmukh
+MRN/H2/50098	Shri Sanjay Thakur	C/O Alok (PAN: SYNTH6520Z)	24	0964 357 4535	2025-06-17	C/O fever – 4 days; Apgar score 9/10; BP 164/73	Ramipril 5 mg OD x 30 days	Dr. Anita Deshmukh
+MRN/H3/50099	Z. Thakur	C/O Kamlesh (PAN: SYNTH7236Z)	13	0811 385 0640	2025-08-21	C/O fever – 4 days; Bell's palsy; BP 154/74	Amlong 5 mg OD	Dr. Farhan Qureshi
+MRN/H1/50100	Reddy, Devendra	C/O Vikram (PAN: SYNTH7864Z)	84	0748 713 0361	2025-02-16	C/O fever – 4 days; Addison's disease; BP 133/83	Metformin 500 mg BD	Dr. Rajeshwar Rao
+MRN/H3/50101	Asha ji	C/O Devendra (PAN: SYNTH9434Z)	-1	0651 575 9228	2025-03-13	C/O fever – 4 days; Cushing's syndrome; BP 153/67	Azee 500 mg OD x 3 days	Dr. P. V. Narasimhan
+MRN/H2/50102	V. Mishra	C/O Devendra (PAN: SYNTH5582Z)	66	9.97075E+09	2024-04-24	C/O fever – 4 days; Ryles tube 14Fr; BP 124/97	Shelcal 500 mg OD	Dr. S. K. Sharma
+MRN/H3/50103	Smt. Pushpa Reddy	C/O Santosh (PAN: SYNTH8575Z)	5	0855 722 4834	2025-06-16	C/O fever – 4 days; Ringer's lactate 500 mL IV; BP 166/72	Glycomet-GP 1 mg 1-0-1	Dr. Arvind Kejriwal
+MRN/H4/50104	Vikram K.	C/O Alok (PAN: SYNTH8218Z)	31	0836 397 2502	2024-03-17	C/O fever – 4 days; Addison's disease; BP 165/87	Pan-D 40 mg 1-0-0 AC	Dr. S. K. Sharma
+MRN/H2/50105	Smt. Kalyani Patel	C/O Kamlesh (PAN: SYNTH3115Z)	62	0650 459 6773	2024-03-11	C/O fever – 4 days; Babinski sign negative; BP 125/97	Azee 500 mg OD x 3 days	Dr. Rajeshwar Rao
+MRN/H3/50106	Devendra P.	C/O Sanjay (PAN: SYNTH5076Z)	68	0759 600 6613	2025-02-15	C/O fever – 4 days; Crohn's disease; BP 153/78	Dolo 650 mg BD x 5 days	Dr. Meenakshi Sundaram
+MRN/H1/50107	Bhavna ji	C/O Sanjay (PAN: SYNTH2737Z)	29	8.49072E+09	2025-09-14	C/O fever – 4 days; Babinski sign negative; BP 104/64	Crocin Advance 500 mg SOS	Dr. Anita Deshmukh
+MRN/H4/50108	Sanjay ji	C/O Vikram (PAN: SYNTH8738Z)	82	0769 936 9221	2025-03-01	C/O fever – 4 days; Guillain-Barre syndrome; BP 171/64	Augmentin 625 Duo TDS x 7 days	Dr. S. K. Sharma
+MRN/H3/50109	B. Kulkarni	C/O Vikram (PAN: SYNTH6233Z)	28	0831 733 3446	2024-08-04	C/O fever – 4 days; Ringer's lactate 500 mL IV; BP 134/87	Montair-LC HS	Dr. S. K. Sharma
+MRN/H2/50110	Alok T.	C/O Santosh (PAN: SYNTH7495Z)	5	0741 904 8078	2024-06-21	C/O fever – 4 days; Crohn's disease; BP 153/96	Amlong 5 mg OD	Dr. Nandini Menon
+MRN/H2/50111	Smt. Sarita Siddiqui	C/O Kamlesh (PAN: SYNTH4736Z)	4	0965 279 3689	2024-07-15	C/O fever – 4 days; Foley catheter 16Fr; BP 105/89	Augmentin 625 Duo TDS x 7 days	Dr. Anita Deshmukh
+MRN/H1/50112	Zafar ji	C/O Alok (PAN: SYNTH1059Z)	49	6.36377E+09	2024-09-12	C/O fever – 4 days; Cushing's syndrome; BP 139/85	Crocin Advance 500 mg SOS	Dr. Arvind Kejriwal
+MRN/H3/50113	Smt. Asha Patel	C/O Zafar (PAN: SYNTH3783Z)	24	0618 951 8439	2025-07-25	C/O fever – 4 days; Cushing's syndrome; BP 167/72	Pan-D 40 mg 1-0-0 AC	Dr. Anita Deshmukh
+MRN/H1/50114	Siddiqui, Sanjay	C/O Santosh (PAN: SYNTH7654Z)	42	0601 102 6132	2025-04-07	C/O fever – 4 days; Ryles tube 14Fr; BP 145/97	Glycomet-GP 1 mg 1-0-1	Dr. Rajeshwar Rao
+MRN/H1/50115	K. Siddiqui	C/O Kamlesh (PAN: SYNTH2015Z)	150	0679 011 6820	2024-12-08	C/O fever – 4 days; Cushing's syndrome; BP 155/74	Telma 40 mg OD	Dr. Meenakshi Sundaram
+MRN/H3/50116	K. Chaudhary	C/O Zafar (PAN: SYNTH1952Z)	56	0613 764 4899	2025-03-06	C/O fever – 4 days; Babinski sign negative; BP 158/87	Metformin 500 mg BD	Dr. P. V. Narasimhan

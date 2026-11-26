@@ -1,0 +1,104 @@
+{
+  "resourceType": "Bundle",
+  "id": "yp-r4-053",
+  "type": "collection",
+  "entry": [
+    {
+      "resource": {
+        "resourceType": "Patient",
+        "id": "p-053",
+        "text": {
+          "status": "generated",
+          "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">भावना सिद्दीकी (W/o Sanjay), Noida Sector 62 201309</div>"
+        },
+        "identifier": [
+          {
+            "system": "https://healthid.ndhm.gov.in",
+            "value": "89-7602-3362-3140"
+          },
+          {
+            "system": "urn:yp:uhid",
+            "value": "UHID-EV-2025-100107"
+          }
+        ],
+        "name": [
+          {
+            "text": "Bhavna Siddiqui",
+            "family": "Siddiqui",
+            "given": [
+              "Bhavna"
+            ]
+          }
+        ],
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "8135884309"
+          }
+        ],
+        "gender": "female",
+        "birthDate": "1996-06-15",
+        "address": [
+          {
+            "city": "Noida Sector 62",
+            "district": "Gautam Buddha Nagar",
+            "postalCode": "201309"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Encounter",
+        "id": "e-053",
+        "status": "finished",
+        "period": {
+          "start": "2025-09-14",
+          "end": "2025-09-26"
+        },
+        "participant": [
+          {
+            "individual": {
+              "display": "Dr. Anita Deshmukh"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Condition",
+        "id": "c-053",
+        "code": {
+          "text": "Type 2 Diabetes Mellitus"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "m-053",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Crocin Advance 500 mg SOS"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "DocumentReference",
+        "id": "d-053",
+        "status": "current",
+        "content": [
+          {
+            "attachment": {
+              "contentType": "text/plain",
+              "data": "V2FyZCBzbGlwIGZvciBCaGF2bmEgU2lkZGlxdWkgUGg6ODEzNTg4NDMwOSBBQkhBOjg5LTc2MDItMzM2Mi0zMTQw"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

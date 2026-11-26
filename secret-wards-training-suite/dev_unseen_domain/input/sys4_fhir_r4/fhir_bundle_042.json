@@ -1,0 +1,104 @@
+{
+  "resourceType": "Bundle",
+  "id": "yp-r4-042",
+  "type": "collection",
+  "entry": [
+    {
+      "resource": {
+        "resourceType": "Patient",
+        "id": "p-042",
+        "text": {
+          "status": "generated",
+          "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">ज़ोया मिश्रा (W/o Kamlesh), Chauri Chaura 273201</div>"
+        },
+        "identifier": [
+          {
+            "system": "https://healthid.ndhm.gov.in",
+            "value": "63-8534-1809-9350"
+          },
+          {
+            "system": "urn:yp:uhid",
+            "value": "UHID-EV-2021-100085"
+          }
+        ],
+        "name": [
+          {
+            "text": "Zoya Mishra",
+            "family": "Mishra",
+            "given": [
+              "Zoya"
+            ]
+          }
+        ],
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "0996 296 9651"
+          }
+        ],
+        "gender": "female",
+        "birthDate": "1986-06-15",
+        "address": [
+          {
+            "city": "Chauri Chaura",
+            "district": "Gorakhpur",
+            "postalCode": "273201"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Encounter",
+        "id": "e-042",
+        "status": "finished",
+        "period": {
+          "start": "2024-06-02",
+          "end": "2024-06-11"
+        },
+        "participant": [
+          {
+            "individual": {
+              "display": "Dr. P. V. Narasimhan"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Condition",
+        "id": "c-042",
+        "code": {
+          "text": "Essential Hypertension"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "m-042",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Shelcal 500 mg OD"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "DocumentReference",
+        "id": "d-042",
+        "status": "current",
+        "content": [
+          {
+            "attachment": {
+              "contentType": "text/plain",
+              "data": "V2FyZCBzbGlwIGZvciBab3lhIE1pc2hyYSBQaDo5OTYyOTY5NjUxIEFCSEE6NjMtODUzNC0xODA5LTkzNTA="
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

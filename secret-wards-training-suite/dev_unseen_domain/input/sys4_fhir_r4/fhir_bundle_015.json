@@ -1,0 +1,104 @@
+{
+  "resourceType": "Bundle",
+  "id": "yp-r4-015",
+  "type": "collection",
+  "entry": [
+    {
+      "resource": {
+        "resourceType": "Patient",
+        "id": "p-015",
+        "text": {
+          "status": "generated",
+          "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">सरिता चौधरी (C/O Devendra), Rampur Maniharan 247451</div>"
+        },
+        "identifier": [
+          {
+            "system": "https://healthid.ndhm.gov.in",
+            "value": "93-3956-3223-5220"
+          },
+          {
+            "system": "urn:yp:uhid",
+            "value": "UHID-EV-2021-100031"
+          }
+        ],
+        "name": [
+          {
+            "text": "Sarita Chaudhary",
+            "family": "Chaudhary",
+            "given": [
+              "Sarita"
+            ]
+          }
+        ],
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "0886 160 6432"
+          }
+        ],
+        "gender": "female",
+        "birthDate": "1961-06-15",
+        "address": [
+          {
+            "city": "Rampur Maniharan",
+            "district": "Saharanpur",
+            "postalCode": "247451"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Encounter",
+        "id": "e-015",
+        "status": "finished",
+        "period": {
+          "start": "2025-02-04",
+          "end": "2025-02-23"
+        },
+        "participant": [
+          {
+            "individual": {
+              "display": "Dr. Nandini Menon"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Condition",
+        "id": "c-015",
+        "code": {
+          "text": "Dengue Fever"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "m-015",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Dolo 650 mg BD x 5 days"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "DocumentReference",
+        "id": "d-015",
+        "status": "current",
+        "content": [
+          {
+            "attachment": {
+              "contentType": "text/plain",
+              "data": "V2FyZCBzbGlwIGZvciBTYXJpdGEgQ2hhdWRoYXJ5IFBoOjg4NjE2MDY0MzIgQUJIQTo5My0zOTU2LTMyMjMtNTIyMA=="
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

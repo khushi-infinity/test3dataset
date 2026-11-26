@@ -1,0 +1,104 @@
+{
+  "resourceType": "Bundle",
+  "id": "yp-r4-027",
+  "type": "collection",
+  "entry": [
+    {
+      "resource": {
+        "resourceType": "Patient",
+        "id": "p-027",
+        "text": {
+          "status": "generated",
+          "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">कल्याणी सिद्दीकी (W/o Gopal), Barabanki 225001</div>"
+        },
+        "identifier": [
+          {
+            "system": "https://healthid.ndhm.gov.in",
+            "value": "75-1314-3900-4285"
+          },
+          {
+            "system": "urn:yp:uhid",
+            "value": "UHID-EV-2021-100055"
+          }
+        ],
+        "name": [
+          {
+            "text": "Kalyani Siddiqui",
+            "family": "Siddiqui",
+            "given": [
+              "Kalyani"
+            ]
+          }
+        ],
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "0949 555 3089"
+          }
+        ],
+        "gender": "female",
+        "birthDate": "2000-06-15",
+        "address": [
+          {
+            "city": "Barabanki",
+            "district": "Barabanki",
+            "postalCode": "225001"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Encounter",
+        "id": "e-027",
+        "status": "finished",
+        "period": {
+          "start": "2025-02-24",
+          "end": "2025-03-01"
+        },
+        "participant": [
+          {
+            "individual": {
+              "display": "Dr. Meenakshi Sundaram"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Condition",
+        "id": "c-027",
+        "code": {
+          "text": "Hypothyroidism"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "m-027",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Augmentin 625 Duo TDS x 7 days"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "DocumentReference",
+        "id": "d-027",
+        "status": "current",
+        "content": [
+          {
+            "attachment": {
+              "contentType": "text/plain",
+              "data": "V2FyZCBzbGlwIGZvciBLYWx5YW5pIFNpZGRpcXVpIFBoOjk0OTU1NTMwODkgQUJIQTo3NS0xMzE0LTM5MDAtNDI4NQ=="
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

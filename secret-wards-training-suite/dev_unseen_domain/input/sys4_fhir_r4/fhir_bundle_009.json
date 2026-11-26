@@ -1,0 +1,104 @@
+{
+  "resourceType": "Bundle",
+  "id": "yp-r4-009",
+  "type": "collection",
+  "entry": [
+    {
+      "resource": {
+        "resourceType": "Patient",
+        "id": "p-009",
+        "text": {
+          "status": "generated",
+          "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">आशा अय्यर (D/o Kamlesh), Bhitargaon 209209</div>"
+        },
+        "identifier": [
+          {
+            "system": "https://healthid.ndhm.gov.in",
+            "value": "94-1704-4831-1203"
+          },
+          {
+            "system": "urn:yp:uhid",
+            "value": "UHID-EV-2021-100019"
+          }
+        ],
+        "name": [
+          {
+            "text": "Asha Iyer",
+            "family": "Iyer",
+            "given": [
+              "Asha"
+            ]
+          }
+        ],
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "0815 714 9057"
+          }
+        ],
+        "gender": "female",
+        "birthDate": "1974-06-15",
+        "address": [
+          {
+            "city": "Bhitargaon",
+            "district": "Kanpur Nagar",
+            "postalCode": "209209"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Encounter",
+        "id": "e-009",
+        "status": "finished",
+        "period": {
+          "start": "2024-12-23",
+          "end": "2024-12-27"
+        },
+        "participant": [
+          {
+            "individual": {
+              "display": "Dr. Rajeshwar Rao"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Condition",
+        "id": "c-009",
+        "code": {
+          "text": "Dengue Fever"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "m-009",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Azee 500 mg OD x 3 days"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "DocumentReference",
+        "id": "d-009",
+        "status": "current",
+        "content": [
+          {
+            "attachment": {
+              "contentType": "text/plain",
+              "data": "V2FyZCBzbGlwIGZvciBBc2hhIEl5ZXIgUGg6ODE1NzE0OTA1NyBBQkhBOjk0LTE3MDQtNDgzMS0xMjAz"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

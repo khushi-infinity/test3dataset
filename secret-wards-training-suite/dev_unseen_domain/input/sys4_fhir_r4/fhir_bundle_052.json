@@ -1,0 +1,104 @@
+{
+  "resourceType": "Bundle",
+  "id": "yp-r4-052",
+  "type": "collection",
+  "entry": [
+    {
+      "resource": {
+        "resourceType": "Patient",
+        "id": "p-052",
+        "text": {
+          "status": "generated",
+          "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">कल्याणी पटेल (D/o Kamlesh), Khera Khurd 226101</div>"
+        },
+        "identifier": [
+          {
+            "system": "https://healthid.ndhm.gov.in",
+            "value": "47-5206-3331-4341"
+          },
+          {
+            "system": "urn:yp:uhid",
+            "value": "UHID-EV-2023-100105"
+          }
+        ],
+        "name": [
+          {
+            "text": "Kalyani Patel",
+            "family": "Patel",
+            "given": [
+              "Kalyani"
+            ]
+          }
+        ],
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "6.39464E+09"
+          }
+        ],
+        "gender": "female",
+        "birthDate": "1963-06-15",
+        "address": [
+          {
+            "city": "Khera Khurd",
+            "district": "Lucknow",
+            "postalCode": "226101"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Encounter",
+        "id": "e-052",
+        "status": "finished",
+        "period": {
+          "start": "2024-03-11",
+          "end": "2024-03-18"
+        },
+        "participant": [
+          {
+            "individual": {
+              "display": "Dr. Rajeshwar Rao"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Condition",
+        "id": "c-052",
+        "code": {
+          "text": "Acute Viral Gastroenteritis"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "m-052",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Azee 500 mg OD x 3 days"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "DocumentReference",
+        "id": "d-052",
+        "status": "current",
+        "content": [
+          {
+            "attachment": {
+              "contentType": "text/plain",
+              "data": "V2FyZCBzbGlwIGZvciBLYWx5YW5pIFBhdGVsIFBoOjYzOTQ2NDc5NjQgQUJIQTo0Ny01MjA2LTMzMzEtNDM0MQ=="
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

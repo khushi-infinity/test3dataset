@@ -1,0 +1,104 @@
+{
+  "resourceType": "Bundle",
+  "id": "yp-r4-021",
+  "type": "collection",
+  "entry": [
+    {
+      "resource": {
+        "resourceType": "Patient",
+        "id": "p-021",
+        "text": {
+          "status": "generated",
+          "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">आशा सिद्दीकी (W/o Zafar), Khera Khurd 226101</div>"
+        },
+        "identifier": [
+          {
+            "system": "https://healthid.ndhm.gov.in",
+            "value": "88-9082-5385-3138"
+          },
+          {
+            "system": "urn:yp:uhid",
+            "value": "UHID-EV-2021-100043"
+          }
+        ],
+        "name": [
+          {
+            "text": "Asha Siddiqui",
+            "family": "Siddiqui",
+            "given": [
+              "Asha"
+            ]
+          }
+        ],
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "0836 668 3601"
+          }
+        ],
+        "gender": "female",
+        "birthDate": "1942-06-15",
+        "address": [
+          {
+            "city": "Khera Khurd",
+            "district": "Lucknow",
+            "postalCode": "226101"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Encounter",
+        "id": "e-021",
+        "status": "finished",
+        "period": {
+          "start": "2024-11-03",
+          "end": "2024-11-08"
+        },
+        "participant": [
+          {
+            "individual": {
+              "display": "Dr. Rajeshwar Rao"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Condition",
+        "id": "c-021",
+        "code": {
+          "text": "Acute Bronchitis"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "m-021",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Augmentin 625 Duo TDS x 7 days"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "DocumentReference",
+        "id": "d-021",
+        "status": "current",
+        "content": [
+          {
+            "attachment": {
+              "contentType": "text/plain",
+              "data": "V2FyZCBzbGlwIGZvciBBc2hhIFNpZGRpcXVpIFBoOjgzNjY2ODM2MDEgQUJIQTo4OC05MDgyLTUzODUtMzEzOA=="
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

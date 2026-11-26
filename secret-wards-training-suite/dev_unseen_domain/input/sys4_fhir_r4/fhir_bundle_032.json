@@ -1,0 +1,104 @@
+{
+  "resourceType": "Bundle",
+  "id": "yp-r4-032",
+  "type": "collection",
+  "entry": [
+    {
+      "resource": {
+        "resourceType": "Patient",
+        "id": "p-032",
+        "text": {
+          "status": "generated",
+          "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">ज़ोया चौधरी (W/o Santosh), Varanasi Urban 221001</div>"
+        },
+        "identifier": [
+          {
+            "system": "https://healthid.ndhm.gov.in",
+            "value": "61-8973-3756-7984"
+          },
+          {
+            "system": "urn:yp:uhid",
+            "value": "UHID-EV-2025-100065"
+          }
+        ],
+        "name": [
+          {
+            "text": "Zoya Chaudhary",
+            "family": "Chaudhary",
+            "given": [
+              "Zoya"
+            ]
+          }
+        ],
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "7509669904"
+          }
+        ],
+        "gender": "female",
+        "birthDate": "1980-06-15",
+        "address": [
+          {
+            "city": "Varanasi Urban",
+            "district": "Varanasi",
+            "postalCode": "221001"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Encounter",
+        "id": "e-032",
+        "status": "finished",
+        "period": {
+          "start": "2024-06-10",
+          "end": "2024-06-12"
+        },
+        "participant": [
+          {
+            "individual": {
+              "display": "Dr. Anita Deshmukh"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Condition",
+        "id": "c-032",
+        "code": {
+          "text": "Hypothyroidism"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "m-032",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Amlong 5 mg OD"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "DocumentReference",
+        "id": "d-032",
+        "status": "current",
+        "content": [
+          {
+            "attachment": {
+              "contentType": "text/plain",
+              "data": "V2FyZCBzbGlwIGZvciBab3lhIENoYXVkaGFyeSBQaDo3NTA5NjY5OTA0IEFCSEE6NjEtODk3My0zNzU2LTc5ODQ="
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

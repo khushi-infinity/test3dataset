@@ -1,0 +1,104 @@
+{
+  "resourceType": "Bundle",
+  "id": "yp-r4-038",
+  "type": "collection",
+  "entry": [
+    {
+      "resource": {
+        "resourceType": "Patient",
+        "id": "p-038",
+        "text": {
+          "status": "generated",
+          "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">भावना पटेल (W/o Kamlesh), Noida Sector 62 201309</div>"
+        },
+        "identifier": [
+          {
+            "system": "https://healthid.ndhm.gov.in",
+            "value": "77-2805-8452-1911"
+          },
+          {
+            "system": "urn:yp:uhid",
+            "value": "UHID-EV-2025-100077"
+          }
+        ],
+        "name": [
+          {
+            "text": "Bhavna Patel",
+            "family": "Patel",
+            "given": [
+              "Bhavna"
+            ]
+          }
+        ],
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "7851416610"
+          }
+        ],
+        "gender": "female",
+        "birthDate": "1973-06-15",
+        "address": [
+          {
+            "city": "Noida Sector 62",
+            "district": "Gautam Buddha Nagar",
+            "postalCode": "201309"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Encounter",
+        "id": "e-038",
+        "status": "finished",
+        "period": {
+          "start": "2025-03-25",
+          "end": "2025-03-31"
+        },
+        "participant": [
+          {
+            "individual": {
+              "display": "Dr. P. V. Narasimhan"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Condition",
+        "id": "c-038",
+        "code": {
+          "text": "Acute Bronchitis"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "m-038",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Azee 500 mg OD x 3 days"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "DocumentReference",
+        "id": "d-038",
+        "status": "current",
+        "content": [
+          {
+            "attachment": {
+              "contentType": "text/plain",
+              "data": "V2FyZCBzbGlwIGZvciBCaGF2bmEgUGF0ZWwgUGg6Nzg1MTQxNjYxMCBBQkhBOjc3LTI4MDUtODQ1Mi0xOTEx"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "resourceType": "Bundle",
+  "id": "yp-r4-041",
+  "type": "collection",
+  "entry": [
+    {
+      "resource": {
+        "resourceType": "Patient",
+        "id": "p-041",
+        "text": {
+          "status": "generated",
+          "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">भावना अय्यर (C/O Zafar), Bhitargaon 209209</div>"
+        },
+        "identifier": [
+          {
+            "system": "https://healthid.ndhm.gov.in",
+            "value": "47-8066-7896-9380"
+          },
+          {
+            "system": "urn:yp:uhid",
+            "value": "UHID-EV-2025-100083"
+          }
+        ],
+        "name": [
+          {
+            "text": "Bhavna Iyer",
+            "family": "Iyer",
+            "given": [
+              "Bhavna"
+            ]
+          }
+        ],
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "7783620091"
+          }
+        ],
+        "gender": "female",
+        "birthDate": "1938-06-15",
+        "address": [
+          {
+            "city": "Bhitargaon",
+            "district": "Kanpur Nagar",
+            "postalCode": "209209"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Encounter",
+        "id": "e-041",
+        "status": "finished",
+        "period": {
+          "start": "2024-08-07",
+          "end": "2024-08-17"
+        },
+        "participant": [
+          {
+            "individual": {
+              "display": "Dr. P. V. Narasimhan"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Condition",
+        "id": "c-041",
+        "code": {
+          "text": "Urinary Tract Infection"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "m-041",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Glycomet-GP 1 mg 1-0-1"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "DocumentReference",
+        "id": "d-041",
+        "status": "current",
+        "content": [
+          {
+            "attachment": {
+              "contentType": "text/plain",
+              "data": "V2FyZCBzbGlwIGZvciBCaGF2bmEgSXllciBQaDo3NzgzNjIwMDkxIEFCSEE6NDctODA2Ni03ODk2LTkzODA="
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

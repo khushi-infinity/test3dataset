@@ -1,0 +1,104 @@
+{
+  "resourceType": "Bundle",
+  "id": "yp-r4-004",
+  "type": "collection",
+  "entry": [
+    {
+      "resource": {
+        "resourceType": "Patient",
+        "id": "p-004",
+        "text": {
+          "status": "generated",
+          "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">उषा चौधरी (D/o Sanjay), Khera Khurd 226101</div>"
+        },
+        "identifier": [
+          {
+            "system": "https://healthid.ndhm.gov.in",
+            "value": "85-9753-4445-2112"
+          },
+          {
+            "system": "urn:yp:uhid",
+            "value": "UHID-EV-2023-100009"
+          }
+        ],
+        "name": [
+          {
+            "text": "Usha Chaudhary",
+            "family": "Chaudhary",
+            "given": [
+              "Usha"
+            ]
+          }
+        ],
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "9.14215E+09"
+          }
+        ],
+        "gender": "female",
+        "birthDate": "1962-06-15",
+        "address": [
+          {
+            "city": "Khera Khurd",
+            "district": "Lucknow",
+            "postalCode": "226101"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Encounter",
+        "id": "e-004",
+        "status": "finished",
+        "period": {
+          "start": "2025-02-06",
+          "end": "2025-02-27"
+        },
+        "participant": [
+          {
+            "individual": {
+              "display": "Dr. Ramesh Kulkarni"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Condition",
+        "id": "c-004",
+        "code": {
+          "text": "Enteric Fever (Typhoid)"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "m-004",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Telma 40 mg OD"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "DocumentReference",
+        "id": "d-004",
+        "status": "current",
+        "content": [
+          {
+            "attachment": {
+              "contentType": "text/plain",
+              "data": "V2FyZCBzbGlwIGZvciBVc2hhIENoYXVkaGFyeSBQaDo5MTQyMTU5MTQ4IEFCSEE6ODUtOTc1My00NDQ1LTIxMTI="
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "resourceType": "Bundle",
+  "id": "yp-r4-019",
+  "type": "collection",
+  "entry": [
+    {
+      "resource": {
+        "resourceType": "Patient",
+        "id": "p-019",
+        "text": {
+          "status": "generated",
+          "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">उषा ठाकुर (W/o Santosh), Bhitargaon 209209</div>"
+        },
+        "identifier": [
+          {
+            "system": "https://healthid.ndhm.gov.in",
+            "value": "80-1620-6820-4845"
+          },
+          {
+            "system": "urn:yp:uhid",
+            "value": "UHID-EV-2023-100039"
+          }
+        ],
+        "name": [
+          {
+            "text": "Usha Thakur",
+            "family": "Thakur",
+            "given": [
+              "Usha"
+            ]
+          }
+        ],
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "7.44861E+09"
+          }
+        ],
+        "gender": "female",
+        "birthDate": "1973-06-15",
+        "address": [
+          {
+            "city": "Bhitargaon",
+            "district": "Kanpur Nagar",
+            "postalCode": "209209"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Encounter",
+        "id": "e-019",
+        "status": "finished",
+        "period": {
+          "start": "2025-08-20",
+          "end": "2025-09-05"
+        },
+        "participant": [
+          {
+            "individual": {
+              "display": "Dr. Nandini Menon"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Condition",
+        "id": "c-019",
+        "code": {
+          "text": "Iron Deficiency Anemia"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "m-019",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Atorva 20 mg HS"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "DocumentReference",
+        "id": "d-019",
+        "status": "current",
+        "content": [
+          {
+            "attachment": {
+              "contentType": "text/plain",
+              "data": "V2FyZCBzbGlwIGZvciBVc2hhIFRoYWt1ciBQaDo3NDQ4NjE1OTU5IEFCSEE6ODAtMTYyMC02ODIwLTQ4NDU="
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

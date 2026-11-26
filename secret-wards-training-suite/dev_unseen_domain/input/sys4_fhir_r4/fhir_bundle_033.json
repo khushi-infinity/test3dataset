@@ -1,0 +1,104 @@
+{
+  "resourceType": "Bundle",
+  "id": "yp-r4-033",
+  "type": "collection",
+  "entry": [
+    {
+      "resource": {
+        "resourceType": "Patient",
+        "id": "p-033",
+        "text": {
+          "status": "generated",
+          "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">उषा ठाकुर (C/O Vikram), Chauri Chaura 273201</div>"
+        },
+        "identifier": [
+          {
+            "system": "https://healthid.ndhm.gov.in",
+            "value": "49-9041-4413-5456"
+          },
+          {
+            "system": "urn:yp:uhid",
+            "value": "UHID-EV-2021-100067"
+          }
+        ],
+        "name": [
+          {
+            "text": "Usha Thakur",
+            "family": "Thakur",
+            "given": [
+              "Usha"
+            ]
+          }
+        ],
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "0796 715 8632"
+          }
+        ],
+        "gender": "female",
+        "birthDate": "1975-06-15",
+        "address": [
+          {
+            "city": "Chauri Chaura",
+            "district": "Gorakhpur",
+            "postalCode": "273201"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Encounter",
+        "id": "e-033",
+        "status": "finished",
+        "period": {
+          "start": "2024-04-17",
+          "end": "2024-05-01"
+        },
+        "participant": [
+          {
+            "individual": {
+              "display": "Dr. Farhan Qureshi"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Condition",
+        "id": "c-033",
+        "code": {
+          "text": "Urinary Tract Infection"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "m-033",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Atorva 20 mg HS"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "DocumentReference",
+        "id": "d-033",
+        "status": "current",
+        "content": [
+          {
+            "attachment": {
+              "contentType": "text/plain",
+              "data": "V2FyZCBzbGlwIGZvciBVc2hhIFRoYWt1ciBQaDo3OTY3MTU4NjMyIEFCSEE6NDktOTA0MS00NDEzLTU0NTY="
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

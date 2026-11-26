@@ -1,0 +1,10 @@
+DISTRICT HOSPITAL — DISCHARGE SUMMARY
+मरीज़ / Patient: ज़ोया ठाकुर (Z. Thakur)
+Kin: W/o Gopal | Mob: 6.28976E+09
+UHID: UHID-EV-2023-100093 | ABHA: 46-8598-3055-9862 | Email: zoya.thakur93@yugaantar-mail.invalid
+Address: Prayagraj Civil Lines, PIN 211001, Prayagraj | Age/Sex: 34Y/F
+DOA: 2024-06-05 | DOD: 2024-06-08
+Chief Complaint: C/O high fever, Type 2 Diabetes Mellitus (r/o Addison's disease).
+Vitals: BP 130/101 mmHg, HbA1c 8.4%.
+Rx (दवाइयाँ): Dolo 650 mg BD x 5 days — खाना खाने के बाद।
+Consultant: Dr. P. V. Narasimhan

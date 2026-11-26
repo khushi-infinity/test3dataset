@@ -1,0 +1,104 @@
+{
+  "resourceType": "Bundle",
+  "id": "yp-r4-022",
+  "type": "collection",
+  "entry": [
+    {
+      "resource": {
+        "resourceType": "Patient",
+        "id": "p-022",
+        "text": {
+          "status": "generated",
+          "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">ज़ोया ठाकुर (W/o Devendra), Khera Khurd 226101</div>"
+        },
+        "identifier": [
+          {
+            "system": "https://healthid.ndhm.gov.in",
+            "value": "83-1494-1870-6456"
+          },
+          {
+            "system": "urn:yp:uhid",
+            "value": "UHID-EV-2023-100045"
+          }
+        ],
+        "name": [
+          {
+            "text": "Zoya Thakur",
+            "family": "Thakur",
+            "given": [
+              "Zoya"
+            ]
+          }
+        ],
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "6.20835E+09"
+          }
+        ],
+        "gender": "female",
+        "birthDate": "1933-06-15",
+        "address": [
+          {
+            "city": "Khera Khurd",
+            "district": "Lucknow",
+            "postalCode": "226101"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Encounter",
+        "id": "e-022",
+        "status": "finished",
+        "period": {
+          "start": "2025-09-21",
+          "end": "2025-10-04"
+        },
+        "participant": [
+          {
+            "individual": {
+              "display": "Dr. P. V. Narasimhan"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Condition",
+        "id": "c-022",
+        "code": {
+          "text": "Essential Hypertension"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "m-022",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Telma 40 mg OD"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "DocumentReference",
+        "id": "d-022",
+        "status": "current",
+        "content": [
+          {
+            "attachment": {
+              "contentType": "text/plain",
+              "data": "V2FyZCBzbGlwIGZvciBab3lhIFRoYWt1ciBQaDo2MjA4MzU4NTg2IEFCSEE6ODMtMTQ5NC0xODcwLTY0NTY="
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

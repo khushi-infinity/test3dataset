@@ -1,0 +1,104 @@
+{
+  "resourceType": "Bundle",
+  "id": "yp-r4-002",
+  "type": "collection",
+  "entry": [
+    {
+      "resource": {
+        "resourceType": "Patient",
+        "id": "p-002",
+        "text": {
+          "status": "generated",
+          "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">उषा सिद्दीकी (W/o Zafar), Rampur Maniharan 247451</div>"
+        },
+        "identifier": [
+          {
+            "system": "https://healthid.ndhm.gov.in",
+            "value": "62-8560-3132-9848"
+          },
+          {
+            "system": "urn:yp:uhid",
+            "value": "UHID-EV-2025-100005"
+          }
+        ],
+        "name": [
+          {
+            "text": "Usha Siddiqui",
+            "family": "Siddiqui",
+            "given": [
+              "Usha"
+            ]
+          }
+        ],
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "6904026220"
+          }
+        ],
+        "gender": "female",
+        "birthDate": "2007-06-15",
+        "address": [
+          {
+            "city": "Rampur Maniharan",
+            "district": "Saharanpur",
+            "postalCode": "247451"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Encounter",
+        "id": "e-002",
+        "status": "finished",
+        "period": {
+          "start": "2024-02-29",
+          "end": "2024-03-01"
+        },
+        "participant": [
+          {
+            "individual": {
+              "display": "Dr. Rajeshwar Rao"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Condition",
+        "id": "c-002",
+        "code": {
+          "text": "Community Acquired Pneumonia"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "m-002",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Crocin Advance 500 mg SOS"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "DocumentReference",
+        "id": "d-002",
+        "status": "current",
+        "content": [
+          {
+            "attachment": {
+              "contentType": "text/plain",
+              "data": "V2FyZCBzbGlwIGZvciBVc2hhIFNpZGRpcXVpIFBoOjY5MDQwMjYyMjAgQUJIQTo2Mi04NTYwLTMxMzItOTg0OA=="
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "resourceType": "Bundle",
+  "id": "yp-r4-046",
+  "type": "collection",
+  "entry": [
+    {
+      "resource": {
+        "resourceType": "Patient",
+        "id": "p-046",
+        "text": {
+          "status": "generated",
+          "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">ज़ोया ठाकुर (W/o Gopal), Prayagraj Civil Lines 211001</div>"
+        },
+        "identifier": [
+          {
+            "system": "https://healthid.ndhm.gov.in",
+            "value": "46-8598-3055-9862"
+          },
+          {
+            "system": "urn:yp:uhid",
+            "value": "UHID-EV-2023-100093"
+          }
+        ],
+        "name": [
+          {
+            "text": "Zoya Thakur",
+            "family": "Thakur",
+            "given": [
+              "Zoya"
+            ]
+          }
+        ],
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "6.28976E+09"
+          }
+        ],
+        "gender": "female",
+        "birthDate": "1991-06-15",
+        "address": [
+          {
+            "city": "Prayagraj Civil Lines",
+            "district": "Prayagraj",
+            "postalCode": "211001"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Encounter",
+        "id": "e-046",
+        "status": "finished",
+        "period": {
+          "start": "2024-06-05",
+          "end": "2024-06-08"
+        },
+        "participant": [
+          {
+            "individual": {
+              "display": "Dr. P. V. Narasimhan"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Condition",
+        "id": "c-046",
+        "code": {
+          "text": "Type 2 Diabetes Mellitus"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "m-046",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Dolo 650 mg BD x 5 days"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "DocumentReference",
+        "id": "d-046",
+        "status": "current",
+        "content": [
+          {
+            "attachment": {
+              "contentType": "text/plain",
+              "data": "V2FyZCBzbGlwIGZvciBab3lhIFRoYWt1ciBQaDo2Mjg5NzYxNzYwIEFCSEE6NDYtODU5OC0zMDU1LTk4NjI="
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

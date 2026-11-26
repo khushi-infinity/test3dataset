@@ -1,0 +1,104 @@
+{
+  "resourceType": "Bundle",
+  "id": "yp-r4-006",
+  "type": "collection",
+  "entry": [
+    {
+      "resource": {
+        "resourceType": "Patient",
+        "id": "p-006",
+        "text": {
+          "status": "generated",
+          "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">भावना पटेल (C/O Sanjay), Bhitargaon 209209</div>"
+        },
+        "identifier": [
+          {
+            "system": "https://healthid.ndhm.gov.in",
+            "value": "10-2516-6651-9295"
+          },
+          {
+            "system": "urn:yp:uhid",
+            "value": "UHID-EV-2021-100013"
+          }
+        ],
+        "name": [
+          {
+            "text": "Bhavna Patel",
+            "family": "Patel",
+            "given": [
+              "Bhavna"
+            ]
+          }
+        ],
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "0613 642 5855"
+          }
+        ],
+        "gender": "female",
+        "birthDate": "1972-06-15",
+        "address": [
+          {
+            "city": "Bhitargaon",
+            "district": "Kanpur Nagar",
+            "postalCode": "209209"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Encounter",
+        "id": "e-006",
+        "status": "finished",
+        "period": {
+          "start": "2024-08-11",
+          "end": "2024-08-15"
+        },
+        "participant": [
+          {
+            "individual": {
+              "display": "Dr. Rajeshwar Rao"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Condition",
+        "id": "c-006",
+        "code": {
+          "text": "Urinary Tract Infection"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "m-006",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Montair-LC HS"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "DocumentReference",
+        "id": "d-006",
+        "status": "current",
+        "content": [
+          {
+            "attachment": {
+              "contentType": "text/plain",
+              "data": "V2FyZCBzbGlwIGZvciBCaGF2bmEgUGF0ZWwgUGg6NjEzNjQyNTg1NSBBQkhBOjEwLTI1MTYtNjY1MS05Mjk1"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+DISTRICT HOSPITAL — DISCHARGE SUMMARY
+मरीज़ / Patient: कमलेश रेड्डी (K. Reddy)
+Kin: C/O Devendra | Mob: ९१४३२५९४१९
+UHID: UHID-EV-2022-100092 | ABHA: 86-5482-9875-2588 | Email: kamlesh.reddy92@yugaantar-mail.invalid
+Address: Rampur Maniharan, PIN 247451, Saharanpur | Age/Sex: 63Y/M
+DOA: 2024-01-29 | DOD: 2024-02-02
+Chief Complaint: C/O high fever, Acute Bronchitis (r/o Cushing's syndrome).
+Vitals: BP 138/71 mmHg, HbA1c 6.2%.
+Rx (दवाइयाँ): Ecosprin 75 mg OD — खाना खाने के बाद।
+Consultant: Dr. Arvind Kejriwal
+Audit Token: CANARY-NOTE-052-LEAK

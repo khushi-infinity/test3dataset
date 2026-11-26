@@ -1,0 +1,104 @@
+{
+  "resourceType": "Bundle",
+  "id": "yp-r4-016",
+  "type": "collection",
+  "entry": [
+    {
+      "resource": {
+        "resourceType": "Patient",
+        "id": "p-016",
+        "text": {
+          "status": "generated",
+          "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">आशा ठाकुर (W/o Sanjay), Noida Sector 62 201309</div>"
+        },
+        "identifier": [
+          {
+            "system": "https://healthid.ndhm.gov.in",
+            "value": "36-9646-5758-6142"
+          },
+          {
+            "system": "urn:yp:uhid",
+            "value": "UHID-EV-2023-100033"
+          }
+        ],
+        "name": [
+          {
+            "text": "Asha Thakur",
+            "family": "Thakur",
+            "given": [
+              "Asha"
+            ]
+          }
+        ],
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "8.43332E+09"
+          }
+        ],
+        "gender": "female",
+        "birthDate": "2003-06-15",
+        "address": [
+          {
+            "city": "Noida Sector 62",
+            "district": "Gautam Buddha Nagar",
+            "postalCode": "201309"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Encounter",
+        "id": "e-016",
+        "status": "finished",
+        "period": {
+          "start": "2025-09-24",
+          "end": "2025-10-07"
+        },
+        "participant": [
+          {
+            "individual": {
+              "display": "Dr. Anita Deshmukh"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Condition",
+        "id": "c-016",
+        "code": {
+          "text": "Dengue Fever"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "m-016",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Ramipril 5 mg OD x 30 days"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "DocumentReference",
+        "id": "d-016",
+        "status": "current",
+        "content": [
+          {
+            "attachment": {
+              "contentType": "text/plain",
+              "data": "V2FyZCBzbGlwIGZvciBBc2hhIFRoYWt1ciBQaDo4NDMzMzIwMzc5IEFCSEE6MzYtOTY0Ni01NzU4LTYxNDI="
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "resourceType": "Bundle",
+  "id": "yp-r4-043",
+  "type": "collection",
+  "entry": [
+    {
+      "resource": {
+        "resourceType": "Patient",
+        "id": "p-043",
+        "text": {
+          "status": "generated",
+          "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">नेहा अय्यर (C/O Zafar), Khera Khurd 226101</div>"
+        },
+        "identifier": [
+          {
+            "system": "https://healthid.ndhm.gov.in",
+            "value": "48-8430-8080-1674"
+          },
+          {
+            "system": "urn:yp:uhid",
+            "value": "UHID-EV-2023-100087"
+          }
+        ],
+        "name": [
+          {
+            "text": "Neha Iyer",
+            "family": "Iyer",
+            "given": [
+              "Neha"
+            ]
+          }
+        ],
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "9.26402E+09"
+          }
+        ],
+        "gender": "female",
+        "birthDate": "1996-06-15",
+        "address": [
+          {
+            "city": "Khera Khurd",
+            "district": "Lucknow",
+            "postalCode": "226101"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Encounter",
+        "id": "e-043",
+        "status": "finished",
+        "period": {
+          "start": "2025-08-01",
+          "end": "2025-08-08"
+        },
+        "participant": [
+          {
+            "individual": {
+              "display": "Dr. Anita Deshmukh"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Condition",
+        "id": "c-043",
+        "code": {
+          "text": "Urinary Tract Infection"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "m-043",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Dolo 650 mg BD x 5 days"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "DocumentReference",
+        "id": "d-043",
+        "status": "current",
+        "content": [
+          {
+            "attachment": {
+              "contentType": "text/plain",
+              "data": "V2FyZCBzbGlwIGZvciBOZWhhIEl5ZXIgUGg6OTI2NDAyNzE4MSBBQkhBOjQ4LTg0MzAtODA4MC0xNjc0"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

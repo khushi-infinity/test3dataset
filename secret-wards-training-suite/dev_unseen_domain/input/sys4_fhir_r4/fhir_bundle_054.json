@@ -1,0 +1,104 @@
+{
+  "resourceType": "Bundle",
+  "id": "yp-r4-054",
+  "type": "collection",
+  "entry": [
+    {
+      "resource": {
+        "resourceType": "Patient",
+        "id": "p-054",
+        "text": {
+          "status": "generated",
+          "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">भावना कुलकर्णी (D/o Vikram), Bhitargaon 209209</div>"
+        },
+        "identifier": [
+          {
+            "system": "https://healthid.ndhm.gov.in",
+            "value": "92-5587-9626-4006"
+          },
+          {
+            "system": "urn:yp:uhid",
+            "value": "UHID-EV-2021-100109"
+          }
+        ],
+        "name": [
+          {
+            "text": "Bhavna Kulkarni",
+            "family": "Kulkarni",
+            "given": [
+              "Bhavna"
+            ]
+          }
+        ],
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "0986 385 2192"
+          }
+        ],
+        "gender": "female",
+        "birthDate": "1997-06-15",
+        "address": [
+          {
+            "city": "Bhitargaon",
+            "district": "Kanpur Nagar",
+            "postalCode": "209209"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Encounter",
+        "id": "e-054",
+        "status": "finished",
+        "period": {
+          "start": "2024-08-04",
+          "end": "2024-08-23"
+        },
+        "participant": [
+          {
+            "individual": {
+              "display": "Dr. S. K. Sharma"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Condition",
+        "id": "c-054",
+        "code": {
+          "text": "Urinary Tract Infection"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "m-054",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Montair-LC HS"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "DocumentReference",
+        "id": "d-054",
+        "status": "current",
+        "content": [
+          {
+            "attachment": {
+              "contentType": "text/plain",
+              "data": "V2FyZCBzbGlwIGZvciBCaGF2bmEgS3Vsa2FybmkgUGg6OTg2Mzg1MjE5MiBBQkhBOjkyLTU1ODctOTYyNi00MDA2"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

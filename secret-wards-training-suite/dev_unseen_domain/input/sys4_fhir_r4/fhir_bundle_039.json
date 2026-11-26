@@ -1,0 +1,104 @@
+{
+  "resourceType": "Bundle",
+  "id": "yp-r4-039",
+  "type": "collection",
+  "entry": [
+    {
+      "resource": {
+        "resourceType": "Patient",
+        "id": "p-039",
+        "text": {
+          "status": "generated",
+          "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">कल्याणी ठाकुर (W/o Sanjay), Chauri Chaura 273201</div>"
+        },
+        "identifier": [
+          {
+            "system": "https://healthid.ndhm.gov.in",
+            "value": "91-7268-9355-7702"
+          },
+          {
+            "system": "urn:yp:uhid",
+            "value": "UHID-EV-2021-100079"
+          }
+        ],
+        "name": [
+          {
+            "text": "Kalyani Thakur",
+            "family": "Thakur",
+            "given": [
+              "Kalyani"
+            ]
+          }
+        ],
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "0632 910 8276"
+          }
+        ],
+        "gender": "female",
+        "birthDate": "1995-06-15",
+        "address": [
+          {
+            "city": "Chauri Chaura",
+            "district": "Gorakhpur",
+            "postalCode": "273201"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Encounter",
+        "id": "e-039",
+        "status": "finished",
+        "period": {
+          "start": "2024-08-11",
+          "end": "2024-08-23"
+        },
+        "participant": [
+          {
+            "individual": {
+              "display": "Dr. Nandini Menon"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Condition",
+        "id": "c-039",
+        "code": {
+          "text": "Urinary Tract Infection"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "m-039",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Glycomet-GP 1 mg 1-0-1"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "DocumentReference",
+        "id": "d-039",
+        "status": "current",
+        "content": [
+          {
+            "attachment": {
+              "contentType": "text/plain",
+              "data": "V2FyZCBzbGlwIGZvciBLYWx5YW5pIFRoYWt1ciBQaDo2MzI5MTA4Mjc2IEFCSEE6OTEtNzI2OC05MzU1LTc3MDI="
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

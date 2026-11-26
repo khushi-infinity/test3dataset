@@ -1,0 +1,601 @@
+patient_id,age,age_band_10y,gender,village,pin,pin_3prefix,district,diagnosis,is_rare_diagnosis,admit_date,discharge_date,los,raw_k_anonymity,generalized_k_anonymity,singling_out_risk
+TP-QI-0000,69,60-69,M,Khera Khurd,226101,226XXX,Lucknow,Visceral Leishmaniasis (Kala-azar),1,2024-10-18,2024-10-24,6,1,8,critical
+TP-QI-0001,18,10-19,F,Agra Cantt,282001,282XXX,Agra,Urinary Tract Infection,0,2025-04-02,2025-04-16,14,1,3,high
+TP-QI-0002,76,70-79,M,Bareilly Urban,243001,243XXX,Bareilly,Type 2 Diabetes Mellitus,0,2025-09-17,2025-10-04,17,1,6,high
+TP-QI-0003,6,0-9,F,Mohanlalganj,226301,226XXX,Lucknow,Iron Deficiency Anemia,0,2025-06-01,2025-06-08,7,1,6,high
+TP-QI-0004,87,80-89,M,Bhitargaon,209209,209XXX,Kanpur Nagar,Enteric Fever (Typhoid),0,2025-10-25,2025-11-09,15,2,6,moderate
+TP-QI-0005,12,10-19,F,Noida Sector 62,201309,201XXX,Gautam Buddha Nagar,Iron Deficiency Anemia,0,2024-02-29,2024-03-07,7,1,1,high
+TP-QI-0006,36,30-39,M,Varanasi Urban,221001,221XXX,Varanasi,Acute Viral Gastroenteritis,0,2025-12-30,2026-01-02,3,1,2,high
+TP-QI-0007,8,0-9,F,Malihabad,226102,226XXX,Lucknow,Type 2 Diabetes Mellitus,0,2025-06-07,2025-06-08,1,1,6,high
+TP-QI-0008,48,40-49,M,Khera Khurd,226101,226XXX,Lucknow,Guillain-Barré syndrome,1,2024-01-31,2024-02-09,9,1,11,critical
+TP-QI-0009,30,30-39,F,Noida Sector 62,201309,201XXX,Gautam Buddha Nagar,Acute Bronchitis,0,2025-11-03,2025-11-06,3,1,2,high
+TP-QI-0010,16,10-19,M,Sitapur Khas,261001,261XXX,Sitapur,Acute Bronchitis,0,2025-05-01,2025-05-13,12,1,3,high
+TP-QI-0011,42,40-49,F,Mohanlalganj,226301,226XXX,Lucknow,Dengue Fever,0,2024-01-23,2024-01-30,7,1,4,high
+TP-QI-0012,92,90-99,M,Malihabad,226102,226XXX,Lucknow,Essential Hypertension,0,2024-01-01,2024-01-12,11,1,4,high
+TP-QI-0013,83,80-89,F,Varanasi Urban,221001,221XXX,Varanasi,Acute Viral Gastroenteritis,0,2025-02-04,2025-02-13,9,1,3,high
+TP-QI-0014,70,70-79,M,Prayagraj Civil Lines,211001,211XXX,Prayagraj,Acute Viral Gastroenteritis,0,2025-06-18,2025-06-26,8,1,4,high
+TP-QI-0015,77,70-79,F,Barabanki,225001,225XXX,Barabanki,Community Acquired Pneumonia,0,2024-12-05,2024-12-17,12,1,5,high
+TP-QI-0016,74,70-79,M,Varanasi Urban,221001,221XXX,Varanasi,Porphyria cutanea tarda,1,2024-02-06,2024-02-09,3,1,2,high
+TP-QI-0017,19,10-19,F,Mohanlalganj,226301,226XXX,Lucknow,Enteric Fever (Typhoid),0,2024-03-29,2024-04-14,16,1,4,high
+TP-QI-0018,61,60-69,M,Chauri Chaura,273201,273XXX,Gorakhpur,Community Acquired Pneumonia,0,2025-06-17,2025-07-03,16,1,3,high
+TP-QI-0019,62,60-69,F,Bareilly Urban,243001,243XXX,Bareilly,Enteric Fever (Typhoid),0,2024-01-08,2024-01-18,10,1,2,high
+TP-QI-0020,78,70-79,M,Sitapur Khas,261001,261XXX,Sitapur,Community Acquired Pneumonia,0,2024-05-07,2024-05-22,15,1,3,high
+TP-QI-0021,11,10-19,F,Barabanki,225001,225XXX,Barabanki,Dengue Fever,0,2024-10-21,2024-11-10,20,1,3,high
+TP-QI-0022,28,20-29,M,Barabanki,225001,225XXX,Barabanki,Hypothyroidism,0,2025-04-28,2025-05-02,4,1,2,high
+TP-QI-0023,32,30-39,F,Khera Khurd,226101,226XXX,Lucknow,Iron Deficiency Anemia,0,2024-06-17,2024-07-08,21,1,4,high
+TP-QI-0024,90,90-99,M,Noida Sector 62,201309,201XXX,Gautam Buddha Nagar,Porphyria cutanea tarda,1,2024-11-24,2024-11-30,6,1,1,high
+TP-QI-0025,56,50-59,F,Khera Khurd,226101,226XXX,Lucknow,Dengue Fever,0,2024-09-14,2024-10-03,19,1,5,high
+TP-QI-0026,92,90-99,M,Unnao Rural,209801,209XXX,Unnao,Essential Hypertension,0,2024-02-20,2024-02-22,2,1,1,high
+TP-QI-0027,88,80-89,F,Noida Sector 62,201309,201XXX,Gautam Buddha Nagar,Essential Hypertension,0,2025-09-17,2025-10-05,18,1,3,high
+TP-QI-0028,52,50-59,M,Barabanki,225001,225XXX,Barabanki,Iron Deficiency Anemia,0,2025-03-15,2025-03-22,7,1,2,high
+TP-QI-0029,54,50-59,F,Bareilly Urban,243001,243XXX,Bareilly,Acute Viral Gastroenteritis,0,2024-10-14,2024-10-26,12,1,1,high
+TP-QI-0030,42,40-49,M,Bareilly Urban,243001,243XXX,Bareilly,Community Acquired Pneumonia,0,2024-12-11,2024-12-16,5,1,3,high
+TP-QI-0031,11,10-19,F,Unnao Rural,209801,209XXX,Unnao,Acute Bronchitis,0,2025-07-17,2025-08-07,21,1,2,high
+TP-QI-0032,23,20-29,M,Meerut City,250001,250XXX,Meerut,Myasthenia gravis,1,2024-06-28,2024-07-16,18,1,3,high
+TP-QI-0033,92,90-99,F,Chauri Chaura,273201,273XXX,Gorakhpur,Enteric Fever (Typhoid),0,2024-05-20,2024-05-27,7,1,1,high
+TP-QI-0034,2,0-9,M,Bhitargaon,209209,209XXX,Kanpur Nagar,Acute Viral Gastroenteritis,0,2025-05-02,2025-05-12,10,1,5,high
+TP-QI-0035,40,40-49,F,Bareilly Urban,243001,243XXX,Bareilly,Community Acquired Pneumonia,0,2025-03-12,2025-03-29,17,1,1,high
+TP-QI-0036,35,30-39,M,Bhitargaon,209209,209XXX,Kanpur Nagar,Type 2 Diabetes Mellitus,0,2025-06-30,2025-07-10,10,1,2,high
+TP-QI-0037,32,30-39,F,Rampur Maniharan,247451,247XXX,Saharanpur,Essential Hypertension,0,2024-03-16,2024-04-05,20,1,3,high
+TP-QI-0038,44,40-49,M,Agra Cantt,282001,282XXX,Agra,Iron Deficiency Anemia,0,2024-12-05,2024-12-15,10,1,5,high
+TP-QI-0039,51,50-59,F,Bhitargaon,209209,209XXX,Kanpur Nagar,Essential Hypertension,0,2025-06-29,2025-07-16,17,1,3,high
+TP-QI-0040,58,50-59,M,Rampur Maniharan,247451,247XXX,Saharanpur,Takayasu arteritis,1,2025-08-08,2025-08-09,1,1,3,critical
+TP-QI-0041,52,50-59,F,Malihabad,226102,226XXX,Lucknow,Acute Bronchitis,0,2024-12-19,2025-01-01,13,1,5,high
+TP-QI-0042,54,50-59,M,Noida Sector 62,201309,201XXX,Gautam Buddha Nagar,Urinary Tract Infection,0,2025-08-13,2025-08-20,7,1,3,high
+TP-QI-0043,50,50-59,F,Chauri Chaura,273201,273XXX,Gorakhpur,Dengue Fever,0,2024-10-06,2024-10-19,13,1,2,high
+TP-QI-0044,59,50-59,M,Agra Cantt,282001,282XXX,Agra,Enteric Fever (Typhoid),0,2024-11-03,2024-11-20,17,1,5,high
+TP-QI-0045,72,70-79,F,Meerut City,250001,250XXX,Meerut,Dengue Fever,0,2025-10-27,2025-10-29,2,1,5,high
+TP-QI-0046,33,30-39,M,Bhitargaon,209209,209XXX,Kanpur Nagar,Hypothyroidism,0,2024-08-04,2024-08-25,21,1,2,high
+TP-QI-0047,55,50-59,F,Unnao Rural,209801,209XXX,Unnao,Hypothyroidism,0,2025-07-01,2025-07-18,17,1,3,high
+TP-QI-0048,15,10-19,M,Malihabad,226102,226XXX,Lucknow,Guillain-Barré syndrome,1,2024-03-17,2024-03-28,11,1,5,critical
+TP-QI-0049,12,10-19,F,Bhitargaon,209209,209XXX,Kanpur Nagar,Hypothyroidism,0,2024-08-16,2024-08-27,11,1,5,high
+TP-QI-0050,63,60-69,M,Rampur Maniharan,247451,247XXX,Saharanpur,Hypothyroidism,0,2024-01-26,2024-01-27,1,1,1,high
+TP-QI-0051,19,10-19,F,Chauri Chaura,273201,273XXX,Gorakhpur,Iron Deficiency Anemia,0,2024-04-08,2024-04-28,20,1,3,high
+TP-QI-0052,47,40-49,M,Khera Khurd,226101,226XXX,Lucknow,Dengue Fever,0,2025-07-13,2025-07-18,5,1,11,high
+TP-QI-0053,85,80-89,F,Chauri Chaura,273201,273XXX,Gorakhpur,Dengue Fever,0,2024-02-18,2024-02-25,7,1,4,high
+TP-QI-0054,20,20-29,M,Prayagraj Civil Lines,211001,211XXX,Prayagraj,Acute Bronchitis,0,2024-11-06,2024-11-23,17,1,1,high
+TP-QI-0055,83,80-89,F,Mohanlalganj,226301,226XXX,Lucknow,Type 2 Diabetes Mellitus,0,2024-07-29,2024-08-09,11,1,8,high
+TP-QI-0056,3,0-9,M,Rampur Maniharan,247451,247XXX,Saharanpur,Scrub typhus with meningoencephalitis,1,2024-05-10,2024-05-11,1,1,4,critical
+TP-QI-0057,74,70-79,F,Agra Cantt,282001,282XXX,Agra,Hypothyroidism,0,2024-07-21,2024-07-23,2,1,4,high
+TP-QI-0058,15,10-19,M,Agra Cantt,282001,282XXX,Agra,Type 2 Diabetes Mellitus,0,2024-09-25,2024-10-05,10,1,3,high
+TP-QI-0059,63,60-69,F,Rampur Maniharan,247451,247XXX,Saharanpur,Community Acquired Pneumonia,0,2025-04-05,2025-04-09,4,1,3,high
+TP-QI-0060,19,10-19,M,Prayagraj Civil Lines,211001,211XXX,Prayagraj,Urinary Tract Infection,0,2024-09-17,2024-09-23,6,1,3,high
+TP-QI-0061,19,10-19,F,Mohanlalganj,226301,226XXX,Lucknow,Acute Viral Gastroenteritis,0,2025-06-12,2025-06-14,2,1,4,high
+TP-QI-0062,10,10-19,M,Meerut City,250001,250XXX,Meerut,Essential Hypertension,0,2025-04-28,2025-05-15,17,1,3,high
+TP-QI-0063,17,10-19,F,Meerut City,250001,250XXX,Meerut,Community Acquired Pneumonia,0,2025-06-07,2025-06-28,21,1,4,high
+TP-QI-0064,67,60-69,M,Chauri Chaura,273201,273XXX,Gorakhpur,Myasthenia gravis,1,2025-10-27,2025-11-01,5,1,3,critical
+TP-QI-0065,26,20-29,F,Malihabad,226102,226XXX,Lucknow,Acute Bronchitis,0,2024-03-17,2024-03-27,10,1,7,high
+TP-QI-0066,46,40-49,M,Noida Sector 62,201309,201XXX,Gautam Buddha Nagar,Acute Bronchitis,0,2024-05-19,2024-06-09,21,1,3,high
+TP-QI-0067,83,80-89,F,Meerut City,250001,250XXX,Meerut,Acute Bronchitis,0,2025-06-19,2025-07-05,16,1,2,high
+TP-QI-0068,37,30-39,M,Khera Khurd,226101,226XXX,Lucknow,Dengue Fever,0,2024-03-29,2024-04-10,12,1,7,high
+TP-QI-0069,13,10-19,F,Barabanki,225001,225XXX,Barabanki,Urinary Tract Infection,0,2025-09-01,2025-09-06,5,1,3,high
+TP-QI-0070,91,90-99,M,Khera Khurd,226101,226XXX,Lucknow,Acute Viral Gastroenteritis,0,2025-01-12,2025-01-15,3,1,4,high
+TP-QI-0071,15,10-19,F,Kanpur Central,208001,208XXX,Kanpur Nagar,Iron Deficiency Anemia,0,2024-08-05,2024-08-08,3,1,5,high
+TP-QI-0072,40,40-49,M,Rampur Maniharan,247451,247XXX,Saharanpur,Takayasu arteritis,1,2025-10-17,2025-10-27,10,1,5,critical
+TP-QI-0073,50,50-59,F,Unnao Rural,209801,209XXX,Unnao,Community Acquired Pneumonia,0,2025-04-12,2025-04-25,13,1,3,high
+TP-QI-0074,68,60-69,M,Malihabad,226102,226XXX,Lucknow,Enteric Fever (Typhoid),0,2025-10-06,2025-10-25,19,1,8,high
+TP-QI-0075,4,0-9,F,Bareilly Urban,243001,243XXX,Bareilly,Enteric Fever (Typhoid),0,2024-05-18,2024-06-03,16,1,5,high
+TP-QI-0076,87,80-89,M,Noida Sector 62,201309,201XXX,Gautam Buddha Nagar,Hypothyroidism,0,2024-10-16,2024-10-21,5,1,2,high
+TP-QI-0077,57,50-59,F,Bhitargaon,209209,209XXX,Kanpur Nagar,Type 2 Diabetes Mellitus,0,2024-03-28,2024-04-03,6,1,3,high
+TP-QI-0078,34,30-39,M,Agra Cantt,282001,282XXX,Agra,Acute Viral Gastroenteritis,0,2024-02-19,2024-03-01,11,1,2,high
+TP-QI-0079,7,0-9,F,Kanpur Central,208001,208XXX,Kanpur Nagar,Iron Deficiency Anemia,0,2025-06-21,2025-07-10,19,1,3,high
+TP-QI-0080,22,20-29,M,Unnao Rural,209801,209XXX,Unnao,Porphyria cutanea tarda,1,2024-06-22,2024-06-24,2,2,3,critical
+TP-QI-0081,83,80-89,F,Rampur Maniharan,247451,247XXX,Saharanpur,Enteric Fever (Typhoid),0,2025-09-22,2025-10-02,10,1,1,high
+TP-QI-0082,24,20-29,M,Barabanki,225001,225XXX,Barabanki,Iron Deficiency Anemia,0,2025-06-09,2025-06-23,14,1,2,high
+TP-QI-0083,27,20-29,F,Bhitargaon,209209,209XXX,Kanpur Nagar,Essential Hypertension,0,2025-07-23,2025-07-25,2,1,1,high
+TP-QI-0084,18,10-19,M,Bhitargaon,209209,209XXX,Kanpur Nagar,Acute Bronchitis,0,2024-04-27,2024-05-15,18,1,4,high
+TP-QI-0085,83,80-89,F,Unnao Rural,209801,209XXX,Unnao,Acute Bronchitis,0,2024-01-12,2024-01-30,18,1,3,high
+TP-QI-0086,17,10-19,M,Rampur Maniharan,247451,247XXX,Saharanpur,Iron Deficiency Anemia,0,2025-09-29,2025-10-15,16,1,3,high
+TP-QI-0087,4,0-9,F,Barabanki,225001,225XXX,Barabanki,Iron Deficiency Anemia,0,2024-08-28,2024-09-08,11,1,1,high
+TP-QI-0088,59,50-59,M,Sitapur Khas,261001,261XXX,Sitapur,Scrub typhus with meningoencephalitis,1,2025-05-22,2025-06-08,17,1,1,critical
+TP-QI-0089,67,60-69,F,Noida Sector 62,201309,201XXX,Gautam Buddha Nagar,Acute Viral Gastroenteritis,0,2025-11-04,2025-11-24,20,1,2,high
+TP-QI-0090,45,40-49,M,Rampur Maniharan,247451,247XXX,Saharanpur,Dengue Fever,0,2025-06-18,2025-07-08,20,1,5,high
+TP-QI-0091,1,0-9,F,Agra Cantt,282001,282XXX,Agra,Type 2 Diabetes Mellitus,0,2024-06-10,2024-06-15,5,1,2,high
+TP-QI-0092,11,10-19,M,Khera Khurd,226101,226XXX,Lucknow,Enteric Fever (Typhoid),0,2024-11-10,2024-11-28,18,1,5,high
+TP-QI-0093,5,0-9,F,Varanasi Urban,221001,221XXX,Varanasi,Urinary Tract Infection,0,2025-01-24,2025-02-06,13,1,4,high
+TP-QI-0094,13,10-19,M,Unnao Rural,209801,209XXX,Unnao,Iron Deficiency Anemia,0,2024-02-08,2024-02-17,9,1,5,high
+TP-QI-0095,81,80-89,F,Sitapur Khas,261001,261XXX,Sitapur,Acute Viral Gastroenteritis,0,2024-08-17,2024-08-21,4,1,4,high
+TP-QI-0096,43,40-49,M,Mohanlalganj,226301,226XXX,Lucknow,Wilson's disease,1,2024-08-16,2024-09-01,16,1,11,critical
+TP-QI-0097,39,30-39,F,Noida Sector 62,201309,201XXX,Gautam Buddha Nagar,Iron Deficiency Anemia,0,2024-12-26,2025-01-13,18,1,2,high
+TP-QI-0098,16,10-19,M,Unnao Rural,209801,209XXX,Unnao,Hypothyroidism,0,2024-12-20,2024-12-24,4,1,5,high
+TP-QI-0099,43,40-49,F,Noida Sector 62,201309,201XXX,Gautam Buddha Nagar,Type 2 Diabetes Mellitus,0,2024-07-08,2024-07-20,12,1,3,high
+TP-QI-0100,15,10-19,M,Agra Cantt,282001,282XXX,Agra,Iron Deficiency Anemia,0,2025-07-08,2025-07-14,6,1,3,high
+TP-QI-0101,81,80-89,F,Agra Cantt,282001,282XXX,Agra,Community Acquired Pneumonia,0,2025-06-07,2025-06-19,12,1,3,high
+TP-QI-0102,45,40-49,M,Unnao Rural,209801,209XXX,Unnao,Enteric Fever (Typhoid),0,2024-08-15,2024-08-25,10,1,2,high
+TP-QI-0103,25,20-29,F,Chauri Chaura,273201,273XXX,Gorakhpur,Essential Hypertension,0,2024-05-12,2024-05-20,8,1,3,high
+TP-QI-0104,90,90-99,M,Rampur Maniharan,247451,247XXX,Saharanpur,Porphyria cutanea tarda,1,2024-05-01,2024-05-06,5,1,1,critical
+TP-QI-0105,17,10-19,F,Chauri Chaura,273201,273XXX,Gorakhpur,Type 2 Diabetes Mellitus,0,2025-09-03,2025-09-20,17,1,3,high
+TP-QI-0106,32,30-39,M,Sitapur Khas,261001,261XXX,Sitapur,Urinary Tract Infection,0,2025-04-29,2025-05-07,8,1,1,high
+TP-QI-0107,41,40-49,F,Chauri Chaura,273201,273XXX,Gorakhpur,Acute Bronchitis,0,2025-09-16,2025-09-22,6,1,3,high
+TP-QI-0108,36,30-39,M,Mohanlalganj,226301,226XXX,Lucknow,Community Acquired Pneumonia,0,2025-05-27,2025-05-30,3,1,7,high
+TP-QI-0109,16,10-19,F,Rampur Maniharan,247451,247XXX,Saharanpur,Urinary Tract Infection,0,2025-03-29,2025-04-14,16,1,3,high
+TP-QI-0110,15,10-19,M,Unnao Rural,209801,209XXX,Unnao,Dengue Fever,0,2024-03-08,2024-03-19,11,1,5,high
+TP-QI-0111,70,70-79,F,Unnao Rural,209801,209XXX,Unnao,Dengue Fever,0,2024-10-06,2024-10-20,14,1,3,high
+TP-QI-0112,7,0-9,M,Unnao Rural,209801,209XXX,Unnao,Guillain-Barré syndrome,1,2024-03-05,2024-03-18,13,1,5,critical
+TP-QI-0113,28,20-29,F,Varanasi Urban,221001,221XXX,Varanasi,Type 2 Diabetes Mellitus,0,2025-10-12,2025-10-28,16,1,3,high
+TP-QI-0114,44,40-49,M,Bhitargaon,209209,209XXX,Kanpur Nagar,Iron Deficiency Anemia,0,2025-09-17,2025-09-29,12,1,3,high
+TP-QI-0115,63,60-69,F,Prayagraj Civil Lines,211001,211XXX,Prayagraj,Enteric Fever (Typhoid),0,2024-02-17,2024-03-05,17,1,4,high
+TP-QI-0116,75,70-79,M,Agra Cantt,282001,282XXX,Agra,Acute Viral Gastroenteritis,0,2024-12-24,2024-12-31,7,1,4,high
+TP-QI-0117,53,50-59,F,Varanasi Urban,221001,221XXX,Varanasi,Urinary Tract Infection,0,2025-10-09,2025-10-15,6,1,1,high
+TP-QI-0118,71,70-79,M,Rampur Maniharan,247451,247XXX,Saharanpur,Iron Deficiency Anemia,0,2024-04-28,2024-05-17,19,1,1,high
+TP-QI-0119,74,70-79,F,Unnao Rural,209801,209XXX,Unnao,Essential Hypertension,0,2024-10-30,2024-11-03,4,1,3,high
+TP-QI-0120,79,70-79,M,Bareilly Urban,243001,243XXX,Bareilly,Takayasu arteritis,1,2025-10-10,2025-10-24,14,1,6,high
+TP-QI-0121,66,60-69,F,Agra Cantt,282001,282XXX,Agra,Urinary Tract Infection,0,2025-10-18,2025-10-19,1,1,2,high
+TP-QI-0122,4,0-9,M,Malihabad,226102,226XXX,Lucknow,Essential Hypertension,0,2025-01-12,2025-01-29,17,1,5,high
+TP-QI-0123,85,80-89,F,Agra Cantt,282001,282XXX,Agra,Type 2 Diabetes Mellitus,0,2024-01-08,2024-01-28,20,1,3,high
+TP-QI-0124,20,20-29,M,Malihabad,226102,226XXX,Lucknow,Urinary Tract Infection,0,2024-10-13,2024-10-30,17,1,10,high
+TP-QI-0125,64,60-69,F,Chauri Chaura,273201,273XXX,Gorakhpur,Hypothyroidism,0,2024-12-03,2024-12-16,13,1,3,high
+TP-QI-0126,92,90-99,M,Khera Khurd,226101,226XXX,Lucknow,Acute Viral Gastroenteritis,0,2025-08-24,2025-08-31,7,1,4,high
+TP-QI-0127,3,0-9,F,Bareilly Urban,243001,243XXX,Bareilly,Dengue Fever,0,2024-03-07,2024-03-23,16,1,5,high
+TP-QI-0128,3,0-9,M,Mohanlalganj,226301,226XXX,Lucknow,Takayasu arteritis,1,2024-12-09,2024-12-25,16,1,5,critical
+TP-QI-0129,12,10-19,F,Bhitargaon,209209,209XXX,Kanpur Nagar,Dengue Fever,0,2025-10-26,2025-10-29,3,1,5,high
+TP-QI-0130,54,50-59,M,Agra Cantt,282001,282XXX,Agra,Acute Bronchitis,0,2025-04-18,2025-05-06,18,1,5,high
+TP-QI-0131,63,60-69,F,Barabanki,225001,225XXX,Barabanki,Hypothyroidism,0,2024-05-17,2024-05-23,6,1,6,high
+TP-QI-0132,80,80-89,M,Rampur Maniharan,247451,247XXX,Saharanpur,Type 2 Diabetes Mellitus,0,2025-05-25,2025-06-09,15,1,2,high
+TP-QI-0133,35,30-39,F,Mohanlalganj,226301,226XXX,Lucknow,Hypothyroidism,0,2025-10-19,2025-10-27,8,1,4,high
+TP-QI-0134,51,50-59,M,Agra Cantt,282001,282XXX,Agra,Essential Hypertension,0,2024-04-19,2024-05-09,20,1,5,high
+TP-QI-0135,24,20-29,F,Chauri Chaura,273201,273XXX,Gorakhpur,Urinary Tract Infection,0,2025-10-17,2025-10-26,9,1,3,high
+TP-QI-0136,58,50-59,M,Bhitargaon,209209,209XXX,Kanpur Nagar,Visceral Leishmaniasis (Kala-azar),1,2025-07-22,2025-07-23,1,1,8,critical
+TP-QI-0137,65,60-69,F,Bhitargaon,209209,209XXX,Kanpur Nagar,Enteric Fever (Typhoid),0,2025-04-05,2025-04-11,6,1,3,high
+TP-QI-0138,11,10-19,M,Noida Sector 62,201309,201XXX,Gautam Buddha Nagar,Acute Viral Gastroenteritis,0,2024-07-07,2024-07-28,21,1,5,high
+TP-QI-0139,92,90-99,F,Sitapur Khas,261001,261XXX,Sitapur,Enteric Fever (Typhoid),0,2024-12-31,2025-01-08,8,1,2,high
+TP-QI-0140,10,10-19,M,Rampur Maniharan,247451,247XXX,Saharanpur,Enteric Fever (Typhoid),0,2024-03-19,2024-04-03,15,1,3,high
+TP-QI-0141,23,20-29,F,Rampur Maniharan,247451,247XXX,Saharanpur,Iron Deficiency Anemia,0,2025-07-16,2025-07-25,9,1,3,high
+TP-QI-0142,5,0-9,M,Meerut City,250001,250XXX,Meerut,Acute Bronchitis,0,2024-09-28,2024-10-10,12,1,4,high
+TP-QI-0143,82,80-89,F,Varanasi Urban,221001,221XXX,Varanasi,Acute Viral Gastroenteritis,0,2024-10-14,2024-10-15,1,1,3,high
+TP-QI-0144,4,0-9,M,Prayagraj Civil Lines,211001,211XXX,Prayagraj,Porphyria cutanea tarda,1,2024-07-05,2024-07-20,15,1,4,high
+TP-QI-0145,87,80-89,F,Sitapur Khas,261001,261XXX,Sitapur,Community Acquired Pneumonia,0,2024-07-05,2024-07-25,20,1,4,high
+TP-QI-0146,75,70-79,M,Mohanlalganj,226301,226XXX,Lucknow,Acute Viral Gastroenteritis,0,2024-09-17,2024-09-23,6,1,2,high
+TP-QI-0147,23,20-29,F,Khera Khurd,226101,226XXX,Lucknow,Enteric Fever (Typhoid),0,2024-07-22,2024-08-02,11,1,7,high
+TP-QI-0148,9,0-9,M,Bhitargaon,209209,209XXX,Kanpur Nagar,Enteric Fever (Typhoid),0,2024-03-09,2024-03-29,20,1,5,high
+TP-QI-0149,70,70-79,F,Meerut City,250001,250XXX,Meerut,Iron Deficiency Anemia,0,2024-10-06,2024-10-14,8,1,5,high
+TP-QI-0150,55,50-59,M,Chauri Chaura,273201,273XXX,Gorakhpur,Hypothyroidism,0,2024-02-25,2024-02-29,4,1,4,high
+TP-QI-0151,84,80-89,F,Unnao Rural,209801,209XXX,Unnao,Essential Hypertension,0,2024-04-02,2024-04-10,8,1,3,high
+TP-QI-0152,83,80-89,M,Kanpur Central,208001,208XXX,Kanpur Nagar,Myasthenia gravis,1,2025-05-24,2025-06-01,8,1,6,high
+TP-QI-0153,13,10-19,F,Meerut City,250001,250XXX,Meerut,Hypothyroidism,0,2024-03-20,2024-03-25,5,1,4,high
+TP-QI-0154,40,40-49,M,Noida Sector 62,201309,201XXX,Gautam Buddha Nagar,Urinary Tract Infection,0,2024-06-14,2024-06-17,3,1,3,high
+TP-QI-0155,10,10-19,F,Unnao Rural,209801,209XXX,Unnao,Enteric Fever (Typhoid),0,2024-11-28,2024-11-30,2,1,2,high
+TP-QI-0156,9,0-9,M,Rampur Maniharan,247451,247XXX,Saharanpur,Acute Bronchitis,0,2024-06-06,2024-06-25,19,1,4,high
+TP-QI-0157,15,10-19,F,Prayagraj Civil Lines,211001,211XXX,Prayagraj,Acute Viral Gastroenteritis,0,2025-04-28,2025-05-14,16,1,5,high
+TP-QI-0158,29,20-29,M,Mohanlalganj,226301,226XXX,Lucknow,Essential Hypertension,0,2024-12-11,2024-12-27,16,1,10,high
+TP-QI-0159,63,60-69,F,Unnao Rural,209801,209XXX,Unnao,Hypothyroidism,0,2025-02-22,2025-03-01,7,1,2,high
+TP-QI-0160,81,80-89,M,Rampur Maniharan,247451,247XXX,Saharanpur,Wilson's disease,1,2024-03-14,2024-03-17,3,1,2,critical
+TP-QI-0161,56,50-59,F,Sitapur Khas,261001,261XXX,Sitapur,Community Acquired Pneumonia,0,2025-07-20,2025-07-23,3,1,2,high
+TP-QI-0162,76,70-79,M,Agra Cantt,282001,282XXX,Agra,Dengue Fever,0,2024-08-23,2024-09-08,16,1,4,high
+TP-QI-0163,1,0-9,F,Unnao Rural,209801,209XXX,Unnao,Acute Viral Gastroenteritis,0,2025-02-04,2025-02-12,8,1,2,high
+TP-QI-0164,82,80-89,M,Unnao Rural,209801,209XXX,Unnao,Acute Bronchitis,0,2024-10-13,2024-10-21,8,1,4,high
+TP-QI-0165,4,0-9,F,Chauri Chaura,273201,273XXX,Gorakhpur,Dengue Fever,0,2024-10-14,2024-11-03,20,1,4,high
+TP-QI-0166,52,50-59,M,Kanpur Central,208001,208XXX,Kanpur Nagar,Hypothyroidism,0,2025-03-10,2025-03-20,10,1,8,high
+TP-QI-0167,28,20-29,F,Malihabad,226102,226XXX,Lucknow,Dengue Fever,0,2025-09-08,2025-09-26,18,1,7,high
+TP-QI-0168,35,30-39,M,Agra Cantt,282001,282XXX,Agra,Visceral Leishmaniasis (Kala-azar),1,2025-08-22,2025-09-12,21,1,2,high
+TP-QI-0169,18,10-19,F,Bhitargaon,209209,209XXX,Kanpur Nagar,Acute Bronchitis,0,2024-01-08,2024-01-25,17,1,5,high
+TP-QI-0170,75,70-79,M,Bareilly Urban,243001,243XXX,Bareilly,Dengue Fever,0,2025-11-08,2025-11-29,21,1,6,high
+TP-QI-0171,16,10-19,F,Meerut City,250001,250XXX,Meerut,Acute Viral Gastroenteritis,0,2025-07-12,2025-08-01,20,1,4,high
+TP-QI-0172,11,10-19,M,Rampur Maniharan,247451,247XXX,Saharanpur,Dengue Fever,0,2025-06-14,2025-06-25,11,1,3,high
+TP-QI-0173,77,70-79,F,Malihabad,226102,226XXX,Lucknow,Essential Hypertension,0,2024-10-21,2024-11-05,15,1,3,high
+TP-QI-0174,9,0-9,M,Bhitargaon,209209,209XXX,Kanpur Nagar,Type 2 Diabetes Mellitus,0,2024-07-20,2024-07-30,10,1,5,high
+TP-QI-0175,36,30-39,F,Kanpur Central,208001,208XXX,Kanpur Nagar,Essential Hypertension,0,2024-05-08,2024-05-10,2,1,4,high
+TP-QI-0176,40,40-49,M,Agra Cantt,282001,282XXX,Agra,Guillain-Barré syndrome,1,2024-11-17,2024-12-08,21,1,5,high
+TP-QI-0177,52,50-59,F,Meerut City,250001,250XXX,Meerut,Iron Deficiency Anemia,0,2024-01-18,2024-02-07,20,1,2,high
+TP-QI-0178,24,20-29,M,Meerut City,250001,250XXX,Meerut,Enteric Fever (Typhoid),0,2025-05-15,2025-05-24,9,1,3,high
+TP-QI-0179,63,60-69,F,Khera Khurd,226101,226XXX,Lucknow,Iron Deficiency Anemia,0,2025-04-02,2025-04-07,5,1,3,high
+TP-QI-0180,25,20-29,M,Mohanlalganj,226301,226XXX,Lucknow,Hypothyroidism,0,2024-05-09,2024-05-10,1,1,10,high
+TP-QI-0181,30,30-39,F,Bareilly Urban,243001,243XXX,Bareilly,Acute Viral Gastroenteritis,0,2024-10-27,2024-10-30,3,1,4,high
+TP-QI-0182,85,80-89,M,Bhitargaon,209209,209XXX,Kanpur Nagar,Dengue Fever,0,2024-07-04,2024-07-16,12,1,6,high
+TP-QI-0183,42,40-49,F,Unnao Rural,209801,209XXX,Unnao,Iron Deficiency Anemia,0,2024-11-18,2024-12-06,18,1,3,high
+TP-QI-0184,14,10-19,M,Chauri Chaura,273201,273XXX,Gorakhpur,Porphyria cutanea tarda,1,2024-12-31,2025-01-10,10,1,3,critical
+TP-QI-0185,9,0-9,F,Chauri Chaura,273201,273XXX,Gorakhpur,Acute Viral Gastroenteritis,0,2024-11-14,2024-11-20,6,1,4,high
+TP-QI-0186,53,50-59,M,Bareilly Urban,243001,243XXX,Bareilly,Urinary Tract Infection,0,2025-10-30,2025-11-13,14,1,1,high
+TP-QI-0187,34,30-39,F,Unnao Rural,209801,209XXX,Unnao,Acute Viral Gastroenteritis,0,2024-07-28,2024-08-13,16,1,3,high
+TP-QI-0188,86,80-89,M,Mohanlalganj,226301,226XXX,Lucknow,Acute Bronchitis,0,2024-01-14,2024-01-25,11,1,3,high
+TP-QI-0189,74,70-79,F,Bhitargaon,209209,209XXX,Kanpur Nagar,Dengue Fever,0,2024-08-02,2024-08-05,3,1,7,high
+TP-QI-0190,65,60-69,M,Varanasi Urban,221001,221XXX,Varanasi,Essential Hypertension,0,2024-04-15,2024-04-24,9,1,2,high
+TP-QI-0191,60,60-69,F,Kanpur Central,208001,208XXX,Kanpur Nagar,Iron Deficiency Anemia,0,2024-05-14,2024-05-25,11,1,3,high
+TP-QI-0192,53,50-59,M,Khera Khurd,226101,226XXX,Lucknow,Scrub typhus with meningoencephalitis,1,2025-09-23,2025-09-25,2,1,5,critical
+TP-QI-0193,58,50-59,F,Meerut City,250001,250XXX,Meerut,Hypothyroidism,0,2024-09-27,2024-10-01,4,1,2,high
+TP-QI-0194,9,0-9,M,Chauri Chaura,273201,273XXX,Gorakhpur,Type 2 Diabetes Mellitus,0,2025-04-14,2025-05-05,21,1,2,high
+TP-QI-0195,41,40-49,F,Chauri Chaura,273201,273XXX,Gorakhpur,Acute Viral Gastroenteritis,0,2024-08-17,2024-09-01,15,1,3,high
+TP-QI-0196,63,60-69,M,Malihabad,226102,226XXX,Lucknow,Iron Deficiency Anemia,0,2025-05-16,2025-05-30,14,1,8,high
+TP-QI-0197,30,30-39,F,Bareilly Urban,243001,243XXX,Bareilly,Type 2 Diabetes Mellitus,0,2024-05-28,2024-06-14,17,1,4,high
+TP-QI-0198,71,70-79,M,Prayagraj Civil Lines,211001,211XXX,Prayagraj,Iron Deficiency Anemia,0,2025-07-24,2025-08-08,15,1,4,high
+TP-QI-0199,41,40-49,F,Malihabad,226102,226XXX,Lucknow,Urinary Tract Infection,0,2024-01-19,2024-02-08,20,1,4,high
+TP-QI-0200,54,50-59,M,Rampur Maniharan,247451,247XXX,Saharanpur,Guillain-Barré syndrome,1,2025-09-30,2025-10-06,6,1,3,critical
+TP-QI-0201,32,30-39,F,Agra Cantt,282001,282XXX,Agra,Dengue Fever,0,2025-03-10,2025-03-15,5,1,4,high
+TP-QI-0202,26,20-29,M,Khera Khurd,226101,226XXX,Lucknow,Enteric Fever (Typhoid),0,2025-01-25,2025-02-07,13,1,10,high
+TP-QI-0203,63,60-69,F,Noida Sector 62,201309,201XXX,Gautam Buddha Nagar,Essential Hypertension,0,2025-03-14,2025-03-21,7,1,2,high
+TP-QI-0204,27,20-29,M,Bhitargaon,209209,209XXX,Kanpur Nagar,Enteric Fever (Typhoid),0,2024-01-17,2024-01-18,1,1,3,high
+TP-QI-0205,75,70-79,F,Malihabad,226102,226XXX,Lucknow,Essential Hypertension,0,2025-01-24,2025-02-09,16,1,3,high
+TP-QI-0206,25,20-29,M,Chauri Chaura,273201,273XXX,Gorakhpur,Type 2 Diabetes Mellitus,0,2024-03-20,2024-03-21,1,1,1,high
+TP-QI-0207,60,60-69,F,Sitapur Khas,261001,261XXX,Sitapur,Acute Bronchitis,0,2025-09-15,2025-10-01,16,1,2,high
+TP-QI-0208,21,20-29,M,Bareilly Urban,243001,243XXX,Bareilly,Wilson's disease,1,2024-10-25,2024-11-08,14,1,2,high
+TP-QI-0209,67,60-69,F,Chauri Chaura,273201,273XXX,Gorakhpur,Iron Deficiency Anemia,0,2025-10-20,2025-10-28,8,1,3,high
+TP-QI-0210,65,60-69,M,Bareilly Urban,243001,243XXX,Bareilly,Acute Bronchitis,0,2025-01-17,2025-01-22,5,1,1,high
+TP-QI-0211,27,20-29,F,Agra Cantt,282001,282XXX,Agra,Urinary Tract Infection,0,2025-05-03,2025-05-20,17,1,3,high
+TP-QI-0212,54,50-59,M,Chauri Chaura,273201,273XXX,Gorakhpur,Urinary Tract Infection,0,2024-01-25,2024-02-11,17,1,4,high
+TP-QI-0213,58,50-59,F,Unnao Rural,209801,209XXX,Unnao,Iron Deficiency Anemia,0,2025-10-08,2025-10-15,7,1,3,high
+TP-QI-0214,17,10-19,M,Unnao Rural,209801,209XXX,Unnao,Dengue Fever,0,2025-10-08,2025-10-20,12,1,5,high
+TP-QI-0215,84,80-89,F,Unnao Rural,209801,209XXX,Unnao,Type 2 Diabetes Mellitus,0,2025-04-23,2025-05-04,11,1,3,high
+TP-QI-0216,5,0-9,M,Prayagraj Civil Lines,211001,211XXX,Prayagraj,Porphyria cutanea tarda,1,2025-01-12,2025-01-24,12,1,4,high
+TP-QI-0217,18,10-19,F,Barabanki,225001,225XXX,Barabanki,Community Acquired Pneumonia,0,2025-02-19,2025-03-02,11,1,3,high
+TP-QI-0218,47,40-49,M,Barabanki,225001,225XXX,Barabanki,Dengue Fever,0,2024-11-10,2024-11-15,5,1,3,high
+TP-QI-0219,33,30-39,F,Bhitargaon,209209,209XXX,Kanpur Nagar,Iron Deficiency Anemia,0,2025-02-06,2025-02-21,15,1,4,high
+TP-QI-0220,39,30-39,M,Noida Sector 62,201309,201XXX,Gautam Buddha Nagar,Type 2 Diabetes Mellitus,0,2024-06-05,2024-06-16,11,1,2,high
+TP-QI-0221,1,0-9,F,Bareilly Urban,243001,243XXX,Bareilly,Acute Viral Gastroenteritis,0,2024-10-03,2024-10-14,11,1,5,high
+TP-QI-0222,68,60-69,M,Meerut City,250001,250XXX,Meerut,Iron Deficiency Anemia,0,2024-05-17,2024-05-23,6,1,2,high
+TP-QI-0223,5,0-9,F,Mohanlalganj,226301,226XXX,Lucknow,Type 2 Diabetes Mellitus,0,2025-08-23,2025-08-31,8,1,6,high
+TP-QI-0224,62,60-69,M,Agra Cantt,282001,282XXX,Agra,Visceral Leishmaniasis (Kala-azar),1,2024-10-30,2024-11-20,21,1,2,high
+TP-QI-0225,92,90-99,F,Bhitargaon,209209,209XXX,Kanpur Nagar,Type 2 Diabetes Mellitus,0,2024-04-27,2024-05-13,16,1,1,high
+TP-QI-0226,81,80-89,M,Barabanki,225001,225XXX,Barabanki,Acute Viral Gastroenteritis,0,2024-06-02,2024-06-11,9,1,2,high
+TP-QI-0227,18,10-19,F,Rampur Maniharan,247451,247XXX,Saharanpur,Essential Hypertension,0,2025-08-12,2025-08-13,1,1,3,high
+TP-QI-0228,89,80-89,M,Unnao Rural,209801,209XXX,Unnao,Community Acquired Pneumonia,0,2024-02-20,2024-02-28,8,1,4,high
+TP-QI-0229,43,40-49,F,Unnao Rural,209801,209XXX,Unnao,Iron Deficiency Anemia,0,2024-12-10,2024-12-11,1,1,3,high
+TP-QI-0230,68,60-69,M,Unnao Rural,209801,209XXX,Unnao,Iron Deficiency Anemia,0,2024-08-03,2024-08-10,7,1,1,high
+TP-QI-0231,92,90-99,F,Sitapur Khas,261001,261XXX,Sitapur,Type 2 Diabetes Mellitus,0,2024-11-02,2024-11-11,9,1,2,high
+TP-QI-0232,18,10-19,M,Meerut City,250001,250XXX,Meerut,Wilson's disease,1,2024-05-11,2024-05-14,3,1,3,high
+TP-QI-0233,36,30-39,F,Meerut City,250001,250XXX,Meerut,Type 2 Diabetes Mellitus,0,2025-09-20,2025-10-08,18,1,2,high
+TP-QI-0234,86,80-89,M,Prayagraj Civil Lines,211001,211XXX,Prayagraj,Type 2 Diabetes Mellitus,0,2025-04-02,2025-04-04,2,1,3,high
+TP-QI-0235,30,30-39,F,Rampur Maniharan,247451,247XXX,Saharanpur,Dengue Fever,0,2024-01-02,2024-01-09,7,1,3,high
+TP-QI-0236,76,70-79,M,Unnao Rural,209801,209XXX,Unnao,Dengue Fever,0,2024-02-20,2024-03-06,15,1,4,high
+TP-QI-0237,11,10-19,F,Sitapur Khas,261001,261XXX,Sitapur,Type 2 Diabetes Mellitus,0,2025-07-01,2025-07-13,12,1,2,high
+TP-QI-0238,65,60-69,M,Malihabad,226102,226XXX,Lucknow,Dengue Fever,0,2025-10-14,2025-10-23,9,1,8,high
+TP-QI-0239,73,70-79,F,Bareilly Urban,243001,243XXX,Bareilly,Enteric Fever (Typhoid),0,2025-03-10,2025-03-28,18,1,2,high
+TP-QI-0240,50,50-59,M,Kanpur Central,208001,208XXX,Kanpur Nagar,Porphyria cutanea tarda,1,2024-01-01,2024-01-08,7,1,8,high
+TP-QI-0241,90,90-99,F,Unnao Rural,209801,209XXX,Unnao,Community Acquired Pneumonia,0,2025-02-02,2025-02-18,16,1,1,high
+TP-QI-0242,81,80-89,M,Unnao Rural,209801,209XXX,Unnao,Acute Bronchitis,0,2025-02-20,2025-02-28,8,1,4,high
+TP-QI-0243,78,70-79,F,Barabanki,225001,225XXX,Barabanki,Acute Bronchitis,0,2024-07-22,2024-08-10,19,1,5,high
+TP-QI-0244,6,0-9,M,Khera Khurd,226101,226XXX,Lucknow,Acute Bronchitis,0,2025-05-16,2025-06-06,21,1,5,high
+TP-QI-0245,76,70-79,F,Bareilly Urban,243001,243XXX,Bareilly,Iron Deficiency Anemia,0,2024-03-03,2024-03-08,5,1,2,high
+TP-QI-0246,28,20-29,M,Varanasi Urban,221001,221XXX,Varanasi,Enteric Fever (Typhoid),0,2025-02-28,2025-03-17,17,1,2,high
+TP-QI-0247,46,40-49,F,Unnao Rural,209801,209XXX,Unnao,Essential Hypertension,0,2025-10-03,2025-10-17,14,1,3,high
+TP-QI-0248,52,50-59,M,Noida Sector 62,201309,201XXX,Gautam Buddha Nagar,Scrub typhus with meningoencephalitis,1,2025-02-22,2025-03-05,11,1,3,high
+TP-QI-0249,84,80-89,F,Bareilly Urban,243001,243XXX,Bareilly,Community Acquired Pneumonia,0,2024-04-07,2024-04-08,1,1,4,high
+TP-QI-0250,92,90-99,M,Kanpur Central,208001,208XXX,Kanpur Nagar,Acute Viral Gastroenteritis,0,2024-08-10,2024-08-23,13,1,2,high
+TP-QI-0251,71,70-79,F,Chauri Chaura,273201,273XXX,Gorakhpur,Iron Deficiency Anemia,0,2025-03-28,2025-04-05,8,1,2,high
+TP-QI-0252,70,70-79,M,Unnao Rural,209801,209XXX,Unnao,Type 2 Diabetes Mellitus,0,2025-10-13,2025-10-26,13,1,4,high
+TP-QI-0253,72,70-79,F,Bhitargaon,209209,209XXX,Kanpur Nagar,Enteric Fever (Typhoid),0,2025-06-22,2025-07-01,9,1,7,high
+TP-QI-0254,83,80-89,M,Bhitargaon,209209,209XXX,Kanpur Nagar,Acute Viral Gastroenteritis,0,2024-11-20,2024-11-23,3,1,6,high
+TP-QI-0255,4,0-9,F,Bareilly Urban,243001,243XXX,Bareilly,Acute Bronchitis,0,2024-11-20,2024-11-26,6,1,5,high
+TP-QI-0256,25,20-29,M,Bareilly Urban,243001,243XXX,Bareilly,Porphyria cutanea tarda,1,2025-08-01,2025-08-03,2,1,2,high
+TP-QI-0257,32,30-39,F,Varanasi Urban,221001,221XXX,Varanasi,Iron Deficiency Anemia,0,2025-04-16,2025-05-07,21,1,1,high
+TP-QI-0258,9,0-9,M,Unnao Rural,209801,209XXX,Unnao,Type 2 Diabetes Mellitus,0,2024-04-28,2024-04-30,2,1,5,high
+TP-QI-0259,18,10-19,F,Bareilly Urban,243001,243XXX,Bareilly,Dengue Fever,0,2024-06-10,2024-06-27,17,1,3,high
+TP-QI-0260,15,10-19,M,Bhitargaon,209209,209XXX,Kanpur Nagar,Iron Deficiency Anemia,0,2024-09-30,2024-10-12,12,1,4,high
+TP-QI-0261,2,0-9,F,Chauri Chaura,273201,273XXX,Gorakhpur,Essential Hypertension,0,2025-06-15,2025-06-26,11,1,4,high
+TP-QI-0262,12,10-19,M,Malihabad,226102,226XXX,Lucknow,Hypothyroidism,0,2025-10-02,2025-10-08,6,1,5,high
+TP-QI-0263,57,50-59,F,Rampur Maniharan,247451,247XXX,Saharanpur,Hypothyroidism,0,2025-04-10,2025-04-27,17,2,8,moderate
+TP-QI-0264,63,60-69,M,Prayagraj Civil Lines,211001,211XXX,Prayagraj,Wilson's disease,1,2024-07-19,2024-08-03,15,1,2,high
+TP-QI-0265,76,70-79,F,Kanpur Central,208001,208XXX,Kanpur Nagar,Dengue Fever,0,2025-06-18,2025-07-09,21,1,7,high
+TP-QI-0266,51,50-59,M,Bhitargaon,209209,209XXX,Kanpur Nagar,Urinary Tract Infection,0,2025-09-30,2025-10-12,12,1,8,high
+TP-QI-0267,54,50-59,F,Bhitargaon,209209,209XXX,Kanpur Nagar,Acute Bronchitis,0,2024-10-16,2024-11-02,17,1,3,high
+TP-QI-0268,3,0-9,M,Prayagraj Civil Lines,211001,211XXX,Prayagraj,Community Acquired Pneumonia,0,2025-01-26,2025-02-06,11,1,4,high
+TP-QI-0269,35,30-39,F,Prayagraj Civil Lines,211001,211XXX,Prayagraj,Iron Deficiency Anemia,0,2024-01-18,2024-01-29,11,1,2,high
+TP-QI-0270,56,50-59,M,Varanasi Urban,221001,221XXX,Varanasi,Type 2 Diabetes Mellitus,0,2025-02-08,2025-02-09,1,1,2,high
+TP-QI-0271,43,40-49,F,Meerut City,250001,250XXX,Meerut,Hypothyroidism,0,2025-06-28,2025-07-10,12,1,2,high
+TP-QI-0272,47,40-49,M,Noida Sector 62,201309,201XXX,Gautam Buddha Nagar,Scrub typhus with meningoencephalitis,1,2024-09-21,2024-09-26,5,1,3,high
+TP-QI-0273,22,20-29,F,Chauri Chaura,273201,273XXX,Gorakhpur,Acute Bronchitis,0,2025-11-08,2025-11-29,21,1,3,high
+TP-QI-0274,25,20-29,M,Mohanlalganj,226301,226XXX,Lucknow,Community Acquired Pneumonia,0,2024-09-03,2024-09-11,8,1,10,high
+TP-QI-0275,66,60-69,F,Barabanki,225001,225XXX,Barabanki,Dengue Fever,0,2024-09-03,2024-09-15,12,1,6,high
+TP-QI-0276,38,30-39,M,Varanasi Urban,221001,221XXX,Varanasi,Type 2 Diabetes Mellitus,0,2024-11-21,2024-12-12,21,1,2,high
+TP-QI-0277,72,70-79,F,Meerut City,250001,250XXX,Meerut,Urinary Tract Infection,0,2024-05-11,2024-05-27,16,1,5,high
+TP-QI-0278,85,80-89,M,Unnao Rural,209801,209XXX,Unnao,Acute Bronchitis,0,2024-03-27,2024-04-11,15,1,4,high
+TP-QI-0279,5,0-9,F,Khera Khurd,226101,226XXX,Lucknow,Acute Bronchitis,0,2024-07-31,2024-08-17,17,1,6,high
+TP-QI-0280,63,60-69,M,Chauri Chaura,273201,273XXX,Gorakhpur,Guillain-Barré syndrome,1,2025-05-31,2025-06-13,13,1,3,critical
+TP-QI-0281,47,40-49,F,Noida Sector 62,201309,201XXX,Gautam Buddha Nagar,Hypothyroidism,0,2025-10-17,2025-10-20,3,1,3,high
+TP-QI-0282,54,50-59,M,Kanpur Central,208001,208XXX,Kanpur Nagar,Dengue Fever,0,2025-04-04,2025-04-16,12,1,8,high
+TP-QI-0283,31,30-39,F,Bhitargaon,209209,209XXX,Kanpur Nagar,Iron Deficiency Anemia,0,2025-06-21,2025-07-12,21,1,4,high
+TP-QI-0284,2,0-9,M,Sitapur Khas,261001,261XXX,Sitapur,Enteric Fever (Typhoid),0,2025-02-07,2025-02-13,6,1,5,high
+TP-QI-0285,13,10-19,F,Varanasi Urban,221001,221XXX,Varanasi,Urinary Tract Infection,0,2025-01-03,2025-01-04,1,1,3,high
+TP-QI-0286,48,40-49,M,Malihabad,226102,226XXX,Lucknow,Urinary Tract Infection,0,2025-05-19,2025-05-25,6,1,11,high
+TP-QI-0287,21,20-29,F,Meerut City,250001,250XXX,Meerut,Dengue Fever,0,2025-06-24,2025-07-10,16,1,1,high
+TP-QI-0288,15,10-19,M,Sitapur Khas,261001,261XXX,Sitapur,Porphyria cutanea tarda,1,2024-08-28,2024-09-14,17,1,3,critical
+TP-QI-0289,5,0-9,F,Varanasi Urban,221001,221XXX,Varanasi,Community Acquired Pneumonia,0,2025-06-16,2025-06-30,14,1,4,high
+TP-QI-0290,53,50-59,M,Rampur Maniharan,247451,247XXX,Saharanpur,Enteric Fever (Typhoid),0,2024-06-07,2024-06-23,16,1,3,high
+TP-QI-0291,32,30-39,F,Malihabad,226102,226XXX,Lucknow,Hypothyroidism,0,2025-02-03,2025-02-14,11,1,4,high
+TP-QI-0292,24,20-29,M,Sitapur Khas,261001,261XXX,Sitapur,Iron Deficiency Anemia,0,2024-02-03,2024-02-17,14,1,1,high
+TP-QI-0293,70,70-79,F,Varanasi Urban,221001,221XXX,Varanasi,Urinary Tract Infection,0,2024-07-03,2024-07-23,20,1,2,high
+TP-QI-0294,84,80-89,M,Malihabad,226102,226XXX,Lucknow,Type 2 Diabetes Mellitus,0,2024-06-21,2024-06-27,6,1,3,high
+TP-QI-0295,72,70-79,F,Unnao Rural,209801,209XXX,Unnao,Iron Deficiency Anemia,0,2024-06-18,2024-06-26,8,1,3,high
+TP-QI-0296,11,10-19,M,Noida Sector 62,201309,201XXX,Gautam Buddha Nagar,Wilson's disease,1,2025-07-12,2025-07-16,4,1,5,high
+TP-QI-0297,21,20-29,F,Malihabad,226102,226XXX,Lucknow,Acute Bronchitis,0,2024-08-31,2024-09-09,9,1,7,high
+TP-QI-0298,63,60-69,M,Bhitargaon,209209,209XXX,Kanpur Nagar,Urinary Tract Infection,0,2024-05-20,2024-05-29,9,1,3,high
+TP-QI-0299,5,0-9,F,Khera Khurd,226101,226XXX,Lucknow,Urinary Tract Infection,0,2025-09-24,2025-10-12,18,1,6,high
+TP-QI-0300,57,50-59,M,Chauri Chaura,273201,273XXX,Gorakhpur,Urinary Tract Infection,0,2024-04-24,2024-05-13,19,1,4,high
+TP-QI-0301,24,20-29,F,Noida Sector 62,201309,201XXX,Gautam Buddha Nagar,Acute Bronchitis,0,2025-05-04,2025-05-08,4,1,1,high
+TP-QI-0302,12,10-19,M,Chauri Chaura,273201,273XXX,Gorakhpur,Type 2 Diabetes Mellitus,0,2025-09-28,2025-10-02,4,1,3,high
+TP-QI-0303,57,50-59,F,Mohanlalganj,226301,226XXX,Lucknow,Community Acquired Pneumonia,0,2024-07-01,2024-07-16,15,1,5,high
+TP-QI-0304,7,0-9,M,Bhitargaon,209209,209XXX,Kanpur Nagar,Wilson's disease,1,2024-04-15,2024-05-02,17,1,5,critical
+TP-QI-0305,84,80-89,F,Agra Cantt,282001,282XXX,Agra,Enteric Fever (Typhoid),0,2025-01-11,2025-01-22,11,1,3,high
+TP-QI-0306,57,50-59,M,Malihabad,226102,226XXX,Lucknow,Hypothyroidism,0,2025-05-08,2025-05-11,3,1,5,high
+TP-QI-0307,31,30-39,F,Sitapur Khas,261001,261XXX,Sitapur,Acute Bronchitis,0,2024-06-29,2024-07-06,7,1,1,high
+TP-QI-0308,47,40-49,M,Meerut City,250001,250XXX,Meerut,Acute Viral Gastroenteritis,0,2025-10-04,2025-10-18,14,1,2,high
+TP-QI-0309,80,80-89,F,Noida Sector 62,201309,201XXX,Gautam Buddha Nagar,Dengue Fever,0,2025-01-06,2025-01-14,8,1,3,high
+TP-QI-0310,48,40-49,M,Meerut City,250001,250XXX,Meerut,Enteric Fever (Typhoid),0,2024-02-13,2024-02-19,6,1,2,high
+TP-QI-0311,49,40-49,F,Meerut City,250001,250XXX,Meerut,Acute Viral Gastroenteritis,0,2025-03-10,2025-03-28,18,1,2,high
+TP-QI-0312,25,20-29,M,Khera Khurd,226101,226XXX,Lucknow,Takayasu arteritis,1,2024-10-22,2024-11-07,16,1,10,critical
+TP-QI-0313,82,80-89,F,Prayagraj Civil Lines,211001,211XXX,Prayagraj,Community Acquired Pneumonia,0,2025-05-17,2025-05-22,5,1,2,high
+TP-QI-0314,7,0-9,M,Bhitargaon,209209,209XXX,Kanpur Nagar,Iron Deficiency Anemia,0,2024-08-22,2024-08-30,8,1,5,high
+TP-QI-0315,92,90-99,F,Meerut City,250001,250XXX,Meerut,Essential Hypertension,0,2025-07-15,2025-07-24,9,1,2,high
+TP-QI-0316,40,40-49,M,Rampur Maniharan,247451,247XXX,Saharanpur,Acute Bronchitis,0,2024-05-07,2024-05-23,16,1,5,high
+TP-QI-0317,78,70-79,F,Agra Cantt,282001,282XXX,Agra,Acute Bronchitis,0,2025-04-26,2025-05-10,14,1,4,high
+TP-QI-0318,90,90-99,M,Agra Cantt,282001,282XXX,Agra,Type 2 Diabetes Mellitus,0,2024-03-22,2024-04-11,20,1,1,high
+TP-QI-0319,55,50-59,F,Rampur Maniharan,247451,247XXX,Saharanpur,Urinary Tract Infection,0,2025-02-13,2025-03-03,18,1,8,high
+TP-QI-0320,81,80-89,M,Khera Khurd,226101,226XXX,Lucknow,Scrub typhus with meningoencephalitis,1,2024-11-16,2024-11-23,7,1,3,critical
+TP-QI-0321,20,20-29,F,Barabanki,225001,225XXX,Barabanki,Acute Bronchitis,0,2024-03-24,2024-04-11,18,1,1,high
+TP-QI-0322,88,80-89,M,Bhitargaon,209209,209XXX,Kanpur Nagar,Urinary Tract Infection,0,2024-09-12,2024-09-18,6,1,6,high
+TP-QI-0323,15,10-19,F,Kanpur Central,208001,208XXX,Kanpur Nagar,Enteric Fever (Typhoid),0,2025-02-19,2025-03-02,11,1,5,high
+TP-QI-0324,4,0-9,M,Sitapur Khas,261001,261XXX,Sitapur,Enteric Fever (Typhoid),0,2024-12-20,2024-12-24,4,1,5,high
+TP-QI-0325,84,80-89,F,Khera Khurd,226101,226XXX,Lucknow,Hypothyroidism,0,2025-09-08,2025-09-20,12,1,8,high
+TP-QI-0326,45,40-49,M,Malihabad,226102,226XXX,Lucknow,Dengue Fever,0,2025-01-27,2025-02-08,12,1,11,high
+TP-QI-0327,80,80-89,F,Bhitargaon,209209,209XXX,Kanpur Nagar,Community Acquired Pneumonia,0,2025-04-03,2025-04-04,1,1,3,high
+TP-QI-0328,49,40-49,M,Sitapur Khas,261001,261XXX,Sitapur,Visceral Leishmaniasis (Kala-azar),1,2024-06-05,2024-06-22,17,1,1,critical
+TP-QI-0329,79,70-79,F,Prayagraj Civil Lines,211001,211XXX,Prayagraj,Essential Hypertension,0,2025-10-10,2025-10-12,2,1,1,high
+TP-QI-0330,89,80-89,M,Prayagraj Civil Lines,211001,211XXX,Prayagraj,Hypothyroidism,0,2024-06-04,2024-06-25,21,1,3,high
+TP-QI-0331,46,40-49,F,Barabanki,225001,225XXX,Barabanki,Urinary Tract Infection,0,2024-02-21,2024-02-22,1,1,2,high
+TP-QI-0332,16,10-19,M,Varanasi Urban,221001,221XXX,Varanasi,Community Acquired Pneumonia,0,2025-04-27,2025-05-10,13,1,3,high
+TP-QI-0333,73,70-79,F,Bhitargaon,209209,209XXX,Kanpur Nagar,Enteric Fever (Typhoid),0,2024-10-08,2024-10-26,18,1,7,high
+TP-QI-0334,49,40-49,M,Rampur Maniharan,247451,247XXX,Saharanpur,Acute Viral Gastroenteritis,0,2025-06-27,2025-06-29,2,1,5,high
+TP-QI-0335,52,50-59,F,Malihabad,226102,226XXX,Lucknow,Type 2 Diabetes Mellitus,0,2024-11-25,2024-12-07,12,1,5,high
+TP-QI-0336,43,40-49,M,Bhitargaon,209209,209XXX,Kanpur Nagar,Guillain-Barré syndrome,1,2024-11-01,2024-11-14,13,1,3,critical
+TP-QI-0337,13,10-19,F,Bareilly Urban,243001,243XXX,Bareilly,Urinary Tract Infection,0,2025-07-18,2025-07-26,8,1,3,high
+TP-QI-0338,49,40-49,M,Bareilly Urban,243001,243XXX,Bareilly,Iron Deficiency Anemia,0,2024-09-09,2024-09-23,14,1,3,high
+TP-QI-0339,15,10-19,F,Bareilly Urban,243001,243XXX,Bareilly,Community Acquired Pneumonia,0,2025-02-20,2025-03-08,16,1,3,high
+TP-QI-0340,83,80-89,M,Meerut City,250001,250XXX,Meerut,Acute Bronchitis,0,2025-10-29,2025-11-09,11,1,1,high
+TP-QI-0341,35,30-39,F,Agra Cantt,282001,282XXX,Agra,Enteric Fever (Typhoid),0,2024-01-06,2024-01-23,17,1,4,high
+TP-QI-0342,30,30-39,M,Noida Sector 62,201309,201XXX,Gautam Buddha Nagar,Iron Deficiency Anemia,0,2025-07-30,2025-08-15,16,1,2,high
+TP-QI-0343,82,80-89,F,Mohanlalganj,226301,226XXX,Lucknow,Acute Bronchitis,0,2025-08-27,2025-09-17,21,1,8,high
+TP-QI-0344,25,20-29,M,Malihabad,226102,226XXX,Lucknow,Porphyria cutanea tarda,1,2024-09-08,2024-09-21,13,1,10,critical
+TP-QI-0345,34,30-39,F,Agra Cantt,282001,282XXX,Agra,Enteric Fever (Typhoid),0,2024-02-15,2024-02-27,12,1,4,high
+TP-QI-0346,60,60-69,M,Malihabad,226102,226XXX,Lucknow,Hypothyroidism,0,2024-03-20,2024-04-08,19,1,8,high
+TP-QI-0347,68,60-69,F,Prayagraj Civil Lines,211001,211XXX,Prayagraj,Acute Bronchitis,0,2024-07-09,2024-07-15,6,1,4,high
+TP-QI-0348,84,80-89,M,Prayagraj Civil Lines,211001,211XXX,Prayagraj,Acute Bronchitis,0,2024-12-03,2024-12-04,1,1,3,high
+TP-QI-0349,82,80-89,F,Kanpur Central,208001,208XXX,Kanpur Nagar,Type 2 Diabetes Mellitus,0,2024-12-28,2025-01-18,21,1,3,high
+TP-QI-0350,59,50-59,M,Unnao Rural,209801,209XXX,Unnao,Hypothyroidism,0,2025-10-03,2025-10-20,17,1,2,high
+TP-QI-0351,9,0-9,F,Rampur Maniharan,247451,247XXX,Saharanpur,Iron Deficiency Anemia,0,2024-12-27,2025-01-10,14,1,1,high
+TP-QI-0352,65,60-69,M,Sitapur Khas,261001,261XXX,Sitapur,Takayasu arteritis,1,2025-03-17,2025-04-01,15,1,1,critical
+TP-QI-0353,79,70-79,F,Chauri Chaura,273201,273XXX,Gorakhpur,Hypothyroidism,0,2024-04-20,2024-05-08,18,1,2,high
+TP-QI-0354,20,20-29,M,Unnao Rural,209801,209XXX,Unnao,Urinary Tract Infection,0,2024-04-22,2024-05-05,13,1,3,high
+TP-QI-0355,19,10-19,F,Varanasi Urban,221001,221XXX,Varanasi,Urinary Tract Infection,0,2024-04-27,2024-04-28,1,1,3,high
+TP-QI-0356,79,70-79,M,Agra Cantt,282001,282XXX,Agra,Type 2 Diabetes Mellitus,0,2024-08-11,2024-08-29,18,1,4,high
+TP-QI-0357,66,60-69,F,Barabanki,225001,225XXX,Barabanki,Acute Viral Gastroenteritis,0,2024-07-03,2024-07-10,7,1,6,high
+TP-QI-0358,48,40-49,M,Agra Cantt,282001,282XXX,Agra,Urinary Tract Infection,0,2025-05-26,2025-06-11,16,1,5,high
+TP-QI-0359,51,50-59,F,Rampur Maniharan,247451,247XXX,Saharanpur,Iron Deficiency Anemia,0,2024-09-30,2024-10-17,17,1,8,high
+TP-QI-0360,1,0-9,M,Sitapur Khas,261001,261XXX,Sitapur,Takayasu arteritis,1,2024-05-23,2024-06-08,16,1,5,critical
+TP-QI-0361,28,20-29,F,Varanasi Urban,221001,221XXX,Varanasi,Acute Bronchitis,0,2025-02-15,2025-02-28,13,1,3,high
+TP-QI-0362,30,30-39,M,Malihabad,226102,226XXX,Lucknow,Enteric Fever (Typhoid),0,2024-03-21,2024-03-28,7,1,7,high
+TP-QI-0363,68,60-69,F,Unnao Rural,209801,209XXX,Unnao,Iron Deficiency Anemia,0,2024-10-06,2024-10-20,14,1,2,high
+TP-QI-0364,87,80-89,M,Bhitargaon,209209,209XXX,Kanpur Nagar,Enteric Fever (Typhoid),0,2024-07-12,2024-08-01,20,2,6,moderate
+TP-QI-0365,66,60-69,F,Chauri Chaura,273201,273XXX,Gorakhpur,Acute Viral Gastroenteritis,0,2025-09-15,2025-10-03,18,1,3,high
+TP-QI-0366,79,70-79,M,Prayagraj Civil Lines,211001,211XXX,Prayagraj,Community Acquired Pneumonia,0,2025-05-02,2025-05-07,5,1,4,high
+TP-QI-0367,92,90-99,F,Bareilly Urban,243001,243XXX,Bareilly,Hypothyroidism,0,2025-04-15,2025-05-02,17,1,2,high
+TP-QI-0368,52,50-59,M,Agra Cantt,282001,282XXX,Agra,Porphyria cutanea tarda,1,2024-08-24,2024-09-07,14,1,5,high
+TP-QI-0369,85,80-89,F,Chauri Chaura,273201,273XXX,Gorakhpur,Acute Viral Gastroenteritis,0,2025-02-01,2025-02-12,11,1,4,high
+TP-QI-0370,15,10-19,M,Noida Sector 62,201309,201XXX,Gautam Buddha Nagar,Urinary Tract Infection,0,2025-04-28,2025-04-29,1,1,5,high
+TP-QI-0371,53,50-59,F,Chauri Chaura,273201,273XXX,Gorakhpur,Urinary Tract Infection,0,2024-08-06,2024-08-19,13,1,2,high
+TP-QI-0372,90,90-99,M,Malihabad,226102,226XXX,Lucknow,Essential Hypertension,0,2024-11-19,2024-11-22,3,1,4,high
+TP-QI-0373,71,70-79,F,Varanasi Urban,221001,221XXX,Varanasi,Community Acquired Pneumonia,0,2025-09-13,2025-09-26,13,1,2,high
+TP-QI-0374,78,70-79,M,Bareilly Urban,243001,243XXX,Bareilly,Enteric Fever (Typhoid),0,2024-12-21,2025-01-01,11,1,6,high
+TP-QI-0375,30,30-39,F,Meerut City,250001,250XXX,Meerut,Urinary Tract Infection,0,2024-09-10,2024-09-28,18,1,2,high
+TP-QI-0376,77,70-79,M,Sitapur Khas,261001,261XXX,Sitapur,Guillain-Barré syndrome,1,2025-06-07,2025-06-19,12,1,3,critical
+TP-QI-0377,61,60-69,F,Rampur Maniharan,247451,247XXX,Saharanpur,Enteric Fever (Typhoid),0,2024-09-02,2024-09-10,8,1,3,high
+TP-QI-0378,40,40-49,M,Malihabad,226102,226XXX,Lucknow,Acute Bronchitis,0,2025-03-17,2025-03-30,13,1,11,high
+TP-QI-0379,3,0-9,F,Unnao Rural,209801,209XXX,Unnao,Acute Bronchitis,0,2024-12-01,2024-12-02,1,1,2,high
+TP-QI-0380,43,40-49,M,Bareilly Urban,243001,243XXX,Bareilly,Essential Hypertension,0,2025-04-12,2025-04-27,15,1,3,high
+TP-QI-0381,72,70-79,F,Kanpur Central,208001,208XXX,Kanpur Nagar,Acute Bronchitis,0,2024-12-18,2024-12-24,6,1,7,high
+TP-QI-0382,71,70-79,M,Barabanki,225001,225XXX,Barabanki,Enteric Fever (Typhoid),0,2025-08-10,2025-08-26,16,1,2,high
+TP-QI-0383,57,50-59,F,Rampur Maniharan,247451,247XXX,Saharanpur,Dengue Fever,0,2024-08-22,2024-09-08,17,1,8,high
+TP-QI-0384,1,0-9,M,Sitapur Khas,261001,261XXX,Sitapur,Visceral Leishmaniasis (Kala-azar),1,2024-09-08,2024-09-16,8,1,5,critical
+TP-QI-0385,57,50-59,F,Rampur Maniharan,247451,247XXX,Saharanpur,Hypothyroidism,0,2024-04-15,2024-04-29,14,2,8,moderate
+TP-QI-0386,90,90-99,M,Barabanki,225001,225XXX,Barabanki,Community Acquired Pneumonia,0,2024-05-06,2024-05-07,1,1,1,high
+TP-QI-0387,62,60-69,F,Bareilly Urban,243001,243XXX,Bareilly,Hypothyroidism,0,2024-11-30,2024-12-14,14,1,2,high
+TP-QI-0388,36,30-39,M,Prayagraj Civil Lines,211001,211XXX,Prayagraj,Enteric Fever (Typhoid),0,2025-10-13,2025-10-27,14,1,1,high
+TP-QI-0389,87,80-89,F,Chauri Chaura,273201,273XXX,Gorakhpur,Type 2 Diabetes Mellitus,0,2024-05-18,2024-06-06,19,1,4,high
+TP-QI-0390,63,60-69,M,Agra Cantt,282001,282XXX,Agra,Urinary Tract Infection,0,2025-01-14,2025-02-04,21,1,2,high
+TP-QI-0391,40,40-49,F,Malihabad,226102,226XXX,Lucknow,Urinary Tract Infection,0,2025-06-16,2025-06-17,1,1,4,high
+TP-QI-0392,49,40-49,M,Khera Khurd,226101,226XXX,Lucknow,Takayasu arteritis,1,2024-03-05,2024-03-24,19,1,11,critical
+TP-QI-0393,37,30-39,F,Unnao Rural,209801,209XXX,Unnao,Dengue Fever,0,2025-07-05,2025-07-10,5,1,3,high
+TP-QI-0394,20,20-29,M,Rampur Maniharan,247451,247XXX,Saharanpur,Community Acquired Pneumonia,0,2024-01-04,2024-01-16,12,1,3,high
+TP-QI-0395,18,10-19,F,Prayagraj Civil Lines,211001,211XXX,Prayagraj,Community Acquired Pneumonia,0,2024-01-30,2024-02-03,4,1,5,high
+TP-QI-0396,5,0-9,M,Noida Sector 62,201309,201XXX,Gautam Buddha Nagar,Hypothyroidism,0,2024-07-13,2024-07-30,17,1,2,high
+TP-QI-0397,77,70-79,F,Barabanki,225001,225XXX,Barabanki,Hypothyroidism,0,2024-10-01,2024-10-09,8,1,5,high
+TP-QI-0398,76,70-79,M,Prayagraj Civil Lines,211001,211XXX,Prayagraj,Enteric Fever (Typhoid),0,2024-05-19,2024-06-01,13,1,4,high
+TP-QI-0399,82,80-89,F,Meerut City,250001,250XXX,Meerut,Essential Hypertension,0,2024-06-20,2024-07-06,16,1,2,high
+TP-QI-0400,14,10-19,M,Prayagraj Civil Lines,211001,211XXX,Prayagraj,Takayasu arteritis,1,2025-01-25,2025-02-06,12,1,3,high
+TP-QI-0401,23,20-29,F,Unnao Rural,209801,209XXX,Unnao,Urinary Tract Infection,0,2024-10-28,2024-11-13,16,1,4,high
+TP-QI-0402,10,10-19,M,Meerut City,250001,250XXX,Meerut,Dengue Fever,0,2024-09-28,2024-10-14,16,1,3,high
+TP-QI-0403,39,30-39,F,Bareilly Urban,243001,243XXX,Bareilly,Type 2 Diabetes Mellitus,0,2024-04-29,2024-04-30,1,1,4,high
+TP-QI-0404,28,20-29,M,Malihabad,226102,226XXX,Lucknow,Acute Bronchitis,0,2025-05-12,2025-05-28,16,1,10,high
+TP-QI-0405,85,80-89,F,Sitapur Khas,261001,261XXX,Sitapur,Essential Hypertension,0,2024-02-24,2024-03-09,14,2,4,moderate
+TP-QI-0406,12,10-19,M,Bareilly Urban,243001,243XXX,Bareilly,Type 2 Diabetes Mellitus,0,2024-09-24,2024-10-04,10,1,2,high
+TP-QI-0407,80,80-89,F,Bareilly Urban,243001,243XXX,Bareilly,Iron Deficiency Anemia,0,2024-03-23,2024-04-03,11,1,4,high
+TP-QI-0408,21,20-29,M,Khera Khurd,226101,226XXX,Lucknow,Takayasu arteritis,1,2025-08-05,2025-08-23,18,1,10,critical
+TP-QI-0409,75,70-79,F,Bhitargaon,209209,209XXX,Kanpur Nagar,Acute Bronchitis,0,2024-11-19,2024-11-23,4,1,7,high
+TP-QI-0410,4,0-9,M,Sitapur Khas,261001,261XXX,Sitapur,Acute Bronchitis,0,2024-08-03,2024-08-08,5,1,5,high
+TP-QI-0411,1,0-9,F,Bareilly Urban,243001,243XXX,Bareilly,Hypothyroidism,0,2024-12-14,2024-12-19,5,1,5,high
+TP-QI-0412,68,60-69,M,Kanpur Central,208001,208XXX,Kanpur Nagar,Hypothyroidism,0,2024-08-24,2024-09-12,19,1,3,high
+TP-QI-0413,6,0-9,F,Chauri Chaura,273201,273XXX,Gorakhpur,Acute Viral Gastroenteritis,0,2025-07-31,2025-08-14,14,1,4,high
+TP-QI-0414,36,30-39,M,Khera Khurd,226101,226XXX,Lucknow,Community Acquired Pneumonia,0,2025-02-27,2025-03-02,3,1,7,high
+TP-QI-0415,18,10-19,F,Varanasi Urban,221001,221XXX,Varanasi,Hypothyroidism,0,2024-06-25,2024-07-07,12,1,3,high
+TP-QI-0416,76,70-79,M,Barabanki,225001,225XXX,Barabanki,Visceral Leishmaniasis (Kala-azar),1,2025-08-05,2025-08-17,12,1,2,high
+TP-QI-0417,27,20-29,F,Mohanlalganj,226301,226XXX,Lucknow,Acute Viral Gastroenteritis,0,2024-10-18,2024-10-28,10,1,7,high
+TP-QI-0418,52,50-59,M,Chauri Chaura,273201,273XXX,Gorakhpur,Dengue Fever,0,2024-09-13,2024-10-01,18,1,4,high
+TP-QI-0419,46,40-49,F,Noida Sector 62,201309,201XXX,Gautam Buddha Nagar,Iron Deficiency Anemia,0,2025-09-03,2025-09-19,16,1,3,high
+TP-QI-0420,57,50-59,M,Khera Khurd,226101,226XXX,Lucknow,Dengue Fever,0,2024-12-18,2024-12-29,11,1,5,high
+TP-QI-0421,57,50-59,F,Rampur Maniharan,247451,247XXX,Saharanpur,Community Acquired Pneumonia,0,2024-02-09,2024-02-14,5,1,8,high
+TP-QI-0422,1,0-9,M,Meerut City,250001,250XXX,Meerut,Enteric Fever (Typhoid),0,2025-08-25,2025-09-09,15,1,4,high
+TP-QI-0423,88,80-89,F,Chauri Chaura,273201,273XXX,Gorakhpur,Acute Viral Gastroenteritis,0,2025-02-09,2025-02-26,17,1,4,high
+TP-QI-0424,22,20-29,M,Unnao Rural,209801,209XXX,Unnao,Porphyria cutanea tarda,1,2024-07-15,2024-08-04,20,2,3,critical
+TP-QI-0425,81,80-89,F,Mohanlalganj,226301,226XXX,Lucknow,Acute Bronchitis,0,2024-04-04,2024-04-07,3,1,8,high
+TP-QI-0426,6,0-9,M,Rampur Maniharan,247451,247XXX,Saharanpur,Acute Viral Gastroenteritis,0,2024-10-31,2024-11-01,1,1,4,high
+TP-QI-0427,88,80-89,F,Malihabad,226102,226XXX,Lucknow,Acute Viral Gastroenteritis,0,2025-06-04,2025-06-16,12,1,8,high
+TP-QI-0428,76,70-79,M,Varanasi Urban,221001,221XXX,Varanasi,Iron Deficiency Anemia,0,2024-03-26,2024-03-29,3,1,2,high
+TP-QI-0429,73,70-79,F,Barabanki,225001,225XXX,Barabanki,Community Acquired Pneumonia,0,2025-10-29,2025-11-13,15,1,5,high
+TP-QI-0430,33,30-39,M,Khera Khurd,226101,226XXX,Lucknow,Dengue Fever,0,2024-06-23,2024-06-30,7,1,7,high
+TP-QI-0431,68,60-69,F,Meerut City,250001,250XXX,Meerut,Hypothyroidism,0,2025-01-29,2025-02-08,10,1,2,high
+TP-QI-0432,9,0-9,M,Rampur Maniharan,247451,247XXX,Saharanpur,Scrub typhus with meningoencephalitis,1,2025-03-11,2025-03-14,3,1,4,critical
+TP-QI-0433,27,20-29,F,Agra Cantt,282001,282XXX,Agra,Enteric Fever (Typhoid),0,2024-07-23,2024-08-13,21,1,3,high
+TP-QI-0434,55,50-59,M,Noida Sector 62,201309,201XXX,Gautam Buddha Nagar,Enteric Fever (Typhoid),0,2025-07-09,2025-07-29,20,1,3,high
+TP-QI-0435,61,60-69,F,Prayagraj Civil Lines,211001,211XXX,Prayagraj,Acute Bronchitis,0,2024-10-06,2024-10-15,9,1,4,high
+TP-QI-0436,11,10-19,M,Bareilly Urban,243001,243XXX,Bareilly,Dengue Fever,0,2024-12-16,2024-12-27,11,1,2,high
+TP-QI-0437,24,20-29,F,Varanasi Urban,221001,221XXX,Varanasi,Type 2 Diabetes Mellitus,0,2024-04-19,2024-05-10,21,1,3,high
+TP-QI-0438,65,60-69,M,Khera Khurd,226101,226XXX,Lucknow,Type 2 Diabetes Mellitus,0,2025-03-11,2025-03-24,13,1,8,high
+TP-QI-0439,67,60-69,F,Prayagraj Civil Lines,211001,211XXX,Prayagraj,Enteric Fever (Typhoid),0,2024-05-31,2024-06-18,18,1,4,high
+TP-QI-0440,6,0-9,M,Noida Sector 62,201309,201XXX,Gautam Buddha Nagar,Porphyria cutanea tarda,1,2024-08-21,2024-08-25,4,1,2,high
+TP-QI-0441,21,20-29,F,Unnao Rural,209801,209XXX,Unnao,Type 2 Diabetes Mellitus,0,2025-01-20,2025-02-05,16,1,4,high
+TP-QI-0442,53,50-59,M,Meerut City,250001,250XXX,Meerut,Essential Hypertension,0,2024-02-17,2024-02-27,10,1,2,high
+TP-QI-0443,20,20-29,F,Mohanlalganj,226301,226XXX,Lucknow,Urinary Tract Infection,0,2025-07-29,2025-08-09,11,1,7,high
+TP-QI-0444,17,10-19,M,Prayagraj Civil Lines,211001,211XXX,Prayagraj,Hypothyroidism,0,2024-05-17,2024-06-05,19,1,3,high
+TP-QI-0445,13,10-19,F,Prayagraj Civil Lines,211001,211XXX,Prayagraj,Enteric Fever (Typhoid),0,2025-08-18,2025-09-01,14,1,5,high
+TP-QI-0446,25,20-29,M,Rampur Maniharan,247451,247XXX,Saharanpur,Type 2 Diabetes Mellitus,0,2024-11-02,2024-11-13,11,1,3,high
+TP-QI-0447,38,30-39,F,Mohanlalganj,226301,226XXX,Lucknow,Acute Bronchitis,0,2025-10-01,2025-10-14,13,1,4,high
+TP-QI-0448,54,50-59,M,Malihabad,226102,226XXX,Lucknow,Myasthenia gravis,1,2025-04-04,2025-04-15,11,1,5,critical
+TP-QI-0449,16,10-19,F,Meerut City,250001,250XXX,Meerut,Essential Hypertension,0,2024-01-30,2024-02-16,17,1,4,high
+TP-QI-0450,9,0-9,M,Meerut City,250001,250XXX,Meerut,Enteric Fever (Typhoid),0,2025-03-31,2025-04-16,16,1,4,high
+TP-QI-0451,78,70-79,F,Agra Cantt,282001,282XXX,Agra,Acute Viral Gastroenteritis,0,2025-09-22,2025-10-04,12,2,4,moderate
+TP-QI-0452,51,50-59,M,Bhitargaon,209209,209XXX,Kanpur Nagar,Iron Deficiency Anemia,0,2024-08-12,2024-08-24,12,1,8,high
+TP-QI-0453,41,40-49,F,Bhitargaon,209209,209XXX,Kanpur Nagar,Community Acquired Pneumonia,0,2024-04-07,2024-04-21,14,1,2,high
+TP-QI-0454,45,40-49,M,Chauri Chaura,273201,273XXX,Gorakhpur,Hypothyroidism,0,2024-07-17,2024-07-22,5,1,1,high
+TP-QI-0455,34,30-39,F,Prayagraj Civil Lines,211001,211XXX,Prayagraj,Iron Deficiency Anemia,0,2024-01-10,2024-01-24,14,1,2,high
+TP-QI-0456,17,10-19,M,Bhitargaon,209209,209XXX,Kanpur Nagar,Porphyria cutanea tarda,1,2025-08-04,2025-08-19,15,1,4,critical
+TP-QI-0457,63,60-69,F,Sitapur Khas,261001,261XXX,Sitapur,Urinary Tract Infection,0,2024-08-14,2024-08-31,17,1,2,high
+TP-QI-0458,43,40-49,M,Malihabad,226102,226XXX,Lucknow,Enteric Fever (Typhoid),0,2025-09-14,2025-09-26,12,1,11,high
+TP-QI-0459,14,10-19,F,Khera Khurd,226101,226XXX,Lucknow,Urinary Tract Infection,0,2024-08-02,2024-08-04,2,1,4,high
+TP-QI-0460,79,70-79,M,Unnao Rural,209801,209XXX,Unnao,Dengue Fever,0,2025-04-20,2025-05-08,18,1,4,high
+TP-QI-0461,39,30-39,F,Bareilly Urban,243001,243XXX,Bareilly,Urinary Tract Infection,0,2024-05-12,2024-05-24,12,1,4,high
+TP-QI-0462,63,60-69,M,Kanpur Central,208001,208XXX,Kanpur Nagar,Acute Bronchitis,0,2025-10-11,2025-10-14,3,1,3,high
+TP-QI-0463,11,10-19,F,Rampur Maniharan,247451,247XXX,Saharanpur,Urinary Tract Infection,0,2025-09-16,2025-10-05,19,1,3,high
+TP-QI-0464,67,60-69,M,Noida Sector 62,201309,201XXX,Gautam Buddha Nagar,Wilson's disease,1,2025-01-05,2025-01-19,14,1,2,high
+TP-QI-0465,14,10-19,F,Sitapur Khas,261001,261XXX,Sitapur,Dengue Fever,0,2024-07-01,2024-07-04,3,1,2,high
+TP-QI-0466,85,80-89,M,Noida Sector 62,201309,201XXX,Gautam Buddha Nagar,Dengue Fever,0,2025-06-12,2025-06-21,9,1,2,high
+TP-QI-0467,51,50-59,F,Rampur Maniharan,247451,247XXX,Saharanpur,Essential Hypertension,0,2024-01-29,2024-02-11,13,1,8,high
+TP-QI-0468,26,20-29,M,Meerut City,250001,250XXX,Meerut,Type 2 Diabetes Mellitus,0,2024-03-25,2024-04-13,19,1,3,high
+TP-QI-0469,24,20-29,F,Rampur Maniharan,247451,247XXX,Saharanpur,Type 2 Diabetes Mellitus,0,2025-09-09,2025-09-16,7,1,3,high
+TP-QI-0470,79,70-79,M,Bareilly Urban,243001,243XXX,Bareilly,Iron Deficiency Anemia,0,2024-11-14,2024-12-03,19,1,6,high
+TP-QI-0471,2,0-9,F,Bhitargaon,209209,209XXX,Kanpur Nagar,Enteric Fever (Typhoid),0,2024-11-15,2024-11-21,6,1,3,high
+TP-QI-0472,18,10-19,M,Noida Sector 62,201309,201XXX,Gautam Buddha Nagar,Visceral Leishmaniasis (Kala-azar),1,2025-09-30,2025-10-14,14,1,5,high
+TP-QI-0473,38,30-39,F,Kanpur Central,208001,208XXX,Kanpur Nagar,Dengue Fever,0,2024-09-20,2024-09-23,3,1,4,high
+TP-QI-0474,58,50-59,M,Bhitargaon,209209,209XXX,Kanpur Nagar,Acute Viral Gastroenteritis,0,2024-01-14,2024-02-03,20,1,8,high
+TP-QI-0475,69,60-69,F,Barabanki,225001,225XXX,Barabanki,Community Acquired Pneumonia,0,2024-04-10,2024-04-23,13,1,6,high
+TP-QI-0476,77,70-79,M,Unnao Rural,209801,209XXX,Unnao,Enteric Fever (Typhoid),0,2024-02-17,2024-02-20,3,1,4,high
+TP-QI-0477,86,80-89,F,Bareilly Urban,243001,243XXX,Bareilly,Dengue Fever,0,2024-02-20,2024-02-26,6,1,4,high
+TP-QI-0478,61,60-69,M,Mohanlalganj,226301,226XXX,Lucknow,Enteric Fever (Typhoid),0,2025-05-25,2025-05-29,4,1,8,high
+TP-QI-0479,88,80-89,F,Noida Sector 62,201309,201XXX,Gautam Buddha Nagar,Hypothyroidism,0,2025-02-05,2025-02-19,14,1,3,high
+TP-QI-0480,23,20-29,M,Varanasi Urban,221001,221XXX,Varanasi,Visceral Leishmaniasis (Kala-azar),1,2024-05-25,2024-06-03,9,1,2,high
+TP-QI-0481,17,10-19,F,Prayagraj Civil Lines,211001,211XXX,Prayagraj,Type 2 Diabetes Mellitus,0,2024-03-13,2024-03-16,3,1,5,high
+TP-QI-0482,41,40-49,M,Agra Cantt,282001,282XXX,Agra,Type 2 Diabetes Mellitus,0,2024-02-09,2024-02-14,5,1,5,high
+TP-QI-0483,21,20-29,F,Agra Cantt,282001,282XXX,Agra,Acute Viral Gastroenteritis,0,2025-06-22,2025-06-24,2,1,3,high
+TP-QI-0484,41,40-49,M,Mohanlalganj,226301,226XXX,Lucknow,Urinary Tract Infection,0,2025-07-07,2025-07-17,10,1,11,high
+TP-QI-0485,19,10-19,F,Agra Cantt,282001,282XXX,Agra,Iron Deficiency Anemia,0,2025-06-13,2025-06-19,6,1,3,high
+TP-QI-0486,48,40-49,M,Malihabad,226102,226XXX,Lucknow,Hypothyroidism,0,2024-08-15,2024-08-31,16,1,11,high
+TP-QI-0487,49,40-49,F,Barabanki,225001,225XXX,Barabanki,Community Acquired Pneumonia,0,2025-08-09,2025-08-18,9,1,2,high
+TP-QI-0488,9,0-9,M,Unnao Rural,209801,209XXX,Unnao,Wilson's disease,1,2024-04-13,2024-04-24,11,1,5,critical
+TP-QI-0489,86,80-89,F,Malihabad,226102,226XXX,Lucknow,Acute Viral Gastroenteritis,0,2025-02-08,2025-02-20,12,1,8,high
+TP-QI-0490,23,20-29,M,Rampur Maniharan,247451,247XXX,Saharanpur,Essential Hypertension,0,2024-10-05,2024-10-18,13,1,3,high
+TP-QI-0491,69,60-69,F,Agra Cantt,282001,282XXX,Agra,Urinary Tract Infection,0,2025-06-05,2025-06-20,15,1,2,high
+TP-QI-0492,89,80-89,M,Barabanki,225001,225XXX,Barabanki,Community Acquired Pneumonia,0,2024-01-06,2024-01-16,10,1,2,high
+TP-QI-0493,70,70-79,F,Meerut City,250001,250XXX,Meerut,Community Acquired Pneumonia,0,2024-11-16,2024-12-04,18,1,5,high
+TP-QI-0494,48,40-49,M,Rampur Maniharan,247451,247XXX,Saharanpur,Dengue Fever,0,2024-01-08,2024-01-13,5,1,5,high
+TP-QI-0495,91,90-99,F,Bareilly Urban,243001,243XXX,Bareilly,Urinary Tract Infection,0,2025-03-09,2025-03-18,9,1,2,high
+TP-QI-0496,14,10-19,M,Varanasi Urban,221001,221XXX,Varanasi,Visceral Leishmaniasis (Kala-azar),1,2025-02-23,2025-03-10,15,1,3,high
+TP-QI-0497,75,70-79,F,Noida Sector 62,201309,201XXX,Gautam Buddha Nagar,Enteric Fever (Typhoid),0,2024-12-01,2024-12-16,15,1,1,high
+TP-QI-0498,16,10-19,M,Varanasi Urban,221001,221XXX,Varanasi,Dengue Fever,0,2024-10-23,2024-10-27,4,1,3,high
+TP-QI-0499,4,0-9,F,Varanasi Urban,221001,221XXX,Varanasi,Acute Bronchitis,0,2024-02-12,2024-03-04,21,1,4,high
+TP-QI-0500,15,10-19,M,Unnao Rural,209801,209XXX,Unnao,Urinary Tract Infection,0,2025-05-17,2025-06-05,19,1,5,high
+TP-QI-0501,7,0-9,F,Varanasi Urban,221001,221XXX,Varanasi,Hypothyroidism,0,2024-12-03,2024-12-16,13,1,4,high
+TP-QI-0502,50,50-59,M,Unnao Rural,209801,209XXX,Unnao,Urinary Tract Infection,0,2024-05-10,2024-05-18,8,1,2,high
+TP-QI-0503,75,70-79,F,Sitapur Khas,261001,261XXX,Sitapur,Iron Deficiency Anemia,0,2024-12-25,2025-01-04,10,1,1,high
+TP-QI-0504,1,0-9,M,Malihabad,226102,226XXX,Lucknow,Takayasu arteritis,1,2024-01-22,2024-02-06,15,1,5,critical
+TP-QI-0505,81,80-89,F,Kanpur Central,208001,208XXX,Kanpur Nagar,Acute Bronchitis,0,2024-05-12,2024-05-14,2,1,3,high
+TP-QI-0506,10,10-19,M,Noida Sector 62,201309,201XXX,Gautam Buddha Nagar,Urinary Tract Infection,0,2025-03-03,2025-03-13,10,1,5,high
+TP-QI-0507,67,60-69,F,Bhitargaon,209209,209XXX,Kanpur Nagar,Essential Hypertension,0,2025-03-01,2025-03-02,1,1,3,high
+TP-QI-0508,79,70-79,M,Meerut City,250001,250XXX,Meerut,Hypothyroidism,0,2024-12-18,2024-12-20,2,1,1,high
+TP-QI-0509,58,50-59,F,Agra Cantt,282001,282XXX,Agra,Dengue Fever,0,2024-06-12,2024-06-26,14,1,1,high
+TP-QI-0510,71,70-79,M,Bareilly Urban,243001,243XXX,Bareilly,Hypothyroidism,0,2025-05-29,2025-06-11,13,1,6,high
+TP-QI-0511,39,30-39,F,Unnao Rural,209801,209XXX,Unnao,Type 2 Diabetes Mellitus,0,2024-02-19,2024-02-20,1,1,3,high
+TP-QI-0512,39,30-39,M,Khera Khurd,226101,226XXX,Lucknow,Guillain-Barré syndrome,1,2024-09-09,2024-09-12,3,1,7,critical
+TP-QI-0513,40,40-49,F,Varanasi Urban,221001,221XXX,Varanasi,Enteric Fever (Typhoid),0,2024-05-17,2024-05-31,14,1,1,high
+TP-QI-0514,45,40-49,M,Barabanki,225001,225XXX,Barabanki,Essential Hypertension,0,2024-01-16,2024-01-22,6,1,3,high
+TP-QI-0515,65,60-69,F,Khera Khurd,226101,226XXX,Lucknow,Dengue Fever,0,2025-01-16,2025-01-27,11,1,3,high
+TP-QI-0516,90,90-99,M,Bhitargaon,209209,209XXX,Kanpur Nagar,Type 2 Diabetes Mellitus,0,2024-05-08,2024-05-12,4,1,2,high
+TP-QI-0517,75,70-79,F,Meerut City,250001,250XXX,Meerut,Acute Bronchitis,0,2025-06-23,2025-07-08,15,1,5,high
+TP-QI-0518,8,0-9,M,Prayagraj Civil Lines,211001,211XXX,Prayagraj,Enteric Fever (Typhoid),0,2024-11-02,2024-11-23,21,1,4,high
+TP-QI-0519,52,50-59,F,Barabanki,225001,225XXX,Barabanki,Community Acquired Pneumonia,0,2024-11-16,2024-11-27,11,1,1,high
+TP-QI-0520,52,50-59,M,Barabanki,225001,225XXX,Barabanki,Myasthenia gravis,1,2025-09-18,2025-09-19,1,1,2,high
+TP-QI-0521,4,0-9,F,Agra Cantt,282001,282XXX,Agra,Acute Bronchitis,0,2025-03-24,2025-04-07,14,1,2,high
+TP-QI-0522,63,60-69,M,Prayagraj Civil Lines,211001,211XXX,Prayagraj,Acute Bronchitis,0,2024-05-28,2024-06-02,5,1,2,high
+TP-QI-0523,67,60-69,F,Rampur Maniharan,247451,247XXX,Saharanpur,Urinary Tract Infection,0,2024-05-16,2024-06-01,16,1,3,high
+TP-QI-0524,6,0-9,M,Chauri Chaura,273201,273XXX,Gorakhpur,Dengue Fever,0,2024-07-15,2024-07-31,16,1,2,high
+TP-QI-0525,33,30-39,F,Chauri Chaura,273201,273XXX,Gorakhpur,Community Acquired Pneumonia,0,2024-04-28,2024-05-09,11,1,1,high
+TP-QI-0526,20,20-29,M,Khera Khurd,226101,226XXX,Lucknow,Acute Viral Gastroenteritis,0,2024-12-26,2024-12-28,2,1,10,high
+TP-QI-0527,15,10-19,F,Mohanlalganj,226301,226XXX,Lucknow,Iron Deficiency Anemia,0,2025-08-10,2025-08-25,15,1,4,high
+TP-QI-0528,78,70-79,M,Agra Cantt,282001,282XXX,Agra,Myasthenia gravis,1,2024-06-30,2024-07-07,7,1,4,high
+TP-QI-0529,20,20-29,F,Sitapur Khas,261001,261XXX,Sitapur,Dengue Fever,0,2025-07-02,2025-07-07,5,1,1,high
+TP-QI-0530,60,60-69,M,Meerut City,250001,250XXX,Meerut,Hypothyroidism,0,2024-07-01,2024-07-03,2,1,2,high
+TP-QI-0531,56,50-59,F,Rampur Maniharan,247451,247XXX,Saharanpur,Community Acquired Pneumonia,0,2024-06-14,2024-07-02,18,1,8,high
+TP-QI-0532,70,70-79,M,Sitapur Khas,261001,261XXX,Sitapur,Type 2 Diabetes Mellitus,0,2025-10-24,2025-11-05,12,1,3,high
+TP-QI-0533,66,60-69,F,Khera Khurd,226101,226XXX,Lucknow,Essential Hypertension,0,2024-09-03,2024-09-17,14,1,3,high
+TP-QI-0534,77,70-79,M,Malihabad,226102,226XXX,Lucknow,Essential Hypertension,0,2025-04-18,2025-05-08,20,1,2,high
+TP-QI-0535,78,70-79,F,Agra Cantt,282001,282XXX,Agra,Acute Viral Gastroenteritis,0,2025-03-02,2025-03-11,9,2,4,moderate
+TP-QI-0536,62,60-69,M,Varanasi Urban,221001,221XXX,Varanasi,Porphyria cutanea tarda,1,2025-03-24,2025-04-10,17,1,2,high
+TP-QI-0537,15,10-19,F,Agra Cantt,282001,282XXX,Agra,Community Acquired Pneumonia,0,2024-07-11,2024-07-29,18,1,3,high
+TP-QI-0538,66,60-69,M,Mohanlalganj,226301,226XXX,Lucknow,Essential Hypertension,0,2025-07-06,2025-07-15,9,1,8,high
+TP-QI-0539,27,20-29,F,Rampur Maniharan,247451,247XXX,Saharanpur,Hypothyroidism,0,2024-11-22,2024-12-13,21,1,3,high
+TP-QI-0540,35,30-39,M,Meerut City,250001,250XXX,Meerut,Essential Hypertension,0,2025-08-27,2025-09-05,9,1,1,high
+TP-QI-0541,46,40-49,F,Kanpur Central,208001,208XXX,Kanpur Nagar,Acute Bronchitis,0,2024-08-19,2024-09-01,13,1,2,high
+TP-QI-0542,1,0-9,M,Unnao Rural,209801,209XXX,Unnao,Acute Bronchitis,0,2024-06-26,2024-06-29,3,1,5,high
+TP-QI-0543,25,20-29,F,Prayagraj Civil Lines,211001,211XXX,Prayagraj,Community Acquired Pneumonia,0,2024-06-14,2024-06-26,12,1,1,high
+TP-QI-0544,48,40-49,M,Barabanki,225001,225XXX,Barabanki,Visceral Leishmaniasis (Kala-azar),1,2025-01-06,2025-01-07,1,1,3,high
+TP-QI-0545,15,10-19,F,Prayagraj Civil Lines,211001,211XXX,Prayagraj,Community Acquired Pneumonia,0,2025-03-04,2025-03-08,4,1,5,high
+TP-QI-0546,4,0-9,M,Meerut City,250001,250XXX,Meerut,Essential Hypertension,0,2025-05-12,2025-05-24,12,1,4,high
+TP-QI-0547,61,60-69,F,Barabanki,225001,225XXX,Barabanki,Enteric Fever (Typhoid),0,2025-06-30,2025-07-01,1,1,6,high
+TP-QI-0548,70,70-79,M,Bhitargaon,209209,209XXX,Kanpur Nagar,Urinary Tract Infection,0,2024-01-19,2024-02-01,13,1,1,high
+TP-QI-0549,85,80-89,F,Bareilly Urban,243001,243XXX,Bareilly,Community Acquired Pneumonia,0,2024-01-06,2024-01-24,18,1,4,high
+TP-QI-0550,57,50-59,M,Khera Khurd,226101,226XXX,Lucknow,Type 2 Diabetes Mellitus,0,2025-10-03,2025-10-24,21,1,5,high
+TP-QI-0551,92,90-99,F,Meerut City,250001,250XXX,Meerut,Iron Deficiency Anemia,0,2024-05-10,2024-05-29,19,1,2,high
+TP-QI-0552,88,80-89,M,Sitapur Khas,261001,261XXX,Sitapur,Takayasu arteritis,1,2024-03-04,2024-03-25,21,1,2,critical
+TP-QI-0553,17,10-19,F,Chauri Chaura,273201,273XXX,Gorakhpur,Essential Hypertension,0,2025-05-02,2025-05-12,10,1,3,high
+TP-QI-0554,11,10-19,M,Bhitargaon,209209,209XXX,Kanpur Nagar,Essential Hypertension,0,2024-02-02,2024-02-16,14,1,4,high
+TP-QI-0555,58,50-59,F,Khera Khurd,226101,226XXX,Lucknow,Urinary Tract Infection,0,2024-03-26,2024-03-29,3,1,5,high
+TP-QI-0556,10,10-19,M,Malihabad,226102,226XXX,Lucknow,Urinary Tract Infection,0,2024-02-02,2024-02-07,5,1,5,high
+TP-QI-0557,85,80-89,F,Sitapur Khas,261001,261XXX,Sitapur,Essential Hypertension,0,2025-02-02,2025-02-18,16,2,4,moderate
+TP-QI-0558,89,80-89,M,Varanasi Urban,221001,221XXX,Varanasi,Enteric Fever (Typhoid),0,2024-07-05,2024-07-20,15,1,1,high
+TP-QI-0559,4,0-9,F,Malihabad,226102,226XXX,Lucknow,Iron Deficiency Anemia,0,2025-09-08,2025-09-15,7,1,6,high
+TP-QI-0560,49,40-49,M,Agra Cantt,282001,282XXX,Agra,Myasthenia gravis,1,2024-05-22,2024-06-01,10,1,5,high
+TP-QI-0561,45,40-49,F,Agra Cantt,282001,282XXX,Agra,Community Acquired Pneumonia,0,2024-01-22,2024-02-11,20,1,1,high
+TP-QI-0562,43,40-49,M,Unnao Rural,209801,209XXX,Unnao,Acute Bronchitis,0,2024-07-26,2024-08-11,16,1,2,high
+TP-QI-0563,46,40-49,F,Chauri Chaura,273201,273XXX,Gorakhpur,Acute Bronchitis,0,2025-03-18,2025-04-02,15,1,3,high
+TP-QI-0564,42,40-49,M,Bhitargaon,209209,209XXX,Kanpur Nagar,Acute Viral Gastroenteritis,0,2024-06-05,2024-06-12,7,1,3,high
+TP-QI-0565,76,70-79,F,Khera Khurd,226101,226XXX,Lucknow,Acute Bronchitis,0,2024-04-17,2024-05-01,14,1,3,high
+TP-QI-0566,16,10-19,M,Agra Cantt,282001,282XXX,Agra,Iron Deficiency Anemia,0,2025-01-08,2025-01-21,13,1,3,high
+TP-QI-0567,3,0-9,F,Kanpur Central,208001,208XXX,Kanpur Nagar,Urinary Tract Infection,0,2025-09-28,2025-10-02,4,1,3,high
+TP-QI-0568,18,10-19,M,Mohanlalganj,226301,226XXX,Lucknow,Myasthenia gravis,1,2025-08-21,2025-08-22,1,1,5,critical
+TP-QI-0569,88,80-89,F,Prayagraj Civil Lines,211001,211XXX,Prayagraj,Hypothyroidism,0,2025-03-20,2025-03-27,7,1,2,high
+TP-QI-0570,13,10-19,M,Sitapur Khas,261001,261XXX,Sitapur,Dengue Fever,0,2025-10-28,2025-11-01,4,1,3,high
+TP-QI-0571,86,80-89,F,Mohanlalganj,226301,226XXX,Lucknow,Iron Deficiency Anemia,0,2025-04-02,2025-04-10,8,1,8,high
+TP-QI-0572,4,0-9,M,Mohanlalganj,226301,226XXX,Lucknow,Community Acquired Pneumonia,0,2025-11-09,2025-11-15,6,1,5,high
+TP-QI-0573,20,20-29,F,Unnao Rural,209801,209XXX,Unnao,Type 2 Diabetes Mellitus,0,2025-03-22,2025-04-12,21,1,4,high
+TP-QI-0574,6,0-9,M,Unnao Rural,209801,209XXX,Unnao,Essential Hypertension,0,2024-06-01,2024-06-13,12,1,5,high
+TP-QI-0575,68,60-69,F,Barabanki,225001,225XXX,Barabanki,Hypothyroidism,0,2025-03-18,2025-04-07,20,1,6,high
+TP-QI-0576,30,30-39,M,Mohanlalganj,226301,226XXX,Lucknow,Wilson's disease,1,2024-06-27,2024-07-08,11,1,7,critical
+TP-QI-0577,91,90-99,F,Rampur Maniharan,247451,247XXX,Saharanpur,Urinary Tract Infection,0,2025-09-22,2025-09-26,4,1,1,high
+TP-QI-0578,87,80-89,M,Sitapur Khas,261001,261XXX,Sitapur,Urinary Tract Infection,0,2025-02-15,2025-03-08,21,1,2,high
+TP-QI-0579,84,80-89,F,Khera Khurd,226101,226XXX,Lucknow,Urinary Tract Infection,0,2025-04-08,2025-04-23,15,1,8,high
+TP-QI-0580,50,50-59,M,Agra Cantt,282001,282XXX,Agra,Essential Hypertension,0,2025-07-17,2025-07-28,11,1,5,high
+TP-QI-0581,25,20-29,F,Unnao Rural,209801,209XXX,Unnao,Acute Bronchitis,0,2024-01-25,2024-02-12,18,1,4,high
+TP-QI-0582,56,50-59,M,Meerut City,250001,250XXX,Meerut,Acute Bronchitis,0,2025-07-19,2025-07-30,11,1,2,high
+TP-QI-0583,39,30-39,F,Rampur Maniharan,247451,247XXX,Saharanpur,Urinary Tract Infection,0,2024-03-30,2024-04-17,18,1,3,high
+TP-QI-0584,24,20-29,M,Bhitargaon,209209,209XXX,Kanpur Nagar,Visceral Leishmaniasis (Kala-azar),1,2025-08-08,2025-08-26,18,1,3,critical
+TP-QI-0585,54,50-59,F,Sitapur Khas,261001,261XXX,Sitapur,Acute Viral Gastroenteritis,0,2024-01-02,2024-01-14,12,1,2,high
+TP-QI-0586,58,50-59,M,Varanasi Urban,221001,221XXX,Varanasi,Community Acquired Pneumonia,0,2024-02-19,2024-03-05,15,1,2,high
+TP-QI-0587,80,80-89,F,Varanasi Urban,221001,221XXX,Varanasi,Acute Viral Gastroenteritis,0,2025-08-28,2025-09-15,18,1,3,high
+TP-QI-0588,60,60-69,M,Noida Sector 62,201309,201XXX,Gautam Buddha Nagar,Iron Deficiency Anemia,0,2024-03-19,2024-04-02,14,1,2,high
+TP-QI-0589,20,20-29,F,Khera Khurd,226101,226XXX,Lucknow,Hypothyroidism,0,2025-10-22,2025-10-25,3,1,7,high
+TP-QI-0590,32,30-39,M,Rampur Maniharan,247451,247XXX,Saharanpur,Community Acquired Pneumonia,0,2025-06-17,2025-06-30,13,1,1,high
+TP-QI-0591,72,70-79,F,Bhitargaon,209209,209XXX,Kanpur Nagar,Community Acquired Pneumonia,0,2025-10-25,2025-11-01,7,1,7,high
+TP-QI-0592,22,20-29,M,Bhitargaon,209209,209XXX,Kanpur Nagar,Visceral Leishmaniasis (Kala-azar),1,2024-11-07,2024-11-13,6,1,3,critical
+TP-QI-0593,61,60-69,F,Meerut City,250001,250XXX,Meerut,Enteric Fever (Typhoid),0,2025-04-13,2025-04-23,10,1,2,high
+TP-QI-0594,14,10-19,M,Chauri Chaura,273201,273XXX,Gorakhpur,Type 2 Diabetes Mellitus,0,2025-05-20,2025-05-29,9,1,3,high
+TP-QI-0595,40,40-49,F,Malihabad,226102,226XXX,Lucknow,Essential Hypertension,0,2024-02-18,2024-02-24,6,1,4,high
+TP-QI-0596,41,40-49,M,Malihabad,226102,226XXX,Lucknow,Enteric Fever (Typhoid),0,2024-06-26,2024-07-07,11,1,11,high
+TP-QI-0597,30,30-39,F,Agra Cantt,282001,282XXX,Agra,Hypothyroidism,0,2025-10-26,2025-11-15,20,1,4,high
+TP-QI-0598,54,50-59,M,Kanpur Central,208001,208XXX,Kanpur Nagar,Urinary Tract Infection,0,2024-06-11,2024-06-30,19,1,8,high
+TP-QI-0599,77,70-79,F,Barabanki,225001,225XXX,Barabanki,Acute Bronchitis,0,2024-06-25,2024-07-02,7,1,5,high

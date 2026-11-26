@@ -1,0 +1,104 @@
+{
+  "resourceType": "Bundle",
+  "id": "yp-r4-014",
+  "type": "collection",
+  "entry": [
+    {
+      "resource": {
+        "resourceType": "Patient",
+        "id": "p-014",
+        "text": {
+          "status": "generated",
+          "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">कल्याणी सिद्दीकी (W/o Sanjay), Rampur Maniharan 247451</div>"
+        },
+        "identifier": [
+          {
+            "system": "https://healthid.ndhm.gov.in",
+            "value": "42-1760-2958-5874"
+          },
+          {
+            "system": "urn:yp:uhid",
+            "value": "UHID-EV-2025-100029"
+          }
+        ],
+        "name": [
+          {
+            "text": "Kalyani Siddiqui",
+            "family": "Siddiqui",
+            "given": [
+              "Kalyani"
+            ]
+          }
+        ],
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "8751879511"
+          }
+        ],
+        "gender": "female",
+        "birthDate": "1941-06-15",
+        "address": [
+          {
+            "city": "Rampur Maniharan",
+            "district": "Saharanpur",
+            "postalCode": "247451"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Encounter",
+        "id": "e-014",
+        "status": "finished",
+        "period": {
+          "start": "2024-06-23",
+          "end": "2024-07-06"
+        },
+        "participant": [
+          {
+            "individual": {
+              "display": "Dr. Nandini Menon"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Condition",
+        "id": "c-014",
+        "code": {
+          "text": "Acute Bronchitis"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "m-014",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Dolo 650 mg BD x 5 days"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "DocumentReference",
+        "id": "d-014",
+        "status": "current",
+        "content": [
+          {
+            "attachment": {
+              "contentType": "text/plain",
+              "data": "V2FyZCBzbGlwIGZvciBLYWx5YW5pIFNpZGRpcXVpIFBoOjg3NTE4Nzk1MTEgQUJIQTo0Mi0xNzYwLTI5NTgtNTg3NA=="
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "resourceType": "Bundle",
+  "id": "yp-r4-051",
+  "type": "collection",
+  "entry": [
+    {
+      "resource": {
+        "resourceType": "Patient",
+        "id": "p-051",
+        "text": {
+          "status": "generated",
+          "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">पुष्पा रेड्डी (D/o Santosh), Rampur Maniharan 247451</div>"
+        },
+        "identifier": [
+          {
+            "system": "https://healthid.ndhm.gov.in",
+            "value": "82-3341-7897-2095"
+          },
+          {
+            "system": "urn:yp:uhid",
+            "value": "UHID-EV-2021-100103"
+          }
+        ],
+        "name": [
+          {
+            "text": "Pushpa Reddy",
+            "family": "Reddy",
+            "given": [
+              "Pushpa"
+            ]
+          }
+        ],
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "0942 542 3114"
+          }
+        ],
+        "gender": "female",
+        "birthDate": "2020-06-15",
+        "address": [
+          {
+            "city": "Rampur Maniharan",
+            "district": "Saharanpur",
+            "postalCode": "247451"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Encounter",
+        "id": "e-051",
+        "status": "finished",
+        "period": {
+          "start": "2025-06-16",
+          "end": "2025-06-22"
+        },
+        "participant": [
+          {
+            "individual": {
+              "display": "Dr. Arvind Kejriwal"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Condition",
+        "id": "c-051",
+        "code": {
+          "text": "Iron Deficiency Anemia"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "m-051",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Glycomet-GP 1 mg 1-0-1"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "DocumentReference",
+        "id": "d-051",
+        "status": "current",
+        "content": [
+          {
+            "attachment": {
+              "contentType": "text/plain",
+              "data": "V2FyZCBzbGlwIGZvciBQdXNocGEgUmVkZHkgUGg6OTQyNTQyMzExNCBBQkhBOjgyLTMzNDEtNzg5Ny0yMDk1"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

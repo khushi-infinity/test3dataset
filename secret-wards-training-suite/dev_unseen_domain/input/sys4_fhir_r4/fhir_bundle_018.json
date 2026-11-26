@@ -1,0 +1,104 @@
+{
+  "resourceType": "Bundle",
+  "id": "yp-r4-018",
+  "type": "collection",
+  "entry": [
+    {
+      "resource": {
+        "resourceType": "Patient",
+        "id": "p-018",
+        "text": {
+          "status": "generated",
+          "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">पुष्पा कुलकर्णी (C/O Kamlesh), Chauri Chaura 273201</div>"
+        },
+        "identifier": [
+          {
+            "system": "https://healthid.ndhm.gov.in",
+            "value": "63-2309-4458-4334"
+          },
+          {
+            "system": "urn:yp:uhid",
+            "value": "UHID-EV-2021-100037"
+          }
+        ],
+        "name": [
+          {
+            "text": "Pushpa Kulkarni",
+            "family": "Kulkarni",
+            "given": [
+              "Pushpa"
+            ]
+          }
+        ],
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "0819 177 6123"
+          }
+        ],
+        "gender": "female",
+        "birthDate": "1989-06-15",
+        "address": [
+          {
+            "city": "Chauri Chaura",
+            "district": "Gorakhpur",
+            "postalCode": "273201"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Encounter",
+        "id": "e-018",
+        "status": "finished",
+        "period": {
+          "start": "2025-04-17",
+          "end": "2025-05-07"
+        },
+        "participant": [
+          {
+            "individual": {
+              "display": "Dr. Rajeshwar Rao"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Condition",
+        "id": "c-018",
+        "code": {
+          "text": "Enteric Fever (Typhoid)"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "m-018",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Glycomet-GP 1 mg 1-0-1"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "DocumentReference",
+        "id": "d-018",
+        "status": "current",
+        "content": [
+          {
+            "attachment": {
+              "contentType": "text/plain",
+              "data": "V2FyZCBzbGlwIGZvciBQdXNocGEgS3Vsa2FybmkgUGg6ODE5MTc3NjEyMyBBQkhBOjYzLTIzMDktNDQ1OC00MzM0"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "resourceType": "Bundle",
+  "id": "yp-r4-028",
+  "type": "collection",
+  "entry": [
+    {
+      "resource": {
+        "resourceType": "Patient",
+        "id": "p-028",
+        "text": {
+          "status": "generated",
+          "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">ज़ोया रेड्डी (W/o Zafar), Prayagraj Civil Lines 211001</div>"
+        },
+        "identifier": [
+          {
+            "system": "https://healthid.ndhm.gov.in",
+            "value": "79-3857-5997-2591"
+          },
+          {
+            "system": "urn:yp:uhid",
+            "value": "UHID-EV-2023-100057"
+          }
+        ],
+        "name": [
+          {
+            "text": "Zoya Reddy",
+            "family": "Reddy",
+            "given": [
+              "Zoya"
+            ]
+          }
+        ],
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "9.70499E+09"
+          }
+        ],
+        "gender": "female",
+        "birthDate": "2021-06-15",
+        "address": [
+          {
+            "city": "Prayagraj Civil Lines",
+            "district": "Prayagraj",
+            "postalCode": "211001"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Encounter",
+        "id": "e-028",
+        "status": "finished",
+        "period": {
+          "start": "2024-01-30",
+          "end": "2024-02-10"
+        },
+        "participant": [
+          {
+            "individual": {
+              "display": "Dr. Nandini Menon"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Condition",
+        "id": "c-028",
+        "code": {
+          "text": "Urinary Tract Infection"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "m-028",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Amlong 5 mg OD"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "DocumentReference",
+        "id": "d-028",
+        "status": "current",
+        "content": [
+          {
+            "attachment": {
+              "contentType": "text/plain",
+              "data": "V2FyZCBzbGlwIGZvciBab3lhIFJlZGR5IFBoOjk3MDQ5OTg4MzAgQUJIQTo3OS0zODU3LTU5OTctMjU5MQ=="
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

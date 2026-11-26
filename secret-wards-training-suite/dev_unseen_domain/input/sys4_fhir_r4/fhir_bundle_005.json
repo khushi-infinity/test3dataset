@@ -1,0 +1,104 @@
+{
+  "resourceType": "Bundle",
+  "id": "yp-r4-005",
+  "type": "collection",
+  "entry": [
+    {
+      "resource": {
+        "resourceType": "Patient",
+        "id": "p-005",
+        "text": {
+          "status": "generated",
+          "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">उषा ठाकुर (W/o Vikram), Chauri Chaura 273201</div>"
+        },
+        "identifier": [
+          {
+            "system": "https://healthid.ndhm.gov.in",
+            "value": "78-9795-8540-6763"
+          },
+          {
+            "system": "urn:yp:uhid",
+            "value": "UHID-EV-2025-100011"
+          }
+        ],
+        "name": [
+          {
+            "text": "Usha Thakur",
+            "family": "Thakur",
+            "given": [
+              "Usha"
+            ]
+          }
+        ],
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "9021278402"
+          }
+        ],
+        "gender": "female",
+        "birthDate": "1997-06-15",
+        "address": [
+          {
+            "city": "Chauri Chaura",
+            "district": "Gorakhpur",
+            "postalCode": "273201"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Encounter",
+        "id": "e-005",
+        "status": "finished",
+        "period": {
+          "start": "2024-04-28",
+          "end": "2024-05-14"
+        },
+        "participant": [
+          {
+            "individual": {
+              "display": "Dr. Meenakshi Sundaram"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Condition",
+        "id": "c-005",
+        "code": {
+          "text": "Hypothyroidism"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "m-005",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Telma 40 mg OD"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "DocumentReference",
+        "id": "d-005",
+        "status": "current",
+        "content": [
+          {
+            "attachment": {
+              "contentType": "text/plain",
+              "data": "V2FyZCBzbGlwIGZvciBVc2hhIFRoYWt1ciBQaDo5MDIxMjc4NDAyIEFCSEE6NzgtOTc5NS04NTQwLTY3NjM="
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+DISTRICT HOSPITAL — DISCHARGE SUMMARY
+मरीज़ / Patient: कमलेश पटेल (Shri Kamlesh Patel)
+Kin: S/o Gopal | Mob: +91-78260-68023
+UHID: UHID-EV-2020-100066 | ABHA: 50-6986-3962-4507 | Email: kamlesh.patel66@yugaantar-mail.invalid
+Address: Varanasi Urban, PIN 221001, Varanasi | Age/Sex: 48Y/M
+DOA: 2025-08-10 | DOD: 2025-08-24
+Chief Complaint: C/O high fever, Iron Deficiency Anemia (r/o Ryles tube 14Fr).
+Vitals: BP 102/90 mmHg, HbA1c 11.3%.
+Rx (दवाइयाँ): Augmentin 625 Duo TDS x 7 days — खाना खाने के बाद।
+Consultant: Dr. Farhan Qureshi
+Audit Token: CANARY-NOTE-026-LEAK

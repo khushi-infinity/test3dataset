@@ -1,0 +1,11 @@
+DISTRICT HOSPITAL — DISCHARGE SUMMARY
+मरीज़ / Patient: कल्याणी ठाकुर (K. Thakur)
+Kin: W/o Sanjay | Mob: 0632 910 8276
+UHID: UHID-EV-2021-100079 | ABHA: 91-7268-9355-7702 | Email: kalyani.thakur79@yugaantar-mail.invalid
+Address: Chauri Chaura, PIN 273201, Gorakhpur | Age/Sex: 30Y/F
+DOA: 2024-08-11 | DOD: 2024-08-23
+Chief Complaint: C/O high fever, Urinary Tract Infection (r/o Cushing's syndrome).
+Vitals: BP 151/90 mmHg, HbA1c 5.4%.
+Rx (दवाइयाँ): Glycomet-GP 1 mg 1-0-1 — खाना खाने के बाद।
+Consultant: Dr. Nandini Menon
+Audit Token: CANARY-NOTE-039-LEAK

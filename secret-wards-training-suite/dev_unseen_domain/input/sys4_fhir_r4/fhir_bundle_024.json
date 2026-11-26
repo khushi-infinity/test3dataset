@@ -1,0 +1,104 @@
+{
+  "resourceType": "Bundle",
+  "id": "yp-r4-024",
+  "type": "collection",
+  "entry": [
+    {
+      "resource": {
+        "resourceType": "Patient",
+        "id": "p-024",
+        "text": {
+          "status": "generated",
+          "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">भावना अय्यर (W/o Gopal), Khera Khurd 226101</div>"
+        },
+        "identifier": [
+          {
+            "system": "https://healthid.ndhm.gov.in",
+            "value": "84-7328-2796-2710"
+          },
+          {
+            "system": "urn:yp:uhid",
+            "value": "UHID-EV-2021-100049"
+          }
+        ],
+        "name": [
+          {
+            "text": "Bhavna Iyer",
+            "family": "Iyer",
+            "given": [
+              "Bhavna"
+            ]
+          }
+        ],
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "0788 506 0234"
+          }
+        ],
+        "gender": "female",
+        "birthDate": "1960-06-15",
+        "address": [
+          {
+            "city": "Khera Khurd",
+            "district": "Lucknow",
+            "postalCode": "226101"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Encounter",
+        "id": "e-024",
+        "status": "finished",
+        "period": {
+          "start": "2025-02-07",
+          "end": "2025-02-09"
+        },
+        "participant": [
+          {
+            "individual": {
+              "display": "Dr. Farhan Qureshi"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Condition",
+        "id": "c-024",
+        "code": {
+          "text": "Iron Deficiency Anemia"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "m-024",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Atorva 20 mg HS"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "DocumentReference",
+        "id": "d-024",
+        "status": "current",
+        "content": [
+          {
+            "attachment": {
+              "contentType": "text/plain",
+              "data": "V2FyZCBzbGlwIGZvciBCaGF2bmEgSXllciBQaDo3ODg1MDYwMjM0IEFCSEE6ODQtNzMyOC0yNzk2LTI3MTA="
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

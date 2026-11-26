@@ -1,0 +1,104 @@
+{
+  "resourceType": "Bundle",
+  "id": "yp-r4-045",
+  "type": "collection",
+  "entry": [
+    {
+      "resource": {
+        "resourceType": "Patient",
+        "id": "p-045",
+        "text": {
+          "status": "generated",
+          "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">ज़ोया कुलकर्णी (C/O Devendra), Bhitargaon 209209</div>"
+        },
+        "identifier": [
+          {
+            "system": "https://healthid.ndhm.gov.in",
+            "value": "99-9704-8670-5006"
+          },
+          {
+            "system": "urn:yp:uhid",
+            "value": "UHID-EV-2021-100091"
+          }
+        ],
+        "name": [
+          {
+            "text": "Zoya Kulkarni",
+            "family": "Kulkarni",
+            "given": [
+              "Zoya"
+            ]
+          }
+        ],
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "0737 947 3378"
+          }
+        ],
+        "gender": "female",
+        "birthDate": "2012-06-15",
+        "address": [
+          {
+            "city": "Bhitargaon",
+            "district": "Kanpur Nagar",
+            "postalCode": "209209"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Encounter",
+        "id": "e-045",
+        "status": "finished",
+        "period": {
+          "start": "2025-03-04",
+          "end": "2025-03-08"
+        },
+        "participant": [
+          {
+            "individual": {
+              "display": "Dr. Anita Deshmukh"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Condition",
+        "id": "c-045",
+        "code": {
+          "text": "Type 2 Diabetes Mellitus"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "m-045",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Glycomet-GP 1 mg 1-0-1"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "DocumentReference",
+        "id": "d-045",
+        "status": "current",
+        "content": [
+          {
+            "attachment": {
+              "contentType": "text/plain",
+              "data": "V2FyZCBzbGlwIGZvciBab3lhIEt1bGthcm5pIFBoOjczNzk0NzMzNzggQUJIQTo5OS05NzA0LTg2NzAtNTAwNg=="
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

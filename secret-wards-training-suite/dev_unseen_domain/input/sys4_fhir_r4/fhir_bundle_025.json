@@ -1,0 +1,104 @@
+{
+  "resourceType": "Bundle",
+  "id": "yp-r4-025",
+  "type": "collection",
+  "entry": [
+    {
+      "resource": {
+        "resourceType": "Patient",
+        "id": "p-025",
+        "text": {
+          "status": "generated",
+          "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">नेहा चौधरी (W/o Sanjay), Chauri Chaura 273201</div>"
+        },
+        "identifier": [
+          {
+            "system": "https://healthid.ndhm.gov.in",
+            "value": "23-3713-3504-6668"
+          },
+          {
+            "system": "urn:yp:uhid",
+            "value": "UHID-EV-2023-100051"
+          }
+        ],
+        "name": [
+          {
+            "text": "Neha Chaudhary",
+            "family": "Chaudhary",
+            "given": [
+              "Neha"
+            ]
+          }
+        ],
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "9.56667E+09"
+          }
+        ],
+        "gender": "female",
+        "birthDate": "1965-06-15",
+        "address": [
+          {
+            "city": "Chauri Chaura",
+            "district": "Gorakhpur",
+            "postalCode": "273201"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Encounter",
+        "id": "e-025",
+        "status": "finished",
+        "period": {
+          "start": "2025-10-06",
+          "end": "2025-10-18"
+        },
+        "participant": [
+          {
+            "individual": {
+              "display": "Dr. Nandini Menon"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Condition",
+        "id": "c-025",
+        "code": {
+          "text": "Acute Viral Gastroenteritis"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "m-025",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Azee 500 mg OD x 3 days"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "DocumentReference",
+        "id": "d-025",
+        "status": "current",
+        "content": [
+          {
+            "attachment": {
+              "contentType": "text/plain",
+              "data": "V2FyZCBzbGlwIGZvciBOZWhhIENoYXVkaGFyeSBQaDo5NTY2NjcyNTY2IEFCSEE6MjMtMzcxMy0zNTA0LTY2Njg="
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

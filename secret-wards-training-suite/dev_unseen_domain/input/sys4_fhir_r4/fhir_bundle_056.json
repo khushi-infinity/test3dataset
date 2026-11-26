@@ -1,0 +1,104 @@
+{
+  "resourceType": "Bundle",
+  "id": "yp-r4-056",
+  "type": "collection",
+  "entry": [
+    {
+      "resource": {
+        "resourceType": "Patient",
+        "id": "p-056",
+        "text": {
+          "status": "generated",
+          "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">आशा पटेल (C/O Zafar), Barabanki 225001</div>"
+        },
+        "identifier": [
+          {
+            "system": "https://healthid.ndhm.gov.in",
+            "value": "94-5010-6810-5122"
+          },
+          {
+            "system": "urn:yp:uhid",
+            "value": "UHID-EV-2025-100113"
+          }
+        ],
+        "name": [
+          {
+            "text": "Asha Patel",
+            "family": "Patel",
+            "given": [
+              "Asha"
+            ]
+          }
+        ],
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "8412428636"
+          }
+        ],
+        "gender": "female",
+        "birthDate": "2001-06-15",
+        "address": [
+          {
+            "city": "Barabanki",
+            "district": "Barabanki",
+            "postalCode": "225001"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Encounter",
+        "id": "e-056",
+        "status": "finished",
+        "period": {
+          "start": "2025-07-25",
+          "end": "2025-08-11"
+        },
+        "participant": [
+          {
+            "individual": {
+              "display": "Dr. Anita Deshmukh"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Condition",
+        "id": "c-056",
+        "code": {
+          "text": "Acute Viral Gastroenteritis"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "m-056",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Pan-D 40 mg 1-0-0 AC"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "DocumentReference",
+        "id": "d-056",
+        "status": "current",
+        "content": [
+          {
+            "attachment": {
+              "contentType": "text/plain",
+              "data": "V2FyZCBzbGlwIGZvciBBc2hhIFBhdGVsIFBoOjg0MTI0Mjg2MzYgQUJIQTo5NC01MDEwLTY4MTAtNTEyMg=="
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

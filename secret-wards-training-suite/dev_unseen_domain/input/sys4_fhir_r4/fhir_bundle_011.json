@@ -1,0 +1,104 @@
+{
+  "resourceType": "Bundle",
+  "id": "yp-r4-011",
+  "type": "collection",
+  "entry": [
+    {
+      "resource": {
+        "resourceType": "Patient",
+        "id": "p-011",
+        "text": {
+          "status": "generated",
+          "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">सरिता मिश्रा (C/O Sanjay), Noida Sector 62 201309</div>"
+        },
+        "identifier": [
+          {
+            "system": "https://healthid.ndhm.gov.in",
+            "value": "12-3034-2531-5842"
+          },
+          {
+            "system": "urn:yp:uhid",
+            "value": "UHID-EV-2025-100023"
+          }
+        ],
+        "name": [
+          {
+            "text": "Sarita Mishra",
+            "family": "Mishra",
+            "given": [
+              "Sarita"
+            ]
+          }
+        ],
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "6333258759"
+          }
+        ],
+        "gender": "female",
+        "birthDate": "2019-06-15",
+        "address": [
+          {
+            "city": "Noida Sector 62",
+            "district": "Gautam Buddha Nagar",
+            "postalCode": "201309"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Encounter",
+        "id": "e-011",
+        "status": "finished",
+        "period": {
+          "start": "2025-01-14",
+          "end": "2025-02-04"
+        },
+        "participant": [
+          {
+            "individual": {
+              "display": "Dr. Farhan Qureshi"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Condition",
+        "id": "c-011",
+        "code": {
+          "text": "Dengue Fever"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "m-011",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Ecosprin 75 mg OD"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "DocumentReference",
+        "id": "d-011",
+        "status": "current",
+        "content": [
+          {
+            "attachment": {
+              "contentType": "text/plain",
+              "data": "V2FyZCBzbGlwIGZvciBTYXJpdGEgTWlzaHJhIFBoOjYzMzMyNTg3NTkgQUJIQToxMi0zMDM0LTI1MzEtNTg0Mg=="
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

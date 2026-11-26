@@ -1,0 +1,104 @@
+{
+  "resourceType": "Bundle",
+  "id": "yp-r4-035",
+  "type": "collection",
+  "entry": [
+    {
+      "resource": {
+        "resourceType": "Patient",
+        "id": "p-035",
+        "text": {
+          "status": "generated",
+          "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">सरिता चौधरी (D/o Santosh), Khera Khurd 226101</div>"
+        },
+        "identifier": [
+          {
+            "system": "https://healthid.ndhm.gov.in",
+            "value": "13-9933-4787-8801"
+          },
+          {
+            "system": "urn:yp:uhid",
+            "value": "UHID-EV-2025-100071"
+          }
+        ],
+        "name": [
+          {
+            "text": "Sarita Chaudhary",
+            "family": "Chaudhary",
+            "given": [
+              "Sarita"
+            ]
+          }
+        ],
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "7776229568"
+          }
+        ],
+        "gender": "female",
+        "birthDate": "2019-06-15",
+        "address": [
+          {
+            "city": "Khera Khurd",
+            "district": "Lucknow",
+            "postalCode": "226101"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Encounter",
+        "id": "e-035",
+        "status": "finished",
+        "period": {
+          "start": "2024-08-15",
+          "end": "2024-08-28"
+        },
+        "participant": [
+          {
+            "individual": {
+              "display": "Dr. P. V. Narasimhan"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Condition",
+        "id": "c-035",
+        "code": {
+          "text": "Iron Deficiency Anemia"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "m-035",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Metformin 500 mg BD"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "DocumentReference",
+        "id": "d-035",
+        "status": "current",
+        "content": [
+          {
+            "attachment": {
+              "contentType": "text/plain",
+              "data": "V2FyZCBzbGlwIGZvciBTYXJpdGEgQ2hhdWRoYXJ5IFBoOjc3NzYyMjk1NjggQUJIQToxMy05OTMzLTQ3ODctODgwMQ=="
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

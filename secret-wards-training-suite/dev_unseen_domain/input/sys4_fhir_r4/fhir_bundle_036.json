@@ -1,0 +1,104 @@
+{
+  "resourceType": "Bundle",
+  "id": "yp-r4-036",
+  "type": "collection",
+  "entry": [
+    {
+      "resource": {
+        "resourceType": "Patient",
+        "id": "p-036",
+        "text": {
+          "status": "generated",
+          "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">आशा कुलकर्णी (C/O Gopal), Rampur Maniharan 247451</div>"
+        },
+        "identifier": [
+          {
+            "system": "https://healthid.ndhm.gov.in",
+            "value": "30-7242-8331-8232"
+          },
+          {
+            "system": "urn:yp:uhid",
+            "value": "UHID-EV-2021-100073"
+          }
+        ],
+        "name": [
+          {
+            "text": "Asha Kulkarni",
+            "family": "Kulkarni",
+            "given": [
+              "Asha"
+            ]
+          }
+        ],
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "0876 626 5079"
+          }
+        ],
+        "gender": "female",
+        "birthDate": "1941-06-15",
+        "address": [
+          {
+            "city": "Rampur Maniharan",
+            "district": "Saharanpur",
+            "postalCode": "247451"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Encounter",
+        "id": "e-036",
+        "status": "finished",
+        "period": {
+          "start": "2024-01-02",
+          "end": "2024-01-20"
+        },
+        "participant": [
+          {
+            "individual": {
+              "display": "Dr. Ramesh Kulkarni"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Condition",
+        "id": "c-036",
+        "code": {
+          "text": "Acute Bronchitis"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "m-036",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Montair-LC HS"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "DocumentReference",
+        "id": "d-036",
+        "status": "current",
+        "content": [
+          {
+            "attachment": {
+              "contentType": "text/plain",
+              "data": "V2FyZCBzbGlwIGZvciBBc2hhIEt1bGthcm5pIFBoOjg3NjYyNjUwNzkgQUJIQTozMC03MjQyLTgzMzEtODIzMg=="
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "resourceType": "Bundle",
+  "id": "yp-r4-013",
+  "type": "collection",
+  "entry": [
+    {
+      "resource": {
+        "resourceType": "Patient",
+        "id": "p-013",
+        "text": {
+          "status": "generated",
+          "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">भावना चौधरी (D/o Kamlesh), Rampur Maniharan 247451</div>"
+        },
+        "identifier": [
+          {
+            "system": "https://healthid.ndhm.gov.in",
+            "value": "43-5563-7156-4482"
+          },
+          {
+            "system": "urn:yp:uhid",
+            "value": "UHID-EV-2023-100027"
+          }
+        ],
+        "name": [
+          {
+            "text": "Bhavna Chaudhary",
+            "family": "Chaudhary",
+            "given": [
+              "Bhavna"
+            ]
+          }
+        ],
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "7.42299E+09"
+          }
+        ],
+        "gender": "female",
+        "birthDate": "1938-06-15",
+        "address": [
+          {
+            "city": "Rampur Maniharan",
+            "district": "Saharanpur",
+            "postalCode": "247451"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Encounter",
+        "id": "e-013",
+        "status": "finished",
+        "period": {
+          "start": "2024-06-08",
+          "end": "2024-06-09"
+        },
+        "participant": [
+          {
+            "individual": {
+              "display": "Dr. Nandini Menon"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Condition",
+        "id": "c-013",
+        "code": {
+          "text": "Type 2 Diabetes Mellitus"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "m-013",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Ecosprin 75 mg OD"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "DocumentReference",
+        "id": "d-013",
+        "status": "current",
+        "content": [
+          {
+            "attachment": {
+              "contentType": "text/plain",
+              "data": "V2FyZCBzbGlwIGZvciBCaGF2bmEgQ2hhdWRoYXJ5IFBoOjc0MjI5OTU3MTUgQUJIQTo0My01NTYzLTcxNTYtNDQ4Mg=="
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

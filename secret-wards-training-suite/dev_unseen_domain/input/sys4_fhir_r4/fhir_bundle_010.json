@@ -1,0 +1,104 @@
+{
+  "resourceType": "Bundle",
+  "id": "yp-r4-010",
+  "type": "collection",
+  "entry": [
+    {
+      "resource": {
+        "resourceType": "Patient",
+        "id": "p-010",
+        "text": {
+          "status": "generated",
+          "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">ज़ोया अय्यर (C/O Vikram), Rampur Maniharan 247451</div>"
+        },
+        "identifier": [
+          {
+            "system": "https://healthid.ndhm.gov.in",
+            "value": "65-4029-1434-3673"
+          },
+          {
+            "system": "urn:yp:uhid",
+            "value": "UHID-EV-2023-100021"
+          }
+        ],
+        "name": [
+          {
+            "text": "Zoya Iyer",
+            "family": "Iyer",
+            "given": [
+              "Zoya"
+            ]
+          }
+        ],
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "9.72636E+09"
+          }
+        ],
+        "gender": "female",
+        "birthDate": "2014-06-15",
+        "address": [
+          {
+            "city": "Rampur Maniharan",
+            "district": "Saharanpur",
+            "postalCode": "247451"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Encounter",
+        "id": "e-010",
+        "status": "finished",
+        "period": {
+          "start": "2024-11-08",
+          "end": "2024-11-25"
+        },
+        "participant": [
+          {
+            "individual": {
+              "display": "Dr. P. V. Narasimhan"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Condition",
+        "id": "c-010",
+        "code": {
+          "text": "Essential Hypertension"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "m-010",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Metformin 500 mg BD"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "DocumentReference",
+        "id": "d-010",
+        "status": "current",
+        "content": [
+          {
+            "attachment": {
+              "contentType": "text/plain",
+              "data": "V2FyZCBzbGlwIGZvciBab3lhIEl5ZXIgUGg6OTcyNjM2MTI1MyBBQkhBOjY1LTQwMjktMTQzNC0zNjcz"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

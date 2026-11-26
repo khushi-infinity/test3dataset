@@ -1,0 +1,104 @@
+{
+  "resourceType": "Bundle",
+  "id": "yp-r4-026",
+  "type": "collection",
+  "entry": [
+    {
+      "resource": {
+        "resourceType": "Patient",
+        "id": "p-026",
+        "text": {
+          "status": "generated",
+          "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">भावना अय्यर (C/O Kamlesh), Noida Sector 62 201309</div>"
+        },
+        "identifier": [
+          {
+            "system": "https://healthid.ndhm.gov.in",
+            "value": "91-1938-6602-4762"
+          },
+          {
+            "system": "urn:yp:uhid",
+            "value": "UHID-EV-2025-100053"
+          }
+        ],
+        "name": [
+          {
+            "text": "Bhavna Iyer",
+            "family": "Iyer",
+            "given": [
+              "Bhavna"
+            ]
+          }
+        ],
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "7477518024"
+          }
+        ],
+        "gender": "female",
+        "birthDate": "1965-06-15",
+        "address": [
+          {
+            "city": "Noida Sector 62",
+            "district": "Gautam Buddha Nagar",
+            "postalCode": "201309"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Encounter",
+        "id": "e-026",
+        "status": "finished",
+        "period": {
+          "start": "2025-01-23",
+          "end": "2025-02-02"
+        },
+        "participant": [
+          {
+            "individual": {
+              "display": "Dr. Rajeshwar Rao"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Condition",
+        "id": "c-026",
+        "code": {
+          "text": "Acute Viral Gastroenteritis"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "m-026",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Shelcal 500 mg OD"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "DocumentReference",
+        "id": "d-026",
+        "status": "current",
+        "content": [
+          {
+            "attachment": {
+              "contentType": "text/plain",
+              "data": "V2FyZCBzbGlwIGZvciBCaGF2bmEgSXllciBQaDo3NDc3NTE4MDI0IEFCSEE6OTEtMTkzOC02NjAyLTQ3NjI="
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

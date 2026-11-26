@@ -1,0 +1,104 @@
+{
+  "resourceType": "Bundle",
+  "id": "yp-r4-048",
+  "type": "collection",
+  "entry": [
+    {
+      "resource": {
+        "resourceType": "Patient",
+        "id": "p-048",
+        "text": {
+          "status": "generated",
+          "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">पुष्पा मिश्रा (D/o Sanjay), Noida Sector 62 201309</div>"
+        },
+        "identifier": [
+          {
+            "system": "https://healthid.ndhm.gov.in",
+            "value": "60-5055-6713-6038"
+          },
+          {
+            "system": "urn:yp:uhid",
+            "value": "UHID-EV-2021-100097"
+          }
+        ],
+        "name": [
+          {
+            "text": "Pushpa Mishra",
+            "family": "Mishra",
+            "given": [
+              "Pushpa"
+            ]
+          }
+        ],
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "0789 433 6477"
+          }
+        ],
+        "gender": "female",
+        "birthDate": "1969-06-15",
+        "address": [
+          {
+            "city": "Noida Sector 62",
+            "district": "Gautam Buddha Nagar",
+            "postalCode": "201309"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Encounter",
+        "id": "e-048",
+        "status": "finished",
+        "period": {
+          "start": "2025-03-21",
+          "end": "2025-04-10"
+        },
+        "participant": [
+          {
+            "individual": {
+              "display": "Dr. Anita Deshmukh"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Condition",
+        "id": "c-048",
+        "code": {
+          "text": "Iron Deficiency Anemia"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "m-048",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Telma 40 mg OD"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "DocumentReference",
+        "id": "d-048",
+        "status": "current",
+        "content": [
+          {
+            "attachment": {
+              "contentType": "text/plain",
+              "data": "V2FyZCBzbGlwIGZvciBQdXNocGEgTWlzaHJhIFBoOjc4OTQzMzY0NzcgQUJIQTo2MC01MDU1LTY3MTMtNjAzOA=="
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

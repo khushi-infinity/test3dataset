@@ -1,0 +1,104 @@
+{
+  "resourceType": "Bundle",
+  "id": "yp-r4-050",
+  "type": "collection",
+  "entry": [
+    {
+      "resource": {
+        "resourceType": "Patient",
+        "id": "p-050",
+        "text": {
+          "status": "generated",
+          "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">आशा कुलकर्णी (C/O Devendra), Bhitargaon 209209</div>"
+        },
+        "identifier": [
+          {
+            "system": "https://healthid.ndhm.gov.in",
+            "value": "89-1841-7606-7314"
+          },
+          {
+            "system": "urn:yp:uhid",
+            "value": "UHID-EV-2025-100101"
+          }
+        ],
+        "name": [
+          {
+            "text": "Asha Kulkarni",
+            "family": "Kulkarni",
+            "given": [
+              "Asha"
+            ]
+          }
+        ],
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "8823655993"
+          }
+        ],
+        "gender": "female",
+        "birthDate": "1952-06-15",
+        "address": [
+          {
+            "city": "Bhitargaon",
+            "district": "Kanpur Nagar",
+            "postalCode": "209209"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Encounter",
+        "id": "e-050",
+        "status": "finished",
+        "period": {
+          "start": "2025-03-13",
+          "end": "2025-04-01"
+        },
+        "participant": [
+          {
+            "individual": {
+              "display": "Dr. P. V. Narasimhan"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Condition",
+        "id": "c-050",
+        "code": {
+          "text": "Type 2 Diabetes Mellitus"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "m-050",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Azee 500 mg OD x 3 days"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "DocumentReference",
+        "id": "d-050",
+        "status": "current",
+        "content": [
+          {
+            "attachment": {
+              "contentType": "text/plain",
+              "data": "V2FyZCBzbGlwIGZvciBBc2hhIEt1bGthcm5pIFBoOjg4MjM2NTU5OTMgQUJIQTo4OS0xODQxLTc2MDYtNzMxNA=="
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

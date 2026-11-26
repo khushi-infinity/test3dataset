@@ -1,0 +1,104 @@
+{
+  "resourceType": "Bundle",
+  "id": "yp-r4-057",
+  "type": "collection",
+  "entry": [
+    {
+      "resource": {
+        "resourceType": "Patient",
+        "id": "p-057",
+        "text": {
+          "status": "generated",
+          "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">कल्याणी सिद्दीकी (C/O Kamlesh), Bhitargaon 209209</div>"
+        },
+        "identifier": [
+          {
+            "system": "https://healthid.ndhm.gov.in",
+            "value": "10-6622-4287-5632"
+          },
+          {
+            "system": "urn:yp:uhid",
+            "value": "UHID-EV-2021-100115"
+          }
+        ],
+        "name": [
+          {
+            "text": "Kalyani Siddiqui",
+            "family": "Siddiqui",
+            "given": [
+              "Kalyani"
+            ]
+          }
+        ],
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "0894 983 7716"
+          }
+        ],
+        "gender": "female",
+        "birthDate": "1985-06-15",
+        "address": [
+          {
+            "city": "Bhitargaon",
+            "district": "Kanpur Nagar",
+            "postalCode": "209209"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Encounter",
+        "id": "e-057",
+        "status": "finished",
+        "period": {
+          "start": "2024-12-08",
+          "end": "2024-12-24"
+        },
+        "participant": [
+          {
+            "individual": {
+              "display": "Dr. Meenakshi Sundaram"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Condition",
+        "id": "c-057",
+        "code": {
+          "text": "Acute Bronchitis"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "m-057",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Telma 40 mg OD"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "DocumentReference",
+        "id": "d-057",
+        "status": "current",
+        "content": [
+          {
+            "attachment": {
+              "contentType": "text/plain",
+              "data": "V2FyZCBzbGlwIGZvciBLYWx5YW5pIFNpZGRpcXVpIFBoOjg5NDk4Mzc3MTYgQUJIQToxMC02NjIyLTQyODctNTYzMg=="
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "resourceType": "Bundle",
+  "id": "yp-r4-055",
+  "type": "collection",
+  "entry": [
+    {
+      "resource": {
+        "resourceType": "Patient",
+        "id": "p-055",
+        "text": {
+          "status": "generated",
+          "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">सरिता सिद्दीकी (W/o Kamlesh), Chauri Chaura 273201</div>"
+        },
+        "identifier": [
+          {
+            "system": "https://healthid.ndhm.gov.in",
+            "value": "67-6068-2458-2598"
+          },
+          {
+            "system": "urn:yp:uhid",
+            "value": "UHID-EV-2023-100111"
+          }
+        ],
+        "name": [
+          {
+            "text": "Sarita Siddiqui",
+            "family": "Siddiqui",
+            "given": [
+              "Sarita"
+            ]
+          }
+        ],
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "9.69662E+09"
+          }
+        ],
+        "gender": "female",
+        "birthDate": "2021-06-15",
+        "address": [
+          {
+            "city": "Chauri Chaura",
+            "district": "Gorakhpur",
+            "postalCode": "273201"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Encounter",
+        "id": "e-055",
+        "status": "finished",
+        "period": {
+          "start": "2024-07-15",
+          "end": "2024-08-03"
+        },
+        "participant": [
+          {
+            "individual": {
+              "display": "Dr. Anita Deshmukh"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Condition",
+        "id": "c-055",
+        "code": {
+          "text": "Acute Bronchitis"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "m-055",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Augmentin 625 Duo TDS x 7 days"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "DocumentReference",
+        "id": "d-055",
+        "status": "current",
+        "content": [
+          {
+            "attachment": {
+              "contentType": "text/plain",
+              "data": "V2FyZCBzbGlwIGZvciBTYXJpdGEgU2lkZGlxdWkgUGg6OTY5NjYyMjI1MyBBQkhBOjY3LTYwNjgtMjQ1OC0yNTk4"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

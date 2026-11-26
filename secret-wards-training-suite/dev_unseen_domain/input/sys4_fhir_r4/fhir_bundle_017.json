@@ -1,0 +1,104 @@
+{
+  "resourceType": "Bundle",
+  "id": "yp-r4-017",
+  "type": "collection",
+  "entry": [
+    {
+      "resource": {
+        "resourceType": "Patient",
+        "id": "p-017",
+        "text": {
+          "status": "generated",
+          "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">ज़ोया ठाकुर (W/o Gopal), Varanasi Urban 221001</div>"
+        },
+        "identifier": [
+          {
+            "system": "https://healthid.ndhm.gov.in",
+            "value": "79-9531-9793-9786"
+          },
+          {
+            "system": "urn:yp:uhid",
+            "value": "UHID-EV-2025-100035"
+          }
+        ],
+        "name": [
+          {
+            "text": "Zoya Thakur",
+            "family": "Thakur",
+            "given": [
+              "Zoya"
+            ]
+          }
+        ],
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "6832044104"
+          }
+        ],
+        "gender": "female",
+        "birthDate": "2016-06-15",
+        "address": [
+          {
+            "city": "Varanasi Urban",
+            "district": "Varanasi",
+            "postalCode": "221001"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Encounter",
+        "id": "e-017",
+        "status": "finished",
+        "period": {
+          "start": "2025-05-08",
+          "end": "2025-05-17"
+        },
+        "participant": [
+          {
+            "individual": {
+              "display": "Dr. Arvind Kejriwal"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Condition",
+        "id": "c-017",
+        "code": {
+          "text": "Urinary Tract Infection"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "m-017",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Pan-D 40 mg 1-0-0 AC"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "DocumentReference",
+        "id": "d-017",
+        "status": "current",
+        "content": [
+          {
+            "attachment": {
+              "contentType": "text/plain",
+              "data": "V2FyZCBzbGlwIGZvciBab3lhIFRoYWt1ciBQaDo2ODMyMDQ0MTA0IEFCSEE6NzktOTUzMS05NzkzLTk3ODY="
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

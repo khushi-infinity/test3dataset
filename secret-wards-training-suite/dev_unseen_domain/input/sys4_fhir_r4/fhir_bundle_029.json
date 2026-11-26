@@ -1,0 +1,104 @@
+{
+  "resourceType": "Bundle",
+  "id": "yp-r4-029",
+  "type": "collection",
+  "entry": [
+    {
+      "resource": {
+        "resourceType": "Patient",
+        "id": "p-029",
+        "text": {
+          "status": "generated",
+          "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">आशा मिश्रा (D/o Devendra), Khera Khurd 226101</div>"
+        },
+        "identifier": [
+          {
+            "system": "https://healthid.ndhm.gov.in",
+            "value": "65-2459-6129-9664"
+          },
+          {
+            "system": "urn:yp:uhid",
+            "value": "UHID-EV-2025-100059"
+          }
+        ],
+        "name": [
+          {
+            "text": "Asha Mishra",
+            "family": "Mishra",
+            "given": [
+              "Asha"
+            ]
+          }
+        ],
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "9017497008"
+          }
+        ],
+        "gender": "female",
+        "birthDate": "1993-06-15",
+        "address": [
+          {
+            "city": "Khera Khurd",
+            "district": "Lucknow",
+            "postalCode": "226101"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Encounter",
+        "id": "e-029",
+        "status": "finished",
+        "period": {
+          "start": "2024-08-18",
+          "end": "2024-08-25"
+        },
+        "participant": [
+          {
+            "individual": {
+              "display": "Dr. Arvind Kejriwal"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Condition",
+        "id": "c-029",
+        "code": {
+          "text": "Essential Hypertension"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "m-029",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Thyronorm 50 mcg OD empty stomach"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "DocumentReference",
+        "id": "d-029",
+        "status": "current",
+        "content": [
+          {
+            "attachment": {
+              "contentType": "text/plain",
+              "data": "V2FyZCBzbGlwIGZvciBBc2hhIE1pc2hyYSBQaDo5MDE3NDk3MDA4IEFCSEE6NjUtMjQ1OS02MTI5LTk2NjQ="
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "resourceType": "Bundle",
+  "id": "yp-r4-020",
+  "type": "collection",
+  "entry": [
+    {
+      "resource": {
+        "resourceType": "Patient",
+        "id": "p-020",
+        "text": {
+          "status": "generated",
+          "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">नेहा रेड्डी (W/o Santosh), Rampur Maniharan 247451</div>"
+        },
+        "identifier": [
+          {
+            "system": "https://healthid.ndhm.gov.in",
+            "value": "30-7125-9992-8373"
+          },
+          {
+            "system": "urn:yp:uhid",
+            "value": "UHID-EV-2025-100041"
+          }
+        ],
+        "name": [
+          {
+            "text": "Neha Reddy",
+            "family": "Reddy",
+            "given": [
+              "Neha"
+            ]
+          }
+        ],
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "8746614564"
+          }
+        ],
+        "gender": "female",
+        "birthDate": "1935-06-15",
+        "address": [
+          {
+            "city": "Rampur Maniharan",
+            "district": "Saharanpur",
+            "postalCode": "247451"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Encounter",
+        "id": "e-020",
+        "status": "finished",
+        "period": {
+          "start": "2024-04-10",
+          "end": "2024-04-15"
+        },
+        "participant": [
+          {
+            "individual": {
+              "display": "Dr. Arvind Kejriwal"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Condition",
+        "id": "c-020",
+        "code": {
+          "text": "Enteric Fever (Typhoid)"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "m-020",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Shelcal 500 mg OD"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "DocumentReference",
+        "id": "d-020",
+        "status": "current",
+        "content": [
+          {
+            "attachment": {
+              "contentType": "text/plain",
+              "data": "V2FyZCBzbGlwIGZvciBOZWhhIFJlZGR5IFBoOjg3NDY2MTQ1NjQgQUJIQTozMC03MTI1LTk5OTItODM3Mw=="
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

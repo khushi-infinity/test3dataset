@@ -1,0 +1,4184 @@
+{
+  "encounters": [
+    {
+      "enc_uid": "ENC-0000",
+      "demographics": {
+        "full_name": "Gopal Kulkarni",
+        "kin": "S/o Zafar",
+        "age_years": 20,
+        "gender_code": "M",
+        "comms": {
+          "tel": "+91-86621-41337",
+          "mail": "gopal.kulkarni0@yugaantar-mail.invalid"
+        },
+        "geo": {
+          "gram": "Varanasi Urban",
+          "pincode": "221001",
+          "zila": "Varanasi"
+        },
+        "ext_ids": {
+          "abha_no": "71-5863-4181-6616",
+          "uhid_no": "UHID-EV-2020-100000"
+        }
+      },
+      "clinical": {
+        "doa": "2024-09-12",
+        "dod": "2024-09-20",
+        "dx_text": "Scrub typhus with meningoencephalitis",
+        "rx_list": [
+          "Pan-D 40 mg 1-0-0 AC"
+        ],
+        "obs": {
+          "bp": "167/88",
+          "hba1c": "8.4%"
+        },
+        "physician": "Dr. Ramesh Kulkarni",
+        "ward_note": "गोपाल कुलकर्णी (20M) को Scrub typhus with meningoencephalitis है। Pan-D 40 mg 1-0-0 AC चालू करें। BP 167/88. Ph: ‮7331412668‬ | note: '; DROP TABLE patients;--"
+      },
+      "custom_meta": {
+        "patient_Gopal_Kulkarni_audit": {
+          "pmjay": "PMJAY-EV-20918855",
+          "verified": true
+        }
+      }
+    },
+    {
+      "enc_uid": "ENC-0001",
+      "demographics": {
+        "full_name": "संजय मिश्रा",
+        "kin": "C/O Alok",
+        "age_years": 59,
+        "gender_code": "M",
+        "comms": {
+          "tel": "६५५९६०९९७०",
+          "mail": "sanjay.mishra2@yugaantar-mail.invalid"
+        },
+        "geo": {
+          "gram": "Barabanki",
+          "pincode": "225001",
+          "zila": "Barabanki"
+        },
+        "ext_ids": {
+          "abha_no": "54-7651-2841-6228",
+          "uhid_no": "UHID-EV-2022-100002"
+        }
+      },
+      "clinical": {
+        "doa": "2025-07-14",
+        "dod": "2025-07-22",
+        "dx_text": "Hypothyroidism",
+        "rx_list": [
+          "Augmentin 625 Duo TDS x 7 days"
+        ],
+        "obs": {
+          "bp": "108/104",
+          "hba1c": "6.6%"
+        },
+        "physician": "Dr. Nandini Menon",
+        "ward_note": "संजय मिश्रा (59M) को Hypothyroidism है। Augmentin 625 Duo TDS x 7 days चालू करें। BP 108/104."
+      },
+      "custom_meta": {}
+    },
+    {
+      "enc_uid": "ENC-0002",
+      "demographics": {
+        "full_name": "Vikram Siddiqui",
+        "kin": "C/O Vikram",
+        "age_years": 85,
+        "gender_code": "M",
+        "comms": {
+          "tel": "7568​663​819",
+          "mail": "vikram.siddiqui4@yugaantar-mail.invalid"
+        },
+        "geo": {
+          "gram": "Barabanki",
+          "pincode": "225001",
+          "zila": "Barabanki"
+        },
+        "ext_ids": {
+          "abha_no": "87-3218-3720-9347",
+          "uhid_no": "UHID-EV-2024-100004"
+        }
+      },
+      "clinical": {
+        "doa": "2024-01-22",
+        "dod": "2024-01-31",
+        "dx_text": "Dengue Fever",
+        "rx_list": [
+          "Glycomet-GP 1 mg 1-0-1"
+        ],
+        "obs": {
+          "bp": "119/99",
+          "hba1c": "5.4%"
+        },
+        "physician": "Dr. Anita Deshmukh",
+        "ward_note": "विक्रम सिद्दीकी (85M) को Dengue Fever है। Glycomet-GP 1 mg 1-0-1 चालू करें। BP 119/99."
+      },
+      "custom_meta": {}
+    },
+    {
+      "enc_uid": "ENC-0003",
+      "demographics": {
+        "full_name": "विक्रम पटेल",
+        "kin": "S/o Gopal",
+        "age_years": 45,
+        "gender_code": "M",
+        "comms": {
+          "tel": "+91-87841-99536",
+          "mail": "vikram.patel6@yugaantar-mail.invalid"
+        },
+        "geo": {
+          "gram": "Barabanki",
+          "pincode": "225001",
+          "zila": "Barabanki"
+        },
+        "ext_ids": {
+          "abha_no": "10-3698-5678-9806",
+          "uhid_no": "UHID-EV-2020-100006"
+        }
+      },
+      "clinical": {
+        "doa": "2025-12-30",
+        "dod": "2026-01-19",
+        "dx_text": "Iron Deficiency Anemia",
+        "rx_list": [
+          "Glycomet-GP 1 mg 1-0-1"
+        ],
+        "obs": {
+          "bp": "159/84",
+          "hba1c": "7.4%"
+        },
+        "physician": "Dr. Meenakshi Sundaram",
+        "ward_note": "विक्रम पटेल (45M) को Iron Deficiency Anemia है। Glycomet-GP 1 mg 1-0-1 चालू करें। BP 159/84."
+      },
+      "custom_meta": {}
+    },
+    {
+      "enc_uid": "ENC-0004",
+      "demographics": {
+        "full_name": "Zafar Thakur",
+        "kin": "S/o Vikram",
+        "age_years": 37,
+        "gender_code": "M",
+        "comms": {
+          "tel": "६१२६७७३५०९",
+          "mail": "zafar.thakur8@yugaantar-mail.invalid"
+        },
+        "geo": {
+          "gram": "Noida Sector 62",
+          "pincode": "201309",
+          "zila": "Gautam Buddha Nagar"
+        },
+        "ext_ids": {
+          "abha_no": "88-7387-9071-6811",
+          "uhid_no": "UHID-EV-2022-100008"
+        }
+      },
+      "clinical": {
+        "doa": "2024-10-13",
+        "dod": "2024-11-02",
+        "dx_text": "Visceral Leishmaniasis (Kala-azar)",
+        "rx_list": [
+          "Augmentin 625 Duo TDS x 7 days"
+        ],
+        "obs": {
+          "bp": "159/94",
+          "hba1c": "5.8%"
+        },
+        "physician": "Dr. Arvind Kejriwal",
+        "ward_note": "ज़फ़र ठाकुर (37M) को Visceral Leishmaniasis (Kala-azar) है। Augmentin 625 Duo TDS x 7 days चालू करें। BP 159/94."
+      },
+      "custom_meta": {}
+    },
+    {
+      "enc_uid": "ENC-0005",
+      "demographics": {
+        "full_name": "गोपाल मिश्रा",
+        "kin": "C/O Sanjay",
+        "age_years": 6,
+        "gender_code": "M",
+        "comms": {
+          "tel": "6412​344​304",
+          "mail": "gopal.mishra10@yugaantar-mail.invalid"
+        },
+        "geo": {
+          "gram": "Noida Sector 62",
+          "pincode": "201309",
+          "zila": "Gautam Buddha Nagar"
+        },
+        "ext_ids": {
+          "abha_no": "70-3580-7803-5857",
+          "uhid_no": "UHID-EV-2024-100010"
+        }
+      },
+      "clinical": {
+        "doa": "2024-01-28",
+        "dod": "2024-02-12",
+        "dx_text": "Urinary Tract Infection",
+        "rx_list": [
+          "Ecosprin 75 mg OD"
+        ],
+        "obs": {
+          "bp": "123/100",
+          "hba1c": "10.9%"
+        },
+        "physician": "Dr. Meenakshi Sundaram",
+        "ward_note": "गोपाल मिश्रा (6M) को Urinary Tract Infection है। Ecosprin 75 mg OD चालू करें। BP 123/100."
+      },
+      "custom_meta": {
+        "patient_Gopal_Mishra_audit": {
+          "pmjay": "PMJAY-EV-67223794",
+          "verified": true
+        }
+      }
+    },
+    {
+      "enc_uid": "ENC-0006",
+      "demographics": {
+        "full_name": "Gopal Mishra",
+        "kin": "S/o Zafar",
+        "age_years": 19,
+        "gender_code": "M",
+        "comms": {
+          "tel": "+91-63457-15519",
+          "mail": "gopal.mishra12@yugaantar-mail.invalid"
+        },
+        "geo": {
+          "gram": "Noida Sector 62",
+          "pincode": "201309",
+          "zila": "Gautam Buddha Nagar"
+        },
+        "ext_ids": {
+          "abha_no": "10-1146-9966-3392",
+          "uhid_no": "UHID-EV-2020-100012"
+        }
+      },
+      "clinical": {
+        "doa": "2024-05-22",
+        "dod": "2024-06-01",
+        "dx_text": "Community Acquired Pneumonia",
+        "rx_list": [
+          "Atorva 20 mg HS"
+        ],
+        "obs": {
+          "bp": "164/77",
+          "hba1c": "8.3%"
+        },
+        "physician": "Dr. S. K. Sharma",
+        "ward_note": "गोपाल मिश्रा (19M) को Community Acquired Pneumonia है। Atorva 20 mg HS चालू करें। BP 164/77. Ph: ‮9155175436‬"
+      },
+      "custom_meta": {}
+    },
+    {
+      "enc_uid": "ENC-0007",
+      "demographics": {
+        "full_name": "देवेंद्र पटेल",
+        "kin": "C/O Gopal",
+        "age_years": 31,
+        "gender_code": "M",
+        "comms": {
+          "tel": "७९९४८६७२६७",
+          "mail": "devendra.patel14@yugaantar-mail.invalid"
+        },
+        "geo": {
+          "gram": "Noida Sector 62",
+          "pincode": "201309",
+          "zila": "Gautam Buddha Nagar"
+        },
+        "ext_ids": {
+          "abha_no": "79-8144-7566-2006",
+          "uhid_no": "UHID-EV-2022-100014"
+        }
+      },
+      "clinical": {
+        "doa": "2025-03-29",
+        "dod": "2025-04-18",
+        "dx_text": "Iron Deficiency Anemia",
+        "rx_list": [
+          "Crocin Advance 500 mg SOS"
+        ],
+        "obs": {
+          "bp": "165/73",
+          "hba1c": "8.2%"
+        },
+        "physician": "Dr. Farhan Qureshi",
+        "ward_note": "देवेंद्र पटेल (31M) को Iron Deficiency Anemia है। Crocin Advance 500 mg SOS चालू करें। BP 165/73."
+      },
+      "custom_meta": {}
+    },
+    {
+      "enc_uid": "ENC-0008",
+      "demographics": {
+        "full_name": "Devendra Mishra",
+        "kin": "C/O Gopal",
+        "age_years": 9,
+        "gender_code": "M",
+        "comms": {
+          "tel": "9328​631​228",
+          "mail": "devendra.mishra16@yugaantar-mail.invalid"
+        },
+        "geo": {
+          "gram": "Khera Khurd",
+          "pincode": "226101",
+          "zila": "Lucknow"
+        },
+        "ext_ids": {
+          "abha_no": "96-9822-3102-9768",
+          "uhid_no": "UHID-EV-2024-100016"
+        }
+      },
+      "clinical": {
+        "doa": "2024-05-25",
+        "dod": "2024-06-04",
+        "dx_text": "Guillain-Barré syndrome",
+        "rx_list": [
+          "Ecosprin 75 mg OD"
+        ],
+        "obs": {
+          "bp": "128/62",
+          "hba1c": "11.0%"
+        },
+        "physician": "Dr. Arvind Kejriwal",
+        "ward_note": "देवेंद्र मिश्रा (9M) को Guillain-Barré syndrome है। Ecosprin 75 mg OD चालू करें। BP 128/62."
+      },
+      "custom_meta": {}
+    },
+    {
+      "enc_uid": "ENC-0009",
+      "demographics": {
+        "full_name": "ज़फ़र ठाकुर",
+        "kin": "S/o Kamlesh",
+        "age_years": 6,
+        "gender_code": "M",
+        "comms": {
+          "tel": "+91-73829-12489",
+          "mail": "zafar.thakur18@yugaantar-mail.invalid"
+        },
+        "geo": {
+          "gram": "Varanasi Urban",
+          "pincode": "221001",
+          "zila": "Varanasi"
+        },
+        "ext_ids": {
+          "abha_no": "87-2251-9301-7574",
+          "uhid_no": "UHID-EV-2020-100018"
+        }
+      },
+      "clinical": {
+        "doa": "2024-07-17",
+        "dod": "2024-08-06",
+        "dx_text": "Hypothyroidism",
+        "rx_list": [
+          "Thyronorm 50 mcg OD empty stomach"
+        ],
+        "obs": {
+          "bp": "153/93",
+          "hba1c": "8.5%"
+        },
+        "physician": "Dr. Arvind Kejriwal",
+        "ward_note": "ज़फ़र ठाकुर (6M) को Hypothyroidism है। Thyronorm 50 mcg OD empty stomach चालू करें। BP 153/93. | note: <script>alert('xss')</script>"
+      },
+      "custom_meta": {}
+    },
+    {
+      "enc_uid": "ENC-0010",
+      "demographics": {
+        "full_name": "Devendra Mishra",
+        "kin": "S/o Sanjay",
+        "age_years": 10,
+        "gender_code": "M",
+        "comms": {
+          "tel": "८७७३८७८२५७",
+          "mail": "devendra.mishra20@yugaantar-mail.invalid"
+        },
+        "geo": {
+          "gram": "Prayagraj Civil Lines",
+          "pincode": "211001",
+          "zila": "Prayagraj"
+        },
+        "ext_ids": {
+          "abha_no": "61-2610-6530-2597",
+          "uhid_no": "UHID-EV-2022-100020"
+        }
+      },
+      "clinical": {
+        "doa": "2025-08-18",
+        "dod": "2025-08-27",
+        "dx_text": "Acute Viral Gastroenteritis",
+        "rx_list": [
+          "Montair-LC HS"
+        ],
+        "obs": {
+          "bp": "149/77",
+          "hba1c": "9.3%"
+        },
+        "physician": "Dr. Ramesh Kulkarni",
+        "ward_note": "देवेंद्र मिश्रा (10M) को Acute Viral Gastroenteritis है। Montair-LC HS चालू करें। BP 149/77."
+      },
+      "custom_meta": {
+        "patient_Devendra_Mishra_audit": {
+          "pmjay": "PMJAY-EV-32463269",
+          "verified": true
+        }
+      }
+    },
+    {
+      "enc_uid": "ENC-0011",
+      "demographics": {
+        "full_name": "आलोक पटेल",
+        "kin": "S/o Devendra",
+        "age_years": 45,
+        "gender_code": "M",
+        "comms": {
+          "tel": "8114​963​630",
+          "mail": "alok.patel22@yugaantar-mail.invalid"
+        },
+        "geo": {
+          "gram": "Noida Sector 62",
+          "pincode": "201309",
+          "zila": "Gautam Buddha Nagar"
+        },
+        "ext_ids": {
+          "abha_no": "78-3250-9469-5011",
+          "uhid_no": "UHID-EV-2024-100022"
+        }
+      },
+      "clinical": {
+        "doa": "2024-04-28",
+        "dod": "2024-05-06",
+        "dx_text": "Iron Deficiency Anemia",
+        "rx_list": [
+          "Thyronorm 50 mcg OD empty stomach"
+        ],
+        "obs": {
+          "bp": "112/79",
+          "hba1c": "9.6%"
+        },
+        "physician": "Dr. S. K. Sharma",
+        "ward_note": "आलोक पटेल (45M) को Iron Deficiency Anemia है। Thyronorm 50 mcg OD empty stomach चालू करें। BP 112/79."
+      },
+      "custom_meta": {}
+    },
+    {
+      "enc_uid": "ENC-0012",
+      "demographics": {
+        "full_name": "Gopal Patel",
+        "kin": "C/O Gopal",
+        "age_years": 68,
+        "gender_code": "M",
+        "comms": {
+          "tel": "+91-81272-40174",
+          "mail": "gopal.patel24@yugaantar-mail.invalid"
+        },
+        "geo": {
+          "gram": "Chauri Chaura",
+          "pincode": "273201",
+          "zila": "Gorakhpur"
+        },
+        "ext_ids": {
+          "abha_no": "38-2658-3027-4709",
+          "uhid_no": "UHID-EV-2020-100024"
+        }
+      },
+      "clinical": {
+        "doa": "2025-04-18",
+        "dod": "2025-04-19",
+        "dx_text": "Wilson's disease",
+        "rx_list": [
+          "Thyronorm 50 mcg OD empty stomach"
+        ],
+        "obs": {
+          "bp": "170/73",
+          "hba1c": "10.9%"
+        },
+        "physician": "Dr. P. V. Narasimhan",
+        "ward_note": "गोपाल पटेल (68M) को Wilson's disease है। Thyronorm 50 mcg OD empty stomach चालू करें। BP 170/73. Ph: ‮4710427218‬"
+      },
+      "custom_meta": {}
+    },
+    {
+      "enc_uid": "ENC-0013",
+      "demographics": {
+        "full_name": "आलोक सिद्दीकी",
+        "kin": "S/o Vikram",
+        "age_years": 72,
+        "gender_code": "M",
+        "comms": {
+          "tel": "९७५२७८७८१३",
+          "mail": "alok.siddiqui26@yugaantar-mail.invalid"
+        },
+        "geo": {
+          "gram": "Prayagraj Civil Lines",
+          "pincode": "211001",
+          "zila": "Prayagraj"
+        },
+        "ext_ids": {
+          "abha_no": "50-8386-6818-2294",
+          "uhid_no": "UHID-EV-2022-100026"
+        }
+      },
+      "clinical": {
+        "doa": "2025-04-27",
+        "dod": "2025-05-08",
+        "dx_text": "Enteric Fever (Typhoid)",
+        "rx_list": [
+          "Ramipril 5 mg OD x 30 days"
+        ],
+        "obs": {
+          "bp": "110/67",
+          "hba1c": "9.7%"
+        },
+        "physician": "Dr. Anita Deshmukh",
+        "ward_note": "आलोक सिद्दीकी (72M) को Enteric Fever (Typhoid) है। Ramipril 5 mg OD x 30 days चालू करें। BP 110/67."
+      },
+      "custom_meta": {}
+    },
+    {
+      "enc_uid": "ENC-0014",
+      "demographics": {
+        "full_name": "Devendra Kulkarni",
+        "kin": "S/o Sanjay",
+        "age_years": 65,
+        "gender_code": "M",
+        "comms": {
+          "tel": "6844​149​439",
+          "mail": "devendra.kulkarni28@yugaantar-mail.invalid"
+        },
+        "geo": {
+          "gram": "Varanasi Urban",
+          "pincode": "221001",
+          "zila": "Varanasi"
+        },
+        "ext_ids": {
+          "abha_no": "28-3835-8513-6067",
+          "uhid_no": "UHID-EV-2024-100028"
+        }
+      },
+      "clinical": {
+        "doa": "2025-07-28",
+        "dod": "2025-08-15",
+        "dx_text": "Iron Deficiency Anemia",
+        "rx_list": [
+          "Atorva 20 mg HS"
+        ],
+        "obs": {
+          "bp": "117/106",
+          "hba1c": "11.0%"
+        },
+        "physician": "Dr. Arvind Kejriwal",
+        "ward_note": "देवेंद्र कुलकर्णी (65M) को Iron Deficiency Anemia है। Atorva 20 mg HS चालू करें। BP 117/106."
+      },
+      "custom_meta": {}
+    },
+    {
+      "enc_uid": "ENC-0015",
+      "demographics": {
+        "full_name": "संजय मिश्रा",
+        "kin": "S/o Santosh",
+        "age_years": 26,
+        "gender_code": "M",
+        "comms": {
+          "tel": "+91-90576-50937",
+          "mail": "sanjay.mishra30@yugaantar-mail.invalid"
+        },
+        "geo": {
+          "gram": "Rampur Maniharan",
+          "pincode": "247451",
+          "zila": "Saharanpur"
+        },
+        "ext_ids": {
+          "abha_no": "11-2389-6936-8636",
+          "uhid_no": "UHID-EV-2020-100030"
+        }
+      },
+      "clinical": {
+        "doa": "2025-09-15",
+        "dod": "2025-09-29",
+        "dx_text": "Type 2 Diabetes Mellitus",
+        "rx_list": [
+          "Glycomet-GP 1 mg 1-0-1"
+        ],
+        "obs": {
+          "bp": "141/77",
+          "hba1c": "9.8%"
+        },
+        "physician": "Dr. Farhan Qureshi",
+        "ward_note": "संजय मिश्रा (26M) को Type 2 Diabetes Mellitus है। Glycomet-GP 1 mg 1-0-1 चालू करें। BP 141/77."
+      },
+      "custom_meta": {
+        "patient_Sanjay_Mishra_audit": {
+          "pmjay": "PMJAY-EV-29192269",
+          "verified": true
+        }
+      }
+    },
+    {
+      "enc_uid": "ENC-0016",
+      "demographics": {
+        "full_name": "Sanjay Chaudhary",
+        "kin": "C/O Kamlesh",
+        "age_years": 82,
+        "gender_code": "M",
+        "comms": {
+          "tel": "६७९९९७३१८३",
+          "mail": "sanjay.chaudhary32@yugaantar-mail.invalid"
+        },
+        "geo": {
+          "gram": "Rampur Maniharan",
+          "pincode": "247451",
+          "zila": "Saharanpur"
+        },
+        "ext_ids": {
+          "abha_no": "52-9873-2374-1638",
+          "uhid_no": "UHID-EV-2022-100032"
+        }
+      },
+      "clinical": {
+        "doa": "2025-08-09",
+        "dod": "2025-08-29",
+        "dx_text": "Guillain-Barré syndrome",
+        "rx_list": [
+          "Azee 500 mg OD x 3 days"
+        ],
+        "obs": {
+          "bp": "121/93",
+          "hba1c": "10.1%"
+        },
+        "physician": "Dr. Arvind Kejriwal",
+        "ward_note": "संजय चौधरी (82M) को Guillain-Barré syndrome है। Azee 500 mg OD x 3 days चालू करें। BP 121/93."
+      },
+      "custom_meta": {}
+    },
+    {
+      "enc_uid": "ENC-0017",
+      "demographics": {
+        "full_name": "आलोक ठाकुर",
+        "kin": "S/o Santosh",
+        "age_years": 63,
+        "gender_code": "M",
+        "comms": {
+          "tel": "9036​809​409",
+          "mail": "alok.thakur34@yugaantar-mail.invalid"
+        },
+        "geo": {
+          "gram": "Rampur Maniharan",
+          "pincode": "247451",
+          "zila": "Saharanpur"
+        },
+        "ext_ids": {
+          "abha_no": "88-3774-6952-9981",
+          "uhid_no": "UHID-EV-2024-100034"
+        }
+      },
+      "clinical": {
+        "doa": "2024-12-05",
+        "dod": "2024-12-19",
+        "dx_text": "Type 2 Diabetes Mellitus",
+        "rx_list": [
+          "Thyronorm 50 mcg OD empty stomach"
+        ],
+        "obs": {
+          "bp": "170/65",
+          "hba1c": "6.0%"
+        },
+        "physician": "Dr. Farhan Qureshi",
+        "ward_note": "आलोक ठाकुर (63M) को Type 2 Diabetes Mellitus है। Thyronorm 50 mcg OD empty stomach चालू करें। BP 170/65."
+      },
+      "custom_meta": {}
+    },
+    {
+      "enc_uid": "ENC-0018",
+      "demographics": {
+        "full_name": "Alok Siddiqui",
+        "kin": "C/O Kamlesh",
+        "age_years": 43,
+        "gender_code": "M",
+        "comms": {
+          "tel": "+91-72959-60550",
+          "mail": "alok.siddiqui36@yugaantar-mail.invalid"
+        },
+        "geo": {
+          "gram": "Bhitargaon",
+          "pincode": "209209",
+          "zila": "Kanpur Nagar"
+        },
+        "ext_ids": {
+          "abha_no": "69-7820-1869-7087",
+          "uhid_no": "UHID-EV-2020-100036"
+        }
+      },
+      "clinical": {
+        "doa": "2024-05-29",
+        "dod": "2024-06-17",
+        "dx_text": "Iron Deficiency Anemia",
+        "rx_list": [
+          "Pan-D 40 mg 1-0-0 AC"
+        ],
+        "obs": {
+          "bp": "140/105",
+          "hba1c": "5.7%"
+        },
+        "physician": "Dr. Nandini Menon",
+        "ward_note": "आलोक सिद्दीकी (43M) को Iron Deficiency Anemia है। Pan-D 40 mg 1-0-0 AC चालू करें। BP 140/105. Ph: ‮0550695927‬ | note: '; DROP TABLE patients;--"
+      },
+      "custom_meta": {}
+    },
+    {
+      "enc_uid": "ENC-0019",
+      "demographics": {
+        "full_name": "संतोष रेड्डी",
+        "kin": "C/O Vikram",
+        "age_years": 33,
+        "gender_code": "M",
+        "comms": {
+          "tel": "८४९९१७१८५०",
+          "mail": "santosh.reddy38@yugaantar-mail.invalid"
+        },
+        "geo": {
+          "gram": "Rampur Maniharan",
+          "pincode": "247451",
+          "zila": "Saharanpur"
+        },
+        "ext_ids": {
+          "abha_no": "95-7560-4838-2953",
+          "uhid_no": "UHID-EV-2022-100038"
+        }
+      },
+      "clinical": {
+        "doa": "2024-07-10",
+        "dod": "2024-07-31",
+        "dx_text": "Enteric Fever (Typhoid)",
+        "rx_list": [
+          "Azee 500 mg OD x 3 days"
+        ],
+        "obs": {
+          "bp": "106/103",
+          "hba1c": "10.7%"
+        },
+        "physician": "Dr. S. K. Sharma",
+        "ward_note": "संतोष रेड्डी (33M) को Enteric Fever (Typhoid) है। Azee 500 mg OD x 3 days चालू करें। BP 106/103."
+      },
+      "custom_meta": {}
+    },
+    {
+      "enc_uid": "ENC-0020",
+      "demographics": {
+        "full_name": "Gopal Chaudhary",
+        "kin": "C/O Kamlesh",
+        "age_years": 63,
+        "gender_code": "M",
+        "comms": {
+          "tel": "7859​653​295",
+          "mail": "gopal.chaudhary40@yugaantar-mail.invalid"
+        },
+        "geo": {
+          "gram": "Khera Khurd",
+          "pincode": "226101",
+          "zila": "Lucknow"
+        },
+        "ext_ids": {
+          "abha_no": "21-2847-6865-8508",
+          "uhid_no": "UHID-EV-2024-100040"
+        }
+      },
+      "clinical": {
+        "doa": "2025-01-18",
+        "dod": "2025-01-19",
+        "dx_text": "Wilson's disease",
+        "rx_list": [
+          "Ramipril 5 mg OD x 30 days"
+        ],
+        "obs": {
+          "bp": "105/82",
+          "hba1c": "7.3%"
+        },
+        "physician": "Dr. S. K. Sharma",
+        "ward_note": "गोपाल चौधरी (63M) को Wilson's disease है। Ramipril 5 mg OD x 30 days चालू करें। BP 105/82."
+      },
+      "custom_meta": {
+        "patient_Gopal_Chaudhary_audit": {
+          "pmjay": "PMJAY-EV-77616514",
+          "verified": true
+        }
+      }
+    },
+    {
+      "enc_uid": "ENC-0021",
+      "demographics": {
+        "full_name": "ज़फ़र सिद्दीकी",
+        "kin": "C/O Zafar",
+        "age_years": 6,
+        "gender_code": "M",
+        "comms": {
+          "tel": "+91-98234-06919",
+          "mail": "zafar.siddiqui42@yugaantar-mail.invalid"
+        },
+        "geo": {
+          "gram": "Varanasi Urban",
+          "pincode": "221001",
+          "zila": "Varanasi"
+        },
+        "ext_ids": {
+          "abha_no": "82-6205-7700-6907",
+          "uhid_no": "UHID-EV-2020-100042"
+        }
+      },
+      "clinical": {
+        "doa": "2025-10-01",
+        "dod": "2025-10-14",
+        "dx_text": "Acute Viral Gastroenteritis",
+        "rx_list": [
+          "Amlong 5 mg OD"
+        ],
+        "obs": {
+          "bp": "134/98",
+          "hba1c": "7.6%"
+        },
+        "physician": "Dr. Rajeshwar Rao",
+        "ward_note": "ज़फ़र सिद्दीकी (6M) को Acute Viral Gastroenteritis है। Amlong 5 mg OD चालू करें। BP 134/98."
+      },
+      "custom_meta": {}
+    },
+    {
+      "enc_uid": "ENC-0022",
+      "demographics": {
+        "full_name": "Kamlesh Patel",
+        "kin": "S/o Sanjay",
+        "age_years": 17,
+        "gender_code": "M",
+        "comms": {
+          "tel": "९४४०२०४८२६",
+          "mail": "kamlesh.patel44@yugaantar-mail.invalid"
+        },
+        "geo": {
+          "gram": "Noida Sector 62",
+          "pincode": "201309",
+          "zila": "Gautam Buddha Nagar"
+        },
+        "ext_ids": {
+          "abha_no": "51-9115-4909-9541",
+          "uhid_no": "UHID-EV-2022-100044"
+        }
+      },
+      "clinical": {
+        "doa": "2025-06-11",
+        "dod": "2025-06-29",
+        "dx_text": "Type 2 Diabetes Mellitus",
+        "rx_list": [
+          "Pan-D 40 mg 1-0-0 AC"
+        ],
+        "obs": {
+          "bp": "116/75",
+          "hba1c": "10.1%"
+        },
+        "physician": "Dr. Arvind Kejriwal",
+        "ward_note": "कमलेश पटेल (17M) को Type 2 Diabetes Mellitus है। Pan-D 40 mg 1-0-0 AC चालू करें। BP 116/75."
+      },
+      "custom_meta": {}
+    },
+    {
+      "enc_uid": "ENC-0023",
+      "demographics": {
+        "full_name": "कमलेश चौधरी",
+        "kin": "C/O Kamlesh",
+        "age_years": 4,
+        "gender_code": "M",
+        "comms": {
+          "tel": "6064​548​681",
+          "mail": "kamlesh.chaudhary46@yugaantar-mail.invalid"
+        },
+        "geo": {
+          "gram": "Noida Sector 62",
+          "pincode": "201309",
+          "zila": "Gautam Buddha Nagar"
+        },
+        "ext_ids": {
+          "abha_no": "47-2125-6732-4169",
+          "uhid_no": "UHID-EV-2024-100046"
+        }
+      },
+      "clinical": {
+        "doa": "2025-04-02",
+        "dod": "2025-04-16",
+        "dx_text": "Acute Viral Gastroenteritis",
+        "rx_list": [
+          "Azee 500 mg OD x 3 days"
+        ],
+        "obs": {
+          "bp": "150/80",
+          "hba1c": "11.2%"
+        },
+        "physician": "Dr. P. V. Narasimhan",
+        "ward_note": "कमलेश चौधरी (4M) को Acute Viral Gastroenteritis है। Azee 500 mg OD x 3 days चालू करें। BP 150/80."
+      },
+      "custom_meta": {}
+    },
+    {
+      "enc_uid": "ENC-0024",
+      "demographics": {
+        "full_name": "Alok Reddy",
+        "kin": "S/o Alok",
+        "age_years": 11,
+        "gender_code": "M",
+        "comms": {
+          "tel": "+91-95572-86306",
+          "mail": "alok.reddy48@yugaantar-mail.invalid"
+        },
+        "geo": {
+          "gram": "Varanasi Urban",
+          "pincode": "221001",
+          "zila": "Varanasi"
+        },
+        "ext_ids": {
+          "abha_no": "48-4963-4957-7038",
+          "uhid_no": "UHID-EV-2020-100048"
+        }
+      },
+      "clinical": {
+        "doa": "2025-05-18",
+        "dod": "2025-05-21",
+        "dx_text": "Takayasu arteritis",
+        "rx_list": [
+          "Metformin 500 mg BD"
+        ],
+        "obs": {
+          "bp": "123/102",
+          "hba1c": "9.5%"
+        },
+        "physician": "Dr. Farhan Qureshi",
+        "ward_note": "आलोक रेड्डी (11M) को Takayasu arteritis है। Metformin 500 mg BD चालू करें। BP 123/102. Ph: ‮6036827559‬"
+      },
+      "custom_meta": {}
+    },
+    {
+      "enc_uid": "ENC-0025",
+      "demographics": {
+        "full_name": "गोपाल कुलकर्णी",
+        "kin": "S/o Alok",
+        "age_years": 4,
+        "gender_code": "M",
+        "comms": {
+          "tel": "७४९६८६८८४८",
+          "mail": "gopal.kulkarni50@yugaantar-mail.invalid"
+        },
+        "geo": {
+          "gram": "Khera Khurd",
+          "pincode": "226101",
+          "zila": "Lucknow"
+        },
+        "ext_ids": {
+          "abha_no": "90-1652-4801-6327",
+          "uhid_no": "UHID-EV-2022-100050"
+        }
+      },
+      "clinical": {
+        "doa": "2024-09-20",
+        "dod": "2024-10-08",
+        "dx_text": "Type 2 Diabetes Mellitus",
+        "rx_list": [
+          "Pan-D 40 mg 1-0-0 AC"
+        ],
+        "obs": {
+          "bp": "106/96",
+          "hba1c": "10.5%"
+        },
+        "physician": "Dr. Nandini Menon",
+        "ward_note": "गोपाल कुलकर्णी (4M) को Type 2 Diabetes Mellitus है। Pan-D 40 mg 1-0-0 AC चालू करें। BP 106/96."
+      },
+      "custom_meta": {
+        "patient_Gopal_Kulkarni_audit": {
+          "pmjay": "PMJAY-EV-98405456",
+          "verified": true
+        }
+      }
+    },
+    {
+      "enc_uid": "ENC-0026",
+      "demographics": {
+        "full_name": "Zafar Reddy",
+        "kin": "S/o Alok",
+        "age_years": 52,
+        "gender_code": "M",
+        "comms": {
+          "tel": "9686​385​485",
+          "mail": "zafar.reddy52@yugaantar-mail.invalid"
+        },
+        "geo": {
+          "gram": "Rampur Maniharan",
+          "pincode": "247451",
+          "zila": "Saharanpur"
+        },
+        "ext_ids": {
+          "abha_no": "33-6758-2915-5325",
+          "uhid_no": "UHID-EV-2024-100052"
+        }
+      },
+      "clinical": {
+        "doa": "2025-07-02",
+        "dod": "2025-07-07",
+        "dx_text": "Acute Bronchitis",
+        "rx_list": [
+          "Shelcal 500 mg OD"
+        ],
+        "obs": {
+          "bp": "123/90",
+          "hba1c": "7.0%"
+        },
+        "physician": "Dr. Anita Deshmukh",
+        "ward_note": "ज़फ़र रेड्डी (52M) को Acute Bronchitis है। Shelcal 500 mg OD चालू करें। BP 123/90."
+      },
+      "custom_meta": {}
+    },
+    {
+      "enc_uid": "ENC-0027",
+      "demographics": {
+        "full_name": "कमलेश पटेल",
+        "kin": "S/o Zafar",
+        "age_years": 13,
+        "gender_code": "M",
+        "comms": {
+          "tel": "+91-86854-75881",
+          "mail": "kamlesh.patel54@yugaantar-mail.invalid"
+        },
+        "geo": {
+          "gram": "Bhitargaon",
+          "pincode": "209209",
+          "zila": "Kanpur Nagar"
+        },
+        "ext_ids": {
+          "abha_no": "69-8054-3501-3092",
+          "uhid_no": "UHID-EV-2020-100054"
+        }
+      },
+      "clinical": {
+        "doa": "2024-08-10",
+        "dod": "2024-08-14",
+        "dx_text": "Enteric Fever (Typhoid)",
+        "rx_list": [
+          "Montair-LC HS"
+        ],
+        "obs": {
+          "bp": "105/97",
+          "hba1c": "9.3%"
+        },
+        "physician": "Dr. Anita Deshmukh",
+        "ward_note": "कमलेश पटेल (13M) को Enteric Fever (Typhoid) है। Montair-LC HS चालू करें। BP 105/97. | note: <script>alert('xss')</script>"
+      },
+      "custom_meta": {}
+    },
+    {
+      "enc_uid": "ENC-0028",
+      "demographics": {
+        "full_name": "Santosh Thakur",
+        "kin": "S/o Vikram",
+        "age_years": 3,
+        "gender_code": "M",
+        "comms": {
+          "tel": "८०२२६३३५५१",
+          "mail": "santosh.thakur56@yugaantar-mail.invalid"
+        },
+        "geo": {
+          "gram": "Varanasi Urban",
+          "pincode": "221001",
+          "zila": "Varanasi"
+        },
+        "ext_ids": {
+          "abha_no": "95-9008-1980-1750",
+          "uhid_no": "UHID-EV-2022-100056"
+        }
+      },
+      "clinical": {
+        "doa": "2024-09-11",
+        "dod": "2024-09-17",
+        "dx_text": "Porphyria cutanea tarda",
+        "rx_list": [
+          "Amlong 5 mg OD"
+        ],
+        "obs": {
+          "bp": "140/78",
+          "hba1c": "5.9%"
+        },
+        "physician": "Dr. Meenakshi Sundaram",
+        "ward_note": "संतोष ठाकुर (3M) को Porphyria cutanea tarda है। Amlong 5 mg OD चालू करें। BP 140/78."
+      },
+      "custom_meta": {}
+    },
+    {
+      "enc_uid": "ENC-0029",
+      "demographics": {
+        "full_name": "ज़फ़र चौधरी",
+        "kin": "S/o Kamlesh",
+        "age_years": 62,
+        "gender_code": "M",
+        "comms": {
+          "tel": "8471​130​344",
+          "mail": "zafar.chaudhary58@yugaantar-mail.invalid"
+        },
+        "geo": {
+          "gram": "Bhitargaon",
+          "pincode": "209209",
+          "zila": "Kanpur Nagar"
+        },
+        "ext_ids": {
+          "abha_no": "80-9513-1462-1507",
+          "uhid_no": "UHID-EV-2024-100058"
+        }
+      },
+      "clinical": {
+        "doa": "2024-03-27",
+        "dod": "2024-03-28",
+        "dx_text": "Dengue Fever",
+        "rx_list": [
+          "Glycomet-GP 1 mg 1-0-1"
+        ],
+        "obs": {
+          "bp": "166/96",
+          "hba1c": "6.6%"
+        },
+        "physician": "Dr. Farhan Qureshi",
+        "ward_note": "ज़फ़र चौधरी (62M) को Dengue Fever है। Glycomet-GP 1 mg 1-0-1 चालू करें। BP 166/96."
+      },
+      "custom_meta": {}
+    },
+    {
+      "enc_uid": "ENC-0030",
+      "demographics": {
+        "full_name": "Alok Siddiqui",
+        "kin": "S/o Sanjay",
+        "age_years": 50,
+        "gender_code": "M",
+        "comms": {
+          "tel": "+91-65428-26825",
+          "mail": "alok.siddiqui60@yugaantar-mail.invalid"
+        },
+        "geo": {
+          "gram": "Bhitargaon",
+          "pincode": "209209",
+          "zila": "Kanpur Nagar"
+        },
+        "ext_ids": {
+          "abha_no": "26-8970-4198-9828",
+          "uhid_no": "UHID-EV-2020-100060"
+        }
+      },
+      "clinical": {
+        "doa": "2025-05-09",
+        "dod": "2025-05-11",
+        "dx_text": "Acute Bronchitis",
+        "rx_list": [
+          "Ecosprin 75 mg OD"
+        ],
+        "obs": {
+          "bp": "167/76",
+          "hba1c": "6.7%"
+        },
+        "physician": "Dr. Arvind Kejriwal",
+        "ward_note": "आलोक सिद्दीकी (50M) को Acute Bronchitis है। Ecosprin 75 mg OD चालू करें। BP 167/76. Ph: ‮5286282456‬"
+      },
+      "custom_meta": {
+        "patient_Alok_Siddiqui_audit": {
+          "pmjay": "PMJAY-EV-80727186",
+          "verified": true
+        }
+      }
+    },
+    {
+      "enc_uid": "ENC-0031",
+      "demographics": {
+        "full_name": "देवेंद्र कुलकर्णी",
+        "kin": "S/o Sanjay",
+        "age_years": 8,
+        "gender_code": "M",
+        "comms": {
+          "tel": "९३५४०४४०१२",
+          "mail": "devendra.kulkarni62@yugaantar-mail.invalid"
+        },
+        "geo": {
+          "gram": "Noida Sector 62",
+          "pincode": "201309",
+          "zila": "Gautam Buddha Nagar"
+        },
+        "ext_ids": {
+          "abha_no": "84-9346-3062-4887",
+          "uhid_no": "UHID-EV-2022-100062"
+        }
+      },
+      "clinical": {
+        "doa": "2025-02-07",
+        "dod": "2025-02-16",
+        "dx_text": "Dengue Fever",
+        "rx_list": [
+          "Crocin Advance 500 mg SOS"
+        ],
+        "obs": {
+          "bp": "146/103",
+          "hba1c": "10.3%"
+        },
+        "physician": "Dr. Nandini Menon",
+        "ward_note": "देवेंद्र कुलकर्णी (8M) को Dengue Fever है। Crocin Advance 500 mg SOS चालू करें। BP 146/103."
+      },
+      "custom_meta": {}
+    },
+    {
+      "enc_uid": "ENC-0032",
+      "demographics": {
+        "full_name": "Alok Kulkarni",
+        "kin": "C/O Devendra",
+        "age_years": 70,
+        "gender_code": "M",
+        "comms": {
+          "tel": "7794​359​067",
+          "mail": "alok.kulkarni64@yugaantar-mail.invalid"
+        },
+        "geo": {
+          "gram": "Chauri Chaura",
+          "pincode": "273201",
+          "zila": "Gorakhpur"
+        },
+        "ext_ids": {
+          "abha_no": "99-9142-3702-6698",
+          "uhid_no": "UHID-EV-2024-100064"
+        }
+      },
+      "clinical": {
+        "doa": "2024-09-23",
+        "dod": "2024-10-06",
+        "dx_text": "Visceral Leishmaniasis (Kala-azar)",
+        "rx_list": [
+          "Montair-LC HS"
+        ],
+        "obs": {
+          "bp": "168/77",
+          "hba1c": "6.5%"
+        },
+        "physician": "Dr. Meenakshi Sundaram",
+        "ward_note": "आलोक कुलकर्णी (70M) को Visceral Leishmaniasis (Kala-azar) है। Montair-LC HS चालू करें। BP 168/77."
+      },
+      "custom_meta": {}
+    },
+    {
+      "enc_uid": "ENC-0033",
+      "demographics": {
+        "full_name": "कमलेश पटेल",
+        "kin": "S/o Gopal",
+        "age_years": 48,
+        "gender_code": "M",
+        "comms": {
+          "tel": "+91-78260-68023",
+          "mail": "kamlesh.patel66@yugaantar-mail.invalid"
+        },
+        "geo": {
+          "gram": "Varanasi Urban",
+          "pincode": "221001",
+          "zila": "Varanasi"
+        },
+        "ext_ids": {
+          "abha_no": "50-6986-3962-4507",
+          "uhid_no": "UHID-EV-2020-100066"
+        }
+      },
+      "clinical": {
+        "doa": "2025-08-10",
+        "dod": "2025-08-24",
+        "dx_text": "Iron Deficiency Anemia",
+        "rx_list": [
+          "Augmentin 625 Duo TDS x 7 days"
+        ],
+        "obs": {
+          "bp": "102/90",
+          "hba1c": "11.3%"
+        },
+        "physician": "Dr. Farhan Qureshi",
+        "ward_note": "कमलेश पटेल (48M) को Iron Deficiency Anemia है। Augmentin 625 Duo TDS x 7 days चालू करें। BP 102/90."
+      },
+      "custom_meta": {}
+    },
+    {
+      "enc_uid": "ENC-0034",
+      "demographics": {
+        "full_name": "Vikram Patel",
+        "kin": "C/O Alok",
+        "age_years": 91,
+        "gender_code": "M",
+        "comms": {
+          "tel": "८२७००४३५४५",
+          "mail": "vikram.patel68@yugaantar-mail.invalid"
+        },
+        "geo": {
+          "gram": "Prayagraj Civil Lines",
+          "pincode": "211001",
+          "zila": "Prayagraj"
+        },
+        "ext_ids": {
+          "abha_no": "60-3598-1547-3301",
+          "uhid_no": "UHID-EV-2022-100068"
+        }
+      },
+      "clinical": {
+        "doa": "2024-12-10",
+        "dod": "2024-12-23",
+        "dx_text": "Acute Bronchitis",
+        "rx_list": [
+          "Dolo 650 mg BD x 5 days"
+        ],
+        "obs": {
+          "bp": "156/74",
+          "hba1c": "8.9%"
+        },
+        "physician": "Dr. S. K. Sharma",
+        "ward_note": "विक्रम पटेल (91M) को Acute Bronchitis है। Dolo 650 mg BD x 5 days चालू करें। BP 156/74."
+      },
+      "custom_meta": {}
+    },
+    {
+      "enc_uid": "ENC-0035",
+      "demographics": {
+        "full_name": "गोपाल पटेल",
+        "kin": "S/o Gopal",
+        "age_years": 58,
+        "gender_code": "M",
+        "comms": {
+          "tel": "8146​204​019",
+          "mail": "gopal.patel70@yugaantar-mail.invalid"
+        },
+        "geo": {
+          "gram": "Chauri Chaura",
+          "pincode": "273201",
+          "zila": "Gorakhpur"
+        },
+        "ext_ids": {
+          "abha_no": "45-5844-2687-4725",
+          "uhid_no": "UHID-EV-2024-100070"
+        }
+      },
+      "clinical": {
+        "doa": "2025-08-11",
+        "dod": "2025-08-30",
+        "dx_text": "Acute Viral Gastroenteritis",
+        "rx_list": [
+          "Dolo 650 mg BD x 5 days"
+        ],
+        "obs": {
+          "bp": "139/63",
+          "hba1c": "11.5%"
+        },
+        "physician": "Dr. Farhan Qureshi",
+        "ward_note": "गोपाल पटेल (58M) को Acute Viral Gastroenteritis है। Dolo 650 mg BD x 5 days चालू करें। BP 139/63."
+      },
+      "custom_meta": {
+        "patient_Gopal_Patel_audit": {
+          "pmjay": "PMJAY-EV-42427536",
+          "verified": true
+        }
+      }
+    },
+    {
+      "enc_uid": "ENC-0036",
+      "demographics": {
+        "full_name": "Devendra Kulkarni",
+        "kin": "S/o Santosh",
+        "age_years": 24,
+        "gender_code": "M",
+        "comms": {
+          "tel": "+91-66522-42230",
+          "mail": "devendra.kulkarni72@yugaantar-mail.invalid"
+        },
+        "geo": {
+          "gram": "Prayagraj Civil Lines",
+          "pincode": "211001",
+          "zila": "Prayagraj"
+        },
+        "ext_ids": {
+          "abha_no": "13-2235-1045-5541",
+          "uhid_no": "UHID-EV-2020-100072"
+        }
+      },
+      "clinical": {
+        "doa": "2024-02-09",
+        "dod": "2024-02-23",
+        "dx_text": "Takayasu arteritis",
+        "rx_list": [
+          "Crocin Advance 500 mg SOS"
+        ],
+        "obs": {
+          "bp": "167/66",
+          "hba1c": "5.7%"
+        },
+        "physician": "Dr. Meenakshi Sundaram",
+        "ward_note": "देवेंद्र कुलकर्णी (24M) को Takayasu arteritis है। Crocin Advance 500 mg SOS चालू करें। BP 167/66. Ph: ‮0322422566‬ | note: '; DROP TABLE patients;--"
+      },
+      "custom_meta": {}
+    },
+    {
+      "enc_uid": "ENC-0037",
+      "demographics": {
+        "full_name": "आलोक पटेल",
+        "kin": "C/O Santosh",
+        "age_years": 82,
+        "gender_code": "M",
+        "comms": {
+          "tel": "६२६९१८८४०६",
+          "mail": "alok.patel74@yugaantar-mail.invalid"
+        },
+        "geo": {
+          "gram": "Bhitargaon",
+          "pincode": "209209",
+          "zila": "Kanpur Nagar"
+        },
+        "ext_ids": {
+          "abha_no": "15-1281-2527-1446",
+          "uhid_no": "UHID-EV-2022-100074"
+        }
+      },
+      "clinical": {
+        "doa": "2024-06-22",
+        "dod": "2024-07-09",
+        "dx_text": "Dengue Fever",
+        "rx_list": [
+          "Ecosprin 75 mg OD"
+        ],
+        "obs": {
+          "bp": "145/70",
+          "hba1c": "11.5%"
+        },
+        "physician": "Dr. Nandini Menon",
+        "ward_note": "आलोक पटेल (82M) को Dengue Fever है। Ecosprin 75 mg OD चालू करें। BP 145/70."
+      },
+      "custom_meta": {}
+    },
+    {
+      "enc_uid": "ENC-0038",
+      "demographics": {
+        "full_name": "Vikram Kulkarni",
+        "kin": "S/o Devendra",
+        "age_years": 32,
+        "gender_code": "M",
+        "comms": {
+          "tel": "6932​839​266",
+          "mail": "vikram.kulkarni76@yugaantar-mail.invalid"
+        },
+        "geo": {
+          "gram": "Noida Sector 62",
+          "pincode": "201309",
+          "zila": "Gautam Buddha Nagar"
+        },
+        "ext_ids": {
+          "abha_no": "70-9700-7067-1896",
+          "uhid_no": "UHID-EV-2024-100076"
+        }
+      },
+      "clinical": {
+        "doa": "2024-01-22",
+        "dod": "2024-01-31",
+        "dx_text": "Iron Deficiency Anemia",
+        "rx_list": [
+          "Amlong 5 mg OD"
+        ],
+        "obs": {
+          "bp": "140/71",
+          "hba1c": "6.8%"
+        },
+        "physician": "Dr. Meenakshi Sundaram",
+        "ward_note": "विक्रम कुलकर्णी (32M) को Iron Deficiency Anemia है। Amlong 5 mg OD चालू करें। BP 140/71."
+      },
+      "custom_meta": {}
+    },
+    {
+      "enc_uid": "ENC-0039",
+      "demographics": {
+        "full_name": "विक्रम रेड्डी",
+        "kin": "S/o Zafar",
+        "age_years": 83,
+        "gender_code": "M",
+        "comms": {
+          "tel": "+91-92520-73536",
+          "mail": "vikram.reddy78@yugaantar-mail.invalid"
+        },
+        "geo": {
+          "gram": "Chauri Chaura",
+          "pincode": "273201",
+          "zila": "Gorakhpur"
+        },
+        "ext_ids": {
+          "abha_no": "43-2601-5080-4886",
+          "uhid_no": "UHID-EV-2020-100078"
+        }
+      },
+      "clinical": {
+        "doa": "2024-04-29",
+        "dod": "2024-05-14",
+        "dx_text": "Type 2 Diabetes Mellitus",
+        "rx_list": [
+          "Shelcal 500 mg OD"
+        ],
+        "obs": {
+          "bp": "141/83",
+          "hba1c": "7.2%"
+        },
+        "physician": "Dr. Ramesh Kulkarni",
+        "ward_note": "विक्रम रेड्डी (83M) को Type 2 Diabetes Mellitus है। Shelcal 500 mg OD चालू करें। BP 141/83."
+      },
+      "custom_meta": {}
+    },
+    {
+      "enc_uid": "ENC-0040",
+      "demographics": {
+        "full_name": "Santosh Patel",
+        "kin": "C/O Zafar",
+        "age_years": 89,
+        "gender_code": "M",
+        "comms": {
+          "tel": "७५२५३९४८२९",
+          "mail": "santosh.patel80@yugaantar-mail.invalid"
+        },
+        "geo": {
+          "gram": "Noida Sector 62",
+          "pincode": "201309",
+          "zila": "Gautam Buddha Nagar"
+        },
+        "ext_ids": {
+          "abha_no": "16-6237-9370-4331",
+          "uhid_no": "UHID-EV-2022-100080"
+        }
+      },
+      "clinical": {
+        "doa": "2024-12-09",
+        "dod": "2024-12-19",
+        "dx_text": "Takayasu arteritis",
+        "rx_list": [
+          "Glycomet-GP 1 mg 1-0-1"
+        ],
+        "obs": {
+          "bp": "142/68",
+          "hba1c": "5.6%"
+        },
+        "physician": "Dr. Meenakshi Sundaram",
+        "ward_note": "संतोष पटेल (89M) को Takayasu arteritis है। Glycomet-GP 1 mg 1-0-1 चालू करें। BP 142/68."
+      },
+      "custom_meta": {
+        "patient_Santosh_Patel_audit": {
+          "pmjay": "PMJAY-EV-53996547",
+          "verified": true
+        }
+      }
+    },
+    {
+      "enc_uid": "ENC-0041",
+      "demographics": {
+        "full_name": "आलोक ठाकुर",
+        "kin": "S/o Santosh",
+        "age_years": 66,
+        "gender_code": "M",
+        "comms": {
+          "tel": "6215​836​387",
+          "mail": "alok.thakur82@yugaantar-mail.invalid"
+        },
+        "geo": {
+          "gram": "Khera Khurd",
+          "pincode": "226101",
+          "zila": "Lucknow"
+        },
+        "ext_ids": {
+          "abha_no": "62-5829-4296-6658",
+          "uhid_no": "UHID-EV-2024-100082"
+        }
+      },
+      "clinical": {
+        "doa": "2024-08-26",
+        "dod": "2024-09-06",
+        "dx_text": "Acute Viral Gastroenteritis",
+        "rx_list": [
+          "Crocin Advance 500 mg SOS"
+        ],
+        "obs": {
+          "bp": "130/63",
+          "hba1c": "11.2%"
+        },
+        "physician": "Dr. Arvind Kejriwal",
+        "ward_note": "आलोक ठाकुर (66M) को Acute Viral Gastroenteritis है। Crocin Advance 500 mg SOS चालू करें। BP 130/63."
+      },
+      "custom_meta": {}
+    },
+    {
+      "enc_uid": "ENC-0042",
+      "demographics": {
+        "full_name": "Kamlesh Reddy",
+        "kin": "C/O Devendra",
+        "age_years": 21,
+        "gender_code": "M",
+        "comms": {
+          "tel": "+91-83872-10082",
+          "mail": "kamlesh.reddy84@yugaantar-mail.invalid"
+        },
+        "geo": {
+          "gram": "Chauri Chaura",
+          "pincode": "273201",
+          "zila": "Gorakhpur"
+        },
+        "ext_ids": {
+          "abha_no": "69-9245-4961-2282",
+          "uhid_no": "UHID-EV-2020-100084"
+        }
+      },
+      "clinical": {
+        "doa": "2025-10-27",
+        "dod": "2025-11-05",
+        "dx_text": "Urinary Tract Infection",
+        "rx_list": [
+          "Montair-LC HS"
+        ],
+        "obs": {
+          "bp": "168/71",
+          "hba1c": "9.6%"
+        },
+        "physician": "Dr. Nandini Menon",
+        "ward_note": "कमलेश रेड्डी (21M) को Urinary Tract Infection है। Montair-LC HS चालू करें। BP 168/71. Ph: ‮2800127838‬ CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD CLINICAL_PAD  CANARY-BIGFIELD-9941 TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD TAIL_PAD "
+      },
+      "custom_meta": {}
+    },
+    {
+      "enc_uid": "ENC-0043",
+      "demographics": {
+        "full_name": "गोपाल अय्यर",
+        "kin": "S/o Alok",
+        "age_years": 2,
+        "gender_code": "M",
+        "comms": {
+          "tel": "८०००९५५७००",
+          "mail": "gopal.iyer86@yugaantar-mail.invalid"
+        },
+        "geo": {
+          "gram": "Chauri Chaura",
+          "pincode": "273201",
+          "zila": "Gorakhpur"
+        },
+        "ext_ids": {
+          "abha_no": "66-2723-1478-1641",
+          "uhid_no": "UHID-EV-2022-100086"
+        }
+      },
+      "clinical": {
+        "doa": "2025-05-06",
+        "dod": "2025-05-13",
+        "dx_text": "Community Acquired Pneumonia",
+        "rx_list": [
+          "Crocin Advance 500 mg SOS"
+        ],
+        "obs": {
+          "bp": "158/65",
+          "hba1c": "5.2%"
+        },
+        "physician": "Dr. Farhan Qureshi",
+        "ward_note": "गोपाल अय्यर (2M) को Community Acquired Pneumonia है। Crocin Advance 500 mg SOS चालू करें। BP 158/65."
+      },
+      "custom_meta": {}
+    },
+    {
+      "enc_uid": "ENC-0044",
+      "demographics": {
+        "full_name": "Santosh Thakur",
+        "kin": "S/o Devendra",
+        "age_years": 64,
+        "gender_code": "M",
+        "comms": {
+          "tel": "8982​655​133",
+          "mail": "santosh.thakur88@yugaantar-mail.invalid"
+        },
+        "geo": {
+          "gram": "Bhitargaon",
+          "pincode": "209209",
+          "zila": "Kanpur Nagar"
+        },
+        "ext_ids": {
+          "abha_no": "98-5193-1926-3540",
+          "uhid_no": "UHID-EV-2024-100088"
+        }
+      },
+      "clinical": {
+        "doa": "2024-06-19",
+        "dod": "2024-06-20",
+        "dx_text": "Porphyria cutanea tarda",
+        "rx_list": [
+          "Ramipril 5 mg OD x 30 days"
+        ],
+        "obs": {
+          "bp": "139/72",
+          "hba1c": "5.7%"
+        },
+        "physician": "Dr. P. V. Narasimhan",
+        "ward_note": "संतोष ठाकुर (64M) को Porphyria cutanea tarda है। Ramipril 5 mg OD x 30 days चालू करें। BP 139/72."
+      },
+      "custom_meta": {}
+    },
+    {
+      "enc_uid": "ENC-0045",
+      "demographics": {
+        "full_name": "संतोष पटेल",
+        "kin": "C/O Santosh",
+        "age_years": 29,
+        "gender_code": "M",
+        "comms": {
+          "tel": "+91-87044-25533",
+          "mail": "santosh.patel90@yugaantar-mail.invalid"
+        },
+        "geo": {
+          "gram": "Bhitargaon",
+          "pincode": "209209",
+          "zila": "Kanpur Nagar"
+        },
+        "ext_ids": {
+          "abha_no": "56-5149-8286-3426",
+          "uhid_no": "UHID-EV-2020-100090"
+        }
+      },
+      "clinical": {
+        "doa": "2025-03-25",
+        "dod": "2025-04-15",
+        "dx_text": "Hypothyroidism",
+        "rx_list": [
+          "Crocin Advance 500 mg SOS"
+        ],
+        "obs": {
+          "bp": "117/101",
+          "hba1c": "11.2%"
+        },
+        "physician": "Dr. Ramesh Kulkarni",
+        "ward_note": "संतोष पटेल (29M) को Hypothyroidism है। Crocin Advance 500 mg SOS चालू करें। BP 117/101. | note: <script>alert('xss')</script>"
+      },
+      "custom_meta": {
+        "patient_Santosh_Patel_audit": {
+          "pmjay": "PMJAY-EV-29186196",
+          "verified": true
+        }
+      }
+    },
+    {
+      "enc_uid": "ENC-0046",
+      "demographics": {
+        "full_name": "Kamlesh Reddy",
+        "kin": "C/O Devendra",
+        "age_years": 63,
+        "gender_code": "M",
+        "comms": {
+          "tel": "९१४३२५९४१९",
+          "mail": "kamlesh.reddy92@yugaantar-mail.invalid"
+        },
+        "geo": {
+          "gram": "Rampur Maniharan",
+          "pincode": "247451",
+          "zila": "Saharanpur"
+        },
+        "ext_ids": {
+          "abha_no": "86-5482-9875-2588",
+          "uhid_no": "UHID-EV-2022-100092"
+        }
+      },
+      "clinical": {
+        "doa": "2024-01-29",
+        "dod": "2024-02-02",
+        "dx_text": "Acute Bronchitis",
+        "rx_list": [
+          "Ecosprin 75 mg OD"
+        ],
+        "obs": {
+          "bp": "138/71",
+          "hba1c": "6.2%"
+        },
+        "physician": "Dr. Arvind Kejriwal",
+        "ward_note": "कमलेश रेड्डी (63M) को Acute Bronchitis है। Ecosprin 75 mg OD चालू करें। BP 138/71."
+      },
+      "custom_meta": {}
+    },
+    {
+      "enc_uid": "ENC-0047",
+      "demographics": {
+        "full_name": "विक्रम रेड्डी",
+        "kin": "C/O Vikram",
+        "age_years": 18,
+        "gender_code": "M",
+        "comms": {
+          "tel": "9952​106​335",
+          "mail": "vikram.reddy94@yugaantar-mail.invalid"
+        },
+        "geo": {
+          "gram": "Khera Khurd",
+          "pincode": "226101",
+          "zila": "Lucknow"
+        },
+        "ext_ids": {
+          "abha_no": "22-1693-2605-2877",
+          "uhid_no": "UHID-EV-2024-100094"
+        }
+      },
+      "clinical": {
+        "doa": "2024-03-20",
+        "dod": "2024-03-29",
+        "dx_text": "Enteric Fever (Typhoid)",
+        "rx_list": [
+          "Telma 40 mg OD"
+        ],
+        "obs": {
+          "bp": "129/68",
+          "hba1c": "11.6%"
+        },
+        "physician": "Dr. Anita Deshmukh",
+        "ward_note": "विक्रम रेड्डी (18M) को Enteric Fever (Typhoid) है। Telma 40 mg OD चालू करें। BP 129/68."
+      },
+      "custom_meta": {}
+    },
+    {
+      "enc_uid": "ENC-0048",
+      "demographics": {
+        "full_name": "Sanjay Siddiqui",
+        "kin": "C/O Santosh",
+        "age_years": 79,
+        "gender_code": "M",
+        "comms": {
+          "tel": "+91-93969-07153",
+          "mail": "sanjay.siddiqui96@yugaantar-mail.invalid"
+        },
+        "geo": {
+          "gram": "Prayagraj Civil Lines",
+          "pincode": "211001",
+          "zila": "Prayagraj"
+        },
+        "ext_ids": {
+          "abha_no": "99-5625-6334-3612",
+          "uhid_no": "UHID-EV-2020-100096"
+        }
+      },
+      "clinical": {
+        "doa": "2024-12-13",
+        "dod": "2024-12-24",
+        "dx_text": "Guillain-Barré syndrome",
+        "rx_list": [
+          "Ecosprin 75 mg OD"
+        ],
+        "obs": {
+          "bp": "168/80",
+          "hba1c": "9.5%"
+        },
+        "physician": "Dr. Meenakshi Sundaram",
+        "ward_note": "संजय सिद्दीकी (79M) को Guillain-Barré syndrome है। Ecosprin 75 mg OD चालू करें। BP 168/80. Ph: ‮3517096939‬"
+      },
+      "custom_meta": {}
+    },
+    {
+      "enc_uid": "ENC-0049",
+      "demographics": {
+        "full_name": "संजय ठाकुर",
+        "kin": "C/O Alok",
+        "age_years": 24,
+        "gender_code": "M",
+        "comms": {
+          "tel": "८७२९२२८४३४",
+          "mail": "sanjay.thakur98@yugaantar-mail.invalid"
+        },
+        "geo": {
+          "gram": "Prayagraj Civil Lines",
+          "pincode": "211001",
+          "zila": "Prayagraj"
+        },
+        "ext_ids": {
+          "abha_no": "46-7594-7740-5361",
+          "uhid_no": "UHID-EV-2022-100098"
+        }
+      },
+      "clinical": {
+        "doa": "2025-06-17",
+        "dod": "2025-07-07",
+        "dx_text": "Urinary Tract Infection",
+        "rx_list": [
+          "Ramipril 5 mg OD x 30 days"
+        ],
+        "obs": {
+          "bp": "164/73",
+          "hba1c": "8.2%"
+        },
+        "physician": "Dr. Anita Deshmukh",
+        "ward_note": "संजय ठाकुर (24M) को Urinary Tract Infection है। Ramipril 5 mg OD x 30 days चालू करें। BP 164/73."
+      },
+      "custom_meta": {}
+    },
+    {
+      "enc_uid": "ENC-0050",
+      "demographics": {
+        "full_name": "Devendra Reddy",
+        "kin": "C/O Vikram",
+        "age_years": 84,
+        "gender_code": "M",
+        "comms": {
+          "tel": "9397​788​221",
+          "mail": "devendra.reddy100@yugaantar-mail.invalid"
+        },
+        "geo": {
+          "gram": "Barabanki",
+          "pincode": "225001",
+          "zila": "Barabanki"
+        },
+        "ext_ids": {
+          "abha_no": "73-5523-5624-9439",
+          "uhid_no": "UHID-EV-2024-100100"
+        }
+      },
+      "clinical": {
+        "doa": "2025-02-16",
+        "dod": "2025-02-23",
+        "dx_text": "Acute Viral Gastroenteritis",
+        "rx_list": [
+          "Metformin 500 mg BD"
+        ],
+        "obs": {
+          "bp": "133/83",
+          "hba1c": "10.2%"
+        },
+        "physician": "Dr. Rajeshwar Rao",
+        "ward_note": "देवेंद्र रेड्डी (84M) को Acute Viral Gastroenteritis है। Metformin 500 mg BD चालू करें। BP 133/83."
+      },
+      "custom_meta": {
+        "patient_Devendra_Reddy_audit": {
+          "pmjay": "PMJAY-EV-37674881",
+          "verified": true
+        }
+      }
+    },
+    {
+      "enc_uid": "ENC-0051",
+      "demographics": {
+        "full_name": "विक्रम मिश्रा",
+        "kin": "S/o Devendra",
+        "age_years": 66,
+        "gender_code": "M",
+        "comms": {
+          "tel": "+91-74497-01908",
+          "mail": "vikram.mishra102@yugaantar-mail.invalid"
+        },
+        "geo": {
+          "gram": "Prayagraj Civil Lines",
+          "pincode": "211001",
+          "zila": "Prayagraj"
+        },
+        "ext_ids": {
+          "abha_no": "75-6714-4750-1857",
+          "uhid_no": "UHID-EV-2020-100102"
+        }
+      },
+      "clinical": {
+        "doa": "2024-04-24",
+        "dod": "2024-05-13",
+        "dx_text": "Iron Deficiency Anemia",
+        "rx_list": [
+          "Shelcal 500 mg OD"
+        ],
+        "obs": {
+          "bp": "124/97",
+          "hba1c": "5.3%"
+        },
+        "physician": "Dr. S. K. Sharma",
+        "ward_note": "विक्रम मिश्रा (66M) को Iron Deficiency Anemia है। Shelcal 500 mg OD चालू करें। BP 124/97."
+      },
+      "custom_meta": {}
+    },
+    {
+      "enc_uid": "ENC-0052",
+      "demographics": {
+        "full_name": "Vikram Kulkarni",
+        "kin": "C/O Alok",
+        "age_years": 31,
+        "gender_code": "M",
+        "comms": {
+          "tel": "८२६४३३३६९१",
+          "mail": "vikram.kulkarni104@yugaantar-mail.invalid"
+        },
+        "geo": {
+          "gram": "Varanasi Urban",
+          "pincode": "221001",
+          "zila": "Varanasi"
+        },
+        "ext_ids": {
+          "abha_no": "28-9336-4356-2149",
+          "uhid_no": "UHID-EV-2022-100104"
+        }
+      },
+      "clinical": {
+        "doa": "2024-03-17",
+        "dod": "2024-03-21",
+        "dx_text": "Wilson's disease",
+        "rx_list": [
+          "Pan-D 40 mg 1-0-0 AC"
+        ],
+        "obs": {
+          "bp": "165/87",
+          "hba1c": "9.8%"
+        },
+        "physician": "Dr. S. K. Sharma",
+        "ward_note": "विक्रम कुलकर्णी (31M) को Wilson's disease है। Pan-D 40 mg 1-0-0 AC चालू करें। BP 165/87."
+      },
+      "custom_meta": {}
+    },
+    {
+      "enc_uid": "ENC-0053",
+      "demographics": {
+        "full_name": "देवेंद्र पटेल",
+        "kin": "C/O Sanjay",
+        "age_years": 68,
+        "gender_code": "M",
+        "comms": {
+          "tel": "9951​908​816",
+          "mail": "devendra.patel106@yugaantar-mail.invalid"
+        },
+        "geo": {
+          "gram": "Bhitargaon",
+          "pincode": "209209",
+          "zila": "Kanpur Nagar"
+        },
+        "ext_ids": {
+          "abha_no": "57-5227-9048-8920",
+          "uhid_no": "UHID-EV-2024-100106"
+        }
+      },
+      "clinical": {
+        "doa": "2025-02-15",
+        "dod": "2025-03-08",
+        "dx_text": "Hypothyroidism",
+        "rx_list": [
+          "Dolo 650 mg BD x 5 days"
+        ],
+        "obs": {
+          "bp": "153/78",
+          "hba1c": "5.2%"
+        },
+        "physician": "Dr. Meenakshi Sundaram",
+        "ward_note": "देवेंद्र पटेल (68M) को Hypothyroidism है। Dolo 650 mg BD x 5 days चालू करें। BP 153/78."
+      },
+      "custom_meta": {}
+    },
+    {
+      "enc_uid": "ENC-0054",
+      "demographics": {
+        "full_name": "Sanjay Thakur",
+        "kin": "C/O Vikram",
+        "age_years": 82,
+        "gender_code": "M",
+        "comms": {
+          "tel": "+91-80284-97091",
+          "mail": "sanjay.thakur108@yugaantar-mail.invalid"
+        },
+        "geo": {
+          "gram": "Varanasi Urban",
+          "pincode": "221001",
+          "zila": "Varanasi"
+        },
+        "ext_ids": {
+          "abha_no": "78-5628-4726-3823",
+          "uhid_no": "UHID-EV-2020-100108"
+        }
+      },
+      "clinical": {
+        "doa": "2025-03-01",
+        "dod": "2025-03-13",
+        "dx_text": "Acute Bronchitis",
+        "rx_list": [
+          "Augmentin 625 Duo TDS x 7 days"
+        ],
+        "obs": {
+          "bp": "171/64",
+          "hba1c": "11.8%"
+        },
+        "physician": "Dr. S. K. Sharma",
+        "ward_note": "संजय ठाकुर (82M) को Acute Bronchitis है। Augmentin 625 Duo TDS x 7 days चालू करें। BP 171/64. Ph: ‮1907948208‬ | note: '; DROP TABLE patients;--"
+      },
+      "custom_meta": {}
+    },
+    {
+      "enc_uid": "ENC-0055",
+      "demographics": {
+        "full_name": "आलोक ठाकुर",
+        "kin": "S/o Santosh",
+        "age_years": 5,
+        "gender_code": "M",
+        "comms": {
+          "tel": "७२६६६४४२९५",
+          "mail": "alok.thakur110@yugaantar-mail.invalid"
+        },
+        "geo": {
+          "gram": "Prayagraj Civil Lines",
+          "pincode": "211001",
+          "zila": "Prayagraj"
+        },
+        "ext_ids": {
+          "abha_no": "38-4846-8967-7725",
+          "uhid_no": "UHID-EV-2022-100110"
+        }
+      },
+      "clinical": {
+        "doa": "2024-06-21",
+        "dod": "2024-07-04",
+        "dx_text": "Essential Hypertension",
+        "rx_list": [
+          "Amlong 5 mg OD"
+        ],
+        "obs": {
+          "bp": "153/96",
+          "hba1c": "11.7%"
+        },
+        "physician": "Dr. Nandini Menon",
+        "ward_note": "आलोक ठाकुर (5M) को Essential Hypertension है। Amlong 5 mg OD चालू करें। BP 153/96."
+      },
+      "custom_meta": {
+        "patient_Alok_Thakur_audit": {
+          "pmjay": "PMJAY-EV-29462215",
+          "verified": true
+        }
+      }
+    },
+    {
+      "enc_uid": "ENC-0056",
+      "demographics": {
+        "full_name": "Zafar Reddy",
+        "kin": "C/O Alok",
+        "age_years": 49,
+        "gender_code": "M",
+        "comms": {
+          "tel": "9990​097​470",
+          "mail": "zafar.reddy112@yugaantar-mail.invalid"
+        },
+        "geo": {
+          "gram": "Varanasi Urban",
+          "pincode": "221001",
+          "zila": "Varanasi"
+        },
+        "ext_ids": {
+          "abha_no": "18-2819-2836-8186",
+          "uhid_no": "UHID-EV-2024-100112"
+        }
+      },
+      "clinical": {
+        "doa": "2024-09-12",
+        "dod": "2024-10-03",
+        "dx_text": "Porphyria cutanea tarda",
+        "rx_list": [
+          "Crocin Advance 500 mg SOS"
+        ],
+        "obs": {
+          "bp": "139/85",
+          "hba1c": "7.6%"
+        },
+        "physician": "Dr. Arvind Kejriwal",
+        "ward_note": "ज़फ़र रेड्डी (49M) को Porphyria cutanea tarda है। Crocin Advance 500 mg SOS चालू करें। BP 139/85."
+      },
+      "custom_meta": {}
+    },
+    {
+      "enc_uid": "ENC-0057",
+      "demographics": {
+        "full_name": "संजय सिद्दीकी",
+        "kin": "S/o Santosh",
+        "age_years": 42,
+        "gender_code": "M",
+        "comms": {
+          "tel": "+91-68932-87107",
+          "mail": "sanjay.siddiqui114@yugaantar-mail.invalid"
+        },
+        "geo": {
+          "gram": "Bhitargaon",
+          "pincode": "209209",
+          "zila": "Kanpur Nagar"
+        },
+        "ext_ids": {
+          "abha_no": "58-2682-5925-9116",
+          "uhid_no": "UHID-EV-2020-100114"
+        }
+      },
+      "clinical": {
+        "doa": "2025-04-07",
+        "dod": "2025-04-25",
+        "dx_text": "Community Acquired Pneumonia",
+        "rx_list": [
+          "Glycomet-GP 1 mg 1-0-1"
+        ],
+        "obs": {
+          "bp": "145/97",
+          "hba1c": "7.1%"
+        },
+        "physician": "Dr. Rajeshwar Rao",
+        "ward_note": "संजय सिद्दीकी (42M) को Community Acquired Pneumonia है। Glycomet-GP 1 mg 1-0-1 चालू करें। BP 145/97."
+      },
+      "custom_meta": {}
+    },
+    {
+      "enc_uid": "ENC-0058",
+      "demographics": {
+        "full_name": "Kamlesh Chaudhary",
+        "kin": "C/O Zafar",
+        "age_years": 56,
+        "gender_code": "M",
+        "comms": {
+          "tel": "९४८३९५२४८०",
+          "mail": "kamlesh.chaudhary116@yugaantar-mail.invalid"
+        },
+        "geo": {
+          "gram": "Varanasi Urban",
+          "pincode": "221001",
+          "zila": "Varanasi"
+        },
+        "ext_ids": {
+          "abha_no": "85-2941-7086-2640",
+          "uhid_no": "UHID-EV-2022-100116"
+        }
+      },
+      "clinical": {
+        "doa": "2025-03-06",
+        "dod": "2025-03-11",
+        "dx_text": "Enteric Fever (Typhoid)",
+        "rx_list": [
+          "Metformin 500 mg BD"
+        ],
+        "obs": {
+          "bp": "158/87",
+          "hba1c": "5.9%"
+        },
+        "physician": "Dr. P. V. Narasimhan",
+        "ward_note": "कमलेश चौधरी (56M) को Enteric Fever (Typhoid) है। Metformin 500 mg BD चालू करें। BP 158/87."
+      },
+      "custom_meta": {}
+    },
+    {
+      "enc_uid": "ENC-0059",
+      "demographics": {
+        "full_name": "कमलेश सिद्दीकी",
+        "kin": "C/O Santosh",
+        "age_years": 66,
+        "gender_code": "M",
+        "comms": {
+          "tel": "9026​305​797",
+          "mail": "kamlesh.siddiqui118@yugaantar-mail.invalid"
+        },
+        "geo": {
+          "gram": "Khera Khurd",
+          "pincode": "226101",
+          "zila": "Lucknow"
+        },
+        "ext_ids": {
+          "abha_no": "55-8898-9116-4715",
+          "uhid_no": "UHID-EV-2024-100118"
+        }
+      },
+      "clinical": {
+        "doa": "2024-04-07",
+        "dod": "2024-04-21",
+        "dx_text": "Iron Deficiency Anemia",
+        "rx_list": [
+          "Dolo 650 mg BD x 5 days"
+        ],
+        "obs": {
+          "bp": "161/63",
+          "hba1c": "8.2%"
+        },
+        "physician": "Dr. Ramesh Kulkarni",
+        "ward_note": "कमलेश सिद्दीकी (66M) को Iron Deficiency Anemia है। Dolo 650 mg BD x 5 days चालू करें। BP 161/63."
+      },
+      "custom_meta": {}
+    },
+    {
+      "enc_uid": "ENC-0060",
+      "demographics": {
+        "full_name": "Alok Patel",
+        "kin": "S/o Devendra",
+        "age_years": 56,
+        "gender_code": "M",
+        "comms": {
+          "tel": "+91-78948-19830",
+          "mail": "alok.patel120@yugaantar-mail.invalid"
+        },
+        "geo": {
+          "gram": "Prayagraj Civil Lines",
+          "pincode": "211001",
+          "zila": "Prayagraj"
+        },
+        "ext_ids": {
+          "abha_no": "39-4121-8087-8982",
+          "uhid_no": "UHID-EV-2020-100120"
+        }
+      },
+      "clinical": {
+        "doa": "2024-01-16",
+        "dod": "2024-01-27",
+        "dx_text": "Guillain-Barré syndrome",
+        "rx_list": [
+          "Crocin Advance 500 mg SOS"
+        ],
+        "obs": {
+          "bp": "150/101",
+          "hba1c": "11.4%"
+        },
+        "physician": "Dr. P. V. Narasimhan",
+        "ward_note": "आलोक पटेल (56M) को Guillain-Barré syndrome है। Crocin Advance 500 mg SOS चालू करें। BP 150/101. Ph: ‮0389184987‬"
+      },
+      "custom_meta": {
+        "patient_Alok_Patel_audit": {
+          "pmjay": "PMJAY-EV-37352040",
+          "verified": true
+        }
+      }
+    },
+    {
+      "enc_uid": "ENC-0061",
+      "demographics": {
+        "full_name": "विक्रम सिद्दीकी",
+        "kin": "C/O Sanjay",
+        "age_years": 31,
+        "gender_code": "M",
+        "comms": {
+          "tel": "८४९९७२०९१३",
+          "mail": "vikram.siddiqui122@yugaantar-mail.invalid"
+        },
+        "geo": {
+          "gram": "Rampur Maniharan",
+          "pincode": "247451",
+          "zila": "Saharanpur"
+        },
+        "ext_ids": {
+          "abha_no": "48-9770-6170-9414",
+          "uhid_no": "UHID-EV-2022-100122"
+        }
+      },
+      "clinical": {
+        "doa": "2025-04-24",
+        "dod": "2025-05-01",
+        "dx_text": "Enteric Fever (Typhoid)",
+        "rx_list": [
+          "Ecosprin 75 mg OD"
+        ],
+        "obs": {
+          "bp": "133/94",
+          "hba1c": "9.0%"
+        },
+        "physician": "Dr. Anita Deshmukh",
+        "ward_note": "विक्रम सिद्दीकी (31M) को Enteric Fever (Typhoid) है। Ecosprin 75 mg OD चालू करें। BP 133/94."
+      },
+      "custom_meta": {}
+    },
+    {
+      "enc_uid": "ENC-0062",
+      "demographics": {
+        "full_name": "Devendra Mishra",
+        "kin": "S/o Kamlesh",
+        "age_years": 72,
+        "gender_code": "M",
+        "comms": {
+          "tel": "8624​970​344",
+          "mail": "devendra.mishra124@yugaantar-mail.invalid"
+        },
+        "geo": {
+          "gram": "Barabanki",
+          "pincode": "225001",
+          "zila": "Barabanki"
+        },
+        "ext_ids": {
+          "abha_no": "90-6579-6571-1843",
+          "uhid_no": "UHID-EV-2024-100124"
+        }
+      },
+      "clinical": {
+        "doa": "2024-03-04",
+        "dod": "2024-03-22",
+        "dx_text": "Enteric Fever (Typhoid)",
+        "rx_list": [
+          "Ecosprin 75 mg OD"
+        ],
+        "obs": {
+          "bp": "157/66",
+          "hba1c": "8.8%"
+        },
+        "physician": "Dr. Ramesh Kulkarni",
+        "ward_note": "देवेंद्र मिश्रा (72M) को Enteric Fever (Typhoid) है। Ecosprin 75 mg OD चालू करें। BP 157/66."
+      },
+      "custom_meta": {}
+    },
+    {
+      "enc_uid": "ENC-0063",
+      "demographics": {
+        "full_name": "कमलेश चौधरी",
+        "kin": "C/O Vikram",
+        "age_years": 59,
+        "gender_code": "M",
+        "comms": {
+          "tel": "+91-64444-57364",
+          "mail": "kamlesh.chaudhary126@yugaantar-mail.invalid"
+        },
+        "geo": {
+          "gram": "Barabanki",
+          "pincode": "225001",
+          "zila": "Barabanki"
+        },
+        "ext_ids": {
+          "abha_no": "86-3140-9135-6917",
+          "uhid_no": "UHID-EV-2020-100126"
+        }
+      },
+      "clinical": {
+        "doa": "2025-07-10",
+        "dod": "2025-07-28",
+        "dx_text": "Urinary Tract Infection",
+        "rx_list": [
+          "Shelcal 500 mg OD"
+        ],
+        "obs": {
+          "bp": "112/104",
+          "hba1c": "8.5%"
+        },
+        "physician": "Dr. Ramesh Kulkarni",
+        "ward_note": "कमलेश चौधरी (59M) को Urinary Tract Infection है। Shelcal 500 mg OD चालू करें। BP 112/104. | note: <script>alert('xss')</script>"
+      },
+      "custom_meta": {}
+    },
+    {
+      "enc_uid": "ENC-0064",
+      "demographics": {
+        "full_name": "Santosh Siddiqui",
+        "kin": "C/O Devendra",
+        "age_years": 13,
+        "gender_code": "M",
+        "comms": {
+          "tel": "९०५१४९९४०५",
+          "mail": "santosh.siddiqui128@yugaantar-mail.invalid"
+        },
+        "geo": {
+          "gram": "Noida Sector 62",
+          "pincode": "201309",
+          "zila": "Gautam Buddha Nagar"
+        },
+        "ext_ids": {
+          "abha_no": "46-9625-1789-6573",
+          "uhid_no": "UHID-EV-2022-100128"
+        }
+      },
+      "clinical": {
+        "doa": "2024-07-06",
+        "dod": "2024-07-19",
+        "dx_text": "Myasthenia gravis",
+        "rx_list": [
+          "Ramipril 5 mg OD x 30 days"
+        ],
+        "obs": {
+          "bp": "122/93",
+          "hba1c": "6.4%"
+        },
+        "physician": "Dr. Nandini Menon",
+        "ward_note": "संतोष सिद्दीकी (13M) को Myasthenia gravis है। Ramipril 5 mg OD x 30 days चालू करें। BP 122/93."
+      },
+      "custom_meta": {}
+    },
+    {
+      "enc_uid": "ENC-0065",
+      "demographics": {
+        "full_name": "गोपाल चौधरी",
+        "kin": "S/o Vikram",
+        "age_years": 88,
+        "gender_code": "M",
+        "comms": {
+          "tel": "6191​268​643",
+          "mail": "gopal.chaudhary130@yugaantar-mail.invalid"
+        },
+        "geo": {
+          "gram": "Noida Sector 62",
+          "pincode": "201309",
+          "zila": "Gautam Buddha Nagar"
+        },
+        "ext_ids": {
+          "abha_no": "85-9492-9046-7565",
+          "uhid_no": "UHID-EV-2024-100130"
+        }
+      },
+      "clinical": {
+        "doa": "2024-04-11",
+        "dod": "2024-04-17",
+        "dx_text": "Community Acquired Pneumonia",
+        "rx_list": [
+          "Azee 500 mg OD x 3 days"
+        ],
+        "obs": {
+          "bp": "134/93",
+          "hba1c": "10.7%"
+        },
+        "physician": "Dr. Ramesh Kulkarni",
+        "ward_note": "गोपाल चौधरी (88M) को Community Acquired Pneumonia है। Azee 500 mg OD x 3 days चालू करें। BP 134/93."
+      },
+      "custom_meta": {
+        "patient_Gopal_Chaudhary_audit": {
+          "pmjay": "PMJAY-EV-13171692",
+          "verified": true
+        }
+      }
+    },
+    {
+      "enc_uid": "ENC-0066",
+      "demographics": {
+        "full_name": "Vikram Chaudhary",
+        "kin": "C/O Santosh",
+        "age_years": 75,
+        "gender_code": "M",
+        "comms": {
+          "tel": "+91-82999-25253",
+          "mail": "vikram.chaudhary132@yugaantar-mail.invalid"
+        },
+        "geo": {
+          "gram": "Khera Khurd",
+          "pincode": "226101",
+          "zila": "Lucknow"
+        },
+        "ext_ids": {
+          "abha_no": "12-7380-7881-1823",
+          "uhid_no": "UHID-EV-2020-100132"
+        }
+      },
+      "clinical": {
+        "doa": "2025-07-06",
+        "dod": "2025-07-21",
+        "dx_text": "Hypothyroidism",
+        "rx_list": [
+          "Telma 40 mg OD"
+        ],
+        "obs": {
+          "bp": "138/99",
+          "hba1c": "6.0%"
+        },
+        "physician": "Dr. P. V. Narasimhan",
+        "ward_note": "विक्रम चौधरी (75M) को Hypothyroidism है। Telma 40 mg OD चालू करें। BP 138/99. Ph: ‮3525299928‬"
+      },
+      "custom_meta": {}
+    },
+    {
+      "enc_uid": "ENC-0067",
+      "demographics": {
+        "full_name": "देवेंद्र पटेल",
+        "kin": "S/o Alok",
+        "age_years": 2,
+        "gender_code": "M",
+        "comms": {
+          "tel": "८३३८८११०२५",
+          "mail": "devendra.patel134@yugaantar-mail.invalid"
+        },
+        "geo": {
+          "gram": "Prayagraj Civil Lines",
+          "pincode": "211001",
+          "zila": "Prayagraj"
+        },
+        "ext_ids": {
+          "abha_no": "67-9900-4344-3432",
+          "uhid_no": "UHID-EV-2022-100134"
+        }
+      },
+      "clinical": {
+        "doa": "2024-11-27",
+        "dod": "2024-12-03",
+        "dx_text": "Iron Deficiency Anemia",
+        "rx_list": [
+          "Shelcal 500 mg OD"
+        ],
+        "obs": {
+          "bp": "146/77",
+          "hba1c": "6.5%"
+        },
+        "physician": "Dr. Arvind Kejriwal",
+        "ward_note": "देवेंद्र पटेल (2M) को Iron Deficiency Anemia है। Shelcal 500 mg OD चालू करें। BP 146/77."
+      },
+      "custom_meta": {}
+    },
+    {
+      "enc_uid": "ENC-0068",
+      "demographics": {
+        "full_name": "Vikram Thakur",
+        "kin": "C/O Sanjay",
+        "age_years": 31,
+        "gender_code": "M",
+        "comms": {
+          "tel": "7461​708​696",
+          "mail": "vikram.thakur136@yugaantar-mail.invalid"
+        },
+        "geo": {
+          "gram": "Noida Sector 62",
+          "pincode": "201309",
+          "zila": "Gautam Buddha Nagar"
+        },
+        "ext_ids": {
+          "abha_no": "66-6609-9425-8507",
+          "uhid_no": "UHID-EV-2024-100136"
+        }
+      },
+      "clinical": {
+        "doa": "2025-08-16",
+        "dod": "2025-08-23",
+        "dx_text": "Myasthenia gravis",
+        "rx_list": [
+          "Glycomet-GP 1 mg 1-0-1"
+        ],
+        "obs": {
+          "bp": "148/102",
+          "hba1c": "5.6%"
+        },
+        "physician": "Dr. Rajeshwar Rao",
+        "ward_note": "विक्रम ठाकुर (31M) को Myasthenia gravis है। Glycomet-GP 1 mg 1-0-1 चालू करें। BP 148/102."
+      },
+      "custom_meta": {}
+    },
+    {
+      "enc_uid": "ENC-0069",
+      "demographics": {
+        "full_name": "देवेंद्र ठाकुर",
+        "kin": "C/O Devendra",
+        "age_years": 73,
+        "gender_code": "M",
+        "comms": {
+          "tel": "+91-76151-82444",
+          "mail": "devendra.thakur138@yugaantar-mail.invalid"
+        },
+        "geo": {
+          "gram": "Rampur Maniharan",
+          "pincode": "247451",
+          "zila": "Saharanpur"
+        },
+        "ext_ids": {
+          "abha_no": "60-2249-6587-6756",
+          "uhid_no": "UHID-EV-2020-100138"
+        }
+      },
+      "clinical": {
+        "doa": "2024-07-31",
+        "dod": "2024-08-11",
+        "dx_text": "Urinary Tract Infection",
+        "rx_list": [
+          "Dolo 650 mg BD x 5 days"
+        ],
+        "obs": {
+          "bp": "107/100",
+          "hba1c": "10.2%"
+        },
+        "physician": "Dr. Farhan Qureshi",
+        "ward_note": "देवेंद्र ठाकुर (73M) को Urinary Tract Infection है। Dolo 650 mg BD x 5 days चालू करें। BP 107/100."
+      },
+      "custom_meta": {}
+    },
+    {
+      "enc_uid": "ENC-0070",
+      "demographics": {
+        "full_name": "Gopal Kulkarni",
+        "kin": "S/o Zafar",
+        "age_years": 20,
+        "gender_code": "M",
+        "comms": {
+          "tel": "+91-86621-41337",
+          "mail": "gopal.kulkarni0@yugaantar-mail.invalid"
+        },
+        "geo": {
+          "gram": "Varanasi Urban",
+          "pincode": "221001",
+          "zila": "Varanasi"
+        },
+        "ext_ids": {
+          "abha_no": "71-5863-4181-6616",
+          "uhid_no": "UHID-EV-2020-100000"
+        }
+      },
+      "clinical": {
+        "doa": "2024-09-12",
+        "dod": "2024-09-20",
+        "dx_text": "Scrub typhus with meningoencephalitis",
+        "rx_list": [
+          "Pan-D 40 mg 1-0-0 AC"
+        ],
+        "obs": {
+          "bp": "167/88",
+          "hba1c": "8.4%"
+        },
+        "physician": "Dr. Ramesh Kulkarni",
+        "ward_note": "गोपाल कुलकर्णी (20M) को Scrub typhus with meningoencephalitis है। Pan-D 40 mg 1-0-0 AC चालू करें। BP 167/88."
+      },
+      "custom_meta": {
+        "patient_Gopal_Kulkarni_audit": {
+          "pmjay": "PMJAY-EV-20918855",
+          "verified": true
+        }
+      }
+    },
+    {
+      "enc_uid": "ENC-0071",
+      "demographics": {
+        "full_name": "संजय मिश्रा",
+        "kin": "C/O Alok",
+        "age_years": 59,
+        "gender_code": "M",
+        "comms": {
+          "tel": "६५५९६०९९७०",
+          "mail": "sanjay.mishra2@yugaantar-mail.invalid"
+        },
+        "geo": {
+          "gram": "Barabanki",
+          "pincode": "225001",
+          "zila": "Barabanki"
+        },
+        "ext_ids": {
+          "abha_no": "54-7651-2841-6228",
+          "uhid_no": "UHID-EV-2022-100002"
+        }
+      },
+      "clinical": {
+        "doa": "2025-07-14",
+        "dod": "2025-07-22",
+        "dx_text": "Hypothyroidism",
+        "rx_list": [
+          "Augmentin 625 Duo TDS x 7 days"
+        ],
+        "obs": {
+          "bp": "108/104",
+          "hba1c": "6.6%"
+        },
+        "physician": "Dr. Nandini Menon",
+        "ward_note": "संजय मिश्रा (59M) को Hypothyroidism है। Augmentin 625 Duo TDS x 7 days चालू करें। BP 108/104."
+      },
+      "custom_meta": {}
+    },
+    {
+      "enc_uid": "ENC-0072",
+      "demographics": {
+        "full_name": "Vikram Siddiqui",
+        "kin": "C/O Vikram",
+        "age_years": 85,
+        "gender_code": "M",
+        "comms": {
+          "tel": "7568​663​819",
+          "mail": "vikram.siddiqui4@yugaantar-mail.invalid"
+        },
+        "geo": {
+          "gram": "Barabanki",
+          "pincode": "225001",
+          "zila": "Barabanki"
+        },
+        "ext_ids": {
+          "abha_no": "87-3218-3720-9347",
+          "uhid_no": "UHID-EV-2024-100004"
+        }
+      },
+      "clinical": {
+        "doa": "2024-01-22",
+        "dod": "2024-01-31",
+        "dx_text": "Dengue Fever",
+        "rx_list": [
+          "Glycomet-GP 1 mg 1-0-1"
+        ],
+        "obs": {
+          "bp": "119/99",
+          "hba1c": "5.4%"
+        },
+        "physician": "Dr. Anita Deshmukh",
+        "ward_note": "विक्रम सिद्दीकी (85M) को Dengue Fever है। Glycomet-GP 1 mg 1-0-1 चालू करें। BP 119/99. Ph: ‮9183668657‬ | note: '; DROP TABLE patients;--"
+      },
+      "custom_meta": {}
+    },
+    {
+      "enc_uid": "ENC-0073",
+      "demographics": {
+        "full_name": "विक्रम पटेल",
+        "kin": "S/o Gopal",
+        "age_years": 45,
+        "gender_code": "M",
+        "comms": {
+          "tel": "+91-87841-99536",
+          "mail": "vikram.patel6@yugaantar-mail.invalid"
+        },
+        "geo": {
+          "gram": "Barabanki",
+          "pincode": "225001",
+          "zila": "Barabanki"
+        },
+        "ext_ids": {
+          "abha_no": "10-3698-5678-9806",
+          "uhid_no": "UHID-EV-2020-100006"
+        }
+      },
+      "clinical": {
+        "doa": "2025-12-30",
+        "dod": "2026-01-19",
+        "dx_text": "Iron Deficiency Anemia",
+        "rx_list": [
+          "Glycomet-GP 1 mg 1-0-1"
+        ],
+        "obs": {
+          "bp": "159/84",
+          "hba1c": "7.4%"
+        },
+        "physician": "Dr. Meenakshi Sundaram",
+        "ward_note": "विक्रम पटेल (45M) को Iron Deficiency Anemia है। Glycomet-GP 1 mg 1-0-1 चालू करें। BP 159/84."
+      },
+      "custom_meta": {}
+    },
+    {
+      "enc_uid": "ENC-0074",
+      "demographics": {
+        "full_name": "Zafar Thakur",
+        "kin": "S/o Vikram",
+        "age_years": 37,
+        "gender_code": "M",
+        "comms": {
+          "tel": "६१२६७७३५०९",
+          "mail": "zafar.thakur8@yugaantar-mail.invalid"
+        },
+        "geo": {
+          "gram": "Noida Sector 62",
+          "pincode": "201309",
+          "zila": "Gautam Buddha Nagar"
+        },
+        "ext_ids": {
+          "abha_no": "88-7387-9071-6811",
+          "uhid_no": "UHID-EV-2022-100008"
+        }
+      },
+      "clinical": {
+        "doa": "2024-10-13",
+        "dod": "2024-11-02",
+        "dx_text": "Visceral Leishmaniasis (Kala-azar)",
+        "rx_list": [
+          "Augmentin 625 Duo TDS x 7 days"
+        ],
+        "obs": {
+          "bp": "159/94",
+          "hba1c": "5.8%"
+        },
+        "physician": "Dr. Arvind Kejriwal",
+        "ward_note": "ज़फ़र ठाकुर (37M) को Visceral Leishmaniasis (Kala-azar) है। Augmentin 625 Duo TDS x 7 days चालू करें। BP 159/94."
+      },
+      "custom_meta": {}
+    },
+    {
+      "enc_uid": "ENC-0075",
+      "demographics": {
+        "full_name": "गोपाल मिश्रा",
+        "kin": "C/O Sanjay",
+        "age_years": 6,
+        "gender_code": "M",
+        "comms": {
+          "tel": "6412​344​304",
+          "mail": "gopal.mishra10@yugaantar-mail.invalid"
+        },
+        "geo": {
+          "gram": "Noida Sector 62",
+          "pincode": "201309",
+          "zila": "Gautam Buddha Nagar"
+        },
+        "ext_ids": {
+          "abha_no": "70-3580-7803-5857",
+          "uhid_no": "UHID-EV-2024-100010"
+        }
+      },
+      "clinical": {
+        "doa": "2024-01-28",
+        "dod": "2024-02-12",
+        "dx_text": "Urinary Tract Infection",
+        "rx_list": [
+          "Ecosprin 75 mg OD"
+        ],
+        "obs": {
+          "bp": "123/100",
+          "hba1c": "10.9%"
+        },
+        "physician": "Dr. Meenakshi Sundaram",
+        "ward_note": "गोपाल मिश्रा (6M) को Urinary Tract Infection है। Ecosprin 75 mg OD चालू करें। BP 123/100."
+      },
+      "custom_meta": {
+        "patient_Gopal_Mishra_audit": {
+          "pmjay": "PMJAY-EV-67223794",
+          "verified": true
+        }
+      }
+    },
+    {
+      "enc_uid": "ENC-0076",
+      "demographics": {
+        "full_name": "Gopal Mishra",
+        "kin": "S/o Zafar",
+        "age_years": 19,
+        "gender_code": "M",
+        "comms": {
+          "tel": "+91-63457-15519",
+          "mail": "gopal.mishra12@yugaantar-mail.invalid"
+        },
+        "geo": {
+          "gram": "Noida Sector 62",
+          "pincode": "201309",
+          "zila": "Gautam Buddha Nagar"
+        },
+        "ext_ids": {
+          "abha_no": "10-1146-9966-3392",
+          "uhid_no": "UHID-EV-2020-100012"
+        }
+      },
+      "clinical": {
+        "doa": "2024-05-22",
+        "dod": "2024-06-01",
+        "dx_text": "Community Acquired Pneumonia",
+        "rx_list": [
+          "Atorva 20 mg HS"
+        ],
+        "obs": {
+          "bp": "164/77",
+          "hba1c": "8.3%"
+        },
+        "physician": "Dr. S. K. Sharma",
+        "ward_note": "गोपाल मिश्रा (19M) को Community Acquired Pneumonia है। Atorva 20 mg HS चालू करें। BP 164/77."
+      },
+      "custom_meta": {}
+    },
+    {
+      "enc_uid": "ENC-0077",
+      "demographics": {
+        "full_name": "देवेंद्र पटेल",
+        "kin": "C/O Gopal",
+        "age_years": 31,
+        "gender_code": "M",
+        "comms": {
+          "tel": "७९९४८६७२६७",
+          "mail": "devendra.patel14@yugaantar-mail.invalid"
+        },
+        "geo": {
+          "gram": "Noida Sector 62",
+          "pincode": "201309",
+          "zila": "Gautam Buddha Nagar"
+        },
+        "ext_ids": {
+          "abha_no": "79-8144-7566-2006",
+          "uhid_no": "UHID-EV-2022-100014"
+        }
+      },
+      "clinical": {
+        "doa": "2025-03-29",
+        "dod": "2025-04-18",
+        "dx_text": "Iron Deficiency Anemia",
+        "rx_list": [
+          "Crocin Advance 500 mg SOS"
+        ],
+        "obs": {
+          "bp": "165/73",
+          "hba1c": "8.2%"
+        },
+        "physician": "Dr. Farhan Qureshi",
+        "ward_note": "देवेंद्र पटेल (31M) को Iron Deficiency Anemia है। Crocin Advance 500 mg SOS चालू करें। BP 165/73."
+      },
+      "custom_meta": {}
+    },
+    {
+      "enc_uid": "ENC-0078",
+      "demographics": {
+        "full_name": "Devendra Mishra",
+        "kin": "C/O Gopal",
+        "age_years": 9,
+        "gender_code": "M",
+        "comms": {
+          "tel": "9328​631​228",
+          "mail": "devendra.mishra16@yugaantar-mail.invalid"
+        },
+        "geo": {
+          "gram": "Khera Khurd",
+          "pincode": "226101",
+          "zila": "Lucknow"
+        },
+        "ext_ids": {
+          "abha_no": "96-9822-3102-9768",
+          "uhid_no": "UHID-EV-2024-100016"
+        }
+      },
+      "clinical": {
+        "doa": "2024-05-25",
+        "dod": "2024-06-04",
+        "dx_text": "Guillain-Barré syndrome",
+        "rx_list": [
+          "Ecosprin 75 mg OD"
+        ],
+        "obs": {
+          "bp": "128/62",
+          "hba1c": "11.0%"
+        },
+        "physician": "Dr. Arvind Kejriwal",
+        "ward_note": "देवेंद्र मिश्रा (9M) को Guillain-Barré syndrome है। Ecosprin 75 mg OD चालू करें। BP 128/62. Ph: ‮8221368239‬"
+      },
+      "custom_meta": {}
+    },
+    {
+      "enc_uid": "ENC-0079",
+      "demographics": {
+        "full_name": "ज़फ़र ठाकुर",
+        "kin": "S/o Kamlesh",
+        "age_years": 6,
+        "gender_code": "M",
+        "comms": {
+          "tel": "+91-73829-12489",
+          "mail": "zafar.thakur18@yugaantar-mail.invalid"
+        },
+        "geo": {
+          "gram": "Varanasi Urban",
+          "pincode": "221001",
+          "zila": "Varanasi"
+        },
+        "ext_ids": {
+          "abha_no": "87-2251-9301-7574",
+          "uhid_no": "UHID-EV-2020-100018"
+        }
+      },
+      "clinical": {
+        "doa": "2024-07-17",
+        "dod": "2024-08-06",
+        "dx_text": "Hypothyroidism",
+        "rx_list": [
+          "Thyronorm 50 mcg OD empty stomach"
+        ],
+        "obs": {
+          "bp": "153/93",
+          "hba1c": "8.5%"
+        },
+        "physician": "Dr. Arvind Kejriwal",
+        "ward_note": "ज़फ़र ठाकुर (6M) को Hypothyroidism है। Thyronorm 50 mcg OD empty stomach चालू करें। BP 153/93."
+      },
+      "custom_meta": {}
+    },
+    {
+      "enc_uid": "ENC-0080",
+      "demographics": {
+        "full_name": "Devendra Mishra",
+        "kin": "S/o Sanjay",
+        "age_years": 10,
+        "gender_code": "M",
+        "comms": {
+          "tel": "८७७३८७८२५७",
+          "mail": "devendra.mishra20@yugaantar-mail.invalid"
+        },
+        "geo": {
+          "gram": "Prayagraj Civil Lines",
+          "pincode": "211001",
+          "zila": "Prayagraj"
+        },
+        "ext_ids": {
+          "abha_no": "61-2610-6530-2597",
+          "uhid_no": "UHID-EV-2022-100020"
+        }
+      },
+      "clinical": {
+        "doa": "2025-08-18",
+        "dod": "2025-08-27",
+        "dx_text": "Acute Viral Gastroenteritis",
+        "rx_list": [
+          "Montair-LC HS"
+        ],
+        "obs": {
+          "bp": "149/77",
+          "hba1c": "9.3%"
+        },
+        "physician": "Dr. Ramesh Kulkarni",
+        "ward_note": "देवेंद्र मिश्रा (10M) को Acute Viral Gastroenteritis है। Montair-LC HS चालू करें। BP 149/77."
+      },
+      "custom_meta": {
+        "patient_Devendra_Mishra_audit": {
+          "pmjay": "PMJAY-EV-32463269",
+          "verified": true
+        }
+      }
+    },
+    {
+      "enc_uid": "ENC-0081",
+      "demographics": {
+        "full_name": "आलोक पटेल",
+        "kin": "S/o Devendra",
+        "age_years": 45,
+        "gender_code": "M",
+        "comms": {
+          "tel": "8114​963​630",
+          "mail": "alok.patel22@yugaantar-mail.invalid"
+        },
+        "geo": {
+          "gram": "Noida Sector 62",
+          "pincode": "201309",
+          "zila": "Gautam Buddha Nagar"
+        },
+        "ext_ids": {
+          "abha_no": "78-3250-9469-5011",
+          "uhid_no": "UHID-EV-2024-100022"
+        }
+      },
+      "clinical": {
+        "doa": "2024-04-28",
+        "dod": "2024-05-06",
+        "dx_text": "Iron Deficiency Anemia",
+        "rx_list": [
+          "Thyronorm 50 mcg OD empty stomach"
+        ],
+        "obs": {
+          "bp": "112/79",
+          "hba1c": "9.6%"
+        },
+        "physician": "Dr. S. K. Sharma",
+        "ward_note": "आलोक पटेल (45M) को Iron Deficiency Anemia है। Thyronorm 50 mcg OD empty stomach चालू करें। BP 112/79. | note: <script>alert('xss')</script>"
+      },
+      "custom_meta": {}
+    },
+    {
+      "enc_uid": "ENC-0082",
+      "demographics": {
+        "full_name": "Gopal Patel",
+        "kin": "C/O Gopal",
+        "age_years": 68,
+        "gender_code": "M",
+        "comms": {
+          "tel": "+91-81272-40174",
+          "mail": "gopal.patel24@yugaantar-mail.invalid"
+        },
+        "geo": {
+          "gram": "Chauri Chaura",
+          "pincode": "273201",
+          "zila": "Gorakhpur"
+        },
+        "ext_ids": {
+          "abha_no": "38-2658-3027-4709",
+          "uhid_no": "UHID-EV-2020-100024"
+        }
+      },
+      "clinical": {
+        "doa": "2025-04-18",
+        "dod": "2025-04-19",
+        "dx_text": "Wilson's disease",
+        "rx_list": [
+          "Thyronorm 50 mcg OD empty stomach"
+        ],
+        "obs": {
+          "bp": "170/73",
+          "hba1c": "10.9%"
+        },
+        "physician": "Dr. P. V. Narasimhan",
+        "ward_note": "गोपाल पटेल (68M) को Wilson's disease है। Thyronorm 50 mcg OD empty stomach चालू करें। BP 170/73."
+      },
+      "custom_meta": {}
+    },
+    {
+      "enc_uid": "ENC-0083",
+      "demographics": {
+        "full_name": "आलोक सिद्दीकी",
+        "kin": "S/o Vikram",
+        "age_years": 72,
+        "gender_code": "M",
+        "comms": {
+          "tel": "९७५२७८७८१३",
+          "mail": "alok.siddiqui26@yugaantar-mail.invalid"
+        },
+        "geo": {
+          "gram": "Prayagraj Civil Lines",
+          "pincode": "211001",
+          "zila": "Prayagraj"
+        },
+        "ext_ids": {
+          "abha_no": "50-8386-6818-2294",
+          "uhid_no": "UHID-EV-2022-100026"
+        }
+      },
+      "clinical": {
+        "doa": "2025-04-27",
+        "dod": "2025-05-08",
+        "dx_text": "Enteric Fever (Typhoid)",
+        "rx_list": [
+          "Ramipril 5 mg OD x 30 days"
+        ],
+        "obs": {
+          "bp": "110/67",
+          "hba1c": "9.7%"
+        },
+        "physician": "Dr. Anita Deshmukh",
+        "ward_note": "आलोक सिद्दीकी (72M) को Enteric Fever (Typhoid) है। Ramipril 5 mg OD x 30 days चालू करें। BP 110/67."
+      },
+      "custom_meta": {}
+    },
+    {
+      "enc_uid": "ENC-0084",
+      "demographics": {
+        "full_name": "Devendra Kulkarni",
+        "kin": "S/o Sanjay",
+        "age_years": 65,
+        "gender_code": "M",
+        "comms": {
+          "tel": "6844​149​439",
+          "mail": "devendra.kulkarni28@yugaantar-mail.invalid"
+        },
+        "geo": {
+          "gram": "Varanasi Urban",
+          "pincode": "221001",
+          "zila": "Varanasi"
+        },
+        "ext_ids": {
+          "abha_no": "28-3835-8513-6067",
+          "uhid_no": "UHID-EV-2024-100028"
+        }
+      },
+      "clinical": {
+        "doa": "2025-07-28",
+        "dod": "2025-08-15",
+        "dx_text": "Iron Deficiency Anemia",
+        "rx_list": [
+          "Atorva 20 mg HS"
+        ],
+        "obs": {
+          "bp": "117/106",
+          "hba1c": "11.0%"
+        },
+        "physician": "Dr. Arvind Kejriwal",
+        "ward_note": "देवेंद्र कुलकर्णी (65M) को Iron Deficiency Anemia है। Atorva 20 mg HS चालू करें। BP 117/106. Ph: ‮9349414486‬"
+      },
+      "custom_meta": {}
+    },
+    {
+      "enc_uid": "ENC-0085",
+      "demographics": {
+        "full_name": "संजय मिश्रा",
+        "kin": "S/o Santosh",
+        "age_years": 26,
+        "gender_code": "M",
+        "comms": {
+          "tel": "+91-90576-50937",
+          "mail": "sanjay.mishra30@yugaantar-mail.invalid"
+        },
+        "geo": {
+          "gram": "Rampur Maniharan",
+          "pincode": "247451",
+          "zila": "Saharanpur"
+        },
+        "ext_ids": {
+          "abha_no": "11-2389-6936-8636",
+          "uhid_no": "UHID-EV-2020-100030"
+        }
+      },
+      "clinical": {
+        "doa": "2025-09-15",
+        "dod": "2025-09-29",
+        "dx_text": "Type 2 Diabetes Mellitus",
+        "rx_list": [
+          "Glycomet-GP 1 mg 1-0-1"
+        ],
+        "obs": {
+          "bp": "141/77",
+          "hba1c": "9.8%"
+        },
+        "physician": "Dr. Farhan Qureshi",
+        "ward_note": "संजय मिश्रा (26M) को Type 2 Diabetes Mellitus है। Glycomet-GP 1 mg 1-0-1 चालू करें। BP 141/77."
+      },
+      "custom_meta": {
+        "patient_Sanjay_Mishra_audit": {
+          "pmjay": "PMJAY-EV-29192269",
+          "verified": true
+        }
+      }
+    },
+    {
+      "enc_uid": "ENC-0086",
+      "demographics": {
+        "full_name": "Sanjay Chaudhary",
+        "kin": "C/O Kamlesh",
+        "age_years": 82,
+        "gender_code": "M",
+        "comms": {
+          "tel": "६७९९९७३१८३",
+          "mail": "sanjay.chaudhary32@yugaantar-mail.invalid"
+        },
+        "geo": {
+          "gram": "Rampur Maniharan",
+          "pincode": "247451",
+          "zila": "Saharanpur"
+        },
+        "ext_ids": {
+          "abha_no": "52-9873-2374-1638",
+          "uhid_no": "UHID-EV-2022-100032"
+        }
+      },
+      "clinical": {
+        "doa": "2025-08-09",
+        "dod": "2025-08-29",
+        "dx_text": "Guillain-Barré syndrome",
+        "rx_list": [
+          "Azee 500 mg OD x 3 days"
+        ],
+        "obs": {
+          "bp": "121/93",
+          "hba1c": "10.1%"
+        },
+        "physician": "Dr. Arvind Kejriwal",
+        "ward_note": "संजय चौधरी (82M) को Guillain-Barré syndrome है। Azee 500 mg OD x 3 days चालू करें। BP 121/93."
+      },
+      "custom_meta": {}
+    },
+    {
+      "enc_uid": "ENC-0087",
+      "demographics": {
+        "full_name": "आलोक ठाकुर",
+        "kin": "S/o Santosh",
+        "age_years": 63,
+        "gender_code": "M",
+        "comms": {
+          "tel": "9036​809​409",
+          "mail": "alok.thakur34@yugaantar-mail.invalid"
+        },
+        "geo": {
+          "gram": "Rampur Maniharan",
+          "pincode": "247451",
+          "zila": "Saharanpur"
+        },
+        "ext_ids": {
+          "abha_no": "88-3774-6952-9981",
+          "uhid_no": "UHID-EV-2024-100034"
+        }
+      },
+      "clinical": {
+        "doa": "2024-12-05",
+        "dod": "2024-12-19",
+        "dx_text": "Type 2 Diabetes Mellitus",
+        "rx_list": [
+          "Thyronorm 50 mcg OD empty stomach"
+        ],
+        "obs": {
+          "bp": "170/65",
+          "hba1c": "6.0%"
+        },
+        "physician": "Dr. Farhan Qureshi",
+        "ward_note": "आलोक ठाकुर (63M) को Type 2 Diabetes Mellitus है। Thyronorm 50 mcg OD empty stomach चालू करें। BP 170/65."
+      },
+      "custom_meta": {}
+    },
+    {
+      "enc_uid": "ENC-0088",
+      "demographics": {
+        "full_name": "Alok Siddiqui",
+        "kin": "C/O Kamlesh",
+        "age_years": 43,
+        "gender_code": "M",
+        "comms": {
+          "tel": "+91-72959-60550",
+          "mail": "alok.siddiqui36@yugaantar-mail.invalid"
+        },
+        "geo": {
+          "gram": "Bhitargaon",
+          "pincode": "209209",
+          "zila": "Kanpur Nagar"
+        },
+        "ext_ids": {
+          "abha_no": "69-7820-1869-7087",
+          "uhid_no": "UHID-EV-2020-100036"
+        }
+      },
+      "clinical": {
+        "doa": "2024-05-29",
+        "dod": "2024-06-17",
+        "dx_text": "Iron Deficiency Anemia",
+        "rx_list": [
+          "Pan-D 40 mg 1-0-0 AC"
+        ],
+        "obs": {
+          "bp": "140/105",
+          "hba1c": "5.7%"
+        },
+        "physician": "Dr. Nandini Menon",
+        "ward_note": "आलोक सिद्दीकी (43M) को Iron Deficiency Anemia है। Pan-D 40 mg 1-0-0 AC चालू करें। BP 140/105."
+      },
+      "custom_meta": {}
+    },
+    {
+      "enc_uid": "ENC-0089",
+      "demographics": {
+        "full_name": "संतोष रेड्डी",
+        "kin": "C/O Vikram",
+        "age_years": 33,
+        "gender_code": "M",
+        "comms": {
+          "tel": "८४९९१७१८५०",
+          "mail": "santosh.reddy38@yugaantar-mail.invalid"
+        },
+        "geo": {
+          "gram": "Rampur Maniharan",
+          "pincode": "247451",
+          "zila": "Saharanpur"
+        },
+        "ext_ids": {
+          "abha_no": "95-7560-4838-2953",
+          "uhid_no": "UHID-EV-2022-100038"
+        }
+      },
+      "clinical": {
+        "doa": "2024-07-10",
+        "dod": "2024-07-31",
+        "dx_text": "Enteric Fever (Typhoid)",
+        "rx_list": [
+          "Azee 500 mg OD x 3 days"
+        ],
+        "obs": {
+          "bp": "106/103",
+          "hba1c": "10.7%"
+        },
+        "physician": "Dr. S. K. Sharma",
+        "ward_note": "संतोष रेड्डी (33M) को Enteric Fever (Typhoid) है। Azee 500 mg OD x 3 days चालू करें। BP 106/103."
+      },
+      "custom_meta": {}
+    },
+    {
+      "enc_uid": "ENC-0090",
+      "demographics": {
+        "full_name": "Gopal Chaudhary",
+        "kin": "C/O Kamlesh",
+        "age_years": 63,
+        "gender_code": "M",
+        "comms": {
+          "tel": "7859​653​295",
+          "mail": "gopal.chaudhary40@yugaantar-mail.invalid"
+        },
+        "geo": {
+          "gram": "Khera Khurd",
+          "pincode": "226101",
+          "zila": "Lucknow"
+        },
+        "ext_ids": {
+          "abha_no": "21-2847-6865-8508",
+          "uhid_no": "UHID-EV-2024-100040"
+        }
+      },
+      "clinical": {
+        "doa": "2025-01-18",
+        "dod": "2025-01-19",
+        "dx_text": "Wilson's disease",
+        "rx_list": [
+          "Ramipril 5 mg OD x 30 days"
+        ],
+        "obs": {
+          "bp": "105/82",
+          "hba1c": "7.3%"
+        },
+        "physician": "Dr. S. K. Sharma",
+        "ward_note": "गोपाल चौधरी (63M) को Wilson's disease है। Ramipril 5 mg OD x 30 days चालू करें। BP 105/82. Ph: ‮5923569587‬ | note: '; DROP TABLE patients;--"
+      },
+      "custom_meta": {
+        "patient_Gopal_Chaudhary_audit": {
+          "pmjay": "PMJAY-EV-77616514",
+          "verified": true
+        }
+      }
+    },
+    {
+      "enc_uid": "ENC-0091",
+      "demographics": {
+        "full_name": "ज़फ़र सिद्दीकी",
+        "kin": "C/O Zafar",
+        "age_years": 6,
+        "gender_code": "M",
+        "comms": {
+          "tel": "+91-98234-06919",
+          "mail": "zafar.siddiqui42@yugaantar-mail.invalid"
+        },
+        "geo": {
+          "gram": "Varanasi Urban",
+          "pincode": "221001",
+          "zila": "Varanasi"
+        },
+        "ext_ids": {
+          "abha_no": "82-6205-7700-6907",
+          "uhid_no": "UHID-EV-2020-100042"
+        }
+      },
+      "clinical": {
+        "doa": "2025-10-01",
+        "dod": "2025-10-14",
+        "dx_text": "Acute Viral Gastroenteritis",
+        "rx_list": [
+          "Amlong 5 mg OD"
+        ],
+        "obs": {
+          "bp": "134/98",
+          "hba1c": "7.6%"
+        },
+        "physician": "Dr. Rajeshwar Rao",
+        "ward_note": "ज़फ़र सिद्दीकी (6M) को Acute Viral Gastroenteritis है। Amlong 5 mg OD चालू करें। BP 134/98."
+      },
+      "custom_meta": {}
+    },
+    {
+      "enc_uid": "ENC-0092",
+      "demographics": {
+        "full_name": "Kamlesh Patel",
+        "kin": "S/o Sanjay",
+        "age_years": 17,
+        "gender_code": "M",
+        "comms": {
+          "tel": "९४४०२०४८२६",
+          "mail": "kamlesh.patel44@yugaantar-mail.invalid"
+        },
+        "geo": {
+          "gram": "Noida Sector 62",
+          "pincode": "201309",
+          "zila": "Gautam Buddha Nagar"
+        },
+        "ext_ids": {
+          "abha_no": "51-9115-4909-9541",
+          "uhid_no": "UHID-EV-2022-100044"
+        }
+      },
+      "clinical": {
+        "doa": "2025-06-11",
+        "dod": "2025-06-29",
+        "dx_text": "Type 2 Diabetes Mellitus",
+        "rx_list": [
+          "Pan-D 40 mg 1-0-0 AC"
+        ],
+        "obs": {
+          "bp": "116/75",
+          "hba1c": "10.1%"
+        },
+        "physician": "Dr. Arvind Kejriwal",
+        "ward_note": "कमलेश पटेल (17M) को Type 2 Diabetes Mellitus है। Pan-D 40 mg 1-0-0 AC चालू करें। BP 116/75."
+      },
+      "custom_meta": {}
+    },
+    {
+      "enc_uid": "ENC-0093",
+      "demographics": {
+        "full_name": "कमलेश चौधरी",
+        "kin": "C/O Kamlesh",
+        "age_years": 4,
+        "gender_code": "M",
+        "comms": {
+          "tel": "6064​548​681",
+          "mail": "kamlesh.chaudhary46@yugaantar-mail.invalid"
+        },
+        "geo": {
+          "gram": "Noida Sector 62",
+          "pincode": "201309",
+          "zila": "Gautam Buddha Nagar"
+        },
+        "ext_ids": {
+          "abha_no": "47-2125-6732-4169",
+          "uhid_no": "UHID-EV-2024-100046"
+        }
+      },
+      "clinical": {
+        "doa": "2025-04-02",
+        "dod": "2025-04-16",
+        "dx_text": "Acute Viral Gastroenteritis",
+        "rx_list": [
+          "Azee 500 mg OD x 3 days"
+        ],
+        "obs": {
+          "bp": "150/80",
+          "hba1c": "11.2%"
+        },
+        "physician": "Dr. P. V. Narasimhan",
+        "ward_note": "कमलेश चौधरी (4M) को Acute Viral Gastroenteritis है। Azee 500 mg OD x 3 days चालू करें। BP 150/80."
+      },
+      "custom_meta": {}
+    },
+    {
+      "enc_uid": "ENC-0094",
+      "demographics": {
+        "full_name": "Alok Reddy",
+        "kin": "S/o Alok",
+        "age_years": 11,
+        "gender_code": "M",
+        "comms": {
+          "tel": "+91-95572-86306",
+          "mail": "alok.reddy48@yugaantar-mail.invalid"
+        },
+        "geo": {
+          "gram": "Varanasi Urban",
+          "pincode": "221001",
+          "zila": "Varanasi"
+        },
+        "ext_ids": {
+          "abha_no": "48-4963-4957-7038",
+          "uhid_no": "UHID-EV-2020-100048"
+        }
+      },
+      "clinical": {
+        "doa": "2025-05-18",
+        "dod": "2025-05-21",
+        "dx_text": "Takayasu arteritis",
+        "rx_list": [
+          "Metformin 500 mg BD"
+        ],
+        "obs": {
+          "bp": "123/102",
+          "hba1c": "9.5%"
+        },
+        "physician": "Dr. Farhan Qureshi",
+        "ward_note": "आलोक रेड्डी (11M) को Takayasu arteritis है। Metformin 500 mg BD चालू करें। BP 123/102."
+      },
+      "custom_meta": {}
+    },
+    {
+      "enc_uid": "ENC-0095",
+      "demographics": {
+        "full_name": "गोपाल कुलकर्णी",
+        "kin": "S/o Alok",
+        "age_years": 4,
+        "gender_code": "M",
+        "comms": {
+          "tel": "७४९६८६८८४८",
+          "mail": "gopal.kulkarni50@yugaantar-mail.invalid"
+        },
+        "geo": {
+          "gram": "Khera Khurd",
+          "pincode": "226101",
+          "zila": "Lucknow"
+        },
+        "ext_ids": {
+          "abha_no": "90-1652-4801-6327",
+          "uhid_no": "UHID-EV-2022-100050"
+        }
+      },
+      "clinical": {
+        "doa": "2024-09-20",
+        "dod": "2024-10-08",
+        "dx_text": "Type 2 Diabetes Mellitus",
+        "rx_list": [
+          "Pan-D 40 mg 1-0-0 AC"
+        ],
+        "obs": {
+          "bp": "106/96",
+          "hba1c": "10.5%"
+        },
+        "physician": "Dr. Nandini Menon",
+        "ward_note": "गोपाल कुलकर्णी (4M) को Type 2 Diabetes Mellitus है। Pan-D 40 mg 1-0-0 AC चालू करें। BP 106/96."
+      },
+      "custom_meta": {
+        "patient_Gopal_Kulkarni_audit": {
+          "pmjay": "PMJAY-EV-98405456",
+          "verified": true
+        }
+      }
+    },
+    {
+      "enc_uid": "ENC-0096",
+      "demographics": {
+        "full_name": "Zafar Reddy",
+        "kin": "S/o Alok",
+        "age_years": 52,
+        "gender_code": "M",
+        "comms": {
+          "tel": "9686​385​485",
+          "mail": "zafar.reddy52@yugaantar-mail.invalid"
+        },
+        "geo": {
+          "gram": "Rampur Maniharan",
+          "pincode": "247451",
+          "zila": "Saharanpur"
+        },
+        "ext_ids": {
+          "abha_no": "33-6758-2915-5325",
+          "uhid_no": "UHID-EV-2024-100052"
+        }
+      },
+      "clinical": {
+        "doa": "2025-07-02",
+        "dod": "2025-07-07",
+        "dx_text": "Acute Bronchitis",
+        "rx_list": [
+          "Shelcal 500 mg OD"
+        ],
+        "obs": {
+          "bp": "123/90",
+          "hba1c": "7.0%"
+        },
+        "physician": "Dr. Anita Deshmukh",
+        "ward_note": "ज़फ़र रेड्डी (52M) को Acute Bronchitis है। Shelcal 500 mg OD चालू करें। BP 123/90. Ph: ‮5845836869‬"
+      },
+      "custom_meta": {}
+    },
+    {
+      "enc_uid": "ENC-0097",
+      "demographics": {
+        "full_name": "कमलेश पटेल",
+        "kin": "S/o Zafar",
+        "age_years": 13,
+        "gender_code": "M",
+        "comms": {
+          "tel": "+91-86854-75881",
+          "mail": "kamlesh.patel54@yugaantar-mail.invalid"
+        },
+        "geo": {
+          "gram": "Bhitargaon",
+          "pincode": "209209",
+          "zila": "Kanpur Nagar"
+        },
+        "ext_ids": {
+          "abha_no": "69-8054-3501-3092",
+          "uhid_no": "UHID-EV-2020-100054"
+        }
+      },
+      "clinical": {
+        "doa": "2024-08-10",
+        "dod": "2024-08-14",
+        "dx_text": "Enteric Fever (Typhoid)",
+        "rx_list": [
+          "Montair-LC HS"
+        ],
+        "obs": {
+          "bp": "105/97",
+          "hba1c": "9.3%"
+        },
+        "physician": "Dr. Anita Deshmukh",
+        "ward_note": "कमलेश पटेल (13M) को Enteric Fever (Typhoid) है। Montair-LC HS चालू करें। BP 105/97."
+      },
+      "custom_meta": {}
+    },
+    {
+      "enc_uid": "ENC-0098",
+      "demographics": {
+        "full_name": "Santosh Thakur",
+        "kin": "S/o Vikram",
+        "age_years": 3,
+        "gender_code": "M",
+        "comms": {
+          "tel": "८०२२६३३५५१",
+          "mail": "santosh.thakur56@yugaantar-mail.invalid"
+        },
+        "geo": {
+          "gram": "Varanasi Urban",
+          "pincode": "221001",
+          "zila": "Varanasi"
+        },
+        "ext_ids": {
+          "abha_no": "95-9008-1980-1750",
+          "uhid_no": "UHID-EV-2022-100056"
+        }
+      },
+      "clinical": {
+        "doa": "2024-09-11",
+        "dod": "2024-09-17",
+        "dx_text": "Porphyria cutanea tarda",
+        "rx_list": [
+          "Amlong 5 mg OD"
+        ],
+        "obs": {
+          "bp": "140/78",
+          "hba1c": "5.9%"
+        },
+        "physician": "Dr. Meenakshi Sundaram",
+        "ward_note": "संतोष ठाकुर (3M) को Porphyria cutanea tarda है। Amlong 5 mg OD चालू करें। BP 140/78."
+      },
+      "custom_meta": {}
+    },
+    {
+      "enc_uid": "ENC-0099",
+      "demographics": {
+        "full_name": "ज़फ़र चौधरी",
+        "kin": "S/o Kamlesh",
+        "age_years": 62,
+        "gender_code": "M",
+        "comms": {
+          "tel": "8471​130​344",
+          "mail": "zafar.chaudhary58@yugaantar-mail.invalid"
+        },
+        "geo": {
+          "gram": "Bhitargaon",
+          "pincode": "209209",
+          "zila": "Kanpur Nagar"
+        },
+        "ext_ids": {
+          "abha_no": "80-9513-1462-1507",
+          "uhid_no": "UHID-EV-2024-100058"
+        }
+      },
+      "clinical": {
+        "doa": "2024-03-27",
+        "dod": "2024-03-28",
+        "dx_text": "Dengue Fever",
+        "rx_list": [
+          "Glycomet-GP 1 mg 1-0-1"
+        ],
+        "obs": {
+          "bp": "166/96",
+          "hba1c": "6.6%"
+        },
+        "physician": "Dr. Farhan Qureshi",
+        "ward_note": "ज़फ़र चौधरी (62M) को Dengue Fever है। Glycomet-GP 1 mg 1-0-1 चालू करें। BP 166/96. | note: <script>alert('xss')</script>"
+      },
+      "custom_meta": {}
+    },
+    {
+      "enc_uid": "ENC-0100",
+      "demographics": {
+        "full_name": "Alok Siddiqui",
+        "kin": "S/o Sanjay",
+        "age_years": 50,
+        "gender_code": "M",
+        "comms": {
+          "tel": "+91-65428-26825",
+          "mail": "alok.siddiqui60@yugaantar-mail.invalid"
+        },
+        "geo": {
+          "gram": "Bhitargaon",
+          "pincode": "209209",
+          "zila": "Kanpur Nagar"
+        },
+        "ext_ids": {
+          "abha_no": "26-8970-4198-9828",
+          "uhid_no": "UHID-EV-2020-100060"
+        }
+      },
+      "clinical": {
+        "doa": "2025-05-09",
+        "dod": "2025-05-11",
+        "dx_text": "Acute Bronchitis",
+        "rx_list": [
+          "Ecosprin 75 mg OD"
+        ],
+        "obs": {
+          "bp": "167/76",
+          "hba1c": "6.7%"
+        },
+        "physician": "Dr. Arvind Kejriwal",
+        "ward_note": "आलोक सिद्दीकी (50M) को Acute Bronchitis है। Ecosprin 75 mg OD चालू करें। BP 167/76."
+      },
+      "custom_meta": {
+        "patient_Alok_Siddiqui_audit": {
+          "pmjay": "PMJAY-EV-80727186",
+          "verified": true
+        }
+      }
+    },
+    {
+      "enc_uid": "ENC-0101",
+      "demographics": {
+        "full_name": "देवेंद्र कुलकर्णी",
+        "kin": "S/o Sanjay",
+        "age_years": 8,
+        "gender_code": "M",
+        "comms": {
+          "tel": "९३५४०४४०१२",
+          "mail": "devendra.kulkarni62@yugaantar-mail.invalid"
+        },
+        "geo": {
+          "gram": "Noida Sector 62",
+          "pincode": "201309",
+          "zila": "Gautam Buddha Nagar"
+        },
+        "ext_ids": {
+          "abha_no": "84-9346-3062-4887",
+          "uhid_no": "UHID-EV-2022-100062"
+        }
+      },
+      "clinical": {
+        "doa": "2025-02-07",
+        "dod": "2025-02-16",
+        "dx_text": "Dengue Fever",
+        "rx_list": [
+          "Crocin Advance 500 mg SOS"
+        ],
+        "obs": {
+          "bp": "146/103",
+          "hba1c": "10.3%"
+        },
+        "physician": "Dr. Nandini Menon",
+        "ward_note": "देवेंद्र कुलकर्णी (8M) को Dengue Fever है। Crocin Advance 500 mg SOS चालू करें। BP 146/103."
+      },
+      "custom_meta": {}
+    },
+    {
+      "enc_uid": "ENC-0102",
+      "demographics": {
+        "full_name": "Alok Kulkarni",
+        "kin": "C/O Devendra",
+        "age_years": 70,
+        "gender_code": "M",
+        "comms": {
+          "tel": "7794​359​067",
+          "mail": "alok.kulkarni64@yugaantar-mail.invalid"
+        },
+        "geo": {
+          "gram": "Chauri Chaura",
+          "pincode": "273201",
+          "zila": "Gorakhpur"
+        },
+        "ext_ids": {
+          "abha_no": "99-9142-3702-6698",
+          "uhid_no": "UHID-EV-2024-100064"
+        }
+      },
+      "clinical": {
+        "doa": "2024-09-23",
+        "dod": "2024-10-06",
+        "dx_text": "Visceral Leishmaniasis (Kala-azar)",
+        "rx_list": [
+          "Montair-LC HS"
+        ],
+        "obs": {
+          "bp": "168/77",
+          "hba1c": "6.5%"
+        },
+        "physician": "Dr. Meenakshi Sundaram",
+        "ward_note": "आलोक कुलकर्णी (70M) को Visceral Leishmaniasis (Kala-azar) है। Montair-LC HS चालू करें। BP 168/77. Ph: ‮7609534977‬"
+      },
+      "custom_meta": {}
+    },
+    {
+      "enc_uid": "ENC-0103",
+      "demographics": {
+        "full_name": "कमलेश पटेल",
+        "kin": "S/o Gopal",
+        "age_years": 48,
+        "gender_code": "M",
+        "comms": {
+          "tel": "+91-78260-68023",
+          "mail": "kamlesh.patel66@yugaantar-mail.invalid"
+        },
+        "geo": {
+          "gram": "Varanasi Urban",
+          "pincode": "221001",
+          "zila": "Varanasi"
+        },
+        "ext_ids": {
+          "abha_no": "50-6986-3962-4507",
+          "uhid_no": "UHID-EV-2020-100066"
+        }
+      },
+      "clinical": {
+        "doa": "2025-08-10",
+        "dod": "2025-08-24",
+        "dx_text": "Iron Deficiency Anemia",
+        "rx_list": [
+          "Augmentin 625 Duo TDS x 7 days"
+        ],
+        "obs": {
+          "bp": "102/90",
+          "hba1c": "11.3%"
+        },
+        "physician": "Dr. Farhan Qureshi",
+        "ward_note": "कमलेश पटेल (48M) को Iron Deficiency Anemia है। Augmentin 625 Duo TDS x 7 days चालू करें। BP 102/90."
+      },
+      "custom_meta": {}
+    },
+    {
+      "enc_uid": "ENC-0104",
+      "demographics": {
+        "full_name": "Vikram Patel",
+        "kin": "C/O Alok",
+        "age_years": 91,
+        "gender_code": "M",
+        "comms": {
+          "tel": "८२७००४३५४५",
+          "mail": "vikram.patel68@yugaantar-mail.invalid"
+        },
+        "geo": {
+          "gram": "Prayagraj Civil Lines",
+          "pincode": "211001",
+          "zila": "Prayagraj"
+        },
+        "ext_ids": {
+          "abha_no": "60-3598-1547-3301",
+          "uhid_no": "UHID-EV-2022-100068"
+        }
+      },
+      "clinical": {
+        "doa": "2024-12-10",
+        "dod": "2024-12-23",
+        "dx_text": "Acute Bronchitis",
+        "rx_list": [
+          "Dolo 650 mg BD x 5 days"
+        ],
+        "obs": {
+          "bp": "156/74",
+          "hba1c": "8.9%"
+        },
+        "physician": "Dr. S. K. Sharma",
+        "ward_note": "विक्रम पटेल (91M) को Acute Bronchitis है। Dolo 650 mg BD x 5 days चालू करें। BP 156/74."
+      },
+      "custom_meta": {}
+    },
+    {
+      "enc_uid": "ENC-0105",
+      "demographics": {
+        "full_name": "गोपाल पटेल",
+        "kin": "S/o Gopal",
+        "age_years": 58,
+        "gender_code": "M",
+        "comms": {
+          "tel": "8146​204​019",
+          "mail": "gopal.patel70@yugaantar-mail.invalid"
+        },
+        "geo": {
+          "gram": "Chauri Chaura",
+          "pincode": "273201",
+          "zila": "Gorakhpur"
+        },
+        "ext_ids": {
+          "abha_no": "45-5844-2687-4725",
+          "uhid_no": "UHID-EV-2024-100070"
+        }
+      },
+      "clinical": {
+        "doa": "2025-08-11",
+        "dod": "2025-08-30",
+        "dx_text": "Acute Viral Gastroenteritis",
+        "rx_list": [
+          "Dolo 650 mg BD x 5 days"
+        ],
+        "obs": {
+          "bp": "139/63",
+          "hba1c": "11.5%"
+        },
+        "physician": "Dr. Farhan Qureshi",
+        "ward_note": "गोपाल पटेल (58M) को Acute Viral Gastroenteritis है। Dolo 650 mg BD x 5 days चालू करें। BP 139/63."
+      },
+      "custom_meta": {
+        "patient_Gopal_Patel_audit": {
+          "pmjay": "PMJAY-EV-42427536",
+          "verified": true
+        }
+      }
+    },
+    {
+      "enc_uid": "ENC-0106",
+      "demographics": {
+        "full_name": "Devendra Kulkarni",
+        "kin": "S/o Santosh",
+        "age_years": 24,
+        "gender_code": "M",
+        "comms": {
+          "tel": "+91-66522-42230",
+          "mail": "devendra.kulkarni72@yugaantar-mail.invalid"
+        },
+        "geo": {
+          "gram": "Prayagraj Civil Lines",
+          "pincode": "211001",
+          "zila": "Prayagraj"
+        },
+        "ext_ids": {
+          "abha_no": "13-2235-1045-5541",
+          "uhid_no": "UHID-EV-2020-100072"
+        }
+      },
+      "clinical": {
+        "doa": "2024-02-09",
+        "dod": "2024-02-23",
+        "dx_text": "Takayasu arteritis",
+        "rx_list": [
+          "Crocin Advance 500 mg SOS"
+        ],
+        "obs": {
+          "bp": "167/66",
+          "hba1c": "5.7%"
+        },
+        "physician": "Dr. Meenakshi Sundaram",
+        "ward_note": "देवेंद्र कुलकर्णी (24M) को Takayasu arteritis है। Crocin Advance 500 mg SOS चालू करें। BP 167/66."
+      },
+      "custom_meta": {}
+    },
+    {
+      "enc_uid": "ENC-0107",
+      "demographics": {
+        "full_name": "आलोक पटेल",
+        "kin": "C/O Santosh",
+        "age_years": 82,
+        "gender_code": "M",
+        "comms": {
+          "tel": "६२६९१८८४०६",
+          "mail": "alok.patel74@yugaantar-mail.invalid"
+        },
+        "geo": {
+          "gram": "Bhitargaon",
+          "pincode": "209209",
+          "zila": "Kanpur Nagar"
+        },
+        "ext_ids": {
+          "abha_no": "15-1281-2527-1446",
+          "uhid_no": "UHID-EV-2022-100074"
+        }
+      },
+      "clinical": {
+        "doa": "2024-06-22",
+        "dod": "2024-07-09",
+        "dx_text": "Dengue Fever",
+        "rx_list": [
+          "Ecosprin 75 mg OD"
+        ],
+        "obs": {
+          "bp": "145/70",
+          "hba1c": "11.5%"
+        },
+        "physician": "Dr. Nandini Menon",
+        "ward_note": "आलोक पटेल (82M) को Dengue Fever है। Ecosprin 75 mg OD चालू करें। BP 145/70."
+      },
+      "custom_meta": {}
+    },
+    {
+      "enc_uid": "ENC-0108",
+      "demographics": {
+        "full_name": "Vikram Kulkarni",
+        "kin": "S/o Devendra",
+        "age_years": 32,
+        "gender_code": "M",
+        "comms": {
+          "tel": "6932​839​266",
+          "mail": "vikram.kulkarni76@yugaantar-mail.invalid"
+        },
+        "geo": {
+          "gram": "Noida Sector 62",
+          "pincode": "201309",
+          "zila": "Gautam Buddha Nagar"
+        },
+        "ext_ids": {
+          "abha_no": "70-9700-7067-1896",
+          "uhid_no": "UHID-EV-2024-100076"
+        }
+      },
+      "clinical": {
+        "doa": "2024-01-22",
+        "dod": "2024-01-31",
+        "dx_text": "Iron Deficiency Anemia",
+        "rx_list": [
+          "Amlong 5 mg OD"
+        ],
+        "obs": {
+          "bp": "140/71",
+          "hba1c": "6.8%"
+        },
+        "physician": "Dr. Meenakshi Sundaram",
+        "ward_note": "विक्रम कुलकर्णी (32M) को Iron Deficiency Anemia है। Amlong 5 mg OD चालू करें। BP 140/71. Ph: ‮6629382396‬ | note: '; DROP TABLE patients;--"
+      },
+      "custom_meta": {}
+    },
+    {
+      "enc_uid": "ENC-0109",
+      "demographics": {
+        "full_name": "विक्रम रेड्डी",
+        "kin": "S/o Zafar",
+        "age_years": 83,
+        "gender_code": "M",
+        "comms": {
+          "tel": "+91-92520-73536",
+          "mail": "vikram.reddy78@yugaantar-mail.invalid"
+        },
+        "geo": {
+          "gram": "Chauri Chaura",
+          "pincode": "273201",
+          "zila": "Gorakhpur"
+        },
+        "ext_ids": {
+          "abha_no": "43-2601-5080-4886",
+          "uhid_no": "UHID-EV-2020-100078"
+        }
+      },
+      "clinical": {
+        "doa": "2024-04-29",
+        "dod": "2024-05-14",
+        "dx_text": "Type 2 Diabetes Mellitus",
+        "rx_list": [
+          "Shelcal 500 mg OD"
+        ],
+        "obs": {
+          "bp": "141/83",
+          "hba1c": "7.2%"
+        },
+        "physician": "Dr. Ramesh Kulkarni",
+        "ward_note": "विक्रम रेड्डी (83M) को Type 2 Diabetes Mellitus है। Shelcal 500 mg OD चालू करें। BP 141/83."
+      },
+      "custom_meta": {}
+    }
+  ]
+}

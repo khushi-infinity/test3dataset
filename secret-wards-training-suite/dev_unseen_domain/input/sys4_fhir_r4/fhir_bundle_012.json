@@ -1,0 +1,104 @@
+{
+  "resourceType": "Bundle",
+  "id": "yp-r4-012",
+  "type": "collection",
+  "entry": [
+    {
+      "resource": {
+        "resourceType": "Patient",
+        "id": "p-012",
+        "text": {
+          "status": "generated",
+          "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">कल्याणी अय्यर (W/o Devendra), Prayagraj Civil Lines 211001</div>"
+        },
+        "identifier": [
+          {
+            "system": "https://healthid.ndhm.gov.in",
+            "value": "33-1907-2279-9012"
+          },
+          {
+            "system": "urn:yp:uhid",
+            "value": "UHID-EV-2021-100025"
+          }
+        ],
+        "name": [
+          {
+            "text": "Kalyani Iyer",
+            "family": "Iyer",
+            "given": [
+              "Kalyani"
+            ]
+          }
+        ],
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "0603 778 9445"
+          }
+        ],
+        "gender": "female",
+        "birthDate": "1966-06-15",
+        "address": [
+          {
+            "city": "Prayagraj Civil Lines",
+            "district": "Prayagraj",
+            "postalCode": "211001"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Encounter",
+        "id": "e-012",
+        "status": "finished",
+        "period": {
+          "start": "2024-02-16",
+          "end": "2024-03-08"
+        },
+        "participant": [
+          {
+            "individual": {
+              "display": "Dr. P. V. Narasimhan"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Condition",
+        "id": "c-012",
+        "code": {
+          "text": "Community Acquired Pneumonia"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "m-012",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Metformin 500 mg BD"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "DocumentReference",
+        "id": "d-012",
+        "status": "current",
+        "content": [
+          {
+            "attachment": {
+              "contentType": "text/plain",
+              "data": "V2FyZCBzbGlwIGZvciBLYWx5YW5pIEl5ZXIgUGg6NjAzNzc4OTQ0NSBBQkhBOjMzLTE5MDctMjI3OS05MDEy"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

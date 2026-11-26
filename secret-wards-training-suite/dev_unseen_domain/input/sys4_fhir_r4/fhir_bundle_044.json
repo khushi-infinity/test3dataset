@@ -1,0 +1,104 @@
+{
+  "resourceType": "Bundle",
+  "id": "yp-r4-044",
+  "type": "collection",
+  "entry": [
+    {
+      "resource": {
+        "resourceType": "Patient",
+        "id": "p-044",
+        "text": {
+          "status": "generated",
+          "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">ज़ोया ठाकुर (D/o Zafar), Chauri Chaura 273201</div>"
+        },
+        "identifier": [
+          {
+            "system": "https://healthid.ndhm.gov.in",
+            "value": "59-1032-5310-6891"
+          },
+          {
+            "system": "urn:yp:uhid",
+            "value": "UHID-EV-2025-100089"
+          }
+        ],
+        "name": [
+          {
+            "text": "Zoya Thakur",
+            "family": "Thakur",
+            "given": [
+              "Zoya"
+            ]
+          }
+        ],
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "9108936766"
+          }
+        ],
+        "gender": "female",
+        "birthDate": "1934-06-15",
+        "address": [
+          {
+            "city": "Chauri Chaura",
+            "district": "Gorakhpur",
+            "postalCode": "273201"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Encounter",
+        "id": "e-044",
+        "status": "finished",
+        "period": {
+          "start": "2025-04-25",
+          "end": "2025-05-15"
+        },
+        "participant": [
+          {
+            "individual": {
+              "display": "Dr. Farhan Qureshi"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Condition",
+        "id": "c-044",
+        "code": {
+          "text": "Type 2 Diabetes Mellitus"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "m-044",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Augmentin 625 Duo TDS x 7 days"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "DocumentReference",
+        "id": "d-044",
+        "status": "current",
+        "content": [
+          {
+            "attachment": {
+              "contentType": "text/plain",
+              "data": "V2FyZCBzbGlwIGZvciBab3lhIFRoYWt1ciBQaDo5MTA4OTM2NzY2IEFCSEE6NTktMTAzMi01MzEwLTY4OTE="
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

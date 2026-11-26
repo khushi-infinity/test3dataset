@@ -1,0 +1,104 @@
+{
+  "resourceType": "Bundle",
+  "id": "yp-r4-003",
+  "type": "collection",
+  "entry": [
+    {
+      "resource": {
+        "resourceType": "Patient",
+        "id": "p-003",
+        "text": {
+          "status": "generated",
+          "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">सरिता कुलकर्णी (W/o Devendra), Rampur Maniharan 247451</div>"
+        },
+        "identifier": [
+          {
+            "system": "https://healthid.ndhm.gov.in",
+            "value": "49-9486-8968-9060"
+          },
+          {
+            "system": "urn:yp:uhid",
+            "value": "UHID-EV-2021-100007"
+          }
+        ],
+        "name": [
+          {
+            "text": "Sarita Kulkarni",
+            "family": "Kulkarni",
+            "given": [
+              "Sarita"
+            ]
+          }
+        ],
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "0635 001 7901"
+          }
+        ],
+        "gender": "female",
+        "birthDate": "1966-06-15",
+        "address": [
+          {
+            "city": "Rampur Maniharan",
+            "district": "Saharanpur",
+            "postalCode": "247451"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Encounter",
+        "id": "e-003",
+        "status": "finished",
+        "period": {
+          "start": "2024-01-12",
+          "end": "2024-01-26"
+        },
+        "participant": [
+          {
+            "individual": {
+              "display": "Dr. Farhan Qureshi"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Condition",
+        "id": "c-003",
+        "code": {
+          "text": "Community Acquired Pneumonia"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "m-003",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Amlong 5 mg OD"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "DocumentReference",
+        "id": "d-003",
+        "status": "current",
+        "content": [
+          {
+            "attachment": {
+              "contentType": "text/plain",
+              "data": "V2FyZCBzbGlwIGZvciBTYXJpdGEgS3Vsa2FybmkgUGg6NjM1MDAxNzkwMSBBQkhBOjQ5LTk0ODYtODk2OC05MDYw"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

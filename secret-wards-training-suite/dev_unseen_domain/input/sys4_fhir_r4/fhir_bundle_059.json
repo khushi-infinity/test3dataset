@@ -1,0 +1,104 @@
+{
+  "resourceType": "Bundle",
+  "id": "yp-r4-059",
+  "type": "collection",
+  "entry": [
+    {
+      "resource": {
+        "resourceType": "Patient",
+        "id": "p-059",
+        "text": {
+          "status": "generated",
+          "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">नेहा मिश्रा (C/O Vikram), Prayagraj Civil Lines 211001</div>"
+        },
+        "identifier": [
+          {
+            "system": "https://healthid.ndhm.gov.in",
+            "value": "46-6964-5305-3109"
+          },
+          {
+            "system": "urn:yp:uhid",
+            "value": "UHID-EV-2025-100119"
+          }
+        ],
+        "name": [
+          {
+            "text": "Neha Mishra",
+            "family": "Mishra",
+            "given": [
+              "Neha"
+            ]
+          }
+        ],
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "9848368958"
+          }
+        ],
+        "gender": "female",
+        "birthDate": "1941-06-15",
+        "address": [
+          {
+            "city": "Prayagraj Civil Lines",
+            "district": "Prayagraj",
+            "postalCode": "211001"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Encounter",
+        "id": "e-059",
+        "status": "finished",
+        "period": {
+          "start": "2025-03-26",
+          "end": "2025-04-07"
+        },
+        "participant": [
+          {
+            "individual": {
+              "display": "Dr. Farhan Qureshi"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Condition",
+        "id": "c-059",
+        "code": {
+          "text": "Community Acquired Pneumonia"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "m-059",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Ramipril 5 mg OD x 30 days"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "DocumentReference",
+        "id": "d-059",
+        "status": "current",
+        "content": [
+          {
+            "attachment": {
+              "contentType": "text/plain",
+              "data": "V2FyZCBzbGlwIGZvciBOZWhhIE1pc2hyYSBQaDo5ODQ4MzY4OTU4IEFCSEE6NDYtNjk2NC01MzA1LTMxMDk="
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

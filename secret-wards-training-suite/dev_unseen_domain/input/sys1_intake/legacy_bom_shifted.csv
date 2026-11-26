@@ -1,0 +1,51 @@
+﻿mrn_code,naam_zwsp,phone_dev,abha_dev,gram_address,admit_dt,disch_dt,dx,rx_plan,consultant
+MRN/H4/50000,Gopal K​ulkarni,८६६२१४१३३७,७१-५८६३-४१८१-६६१६,Varanasi Urban, Near Chowk,2024-09-12,2024-09-20,Scrub typhus with meningoencephalitis,Pan-D 40 mg 1-0-0 AC,Dr. Ramesh Kulkarni
+MRN/H3/50003,Neha ​Patel,६७४७०४४६८६,११-१४५९-५३७५-६७७८,Noida Sector 62,2024-08-08,2024-08-09,Dengue Fever,Crocin Advance 500 mg SOS,Dr. Arvind Kejriwal
+MRN/H3/50006,Vikram​ Patel,८७८४१९९५३६,१०-३६९८-५६७८-९८०६,Barabanki,2025-12-30,2026-01-19,Iron Deficiency Anemia,Glycomet-GP 1 mg 1-0-1,Dr. Meenakshi Sundaram
+MRN/H4/50009,Usha Ch​audhary,९१४२१५९१४८,८५-९७५३-४४४५-२११२,Khera Khurd,2025-02-06,2025-02-27,Enteric Fever (Typhoid),Telma 40 mg OD,Dr. Ramesh Kulkarni
+MRN/H4/50012,Gopal ​Mishra,६३४५७१५५१९,१०-११४६-९९६६-३३९२,Noida Sector 62,2024-05-22,2024-06-01,Community Acquired Pneumonia,Atorva 20 mg HS,Dr. S. K. Sharma
+MRN/H4/50015,Usha​ Iyer,७९३६८१४७७०,११-६०१६-६७१४-९०६५,Chauri Chaura,2025-09-07,2025-09-26,Type 2 Diabetes Mellitus,Amlong 5 mg OD,Dr. Arvind Kejriwal
+MRN/H4/50018,Zafar ​Thakur,७३८२९१२४८९,८७-२२५१-९३०१-७५७४,Varanasi Urban, Near Chowk,2024-07-17,2024-08-06,Hypothyroidism,Thyronorm 50 mcg OD empty stomach,Dr. Arvind Kejriwal
+MRN/H3/50021,Zoya​ Iyer,९७२६३६१२५३,६५-४०२९-१४३४-३६७३,Rampur Maniharan,2024-11-08,2024-11-25,Essential Hypertension,Metformin 500 mg BD,Dr. P. V. Narasimhan
+MRN/H3/50024,Gopal​ Patel,८१२७२४०१७४,३८-२६५८-३०२७-४७०९,Chauri Chaura,2025-04-18,2025-04-19,Wilson's disease,Thyronorm 50 mcg OD empty stomach,Dr. P. V. Narasimhan
+MRN/H3/50027,Bhavna C​haudhary,७४२२९९५७१५,४३-५५६३-७१५६-४४८२,Rampur Maniharan,2024-06-08,2024-06-09,Type 2 Diabetes Mellitus,Ecosprin 75 mg OD,Dr. Nandini Menon
+MRN/H4/50030,Sanjay​ Mishra,९०५७६५०९३७,११-२३८९-६९३६-८६३६,Rampur Maniharan,2025-09-15,2025-09-29,Type 2 Diabetes Mellitus,Glycomet-GP 1 mg 1-0-1,Dr. Farhan Qureshi
+MRN/H3/50033,Asha ​Thakur,८४३३३२०३७९,३६-९६४६-५७५८-६१४२,Noida Sector 62,2025-09-24,2025-10-07,Dengue Fever,Ramipril 5 mg OD x 30 days,Dr. Anita Deshmukh
+MRN/H2/50036,Alok S​iddiqui,७२९५९६०५५०,६९-७८२०-१८६९-७०८७,Bhitargaon, Near Chowk,2024-05-29,2024-06-17,Iron Deficiency Anemia,Pan-D 40 mg 1-0-0 AC,Dr. Nandini Menon
+MRN/H2/50039,Usha ​Thakur,७४४८६१५९५९,८०-१६२०-६८२०-४८४५,Bhitargaon,2025-08-20,2025-09-05,Iron Deficiency Anemia,Atorva 20 mg HS,Dr. Nandini Menon
+MRN/H3/50042,Zafar S​iddiqui,९८२३४०६९१९,८२-६२०५-७७००-६९०७,Varanasi Urban,2025-10-01,2025-10-14,Acute Viral Gastroenteritis,Amlong 5 mg OD,Dr. Rajeshwar Rao
+MRN/H1/50045,Zoya ​Thakur,६२०८३५८५८६,८३-१४९४-१८७०-६४५६,Khera Khurd,2025-09-21,2025-10-04,Essential Hypertension,Telma 40 mg OD,Dr. P. V. Narasimhan
+MRN/H2/50048,Alok ​Reddy,९५५७२८६३०६,४८-४९६३-४९५७-७०३८,Varanasi Urban,2025-05-18,2025-05-21,Takayasu arteritis,Metformin 500 mg BD,Dr. Farhan Qureshi
+MRN/H4/50051,Neha Ch​audhary,९५६६६७२५६६,२३-३७१३-३५०४-६६६८,Chauri Chaura,2025-10-06,2025-10-18,Acute Viral Gastroenteritis,Azee 500 mg OD x 3 days,Dr. Nandini Menon
+MRN/H1/50054,Kamles​h Patel,८६८५४७५८८१,६९-८०५४-३५०१-३०९२,Bhitargaon, Near Chowk,2024-08-10,2024-08-14,Enteric Fever (Typhoid),Montair-LC HS,Dr. Anita Deshmukh
+MRN/H4/50057,Zoya ​Reddy,९७०४९९८८३०,७९-३८५७-५९९७-२५९१,Prayagraj Civil Lines,2024-01-30,2024-02-10,Urinary Tract Infection,Amlong 5 mg OD,Dr. Nandini Menon
+MRN/H1/50060,Alok S​iddiqui,६५४२८२६८२५,२६-८९७०-४१९८-९८२८,Bhitargaon,2025-05-09,2025-05-11,Acute Bronchitis,Ecosprin 75 mg OD,Dr. Arvind Kejriwal
+MRN/H1/50063,Bhavn​a Iyer,७१९५१८७७८१,९०-७२४५-३९१६-६८८५,Noida Sector 62,2025-11-05,2025-11-09,Enteric Fever (Typhoid),Dolo 650 mg BD x 5 days,Dr. Ramesh Kulkarni
+MRN/H1/50066,Kamles​h Patel,७८२६०६८०२३,५०-६९८६-३९६२-४५०७,Varanasi Urban,2025-08-10,2025-08-24,Iron Deficiency Anemia,Augmentin 625 Duo TDS x 7 days,Dr. Farhan Qureshi
+MRN/H2/50069,Neha Ch​audhary,८०३८८०३५४०,२६-३९२०-३०९५-४४६३,Prayagraj Civil Lines,2024-09-19,2024-10-10,Type 2 Diabetes Mellitus,Atorva 20 mg HS,Dr. Anita Deshmukh
+MRN/H3/50072,Devendra​ Kulkarni,६६५२२४२२३०,१३-२२३५-१०४५-५५४१,Prayagraj Civil Lines, Near Chowk,2024-02-09,2024-02-23,Takayasu arteritis,Crocin Advance 500 mg SOS,Dr. Meenakshi Sundaram
+MRN/H1/50075,Pushpa​ Mishra,६३६५९१२९४२,८०-१४१६-६६४१-१२५९,Chauri Chaura,2025-10-15,2025-10-19,Type 2 Diabetes Mellitus,Azee 500 mg OD x 3 days,Dr. P. V. Narasimhan
+MRN/H1/50078,Vikram​ Reddy,९२५२०७३५३६,४३-२६०१-५०८०-४८८६,Chauri Chaura,2024-04-29,2024-05-14,Type 2 Diabetes Mellitus,Shelcal 500 mg OD,Dr. Ramesh Kulkarni
+MRN/H4/50081,Sarita C​haudhary,९११५७१७४७६,७२-५२००-९७२१-३५५६,Bhitargaon,2024-10-07,2024-10-25,Urinary Tract Infection,Ecosprin 75 mg OD,Dr. S. K. Sharma
+MRN/H2/50084,Kamles​h Reddy,८३८७२१००८२,६९-९२४५-४९६१-२२८२,Chauri Chaura,2025-10-27,2025-11-05,Urinary Tract Infection,Montair-LC HS,Dr. Nandini Menon
+MRN/H2/50087,Neha​ Iyer,९२६४०२७१८१,४८-८४३०-८०८०-१६७४,Khera Khurd,2025-08-01,2025-08-08,Urinary Tract Infection,Dolo 650 mg BD x 5 days,Dr. Anita Deshmukh
+MRN/H2/50090,Santos​h Patel,८७०४४२५५३३,५६-५१४९-८२८६-३४२६,Bhitargaon, Near Chowk,2025-03-25,2025-04-15,Hypothyroidism,Crocin Advance 500 mg SOS,Dr. Ramesh Kulkarni
+MRN/H1/50093,Zoya ​Thakur,६२८९७६१७६०,४६-८५९८-३०५५-९८६२,Prayagraj Civil Lines,2024-06-05,2024-06-08,Type 2 Diabetes Mellitus,Dolo 650 mg BD x 5 days,Dr. P. V. Narasimhan
+MRN/H2/50096,Sanjay ​Siddiqui,९३९६९०७१५३,९९-५६२५-६३३४-३६१२,Prayagraj Civil Lines,2024-12-13,2024-12-24,Guillain-Barré syndrome,Ecosprin 75 mg OD,Dr. Meenakshi Sundaram
+MRN/H3/50099,Zoya ​Thakur,७१५७४००२१८,३१-८६२७-४८५९-७२३६,Noida Sector 62,2025-08-21,2025-09-10,Community Acquired Pneumonia,Amlong 5 mg OD,Dr. Farhan Qureshi
+MRN/H2/50102,Vikram​ Mishra,७४४९७०१९०८,७५-६७१४-४७५०-१८५७,Prayagraj Civil Lines,2024-04-24,2024-05-13,Iron Deficiency Anemia,Shelcal 500 mg OD,Dr. S. K. Sharma
+MRN/H2/50105,Kalyan​i Patel,६३९४६४७९६४,४७-५२०६-३३३१-४३४१,Khera Khurd,2024-03-11,2024-03-18,Acute Viral Gastroenteritis,Azee 500 mg OD x 3 days,Dr. Rajeshwar Rao
+MRN/H4/50108,Sanjay​ Thakur,८०२८४९७०९१,७८-५६२८-४७२६-३८२३,Varanasi Urban, Near Chowk,2025-03-01,2025-03-13,Acute Bronchitis,Augmentin 625 Duo TDS x 7 days,Dr. S. K. Sharma
+MRN/H2/50111,Sarita ​Siddiqui,९६९६६२२२५३,६७-६०६८-२४५८-२५९८,Chauri Chaura,2024-07-15,2024-08-03,Acute Bronchitis,Augmentin 625 Duo TDS x 7 days,Dr. Anita Deshmukh
+MRN/H1/50114,Sanjay ​Siddiqui,६८९३२८७१०७,५८-२६८२-५९२५-९११६,Bhitargaon,2025-04-07,2025-04-25,Community Acquired Pneumonia,Glycomet-GP 1 mg 1-0-1,Dr. Rajeshwar Rao
+MRN/H2/50117,Bhavna ​Siddiqui,९१६३३२८४११,५६-११७१-८९६६-२३६९,Rampur Maniharan,2025-02-22,2025-03-15,Type 2 Diabetes Mellitus,Azee 500 mg OD x 3 days,Dr. P. V. Narasimhan
+MRN/H2/50120,Alok ​Patel,७८९४८१९८३०,३९-४१२१-८०८७-८९८२,Prayagraj Civil Lines,2024-01-16,2024-01-27,Guillain-Barré syndrome,Crocin Advance 500 mg SOS,Dr. P. V. Narasimhan
+MRN/H3/50123,Kalyani ​Siddiqui,८४९७८५४०४२,६१-३२५५-४४८३-७८८१,Chauri Chaura,2025-04-25,2025-04-27,Dengue Fever,Ramipril 5 mg OD x 30 days,Dr. S. K. Sharma
+MRN/H2/50126,Kamlesh ​Chaudhary,६४४४४५७३६४,८६-३१४०-९१३५-६९१७,Barabanki, Near Chowk,2025-07-10,2025-07-28,Urinary Tract Infection,Shelcal 500 mg OD,Dr. Ramesh Kulkarni
+MRN/H2/50129,Neha K​ulkarni,८९५७९३२४५८,८६-९९४३-५२०३-२६०१,Bhitargaon,2025-10-12,2025-11-01,Urinary Tract Infection,Ramipril 5 mg OD x 30 days,Dr. Nandini Menon
+MRN/H2/50132,Vikram C​haudhary,८२९९९२५२५३,१२-७३८०-७८८१-१८२३,Khera Khurd,2025-07-06,2025-07-21,Hypothyroidism,Telma 40 mg OD,Dr. P. V. Narasimhan
+MRN/H1/50135,Pushpa ​Kulkarni,९४४०४५७०४५,७९-९८३८-४५९१-२०५६,Noida Sector 62,2025-10-11,2025-11-01,Type 2 Diabetes Mellitus,Dolo 650 mg BD x 5 days,Dr. P. V. Narasimhan
+MRN/H1/50138,Devendr​a Thakur,७६१५१८२४४४,६०-२२४९-६५८७-६७५६,Rampur Maniharan,2024-07-31,2024-08-11,Urinary Tract Infection,Dolo 650 mg BD x 5 days,Dr. Farhan Qureshi
+MRN/H2/50001,Zoya S​iddiqui,६६५८६७४३९६,५०-७२१६-१७५१-९३३९,Khera Khurd,2025-09-14,2025-09-18,Acute Bronchitis,Amlong 5 mg OD,Dr. Farhan Qureshi
+MRN/H4/50004,Vikram ​Siddiqui,७५६८६६३८१९,८७-३२१८-३७२०-९३४७,Barabanki, Near Chowk,2024-01-22,2024-01-31,Dengue Fever,Glycomet-GP 1 mg 1-0-1,Dr. Anita Deshmukh
+MRN/H3/50007,Sarita ​Kulkarni,६३५००१७९०१,४९-९४८६-८९६८-९०६०,Rampur Maniharan,2024-01-12,2024-01-26,Community Acquired Pneumonia,Amlong 5 mg OD,Dr. Farhan Qureshi

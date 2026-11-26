@@ -1,0 +1,801 @@
+pair_id,label,pair_type,rec_a_name,rec_a_guardian,rec_a_age,rec_a_gender,rec_a_phone,rec_a_id,rec_a_district,rec_b_name,rec_b_guardian,rec_b_age,rec_b_gender,rec_b_phone,rec_b_id,rec_b_district
+PAIR-00000,1,positive_cross_script,Priy aBegum,Deepak,74,F,0832 626 1840,41-2849-9365-8062,Kanpur Nagar,प्रिया बेगम,दीपक,74,F,,41-2849-9365-8062,Kanpur Nagar
+PAIR-00001,1,positive_alias_noisy,Laskhmi Yadav,Anil,67,F,6751152013,60-6385-2965-5134,Kanpur Nagar,Smt. Lakshmi Yadav,Anil,68,F,६७५११५२०१३,,Kanpur Nagar
+PAIR-00002,0,hard_negative_homonym,Harish Sharma,Imran,67,M,+91-93224-58147,15-3217-1959-7085,Lucknow,हरीश शर्मा,Mohammad,37,M,७६७५९९४४२५,81-9302-4768-3460,Saharanpur
+PAIR-00003,0,hard_negative_same_household_phone,Sunita Sharma,Deepak,13,F,0940 588 2683,UHID-VA-2021-100031,Kanpur Nagar,Geeta Sharma,Deepak,38,F,0940 588 2683,UHID-VA-2023-100039,Kanpur Nagar
+PAIR-00004,0,negative_weak_or_unrelated,Priya ji,Suresh,,F,,,,Rajesh Sharma,Harish,56,M,९००८९४५३००,MRN/H1/50038,Lucknow
+PAIR-00005,1,positive_cross_script,Ramesh Kumar,Imran,17,M,+91-98947-17466,52-8471-8394-5442,Gorakhpur,रमेश कुमार,इमरान,17,M,,,Gorakhpur
+PAIR-00006,1,positive_alias_noisy,Raemsh Kumar,Anil,86,M,+91-77221-28349,70-2940-9273-3190,Gorakhpur,Ramesh ji,Anil,87,M,७७२२१२८३४९,70-2940-9273-3190,Gorakhpur
+PAIR-00007,0,hard_negative_homonym,Pooja Sharma,Suresh,25,F,7.25509E+09,22-7300-3475-2435,Kanpur Nagar,पूजा शर्मा,Anil,38,F,6720065269,88-2679-7007-7648,Saharanpur
+PAIR-00008,0,hard_negative_same_household_phone,Rajesh Begum,Imran,48,M,७०१६६२३९७०,UHID-VA-2022-100074,Lucknow,Harish Begum,Imran,73,M,७०१६६२३९७०,UHID-VA-2024-100046,Lucknow
+PAIR-00009,0,negative_weak_or_unrelated,Lakshmi ji,Harish,,F,,,,Mohammad Devi,Anil,53,M,7176​658​183,MRN/H4/50094,Lucknow
+PAIR-00010,1,positive_cross_script,Rajesh Begum,Imran,48,M,७०१६६२३९७०,93-5093-2028-2498,Lucknow,राजेश बेगम,इमरान,48,M,७०१६६२३९७०,93-5093-2028-2498,Lucknow
+PAIR-00011,1,positive_alias_noisy,Mohammad Nair,Deepak,83,M,९११०३५७९२६,13-4498-9429-1647,Saharanpur,"Nair, Mohammad",Deepak,83,M,९११०३५७९२६,13-4498-9429-1647,Saharanpur
+PAIR-00012,0,hard_negative_homonym,Lakshmi Kumar,Suresh,40,F,0746 730 6538,36-6769-7275-3253,Gorakhpur,लक्ष्मी कुमार,Suresh,46,F,6.25469E+09,93-1364-5205-3788,Lucknow
+PAIR-00013,0,hard_negative_same_household_phone,Harish Kumar,Harish,60,M,+91-82749-09898,UHID-VA-2020-100042,Saharanpur,Priya Kumar,Harish,85,F,+91-82749-09898,UHID-VA-2025-100005,Saharanpur
+PAIR-00014,0,negative_weak_or_unrelated,Deepak ji,Mohammad,,M,,,,Rajesh Begum,Imran,48,M,७०१६६२३९७०,MRN/H2/50074,Lucknow
+PAIR-00015,1,positive_cross_script,Ramesh Kumar,Harish,37,M,८२३२२९५५३८,22-2137-1050-2967,Kanpur Nagar,रमेश कुमार,हरीश,37,M,८२३२२९५५३८,22-2137-1050-2967,Kanpur Nagar
+PAIR-00016,1,positive_alias_noisy,Harish Kumar,Harish,60,M,+91-82749-09898,10-2760-4096-3395,Saharanpur,Shri Harish Kumar,Harish,61,M,८२७४९०९८९८,10-2760-4096-3395,Saharanpur
+PAIR-00017,0,hard_negative_homonym,Kavita Yadav,Rajesh,50,F,0882 529 3226,65-1533-3107-4718,Kanpur Nagar,कविता यादव,Anil,10,F,0885 987 6054,50-9418-2099-8812,Kanpur Nagar
+PAIR-00018,0,hard_negative_same_household_phone,Rajesh Begum,Imran,48,M,७०१६६२३९७०,UHID-VA-2022-100074,Lucknow,Imran Begum,Imran,73,M,७०१६६२३९७०,UHID-VA-2024-100004,Lucknow
+PAIR-00019,0,negative_weak_or_unrelated,Priya ji,Rajesh,,F,,,,Lakshmi Devi,Harish,26,F,7054587059,MRN/H2/50083,Saharanpur
+PAIR-00020,1,positive_cross_script,Laskhmi Sharma,Imran,87,F,9.92933E+09,51-5500-7008-4064,Kanpur Nagar,लक्ष्मी शर्मा,इमरान,87,F,९९२९३३८९२७,51-5500-7008-4064,Kanpur Nagar
+PAIR-00021,1,positive_alias_noisy,Imra nSharma,Deepak,85,M,+91-82290-22710,92-4194-1341-5655,Gorakhpur,Imran S.,Deepak,85,M,+91-82290-22710,92-4194-1341-5655,Gorakhpur
+PAIR-00022,0,hard_negative_homonym,Lakshmi Devi,Harish,86,F,6776810815,48-5266-8591-3472,Saharanpur,लक्ष्मी देवी,Harish,26,F,7054587059,80-8744-2624-3511,Saharanpur
+PAIR-00023,0,hard_negative_same_household_phone,Geeta Nair,Harish,89,F,0806 018 6339,UHID-VA-2021-100079,Gorakhpur,Harish Nair,Harish,29,M,0806 018 6339,UHID-VA-2024-100034,Gorakhpur
+PAIR-00024,0,negative_weak_or_unrelated,Imran ji,Deepak,,M,,,,Suresh Verma,Suresh,89,M,+91-70928-56877,MRN/H4/50072,Saharanpur
+PAIR-00025,1,positive_cross_script,PriyaB egum,Deepak,74,F,0832 626 1840,41-2849-9365-8062,Kanpur Nagar,प्रिया बेगम,दीपक,74,F,0832 626 1840,41-2849-9365-8062,Kanpur Nagar
+PAIR-00026,1,positive_alias_noisy,Ramesh Kumar,Anil,21,M,६४१९७६९१७२,99-3265-3280-8584,Saharanpur,Ramesh ji,Anil,22,M,६४१९७६९१७२,,Saharanpur
+PAIR-00027,0,hard_negative_homonym,Harish Sharma,Imran,67,M,+91-93224-58147,15-3217-1959-7085,Lucknow,हरीश शर्मा,Mohammad,19,M,8403​202​375,71-2728-5528-9785,Gorakhpur
+PAIR-00028,0,hard_negative_same_household_phone,Kavita Yadav,Rajesh,50,F,0882 529 3226,UHID-VA-2021-100007,Kanpur Nagar,Lakshmi Yadav,Rajesh,75,F,0882 529 3226,UHID-VA-2025-100077,Kanpur Nagar
+PAIR-00029,0,negative_weak_or_unrelated,Harish ji,Harish,,M,,,,Sunita Begum,Imran,41,F,6.12832E+09,MRN/H4/50015,Lucknow
+PAIR-00030,1,positive_cross_script,Priay Devi,Ramesh,92,F,8.45436E+09,67-3880-1681-3433,Saharanpur,प्रिया देवी,रमेश,92,F,८४५४३६९००७,67-3880-1681-3433,Saharanpur
+PAIR-00031,1,positive_alias_noisy,Suresh Begum,Deepak,36,M,9410​943​830,69-7906-1788-9961,Kanpur Nagar,Suresh B.,Deepak,37,M,,,Kanpur Nagar
+PAIR-00032,0,hard_negative_homonym,Ramesh Kumar,Anil,21,M,६४१९७६९१७२,99-3265-3280-8584,Saharanpur,रमेश कुमार,Imran,17,M,+91-98947-17466,52-8471-8394-5442,Gorakhpur
+PAIR-00033,0,hard_negative_same_household_phone,Geeta Verma,Mohammad,57,F,6.08542E+09,UHID-VA-2023-100039,Gorakhpur,Geeta Verma,Mohammad,82,F,6.08542E+09,UHID-VA-2021-100079,Gorakhpur
+PAIR-00034,0,negative_weak_or_unrelated,Rajesh ji,Mohammad,,M,,,,Rajesh Sharma,Imran,58,M,+91-74463-81608,MRN/H1/50024,Saharanpur
+PAIR-00035,1,positive_cross_script,Pooja Sharma,Anil,38,F,6720065269,88-2679-7007-7648,Saharanpur,पूजा शर्मा,अनील,38,F,6720065269,88-2679-7007-7648,Saharanpur
+PAIR-00036,1,positive_alias_noisy,Pooj aSharma,Suresh,25,F,7.25509E+09,22-7300-3475-2435,Kanpur Nagar,Pooja S.,Suresh,25,F,७२५५०९७३१९,22-7300-3475-2435,Kanpur Nagar
+PAIR-00037,0,hard_negative_homonym,Priya Begum,Deepak,74,F,0832 626 1840,41-2849-9365-8062,Kanpur Nagar,प्रिया बेगम,Rajesh,22,F,0683 110 6636,69-2270-6989-5259,Kanpur Nagar
+PAIR-00038,0,hard_negative_same_household_phone,Deepak Sharma,Anil,3,M,८१६४८०३६९०,UHID-VA-2022-100092,Gorakhpur,Harish Sharma,Anil,28,M,८१६४८०३६९०,UHID-VA-2024-100034,Gorakhpur
+PAIR-00039,0,negative_weak_or_unrelated,Mohammad ji,Deepak,,M,,,,Mohammad Begum,Suresh,46,M,8117​989​843,MRN/H4/50016,Lucknow
+PAIR-00040,1,positive_cross_script,Ramesh Kumar,Imran,17,M,+91-98947-17466,52-8471-8394-5442,Gorakhpur,रमेश कुमार,इमरान,17,M,+91-98947-17466,52-8471-8394-5442,Gorakhpur
+PAIR-00041,1,positive_alias_noisy,PriyaB egum,Deepak,74,F,0832 626 1840,41-2849-9365-8062,Kanpur Nagar,Priya ji,Deepak,74,F,,41-2849-9365-8062,Kanpur Nagar
+PAIR-00042,0,hard_negative_homonym,Imran Sharma,Suresh,58,M,६८८२५६११७३,75-2389-9136-6808,Saharanpur,इमरान शर्मा,Deepak,4,M,८१७९४६१२०५,14-5252-5829-5336,Gorakhpur
+PAIR-00043,0,hard_negative_same_household_phone,Fatima Verma,Rajesh,30,F,0875 871 0298,UHID-VA-2021-100061,Gorakhpur,Geeta Verma,Rajesh,55,F,0875 871 0298,UHID-VA-2025-100065,Gorakhpur
+PAIR-00044,0,negative_weak_or_unrelated,Rajesh ji,Anil,,M,,,,Suresh Verma,Harish,69,M,७६७१३६९३४८,MRN/H3/50062,Lucknow
+PAIR-00045,1,positive_cross_script,Priya Sharma,Harish,7,F,6.99525E+09,57-1936-2959-7406,Gorakhpur,प्रिया शर्मा,हरीश,8,F,6.99525E+09,,Gorakhpur
+PAIR-00046,1,positive_alias_noisy,Deepak Begum,Harish,44,M,6007​240​771,88-6435-2373-5710,Lucknow,"Begum, Deepak",Harish,44,M,6007​240​771,,Lucknow
+PAIR-00047,0,hard_negative_homonym,Fatima Verma,Harish,16,F,6.50074E+09,34-3054-3462-4709,Lucknow,फातिमा वर्मा,Rajesh,30,F,0875 871 0298,91-1692-8483-3596,Gorakhpur
+PAIR-00048,0,hard_negative_same_household_phone,Geeta Verma,Suresh,45,F,0815 977 3665,UHID-VA-2021-100019,Gorakhpur,Suresh Verma,Suresh,70,M,0815 977 3665,UHID-VA-2022-100098,Gorakhpur
+PAIR-00049,0,negative_weak_or_unrelated,Sunita ji,Deepak,,F,,,,Mohammad Verma,Imran,83,M,+91-91676-64806,MRN/H2/50006,Lucknow
+PAIR-00050,1,positive_cross_script,Rajseh Verma,Mohammad,46,M,+91-93890-70488,66-7209-9875-1161,Gorakhpur,राजेश वर्मा,मोहम्मद,46,M,+91-93890-70488,,Gorakhpur
+PAIR-00051,1,positive_alias_noisy,Meera Kumar,Suresh,73,F,6.12413E+09,26-9364-2283-5788,Lucknow,"Kumar, Meera",Suresh,73,F,6.12413E+09,26-9364-2283-5788,Lucknow
+PAIR-00052,0,hard_negative_homonym,Suresh Begum,Ramesh,1,M,6529​923​572,24-8587-7979-2162,Saharanpur,सुरेश बेगम,Deepak,36,M,9410​943​830,69-7906-1788-9961,Kanpur Nagar
+PAIR-00053,0,hard_negative_same_household_phone,Kavita Arif,Rajesh,7,F,8297296530,UHID-VA-2025-100023,Gorakhpur,Imran Arif,Rajesh,32,M,8297296530,UHID-VA-2022-100056,Gorakhpur
+PAIR-00054,0,negative_weak_or_unrelated,Ramesh ji,Imran,,M,,,,Geeta Arif,Suresh,23,F,8710724464,MRN/H2/50053,Gorakhpur
+PAIR-00055,1,positive_cross_script,Priya Yadav,Imran,80,F,0945 424 1520,18-1782-2557-4132,Saharanpur,प्रिया यादव,इमरान,80,F,,,Saharanpur
+PAIR-00056,1,positive_alias_noisy,Ramehs Kumar,Deepak,34,M,7975​501​776,38-4810-8176-4052,Kanpur Nagar,"Kumar, Ramesh",Deepak,34,M,७९७५५०१७७६,38-4810-8176-4052,Kanpur Nagar
+PAIR-00057,0,hard_negative_homonym,Geeta Arif,Suresh,23,F,8710724464,46-2182-2818-6946,Gorakhpur,गीता आरिफ,Harish,45,F,7.67440E+09,18-6093-8720-7126,Gorakhpur
+PAIR-00058,0,hard_negative_same_household_phone,Deepak Sharma,Anil,3,M,८१६४८०३६९०,UHID-VA-2022-100092,Gorakhpur,Suresh Sharma,Anil,28,M,८१६४८०३६९०,UHID-VA-2024-100028,Gorakhpur
+PAIR-00059,0,negative_weak_or_unrelated,Harish ji,Mohammad,,M,,,,Kavita Yadav,Anil,10,F,0885 987 6054,MRN/H1/50037,Kanpur Nagar
+PAIR-00060,1,positive_cross_script,Harish Kumar,Ramesh,84,M,+91-74439-89371,47-9510-8744-3628,Gorakhpur,हरीश कुमार,रमेश,84,M,७४४३९८९३७१,,Gorakhpur
+PAIR-00061,1,positive_alias_noisy,Suresh Begum,Deepak,36,M,9410​943​830,69-7906-1788-9961,Kanpur Nagar,Suresh B.,Deepak,36,M,9410​943​830,69-7906-1788-9961,Kanpur Nagar
+PAIR-00062,0,hard_negative_homonym,Geeta Arif,Deepak,1,F,0975 986 9587,52-7524-1878-5767,Lucknow,गीता आरिफ,Suresh,23,F,8710724464,46-2182-2818-6946,Gorakhpur
+PAIR-00063,0,hard_negative_same_household_phone,Priya Devi,Suresh,7,F,9511595245,UHID-VA-2025-100089,Saharanpur,Meera Devi,Suresh,32,F,9511595245,UHID-VA-2023-100045,Saharanpur
+PAIR-00064,0,negative_weak_or_unrelated,Fatima ji,Ramesh,,F,,,,Harish Kumar,Harish,20,M,7755​127​603,MRN/H2/50076,Gorakhpur
+PAIR-00065,1,positive_cross_script,Harish Sharma,Mohammad,19,M,8403​202​375,71-2728-5528-9785,Gorakhpur,हरीश शर्मा,मोहम्मद,19,M,८४०३२०२३७५,71-2728-5528-9785,Gorakhpur
+PAIR-00066,1,positive_alias_noisy,Kavita Yadav,Rajesh,50,F,0882 529 3226,65-1533-3107-4718,Kanpur Nagar,K. Yadav,Rajesh,50,F,0882 529 3226,65-1533-3107-4718,Kanpur Nagar
+PAIR-00067,0,hard_negative_homonym,Mohammad Nair,Anil,27,M,८२२८२०३०७६,71-2628-3284-9187,Gorakhpur,मोहम्मद नायर,Imran,69,M,+91-65472-17629,29-2083-8417-7194,Kanpur Nagar
+PAIR-00068,0,hard_negative_same_household_phone,Suresh Verma,Harish,69,M,७६७१३६९३४८,UHID-VA-2022-100062,Lucknow,Geeta Verma,Harish,9,F,७६७१३६९३४८,UHID-VA-2021-100079,Lucknow
+PAIR-00069,0,negative_weak_or_unrelated,Fatima ji,Rajesh,,F,,,,Fatima Sharma,Ramesh,86,F,0889 043 0019,MRN/H3/50085,Saharanpur
+PAIR-00070,1,positive_cross_script,Geeta Begum,Rajesh,64,F,0701 138 3270,83-2423-4222-2203,Kanpur Nagar,गीता बेगम,राजेश,64,F,७०११३८३२७०,,Kanpur Nagar
+PAIR-00071,1,positive_alias_noisy,Geeta Begum,Rajesh,64,F,0701 138 3270,83-2423-4222-2203,Kanpur Nagar,Geeta B.,Rajesh,64,F,0701 138 3270,83-2423-4222-2203,Kanpur Nagar
+PAIR-00072,0,hard_negative_homonym,Rajesh Sharma,Harish,56,M,९००८९४५३००,80-6059-2975-4036,Lucknow,राजेश शर्मा,Imran,58,M,+91-74463-81608,67-6717-2128-7469,Saharanpur
+PAIR-00073,0,hard_negative_same_household_phone,Meera Devi,Anil,76,F,8219304819,UHID-VA-2025-100047,Kanpur Nagar,Suresh Devi,Anil,16,M,8219304819,UHID-VA-2020-100060,Kanpur Nagar
+PAIR-00074,0,negative_weak_or_unrelated,Rajesh ji,Imran,,M,,,,Lakshmi Nair,Deepak,90,F,8169748305,MRN/H1/50095,Gorakhpur
+PAIR-00075,1,positive_cross_script,Pooja Vrema,Anil,37,F,9.96348E+09,28-1727-8149-2846,Saharanpur,पूजा वर्मा,अनील,37,F,9.96348E+09,,Saharanpur
+PAIR-00076,1,positive_alias_noisy,Priya uKmar,Suresh,68,F,6098484243,11-7077-4689-5489,Kanpur Nagar,Priya K.,Suresh,68,F,6098484243,11-7077-4689-5489,Kanpur Nagar
+PAIR-00077,0,hard_negative_homonym,Lakshmi Yadav,Anil,67,F,6751152013,60-6385-2965-5134,Kanpur Nagar,लक्ष्मी यादव,Harish,43,F,9.49008E+09,15-7340-6186-4203,Lucknow
+PAIR-00078,0,hard_negative_same_household_phone,Lakshmi Yadav,Deepak,86,F,7.63181E+09,UHID-VA-2023-100027,Gorakhpur,Lakshmi Yadav,Deepak,26,F,7.63181E+09,UHID-VA-2023-100087,Gorakhpur
+PAIR-00079,0,negative_weak_or_unrelated,Suresh ji,Suresh,,M,,,,Rajesh Verma,Mohammad,46,M,+91-93890-70488,MRN/H4/50012,Gorakhpur
+PAIR-00080,1,positive_cross_script,Meera Kumar,Anil,38,F,7.22460E+09,52-5890-6186-8421,Lucknow,मीरा कुमार,अनील,38,F,७२२४६०३३३८,,Lucknow
+PAIR-00081,1,positive_alias_noisy,Priya Yadav,Imran,80,F,0945 424 1520,18-1782-2557-4132,Saharanpur,P. Yadav,Imran,80,F,0945 424 1520,,Saharanpur
+PAIR-00082,0,hard_negative_homonym,Ramesh Kumar,Imran,17,M,+91-98947-17466,52-8471-8394-5442,Gorakhpur,रमेश कुमार,Anil,86,M,+91-77221-28349,70-2940-9273-3190,Gorakhpur
+PAIR-00083,0,hard_negative_same_household_phone,Geeta Verma,Suresh,45,F,0815 977 3665,UHID-VA-2021-100019,Gorakhpur,Geeta Verma,Suresh,70,F,0815 977 3665,UHID-VA-2021-100025,Gorakhpur
+PAIR-00084,0,negative_weak_or_unrelated,Ramesh ji,Deepak,,M,,,,Lakshmi Sharma,Imran,87,F,9.92933E+09,MRN/H2/50051,Kanpur Nagar
+PAIR-00085,1,positive_cross_script,Geeta Arif,Suresh,23,F,8710724464,46-2182-2818-6946,Gorakhpur,गीता आरिफ,सुरेश,23,F,८७१०७२४४६४,,Gorakhpur
+PAIR-00086,1,positive_alias_noisy,Mohammad Nair,Deepak,83,M,९११०३५७९२६,13-4498-9429-1647,Saharanpur,Mohammad ji,Deepak,83,M,९११०३५७९२६,13-4498-9429-1647,Saharanpur
+PAIR-00087,0,hard_negative_homonym,Lakshmi Kumar,Suresh,40,F,0746 730 6538,36-6769-7275-3253,Gorakhpur,लक्ष्मी कुमार,Suresh,46,F,6.25469E+09,93-1364-5205-3788,Lucknow
+PAIR-00088,0,hard_negative_same_household_phone,Mohammad Yadav,Ramesh,17,M,+91-64994-95834,UHID-VA-2020-100048,Lucknow,Lakshmi Yadav,Ramesh,42,F,+91-64994-95834,UHID-VA-2023-100087,Lucknow
+PAIR-00089,0,negative_weak_or_unrelated,Priya ji,Ramesh,,F,,,,Imran Sharma,Suresh,58,M,६८८२५६११७३,MRN/H1/50026,Saharanpur
+PAIR-00090,1,positive_cross_script,Suresh Begum,Ramesh,1,M,6529​923​572,24-8587-7979-2162,Saharanpur,सुरेश बेगम,रमेश,1,M,६५२९९२३५७२,,Saharanpur
+PAIR-00091,1,positive_alias_noisy,Geeta Begum,Rajesh,64,F,0701 138 3270,83-2423-4222-2203,Kanpur Nagar,Geeta ji,Rajesh,64,F,,,Kanpur Nagar
+PAIR-00092,0,hard_negative_homonym,Pooja Sharma,Suresh,25,F,7.25509E+09,22-7300-3475-2435,Kanpur Nagar,पूजा शर्मा,Anil,38,F,6720065269,88-2679-7007-7648,Saharanpur
+PAIR-00093,0,hard_negative_same_household_phone,Lakshmi Sharma,Imran,87,F,9.92933E+09,UHID-VA-2023-100051,Kanpur Nagar,Lakshmi Sharma,Imran,27,F,9.92933E+09,UHID-VA-2025-100077,Kanpur Nagar
+PAIR-00094,0,negative_weak_or_unrelated,Anil ji,Deepak,,M,,,,Imran Sharma,Suresh,58,M,६८८२५६११७३,MRN/H1/50026,Saharanpur
+PAIR-00095,1,positive_cross_script,Rajesh Verma,Mohammad,46,M,+91-93890-70488,66-7209-9875-1161,Gorakhpur,राजेश वर्मा,मोहम्मद,46,M,९३८९०७०४८८,,Gorakhpur
+PAIR-00096,1,positive_alias_noisy,Priay Begum,Deepak,74,F,0832 626 1840,41-2849-9365-8062,Kanpur Nagar,"Begum, Priya",Deepak,74,F,,41-2849-9365-8062,Kanpur Nagar
+PAIR-00097,0,hard_negative_homonym,Meera Kumar,Harish,20,F,7916321912,59-4870-5885-4336,Saharanpur,मीरा कुमार,Suresh,73,F,6.12413E+09,26-9364-2283-5788,Lucknow
+PAIR-00098,0,hard_negative_same_household_phone,Priya Sharma,Harish,7,F,6.99525E+09,UHID-VA-2023-100033,Gorakhpur,Meera Sharma,Harish,32,F,6.99525E+09,UHID-VA-2025-100041,Gorakhpur
+PAIR-00099,0,negative_weak_or_unrelated,Ramesh ji,Harish,,M,,,,Harish Kumar,Ramesh,84,M,+91-74439-89371,MRN/H3/50000,Gorakhpur
+PAIR-00100,1,positive_cross_script,Imran Sharma,Deepak,85,M,+91-82290-22710,92-4194-1341-5655,Gorakhpur,इमरान शर्मा,दीपक,85,M,+91-82290-22710,,Gorakhpur
+PAIR-00101,1,positive_alias_noisy,Sunita Begum,Imran,41,F,6.12832E+09,53-2408-1872-8808,Lucknow,Sunita B.,Imran,41,F,6.12832E+09,53-2408-1872-8808,Lucknow
+PAIR-00102,0,hard_negative_homonym,Priya Sharma,Harish,76,F,0694 109 1152,52-7809-7555-5647,Lucknow,प्रिया शर्मा,Harish,7,F,6.99525E+09,57-1936-2959-7406,Gorakhpur
+PAIR-00103,0,hard_negative_same_household_phone,Fatima Verma,Rajesh,30,F,0875 871 0298,UHID-VA-2021-100061,Gorakhpur,Lakshmi Verma,Rajesh,55,F,0875 871 0298,UHID-VA-2025-100011,Gorakhpur
+PAIR-00104,0,negative_weak_or_unrelated,Harish ji,Mohammad,,M,,,,Geeta Begum,Rajesh,64,F,0701 138 3270,MRN/H4/50055,Kanpur Nagar
+PAIR-00105,1,positive_cross_script,Sruesh Begum,Anil,81,M,7197​905​238,52-8913-1339-1644,Lucknow,सुरेश बेगम,अनील,81,M,७१९७९०५२३८,52-8913-1339-1644,Lucknow
+PAIR-00106,1,positive_alias_noisy,Ramesh Kumar,Imran,17,M,+91-98947-17466,52-8471-8394-5442,Gorakhpur,Ramesh K.,Imran,17,M,+91-98947-17466,,Gorakhpur
+PAIR-00107,0,hard_negative_homonym,Meera Devi,Anil,76,F,8219304819,74-5748-3187-7579,Kanpur Nagar,मीरा देवी,Anil,16,F,6569790687,30-9183-1803-4470,Gorakhpur
+PAIR-00108,0,hard_negative_same_household_phone,Sunita Begum,Imran,41,F,6.12832E+09,UHID-VA-2023-100015,Lucknow,Mohammad Begum,Imran,66,M,6.12832E+09,UHID-VA-2022-100080,Lucknow
+PAIR-00109,0,negative_weak_or_unrelated,Fatima ji,Harish,,F,,,,Lakshmi Begum,Ramesh,37,F,0983 208 7087,MRN/H4/50097,Lucknow
+PAIR-00110,1,positive_cross_script,Suresh Begum,Ramesh,1,M,6529​923​572,24-8587-7979-2162,Saharanpur,सुरेश बेगम,रमेश,1,M,6529​923​572,24-8587-7979-2162,Saharanpur
+PAIR-00111,1,positive_alias_noisy,Meera Devi,Ramesh,77,F,6.04885E+09,11-2042-5947-9556,Saharanpur,M. Devi,Ramesh,77,F,६०४८८५००३९,11-2042-5947-9556,Saharanpur
+PAIR-00112,0,hard_negative_homonym,Mohammad Nair,Deepak,83,M,९११०३५७९२६,13-4498-9429-1647,Saharanpur,मोहम्मद नायर,Imran,69,M,+91-65472-17629,29-2083-8417-7194,Kanpur Nagar
+PAIR-00113,0,hard_negative_same_household_phone,Pooja Kumar,Suresh,2,F,6565070715,UHID-VA-2025-100029,Gorakhpur,Suresh Kumar,Suresh,27,M,6565070715,UHID-VA-2020-100072,Gorakhpur
+PAIR-00114,0,negative_weak_or_unrelated,Rajesh ji,Mohammad,,M,,,,Geeta Arif,Suresh,23,F,8710724464,MRN/H2/50053,Gorakhpur
+PAIR-00115,1,positive_cross_script,Sunita Shrama,Deepak,13,F,0940 588 2683,96-3755-2023-7508,Kanpur Nagar,सुनीता शर्मा,दीपक,13,F,९४०५८८२६८३,,Kanpur Nagar
+PAIR-00116,1,positive_alias_noisy,Lakshmi Yadav,Anil,67,F,6751152013,60-6385-2965-5134,Kanpur Nagar,Lakshmi Y.,Anil,68,F,६७५११५२०१३,,Kanpur Nagar
+PAIR-00117,0,hard_negative_homonym,Mohammad Nair,Imran,69,M,+91-65472-17629,29-2083-8417-7194,Kanpur Nagar,मोहम्मद नायर,Anil,27,M,८२२८२०३०७६,71-2628-3284-9187,Gorakhpur
+PAIR-00118,0,hard_negative_same_household_phone,Rajesh Sharma,Imran,58,M,+91-74463-81608,UHID-VA-2020-100024,Saharanpur,Lakshmi Sharma,Imran,83,F,+91-74463-81608,UHID-VA-2023-100051,Saharanpur
+PAIR-00119,0,negative_weak_or_unrelated,Geeta ji,Suresh,,F,,,,Priya Yadav,Imran,80,F,0945 424 1520,MRN/H1/50043,Saharanpur
+PAIR-00120,1,positive_cross_script,Pooja Sharma,Anil,38,F,6720065269,88-2679-7007-7648,Saharanpur,पूजा शर्मा,अनील,38,F,6720065269,,Saharanpur
+PAIR-00121,1,positive_alias_noisy,Kavita Yadav,Anil,10,F,0885 987 6054,50-9418-2099-8812,Kanpur Nagar,"Yadav, Kavita",Anil,10,F,0885 987 6054,50-9418-2099-8812,Kanpur Nagar
+PAIR-00122,0,hard_negative_homonym,Meera Devi,Anil,76,F,8219304819,74-5748-3187-7579,Kanpur Nagar,मीरा देवी,Ramesh,77,F,6.04885E+09,11-2042-5947-9556,Saharanpur
+PAIR-00123,0,hard_negative_same_household_phone,Priya Kumar,Suresh,68,F,6098484243,UHID-VA-2025-100005,Kanpur Nagar,Suresh Kumar,Suresh,8,M,6098484243,UHID-VA-2022-100062,Kanpur Nagar
+PAIR-00124,0,negative_weak_or_unrelated,Anil ji,Deepak,,M,,,,Lakshmi Arif,Mohammad,13,F,6593879188,MRN/H3/50011,Gorakhpur
+PAIR-00125,1,positive_cross_script,Suresh Yadav,Imran,85,M,+91-61310-19676,81-2859-9961-6326,Gorakhpur,सुरेश यादव,इमरान,85,M,+91-61310-19676,81-2859-9961-6326,Gorakhpur
+PAIR-00126,1,positive_alias_noisy,Sunit aBegum,Imran,41,F,6.12832E+09,53-2408-1872-8808,Lucknow,Sunita ji,Imran,41,F,6.12832E+09,,Lucknow
+PAIR-00127,0,hard_negative_homonym,Meera Kumar,Anil,38,F,7.22460E+09,52-5890-6186-8421,Lucknow,मीरा कुमार,Suresh,73,F,6.12413E+09,26-9364-2283-5788,Lucknow
+PAIR-00128,0,hard_negative_same_household_phone,Ramesh Kumar,Anil,86,M,+91-77221-28349,UHID-VA-2020-100066,Gorakhpur,Harish Kumar,Anil,26,M,+91-77221-28349,UHID-VA-2020-100042,Gorakhpur
+PAIR-00129,0,negative_weak_or_unrelated,Fatima ji,Rajesh,,F,,,,Deepak Sharma,Anil,3,M,८१६४८०३६९०,MRN/H1/50092,Gorakhpur
+PAIR-00130,1,positive_cross_script,Kavita Yadav,Anil,10,F,0885 987 6054,50-9418-2099-8812,Kanpur Nagar,कविता यादव,अनील,10,F,८८५९८७६०५४,50-9418-2099-8812,Kanpur Nagar
+PAIR-00131,1,positive_alias_noisy,Mohammad Nair,Imran,69,M,+91-65472-17629,29-2083-8417-7194,Kanpur Nagar,Mohd. Nair,Imran,70,M,+91-65472-17629,,Kanpur Nagar
+PAIR-00132,0,hard_negative_homonym,Geeta Arif,Suresh,23,F,8710724464,46-2182-2818-6946,Gorakhpur,गीता आरिफ,Deepak,1,F,0975 986 9587,52-7524-1878-5767,Lucknow
+PAIR-00133,0,hard_negative_same_household_phone,Meera Devi,Ramesh,77,F,6.04885E+09,UHID-VA-2023-100081,Saharanpur,Imran Devi,Ramesh,17,M,6.04885E+09,UHID-VA-2020-100036,Saharanpur
+PAIR-00134,0,negative_weak_or_unrelated,Suresh ji,Deepak,,M,,,,Lakshmi Kumar,Suresh,46,F,6.25469E+09,MRN/H1/50087,Lucknow
+PAIR-00135,1,positive_cross_script,Rajesh Verma,Mohammad,46,M,+91-93890-70488,66-7209-9875-1161,Gorakhpur,राजेश वर्मा,मोहम्मद,47,M,९३८९०७०४८८,,Gorakhpur
+PAIR-00136,1,positive_alias_noisy,Priay Devi,Suresh,7,F,9511595245,71-7914-3573-4566,Saharanpur,"Devi, Priya",Suresh,7,F,९५११५९५२४५,71-7914-3573-4566,Saharanpur
+PAIR-00137,0,hard_negative_homonym,Deepak Nair,Mohammad,53,M,7795​265​830,59-7645-5539-5986,Lucknow,दीपक नायर,Anil,22,M,+91-89733-11833,14-2830-9698-9042,Saharanpur
+PAIR-00138,0,hard_negative_same_household_phone,Anil Begum,Deepak,5,M,+91-95114-70727,UHID-VA-2020-100078,Saharanpur,Mohammad Begum,Deepak,30,M,+91-95114-70727,UHID-VA-2022-100050,Saharanpur
+PAIR-00139,0,negative_weak_or_unrelated,Ramesh ji,Deepak,,M,,,,Lakshmi Begum,Ramesh,37,F,0983 208 7087,MRN/H4/50097,Lucknow
+PAIR-00140,1,positive_cross_script,Priya Begum,Rajesh,22,F,0683 110 6636,69-2270-6989-5259,Kanpur Nagar,प्रिया बेगम,राजेश,22,F,,,Kanpur Nagar
+PAIR-00141,1,positive_alias_noisy,Pojoa Sharma,Anil,38,F,6720065269,88-2679-7007-7648,Saharanpur,Pooja S.,Anil,38,F,6720065269,88-2679-7007-7648,Saharanpur
+PAIR-00142,0,hard_negative_homonym,Mohammad Nair,Deepak,83,M,९११०३५७९२६,13-4498-9429-1647,Saharanpur,मोहम्मद नायर,Anil,27,M,८२२८२०३०७६,71-2628-3284-9187,Gorakhpur
+PAIR-00143,0,hard_negative_same_household_phone,Ramesh Kumar,Deepak,34,M,7975​501​776,UHID-VA-2024-100088,Kanpur Nagar,Geeta Kumar,Deepak,59,F,7975​501​776,UHID-VA-2021-100079,Kanpur Nagar
+PAIR-00144,0,negative_weak_or_unrelated,Harish ji,Mohammad,,M,,,,Mohammad Nair,Deepak,83,M,९११०३५७९२६,MRN/H1/50050,Saharanpur
+PAIR-00145,1,positive_cross_script,Fatmia Kumar,Rajesh,80,F,0781 564 5205,49-8713-8120-3707,Lucknow,फातिमा कुमार,राजेश,80,F,७८१५६४५२०५,49-8713-8120-3707,Lucknow
+PAIR-00146,1,positive_alias_noisy,Deepak Begum,Harish,44,M,6007​240​771,88-6435-2373-5710,Lucknow,Shri Deepak Begum,Harish,44,M,,,Lucknow
+PAIR-00147,0,hard_negative_homonym,Fatima Verma,Rajesh,30,F,0875 871 0298,91-1692-8483-3596,Gorakhpur,फातिमा वर्मा,Harish,16,F,6.50074E+09,34-3054-3462-4709,Lucknow
+PAIR-00148,0,hard_negative_same_household_phone,Mohammad Verma,Imran,83,M,+91-91676-64806,UHID-VA-2020-100006,Lucknow,Lakshmi Verma,Imran,23,F,+91-91676-64806,UHID-VA-2023-100009,Lucknow
+PAIR-00149,0,negative_weak_or_unrelated,Geeta ji,Harish,,F,,,,Mohammad Nair,Imran,69,M,+91-65472-17629,MRN/H1/50090,Kanpur Nagar
+PAIR-00150,1,positive_cross_script,Meera Devi,Ramesh,77,F,6.04885E+09,11-2042-5947-9556,Saharanpur,मीरा देवी,रमेश,78,F,६०४८८५००३९,11-2042-5947-9556,Saharanpur
+PAIR-00151,1,positive_alias_noisy,Deepak Kumar,Mohammad,71,M,9301​595​058,52-7890-2504-8942,Gorakhpur,D. Kumar,Mohammad,71,M,,52-7890-2504-8942,Gorakhpur
+PAIR-00152,0,hard_negative_homonym,Lakshmi Devi,Harish,86,F,6776810815,48-5266-8591-3472,Saharanpur,लक्ष्मी देवी,Harish,26,F,7054587059,80-8744-2624-3511,Saharanpur
+PAIR-00153,0,hard_negative_same_household_phone,Harish Kumar,Harish,20,M,7755​127​603,UHID-VA-2024-100076,Gorakhpur,Meera Kumar,Harish,45,F,7755​127​603,UHID-VA-2025-100041,Gorakhpur
+PAIR-00154,0,negative_weak_or_unrelated,Suresh ji,Suresh,,M,,,,Priya Kumar,Suresh,68,F,6098484243,MRN/H1/50005,Kanpur Nagar
+PAIR-00155,1,positive_cross_script,Meera Kumar,Harish,20,F,7916321912,59-4870-5885-4336,Saharanpur,मीरा कुमार,हरीश,20,F,७९१६३२१९१२,59-4870-5885-4336,Saharanpur
+PAIR-00156,1,positive_alias_noisy,Lkashmi Arif,Mohammad,13,F,6593879188,68-3682-8922-6193,Gorakhpur,Smt. Lakshmi Arif,Mohammad,13,F,६५९३८७९१८८,68-3682-8922-6193,Gorakhpur
+PAIR-00157,0,hard_negative_homonym,Ramesh Kumar,Harish,37,M,८२३२२९५५३८,22-2137-1050-2967,Kanpur Nagar,रमेश कुमार,Anil,21,M,६४१९७६९१७२,99-3265-3280-8584,Saharanpur
+PAIR-00158,0,hard_negative_same_household_phone,Geeta Arif,Suresh,23,F,8710724464,UHID-VA-2025-100053,Gorakhpur,Harish Arif,Suresh,48,M,8710724464,UHID-VA-2022-100014,Gorakhpur
+PAIR-00159,0,negative_weak_or_unrelated,Suresh ji,Rajesh,,M,,,,Harish Nair,Anil,77,M,8422​696​904,MRN/H1/50046,Saharanpur
+PAIR-00160,1,positive_cross_script,Suresh Verma,Rajesh,52,M,+91-89098-79784,53-8804-6581-3911,Saharanpur,सुरेश वर्मा,राजेश,53,M,+91-89098-79784,,Saharanpur
+PAIR-00161,1,positive_alias_noisy,Geeta Verma,Suresh,45,F,0815 977 3665,82-5754-4142-8330,Gorakhpur,Smt. Geeta Verma,Suresh,45,F,,82-5754-4142-8330,Gorakhpur
+PAIR-00162,0,hard_negative_homonym,Harish Sharma,Imran,67,M,+91-93224-58147,15-3217-1959-7085,Lucknow,हरीश शर्मा,Mohammad,19,M,8403​202​375,71-2728-5528-9785,Gorakhpur
+PAIR-00163,0,hard_negative_same_household_phone,Priya Sharma,Harish,7,F,6.99525E+09,UHID-VA-2023-100033,Gorakhpur,Deepak Sharma,Harish,32,M,6.99525E+09,UHID-VA-2022-100092,Gorakhpur
+PAIR-00164,0,negative_weak_or_unrelated,Pooja ji,Suresh,,F,,,,Pooja Verma,Anil,37,F,9.96348E+09,MRN/H4/50021,Saharanpur
+PAIR-00165,1,positive_cross_script,Kavita Yadav,Rajesh,50,F,0882 529 3226,65-1533-3107-4718,Kanpur Nagar,कविता यादव,राजेश,51,F,0882 529 3226,,Kanpur Nagar
+PAIR-00166,1,positive_alias_noisy,Priya Begmu,Deepak,74,F,0832 626 1840,41-2849-9365-8062,Kanpur Nagar,Priya B.,Deepak,74,F,0832 626 1840,41-2849-9365-8062,Kanpur Nagar
+PAIR-00167,0,hard_negative_homonym,Pooja Sharma,Anil,38,F,6720065269,88-2679-7007-7648,Saharanpur,पूजा शर्मा,Suresh,25,F,7.25509E+09,22-7300-3475-2435,Kanpur Nagar
+PAIR-00168,0,hard_negative_same_household_phone,Imran Sharma,Suresh,58,M,६८८२५६११७३,UHID-VA-2022-100026,Saharanpur,Deepak Sharma,Suresh,83,M,६८८२५६११७३,UHID-VA-2024-100082,Saharanpur
+PAIR-00169,0,negative_weak_or_unrelated,Anil ji,Deepak,,M,,,,Harish Sharma,Mohammad,19,M,8403​202​375,MRN/H2/50034,Gorakhpur
+PAIR-00170,1,positive_cross_script,Lakshmi Kumar,Suresh,40,F,0746 730 6538,36-6769-7275-3253,Gorakhpur,लक्ष्मी कुमार,सुरेश,40,F,,,Gorakhpur
+PAIR-00171,1,positive_alias_noisy,Geeta Arif,Deepak,1,F,0975 986 9587,52-7524-1878-5767,Lucknow,"Arif, Geeta",Deepak,2,F,९७५९८६९५८७,52-7524-1878-5767,Lucknow
+PAIR-00172,0,hard_negative_homonym,Mohammad Nair,Deepak,83,M,९११०३५७९२६,13-4498-9429-1647,Saharanpur,मोहम्मद नायर,Anil,27,M,८२२८२०३०७६,71-2628-3284-9187,Gorakhpur
+PAIR-00173,0,hard_negative_same_household_phone,Priya Begum,Rajesh,22,F,0683 110 6636,UHID-VA-2021-100001,Kanpur Nagar,Mohammad Begum,Rajesh,47,M,0683 110 6636,UHID-VA-2022-100050,Kanpur Nagar
+PAIR-00174,0,negative_weak_or_unrelated,Mohammad ji,Ramesh,,M,,,,Harish Devi,Mohammad,43,M,७७७६११८२१५,MRN/H2/50002,Gorakhpur
+PAIR-00175,1,positive_cross_script,Raemsh Kumar,Anil,21,M,६४१९७६९१७२,99-3265-3280-8584,Saharanpur,रमेश कुमार,अनील,22,M,६४१९७६९१७२,,Saharanpur
+PAIR-00176,1,positive_alias_noisy,Rajesh Deiv,Mohammad,47,M,६०८९८८३०९१,74-3685-4018-9969,Saharanpur,"Devi, Rajesh",Mohammad,47,M,६०८९८८३०९१,74-3685-4018-9969,Saharanpur
+PAIR-00177,0,hard_negative_homonym,Harish Kumar,Harish,20,M,7755​127​603,24-7309-5999-9112,Gorakhpur,हरीश कुमार,Harish,60,M,+91-82749-09898,10-2760-4096-3395,Saharanpur
+PAIR-00178,0,hard_negative_same_household_phone,Suresh Verma,Harish,69,M,७६७१३६९३४८,UHID-VA-2022-100062,Lucknow,Rajesh Verma,Harish,9,M,७६७१३६९३४८,UHID-VA-2022-100020,Lucknow
+PAIR-00179,0,negative_weak_or_unrelated,Geeta ji,Harish,,F,,,,Ramesh Nair,Deepak,90,M,8830​253​631,MRN/H3/50022,Saharanpur
+PAIR-00180,1,positive_cross_script,Fatima Sharma,Ramesh,86,F,0889 043 0019,56-6726-5115-5071,Saharanpur,फातिमा शर्मा,रमेश,86,F,0889 043 0019,,Saharanpur
+PAIR-00181,1,positive_alias_noisy,Pirya Devi,Ramesh,92,F,8.45436E+09,67-3880-1681-3433,Saharanpur,P. Devi,Ramesh,92,F,8.45436E+09,,Saharanpur
+PAIR-00182,0,hard_negative_homonym,Deepak Nair,Mohammad,53,M,7795​265​830,59-7645-5539-5986,Lucknow,दीपक नायर,Anil,22,M,+91-89733-11833,14-2830-9698-9042,Saharanpur
+PAIR-00183,0,hard_negative_same_household_phone,Meera Kumar,Anil,38,F,7.22460E+09,UHID-VA-2023-100069,Lucknow,Harish Kumar,Anil,63,M,7.22460E+09,UHID-VA-2022-100008,Lucknow
+PAIR-00184,0,negative_weak_or_unrelated,Priya ji,Suresh,,F,,,,Meera Nair,Suresh,37,F,7308468267,MRN/H3/50041,Lucknow
+PAIR-00185,1,positive_cross_script,Rajesh Begum,Imran,48,M,७०१६६२३९७०,93-5093-2028-2498,Lucknow,राजेश बेगम,इमरान,48,M,७०१६६२३९७०,93-5093-2028-2498,Lucknow
+PAIR-00186,1,positive_alias_noisy,Harish Kumar,Ramesh,84,M,+91-74439-89371,47-9510-8744-3628,Gorakhpur,Shri Harish Kumar,Ramesh,84,M,७४४३९८९३७१,,Gorakhpur
+PAIR-00187,0,hard_negative_homonym,Kavita Yadav,Rajesh,50,F,0882 529 3226,65-1533-3107-4718,Kanpur Nagar,कविता यादव,Anil,10,F,0885 987 6054,50-9418-2099-8812,Kanpur Nagar
+PAIR-00188,0,hard_negative_same_household_phone,Rajesh Sharma,Imran,58,M,+91-74463-81608,UHID-VA-2020-100024,Saharanpur,Sunita Sharma,Imran,83,F,+91-74463-81608,UHID-VA-2023-100015,Saharanpur
+PAIR-00189,0,negative_weak_or_unrelated,Lakshmi ji,Suresh,,F,,,,Geeta Arif,Harish,45,F,7.67440E+09,MRN/H1/50063,Gorakhpur
+PAIR-00190,1,positive_cross_script,Fatima Kumra,Rajesh,80,F,0781 564 5205,49-8713-8120-3707,Lucknow,फातिमा कुमार,राजेश,80,F,,49-8713-8120-3707,Lucknow
+PAIR-00191,1,positive_alias_noisy,Geeta Arif,Harish,45,F,7.67440E+09,18-6093-8720-7126,Gorakhpur,Geeta ji,Harish,45,F,7.67440E+09,18-6093-8720-7126,Gorakhpur
+PAIR-00192,0,hard_negative_homonym,Mohammad Nair,Deepak,83,M,९११०३५७९२६,13-4498-9429-1647,Saharanpur,मोहम्मद नायर,Anil,27,M,८२२८२०३०७६,71-2628-3284-9187,Gorakhpur
+PAIR-00193,0,hard_negative_same_household_phone,Rajesh Sharma,Harish,56,M,९००८९४५३००,UHID-VA-2022-100038,Lucknow,Lakshmi Sharma,Harish,81,F,९००८९४५३००,UHID-VA-2023-100051,Lucknow
+PAIR-00194,0,negative_weak_or_unrelated,Geeta ji,Harish,,F,,,,Ramesh Kumar,Anil,21,M,६४१९७६९१७२,MRN/H1/50068,Saharanpur
+PAIR-00195,1,positive_cross_script,PoojaS harma,Anil,38,F,6720065269,88-2679-7007-7648,Saharanpur,पूजा शर्मा,अनील,38,F,६७२००६५२६९,,Saharanpur
+PAIR-00196,1,positive_alias_noisy,Ramesh Kumar,Harish,37,M,८२३२२९५५३८,22-2137-1050-2967,Kanpur Nagar,"Kumar, Ramesh",Harish,37,M,,,Kanpur Nagar
+PAIR-00197,0,hard_negative_homonym,Ramesh Kumar,Anil,86,M,+91-77221-28349,70-2940-9273-3190,Gorakhpur,रमेश कुमार,Imran,17,M,+91-98947-17466,52-8471-8394-5442,Gorakhpur
+PAIR-00198,0,hard_negative_same_household_phone,Rajesh Sharma,Imran,58,M,+91-74463-81608,UHID-VA-2020-100024,Saharanpur,Suresh Sharma,Imran,83,M,+91-74463-81608,UHID-VA-2020-100060,Saharanpur
+PAIR-00199,0,negative_weak_or_unrelated,Geeta ji,Suresh,,F,,,,Pooja Sharma,Suresh,25,F,7.25509E+09,MRN/H1/50057,Kanpur Nagar
+PAIR-00200,1,positive_cross_script,Mohammda Devi,Anil,53,M,7176​658​183,40-5587-1375-4742,Lucknow,मोहम्मद देवी,अनील,53,M,7176​658​183,40-5587-1375-4742,Lucknow
+PAIR-00201,1,positive_alias_noisy,Fatima Kumar,Rajesh,80,F,0781 564 5205,49-8713-8120-3707,Lucknow,Fatima K.,Rajesh,81,F,0781 564 5205,49-8713-8120-3707,Lucknow
+PAIR-00202,0,hard_negative_homonym,Meera Devi,Ramesh,77,F,6.04885E+09,11-2042-5947-9556,Saharanpur,मीरा देवी,Anil,76,F,8219304819,74-5748-3187-7579,Kanpur Nagar
+PAIR-00203,0,hard_negative_same_household_phone,Anil Begum,Deepak,5,M,+91-95114-70727,UHID-VA-2020-100078,Saharanpur,Priya Begum,Deepak,30,F,+91-95114-70727,UHID-VA-2025-100005,Saharanpur
+PAIR-00204,0,negative_weak_or_unrelated,Deepak ji,Anil,,M,,,,Harish Sharma,Mohammad,19,M,8403​202​375,MRN/H2/50034,Gorakhpur
+PAIR-00205,1,positive_cross_script,Suresh Verma,Rajesh,69,M,७५३५८०३५८०,80-4493-8123-5120,Kanpur Nagar,सुरेश वर्मा,राजेश,70,M,,,Kanpur Nagar
+PAIR-00206,1,positive_alias_noisy,Suresh Vemra,Harish,69,M,७६७१३६९३४८,64-3956-4663-7776,Lucknow,"Verma, Suresh",Harish,69,M,७६७१३६९३४८,64-3956-4663-7776,Lucknow
+PAIR-00207,0,hard_negative_homonym,Priya Devi,Ramesh,92,F,8.45436E+09,67-3880-1681-3433,Saharanpur,प्रिया देवी,Suresh,7,F,9511595245,71-7914-3573-4566,Saharanpur
+PAIR-00208,0,hard_negative_same_household_phone,Anil Begum,Deepak,5,M,+91-95114-70727,UHID-VA-2020-100078,Saharanpur,Imran Begum,Deepak,30,M,+91-95114-70727,UHID-VA-2022-100026,Saharanpur
+PAIR-00209,0,negative_weak_or_unrelated,Mohammad ji,Ramesh,,M,,,,Lakshmi Devi,Harish,86,F,6776810815,MRN/H1/50077,Saharanpur
+PAIR-00210,1,positive_cross_script,Priya Devi,Suresh,7,F,9511595245,71-7914-3573-4566,Saharanpur,प्रिया देवी,सुरेश,7,F,9511595245,,Saharanpur
+PAIR-00211,1,positive_alias_noisy,Suresh Verma,Rajesh,69,M,७५३५८०३५८०,80-4493-8123-5120,Kanpur Nagar,Suresh ji,Rajesh,70,M,,80-4493-8123-5120,Kanpur Nagar
+PAIR-00212,0,hard_negative_homonym,Priya Begum,Deepak,74,F,0832 626 1840,41-2849-9365-8062,Kanpur Nagar,प्रिया बेगम,Rajesh,22,F,0683 110 6636,69-2270-6989-5259,Kanpur Nagar
+PAIR-00213,0,hard_negative_same_household_phone,Suresh Yadav,Imran,85,M,+91-61310-19676,UHID-VA-2020-100060,Gorakhpur,Harish Yadav,Imran,25,M,+91-61310-19676,UHID-VA-2020-100018,Gorakhpur
+PAIR-00214,0,negative_weak_or_unrelated,Rajesh ji,Harish,,M,,,,Deepak Nair,Anil,22,M,+91-89733-11833,MRN/H4/50030,Saharanpur
+PAIR-00215,1,positive_cross_script,Lakshmi Yadva,Anil,67,F,6751152013,60-6385-2965-5134,Kanpur Nagar,लक्ष्मी यादव,अनील,68,F,6751152013,,Kanpur Nagar
+PAIR-00216,1,positive_alias_noisy,Sures hBegum,Anil,81,M,7197​905​238,52-8913-1339-1644,Lucknow,Suresh ji,Anil,82,M,७१९७९०५२३८,,Lucknow
+PAIR-00217,0,hard_negative_homonym,Suresh Verma,Harish,69,M,७६७१३६९३४८,64-3956-4663-7776,Lucknow,सुरेश वर्मा,Rajesh,52,M,+91-89098-79784,53-8804-6581-3911,Saharanpur
+PAIR-00218,0,hard_negative_same_household_phone,Geeta Nair,Harish,89,F,0806 018 6339,UHID-VA-2021-100079,Gorakhpur,Deepak Nair,Harish,29,M,0806 018 6339,UHID-VA-2022-100092,Gorakhpur
+PAIR-00219,0,negative_weak_or_unrelated,Sunita ji,Deepak,,F,,,,Harish Nair,Anil,77,M,8422​696​904,MRN/H1/50046,Saharanpur
+PAIR-00220,1,positive_cross_script,Anil Begum,Deepak,5,M,+91-95114-70727,19-8502-9103-9412,Saharanpur,अनील बेगम,दीपक,5,M,९५११४७०७२७,,Saharanpur
+PAIR-00221,1,positive_alias_noisy,Lakshmi Yadav,Harish,43,F,9.49008E+09,15-7340-6186-4203,Lucknow,L. Yadav,Harish,43,F,9.49008E+09,,Lucknow
+PAIR-00222,0,hard_negative_homonym,Suresh Verma,Suresh,89,M,+91-70928-56877,96-8802-2764-7166,Saharanpur,सुरेश वर्मा,Rajesh,52,M,+91-89098-79784,53-8804-6581-3911,Saharanpur
+PAIR-00223,0,hard_negative_same_household_phone,Suresh Verma,Suresh,89,M,+91-70928-56877,UHID-VA-2020-100072,Saharanpur,Mohammad Verma,Suresh,29,M,+91-70928-56877,UHID-VA-2022-100080,Saharanpur
+PAIR-00224,0,negative_weak_or_unrelated,Lakshmi ji,Imran,,F,,,,Geeta Verma,Suresh,45,F,0815 977 3665,MRN/H1/50019,Gorakhpur
+PAIR-00225,1,positive_cross_script,Rajesh Sahrma,Harish,56,M,९००८९४५३००,80-6059-2975-4036,Lucknow,राजेश शर्मा,हरीश,57,M,९००८९४५३००,,Lucknow
+PAIR-00226,1,positive_alias_noisy,Priya Devi,Suresh,7,F,9511595245,71-7914-3573-4566,Saharanpur,Priya ji,Suresh,7,F,9511595245,,Saharanpur
+PAIR-00227,0,hard_negative_homonym,Lakshmi Kumar,Suresh,46,F,6.25469E+09,93-1364-5205-3788,Lucknow,लक्ष्मी कुमार,Suresh,40,F,0746 730 6538,36-6769-7275-3253,Gorakhpur
+PAIR-00228,0,hard_negative_same_household_phone,Sunita Sharma,Deepak,13,F,0940 588 2683,UHID-VA-2021-100031,Kanpur Nagar,Mohammad Sharma,Deepak,38,M,0940 588 2683,UHID-VA-2024-100016,Kanpur Nagar
+PAIR-00229,0,negative_weak_or_unrelated,Lakshmi ji,Ramesh,,F,,,,Kavita Arif,Rajesh,7,F,8297296530,MRN/H3/50023,Gorakhpur
+PAIR-00230,1,positive_cross_script,Raejsh Devi,Mohammad,47,M,६०८९८८३०९१,74-3685-4018-9969,Saharanpur,राजेश देवी,मोहम्मद,47,M,६०८९८८३०९१,,Saharanpur
+PAIR-00231,1,positive_alias_noisy,Geeta Devi,Harish,39,F,0611 415 9781,44-1165-9548-2271,Lucknow,"Devi, Geeta",Harish,39,F,६११४१५९७८१,44-1165-9548-2271,Lucknow
+PAIR-00232,0,hard_negative_homonym,Kavita Yadav,Rajesh,50,F,0882 529 3226,65-1533-3107-4718,Kanpur Nagar,कविता यादव,Anil,10,F,0885 987 6054,50-9418-2099-8812,Kanpur Nagar
+PAIR-00233,0,hard_negative_same_household_phone,Rajesh Yadav,Anil,34,M,8092​061​279,UHID-VA-2024-100052,Gorakhpur,Priya Yadav,Anil,59,F,8092​061​279,UHID-VA-2021-100001,Gorakhpur
+PAIR-00234,0,negative_weak_or_unrelated,Ramesh ji,Deepak,,M,,,,Meera Devi,Ramesh,77,F,6.04885E+09,MRN/H3/50081,Saharanpur
+PAIR-00235,1,positive_cross_script,Meera Kumar,Harish,20,F,7916321912,59-4870-5885-4336,Saharanpur,मीरा कुमार,हरीश,20,F,७९१६३२१९१२,,Saharanpur
+PAIR-00236,1,positive_alias_noisy,Harish eVrma,Ramesh,90,M,८४६६२५०२४५,36-1270-5095-3317,Lucknow,Harish ji,Ramesh,91,M,,,Lucknow
+PAIR-00237,0,hard_negative_homonym,Imran Sharma,Deepak,85,M,+91-82290-22710,92-4194-1341-5655,Gorakhpur,इमरान शर्मा,Deepak,4,M,८१७९४६१२०५,14-5252-5829-5336,Gorakhpur
+PAIR-00238,0,hard_negative_same_household_phone,Pooja Sharma,Anil,38,F,6720065269,UHID-VA-2025-100059,Saharanpur,Imran Sharma,Anil,63,M,6720065269,UHID-VA-2020-100036,Saharanpur
+PAIR-00239,0,negative_weak_or_unrelated,Meera ji,Anil,,F,,,,Harish Sharma,Mohammad,37,M,७६७५९९४४२५,MRN/H2/50008,Saharanpur
+PAIR-00240,1,positive_cross_script,Suresh Verma,Harish,69,M,७६७१३६९३४८,64-3956-4663-7776,Lucknow,सुरेश वर्मा,हरीश,70,M,७६७१३६९३४८,,Lucknow
+PAIR-00241,1,positive_alias_noisy,MeeraK umar,Suresh,73,F,6.12413E+09,26-9364-2283-5788,Lucknow,"Kumar, Meera",Suresh,74,F,६१२४१३२४११,,Lucknow
+PAIR-00242,0,hard_negative_homonym,Deepak Nair,Anil,22,M,+91-89733-11833,14-2830-9698-9042,Saharanpur,दीपक नायर,Mohammad,53,M,7795​265​830,59-7645-5539-5986,Lucknow
+PAIR-00243,0,hard_negative_same_household_phone,Kavita Arif,Rajesh,7,F,8297296530,UHID-VA-2025-100023,Gorakhpur,Meera Arif,Rajesh,32,F,8297296530,UHID-VA-2025-100041,Gorakhpur
+PAIR-00244,0,negative_weak_or_unrelated,Harish ji,Imran,,M,,,,Suresh Verma,Suresh,89,M,+91-70928-56877,MRN/H4/50072,Saharanpur
+PAIR-00245,1,positive_cross_script,Imran Shamra,Deepak,85,M,+91-82290-22710,92-4194-1341-5655,Gorakhpur,इमरान शर्मा,दीपक,85,M,८२२९०२२७१०,92-4194-1341-5655,Gorakhpur
+PAIR-00246,1,positive_alias_noisy,Meera Kumar,Suresh,73,F,6.12413E+09,26-9364-2283-5788,Lucknow,Meera ji,Suresh,73,F,६१२४१३२४११,,Lucknow
+PAIR-00247,0,hard_negative_homonym,Ramesh Kumar,Deepak,34,M,7975​501​776,38-4810-8176-4052,Kanpur Nagar,रमेश कुमार,Harish,37,M,८२३२२९५५३८,22-2137-1050-2967,Kanpur Nagar
+PAIR-00248,0,hard_negative_same_household_phone,Meera Devi,Anil,16,F,6569790687,UHID-VA-2025-100071,Gorakhpur,Priya Devi,Anil,41,F,6569790687,UHID-VA-2021-100013,Gorakhpur
+PAIR-00249,0,negative_weak_or_unrelated,Mohammad ji,Suresh,,M,,,,Priya Sharma,Harish,7,F,6.99525E+09,MRN/H1/50033,Gorakhpur
+PAIR-00250,1,positive_cross_script,Deepak Kumar,Mohammad,71,M,9301​595​058,52-7890-2504-8942,Gorakhpur,दीपक कुमार,मोहम्मद,71,M,९३०१५९५०५८,,Gorakhpur
+PAIR-00251,1,positive_alias_noisy,Rajehs Devi,Mohammad,47,M,६०८९८८३०९१,74-3685-4018-9969,Saharanpur,Rajesh D.,Mohammad,47,M,६०८९८८३०९१,74-3685-4018-9969,Saharanpur
+PAIR-00252,0,hard_negative_homonym,Suresh Begum,Deepak,36,M,9410​943​830,69-7906-1788-9961,Kanpur Nagar,सुरेश बेगम,Ramesh,1,M,6529​923​572,24-8587-7979-2162,Saharanpur
+PAIR-00253,0,hard_negative_same_household_phone,Lakshmi Kumar,Suresh,40,F,0746 730 6538,UHID-VA-2021-100091,Gorakhpur,Priya Kumar,Suresh,65,F,0746 730 6538,UHID-VA-2025-100089,Gorakhpur
+PAIR-00254,0,negative_weak_or_unrelated,Harish ji,Anil,,M,,,,Geeta Arif,Harish,45,F,7.67440E+09,MRN/H1/50063,Gorakhpur
+PAIR-00255,1,positive_cross_script,Mohammad eBgum,Suresh,46,M,8117​989​843,43-6968-1606-1388,Lucknow,मोहम्मद बेगम,सुरेश,46,M,8117​989​843,,Lucknow
+PAIR-00256,1,positive_alias_noisy,Kavita Yadav,Anil,10,F,0885 987 6054,50-9418-2099-8812,Kanpur Nagar,"Yadav, Kavita",Anil,10,F,0885 987 6054,,Kanpur Nagar
+PAIR-00257,0,hard_negative_homonym,Priya Sharma,Harish,7,F,6.99525E+09,57-1936-2959-7406,Gorakhpur,प्रिया शर्मा,Harish,76,F,0694 109 1152,52-7809-7555-5647,Lucknow
+PAIR-00258,0,hard_negative_same_household_phone,Geeta Arif,Deepak,1,F,0975 986 9587,UHID-VA-2021-100067,Lucknow,Ramesh Arif,Deepak,26,M,0975 986 9587,UHID-VA-2020-100054,Lucknow
+PAIR-00259,0,negative_weak_or_unrelated,Deepak ji,Anil,,M,,,,Geeta Verma,Suresh,45,F,0815 977 3665,MRN/H1/50019,Gorakhpur
+PAIR-00260,1,positive_cross_script,Mohammad Verma,Imran,83,M,+91-91676-64806,99-1413-3921-9672,Lucknow,मोहम्मद वर्मा,इमरान,83,M,,,Lucknow
+PAIR-00261,1,positive_alias_noisy,Lakshmi Kumar,Suresh,40,F,0746 730 6538,36-6769-7275-3253,Gorakhpur,L. Kumar,Suresh,41,F,0746 730 6538,36-6769-7275-3253,Gorakhpur
+PAIR-00262,0,hard_negative_homonym,Imran Sharma,Suresh,58,M,६८८२५६११७३,75-2389-9136-6808,Saharanpur,इमरान शर्मा,Deepak,85,M,+91-82290-22710,92-4194-1341-5655,Gorakhpur
+PAIR-00263,0,hard_negative_same_household_phone,Deepak Nair,Mohammad,53,M,7795​265​830,UHID-VA-2024-100070,Lucknow,Mohammad Nair,Mohammad,78,M,7795​265​830,UHID-VA-2022-100050,Lucknow
+PAIR-00264,0,negative_weak_or_unrelated,Meera ji,Suresh,,F,,,,Priya Devi,Ramesh,92,F,8.45436E+09,MRN/H3/50099,Saharanpur
+PAIR-00265,1,positive_cross_script,Ramesh Kumar,Imran,17,M,+91-98947-17466,52-8471-8394-5442,Gorakhpur,रमेश कुमार,इमरान,17,M,+91-98947-17466,,Gorakhpur
+PAIR-00266,1,positive_alias_noisy,Kavita Yadav,Rajesh,50,F,0882 529 3226,65-1533-3107-4718,Kanpur Nagar,Kavita ji,Rajesh,50,F,0882 529 3226,,Kanpur Nagar
+PAIR-00267,0,hard_negative_homonym,Imran Sharma,Deepak,85,M,+91-82290-22710,92-4194-1341-5655,Gorakhpur,इमरान शर्मा,Suresh,58,M,६८८२५६११७३,75-2389-9136-6808,Saharanpur
+PAIR-00268,0,hard_negative_same_household_phone,Fatima Verma,Rajesh,30,F,0875 871 0298,UHID-VA-2021-100061,Gorakhpur,Harish Verma,Rajesh,55,M,0875 871 0298,UHID-VA-2020-100018,Gorakhpur
+PAIR-00269,0,negative_weak_or_unrelated,Rajesh ji,Harish,,M,,,,Meera Nair,Suresh,37,F,7308468267,MRN/H3/50041,Lucknow
+PAIR-00270,1,positive_cross_script,Rmaesh Kumar,Harish,37,M,८२३२२९५५३८,22-2137-1050-2967,Kanpur Nagar,रमेश कुमार,हरीश,37,M,८२३२२९५५३८,22-2137-1050-2967,Kanpur Nagar
+PAIR-00271,1,positive_alias_noisy,Lakshmi Yaadv,Harish,43,F,9.49008E+09,15-7340-6186-4203,Lucknow,Smt. Lakshmi Yadav,Harish,43,F,9.49008E+09,,Lucknow
+PAIR-00272,0,hard_negative_homonym,Meera Kumar,Suresh,73,F,6.12413E+09,26-9364-2283-5788,Lucknow,मीरा कुमार,Harish,20,F,7916321912,59-4870-5885-4336,Saharanpur
+PAIR-00273,0,hard_negative_same_household_phone,Kavita Arif,Rajesh,7,F,8297296530,UHID-VA-2025-100023,Gorakhpur,Priya Arif,Rajesh,32,F,8297296530,UHID-VA-2025-100005,Gorakhpur
+PAIR-00274,0,negative_weak_or_unrelated,Suresh ji,Ramesh,,M,,,,Rajesh Begum,Imran,48,M,७०१६६२३९७०,MRN/H2/50074,Lucknow
+PAIR-00275,1,positive_cross_script,Ramesh Kumar,Anil,86,M,+91-77221-28349,70-2940-9273-3190,Gorakhpur,रमेश कुमार,अनील,86,M,,,Gorakhpur
+PAIR-00276,1,positive_alias_noisy,Geeta Verma,Mohammad,57,F,6.08542E+09,99-7488-3701-4973,Gorakhpur,G. Verma,Mohammad,58,F,६०८५४२५९९५,99-7488-3701-4973,Gorakhpur
+PAIR-00277,0,hard_negative_homonym,Kavita Yadav,Rajesh,50,F,0882 529 3226,65-1533-3107-4718,Kanpur Nagar,कविता यादव,Anil,10,F,0885 987 6054,50-9418-2099-8812,Kanpur Nagar
+PAIR-00278,0,hard_negative_same_household_phone,Suresh Begum,Ramesh,1,M,6529​923​572,UHID-VA-2024-100028,Saharanpur,Geeta Begum,Ramesh,26,F,6529​923​572,UHID-VA-2021-100019,Saharanpur
+PAIR-00279,0,negative_weak_or_unrelated,Lakshmi ji,Harish,,F,,,,Rajesh Begum,Imran,48,M,७०१६६२३९७०,MRN/H2/50074,Lucknow
+PAIR-00280,1,positive_cross_script,Rajesh Devi,Mohammad,47,M,६०८९८८३०९१,74-3685-4018-9969,Saharanpur,राजेश देवी,मोहम्मद,47,M,६०८९८८३०९१,74-3685-4018-9969,Saharanpur
+PAIR-00281,1,positive_alias_noisy,Ramesh Nair,Deepak,90,M,8830​253​631,63-9554-6103-7079,Saharanpur,"Nair, Ramesh",Deepak,90,M,८८३०२५३६३१,63-9554-6103-7079,Saharanpur
+PAIR-00282,0,hard_negative_homonym,Mohammad Nair,Anil,27,M,८२२८२०३०७६,71-2628-3284-9187,Gorakhpur,मोहम्मद नायर,Deepak,83,M,९११०३५७९२६,13-4498-9429-1647,Saharanpur
+PAIR-00283,0,hard_negative_same_household_phone,Mohammad Verma,Imran,83,M,+91-91676-64806,UHID-VA-2020-100006,Lucknow,Deepak Verma,Imran,23,M,+91-91676-64806,UHID-VA-2024-100010,Lucknow
+PAIR-00284,0,negative_weak_or_unrelated,Kavita ji,Anil,,F,,,,Suresh Verma,Suresh,89,M,+91-70928-56877,MRN/H4/50072,Saharanpur
+PAIR-00285,1,positive_cross_script,Suresh Begum,Ramesh,1,M,6529​923​572,24-8587-7979-2162,Saharanpur,सुरेश बेगम,रमेश,1,M,६५२९९२३५७२,,Saharanpur
+PAIR-00286,1,positive_alias_noisy,Mohammad Begum,Suresh,46,M,8117​989​843,43-6968-1606-1388,Lucknow,Mohd Begum,Suresh,46,M,8117​989​843,,Lucknow
+PAIR-00287,0,hard_negative_homonym,Deepak Nair,Mohammad,53,M,7795​265​830,59-7645-5539-5986,Lucknow,दीपक नायर,Anil,22,M,+91-89733-11833,14-2830-9698-9042,Saharanpur
+PAIR-00288,0,hard_negative_same_household_phone,Lakshmi Arif,Mohammad,13,F,6593879188,UHID-VA-2025-100011,Gorakhpur,Imran Arif,Mohammad,38,M,6593879188,UHID-VA-2022-100056,Gorakhpur
+PAIR-00289,0,negative_weak_or_unrelated,Sunita ji,Imran,,F,,,,Rajesh Sharma,Harish,56,M,९००८९४५३००,MRN/H1/50038,Lucknow
+PAIR-00290,1,positive_cross_script,Priya eBgum,Deepak,74,F,0832 626 1840,41-2849-9365-8062,Kanpur Nagar,प्रिया बेगम,दीपक,74,F,८३२६२६१८४०,,Kanpur Nagar
+PAIR-00291,1,positive_alias_noisy,Mohammad Verma,Imran,83,M,+91-91676-64806,99-1413-3921-9672,Lucknow,"Verma, Mohammad",Imran,83,M,९१६७६६४८०६,99-1413-3921-9672,Lucknow
+PAIR-00292,0,hard_negative_homonym,Harish Sharma,Mohammad,19,M,8403​202​375,71-2728-5528-9785,Gorakhpur,हरीश शर्मा,Mohammad,37,M,७६७५९९४४२५,81-9302-4768-3460,Saharanpur
+PAIR-00293,0,hard_negative_same_household_phone,Pooja Sharma,Anil,38,F,6720065269,UHID-VA-2025-100059,Saharanpur,Harish Sharma,Anil,63,M,6720065269,UHID-VA-2022-100014,Saharanpur
+PAIR-00294,0,negative_weak_or_unrelated,Fatima ji,Rajesh,,F,,,,Mohammad Yadav,Ramesh,17,M,+91-64994-95834,MRN/H3/50048,Lucknow
+PAIR-00295,1,positive_cross_script,Deepak Sharma,Anil,3,M,८१६४८०३६९०,24-1545-2875-2835,Gorakhpur,दीपक शर्मा,अनील,3,M,८१६४८०३६९०,24-1545-2875-2835,Gorakhpur
+PAIR-00296,1,positive_alias_noisy,Mohamma dNair,Anil,27,M,८२२८२०३०७६,71-2628-3284-9187,Gorakhpur,Mohd Nair,Anil,27,M,८२२८२०३०७६,71-2628-3284-9187,Gorakhpur
+PAIR-00297,0,hard_negative_homonym,Geeta Verma,Mohammad,57,F,6.08542E+09,99-7488-3701-4973,Gorakhpur,गीता वर्मा,Suresh,45,F,0815 977 3665,82-5754-4142-8330,Gorakhpur
+PAIR-00298,0,hard_negative_same_household_phone,Priya Sharma,Harish,7,F,6.99525E+09,UHID-VA-2023-100033,Gorakhpur,Ramesh Sharma,Harish,32,M,6.99525E+09,UHID-VA-2024-100088,Gorakhpur
+PAIR-00299,0,negative_weak_or_unrelated,Priya ji,Imran,,F,,,,Ramesh Kumar,Anil,86,M,+91-77221-28349,MRN/H2/50066,Gorakhpur
+PAIR-00300,1,positive_cross_script,Rmaesh Kumar,Deepak,34,M,7975​501​776,38-4810-8176-4052,Kanpur Nagar,रमेश कुमार,दीपक,34,M,७९७५५०१७७६,,Kanpur Nagar
+PAIR-00301,1,positive_alias_noisy,Priya Devi,Suresh,7,F,9511595245,71-7914-3573-4566,Saharanpur,Smt. Priya Devi,Suresh,8,F,9511595245,,Saharanpur
+PAIR-00302,0,hard_negative_homonym,Deepak Nair,Anil,22,M,+91-89733-11833,14-2830-9698-9042,Saharanpur,दीपक नायर,Mohammad,53,M,7795​265​830,59-7645-5539-5986,Lucknow
+PAIR-00303,0,hard_negative_same_household_phone,Pooja Sharma,Suresh,25,F,7.25509E+09,UHID-VA-2023-100057,Kanpur Nagar,Meera Sharma,Suresh,50,F,7.25509E+09,UHID-VA-2025-100071,Kanpur Nagar
+PAIR-00304,0,negative_weak_or_unrelated,Suresh ji,Suresh,,M,,,,Priya Sharma,Harish,76,F,0694 109 1152,MRN/H1/50049,Lucknow
+PAIR-00305,1,positive_cross_script,LakshmiS harma,Imran,87,F,9.92933E+09,51-5500-7008-4064,Kanpur Nagar,लक्ष्मी शर्मा,इमरान,88,F,9.92933E+09,,Kanpur Nagar
+PAIR-00306,1,positive_alias_noisy,Raemsh Kumar,Anil,86,M,+91-77221-28349,70-2940-9273-3190,Gorakhpur,"Kumar, Ramesh",Anil,86,M,+91-77221-28349,,Gorakhpur
+PAIR-00307,0,hard_negative_homonym,Meera Devi,Anil,76,F,8219304819,74-5748-3187-7579,Kanpur Nagar,मीरा देवी,Ramesh,77,F,6.04885E+09,11-2042-5947-9556,Saharanpur
+PAIR-00308,0,hard_negative_same_household_phone,Lakshmi Kumar,Suresh,46,F,6.25469E+09,UHID-VA-2023-100087,Lucknow,Imran Kumar,Suresh,71,M,6.25469E+09,UHID-VA-2024-100004,Lucknow
+PAIR-00309,0,negative_weak_or_unrelated,Rajesh ji,Anil,,M,,,,Anil Begum,Deepak,5,M,+91-95114-70727,MRN/H4/50078,Saharanpur
+PAIR-00310,1,positive_cross_script,Harish Kumar,Harish,60,M,+91-82749-09898,10-2760-4096-3395,Saharanpur,हरीश कुमार,हरीश,60,M,+91-82749-09898,,Saharanpur
+PAIR-00311,1,positive_alias_noisy,Hairsh Sharma,Imran,67,M,+91-93224-58147,15-3217-1959-7085,Lucknow,H. Sharma,Imran,67,M,+91-93224-58147,15-3217-1959-7085,Lucknow
+PAIR-00312,0,hard_negative_homonym,Fatima Verma,Rajesh,30,F,0875 871 0298,91-1692-8483-3596,Gorakhpur,फातिमा वर्मा,Harish,16,F,6.50074E+09,34-3054-3462-4709,Lucknow
+PAIR-00313,0,hard_negative_same_household_phone,Meera Kumar,Suresh,73,F,6.12413E+09,UHID-VA-2023-100045,Lucknow,Sunita Kumar,Suresh,13,F,6.12413E+09,UHID-VA-2021-100031,Lucknow
+PAIR-00314,0,negative_weak_or_unrelated,Meera ji,Anil,,F,,,,Rajesh Verma,Mohammad,46,M,+91-93890-70488,MRN/H4/50012,Gorakhpur
+PAIR-00315,1,positive_cross_script,LakshmiK umar,Suresh,40,F,0746 730 6538,36-6769-7275-3253,Gorakhpur,लक्ष्मी कुमार,सुरेश,40,F,७४६७३०६५३८,36-6769-7275-3253,Gorakhpur
+PAIR-00316,1,positive_alias_noisy,Pooja Verma,Anil,37,F,9.96348E+09,28-1727-8149-2846,Saharanpur,"Verma, Pooja",Anil,37,F,९९६३४८०२३२,28-1727-8149-2846,Saharanpur
+PAIR-00317,0,hard_negative_homonym,Kavita Yadav,Rajesh,50,F,0882 529 3226,65-1533-3107-4718,Kanpur Nagar,कविता यादव,Anil,10,F,0885 987 6054,50-9418-2099-8812,Kanpur Nagar
+PAIR-00318,0,hard_negative_same_household_phone,Ramesh Kumar,Anil,86,M,+91-77221-28349,UHID-VA-2020-100066,Gorakhpur,Pooja Kumar,Anil,26,F,+91-77221-28349,UHID-VA-2023-100057,Gorakhpur
+PAIR-00319,0,negative_weak_or_unrelated,Priya ji,Deepak,,F,,,,Fatima Verma,Harish,16,F,6.50074E+09,MRN/H4/50075,Lucknow
+PAIR-00320,1,positive_cross_script,Harish Kumar,Harish,20,M,7755​127​603,24-7309-5999-9112,Gorakhpur,हरीश कुमार,हरीश,20,M,7755​127​603,,Gorakhpur
+PAIR-00321,1,positive_alias_noisy,Geeta Arif,Deepak,1,F,0975 986 9587,52-7524-1878-5767,Lucknow,Geeta A.,Deepak,1,F,९७५९८६९५८७,,Lucknow
+PAIR-00322,0,hard_negative_homonym,Lakshmi Kumar,Suresh,40,F,0746 730 6538,36-6769-7275-3253,Gorakhpur,लक्ष्मी कुमार,Suresh,46,F,6.25469E+09,93-1364-5205-3788,Lucknow
+PAIR-00323,0,hard_negative_same_household_phone,Kavita Arif,Rajesh,7,F,8297296530,UHID-VA-2025-100023,Gorakhpur,Harish Arif,Rajesh,32,M,8297296530,UHID-VA-2022-100014,Gorakhpur
+PAIR-00324,0,negative_weak_or_unrelated,Meera ji,Anil,,F,,,,Suresh Begum,Deepak,36,M,9410​943​830,MRN/H4/50040,Kanpur Nagar
+PAIR-00325,1,positive_cross_script,Geeta Begum,Rajesh,64,F,0701 138 3270,83-2423-4222-2203,Kanpur Nagar,गीता बेगम,राजेश,65,F,0701 138 3270,,Kanpur Nagar
+PAIR-00326,1,positive_alias_noisy,Lakshmi Devi,Harish,86,F,6776810815,48-5266-8591-3472,Saharanpur,Lakshmi ji,Harish,86,F,६७७६८१०८१५,48-5266-8591-3472,Saharanpur
+PAIR-00327,0,hard_negative_homonym,Priya Sharma,Harish,76,F,0694 109 1152,52-7809-7555-5647,Lucknow,प्रिया शर्मा,Harish,7,F,6.99525E+09,57-1936-2959-7406,Gorakhpur
+PAIR-00328,0,hard_negative_same_household_phone,Meera Devi,Ramesh,77,F,6.04885E+09,UHID-VA-2023-100081,Saharanpur,Geeta Devi,Ramesh,17,F,6.04885E+09,UHID-VA-2021-100019,Saharanpur
+PAIR-00329,0,negative_weak_or_unrelated,Suresh ji,Rajesh,,M,,,,Suresh Verma,Rajesh,69,M,७५३५८०३५८०,MRN/H3/50098,Kanpur Nagar
+PAIR-00330,1,positive_cross_script,Surseh Verma,Rajesh,69,M,७५३५८०३५८०,80-4493-8123-5120,Kanpur Nagar,सुरेश वर्मा,राजेश,69,M,७५३५८०३५८०,80-4493-8123-5120,Kanpur Nagar
+PAIR-00331,1,positive_alias_noisy,Ramesh Kumar,Anil,86,M,+91-77221-28349,70-2940-9273-3190,Gorakhpur,Ramesh K.,Anil,86,M,७७२२१२८३४९,,Gorakhpur
+PAIR-00332,0,hard_negative_homonym,Meera Kumar,Suresh,73,F,6.12413E+09,26-9364-2283-5788,Lucknow,मीरा कुमार,Anil,38,F,7.22460E+09,52-5890-6186-8421,Lucknow
+PAIR-00333,0,hard_negative_same_household_phone,Imran Sharma,Deepak,85,M,+91-82290-22710,UHID-VA-2020-100036,Gorakhpur,Suresh Sharma,Deepak,25,M,+91-82290-22710,UHID-VA-2022-100062,Gorakhpur
+PAIR-00334,0,negative_weak_or_unrelated,Suresh ji,Deepak,,M,,,,Ramesh Nair,Deepak,90,M,8830​253​631,MRN/H3/50022,Saharanpur
+PAIR-00335,1,positive_cross_script,Ramesh Begum,Anil,45,M,७६७९२०८५८८,35-6649-2570-7794,Gorakhpur,रमेश बेगम,अनील,46,M,७६७९२०८५८८,35-6649-2570-7794,Gorakhpur
+PAIR-00336,1,positive_alias_noisy,Suresh Yadav,Imran,85,M,+91-61310-19676,81-2859-9961-6326,Gorakhpur,Suresh Y.,Imran,85,M,६१३१०१९६७६,,Gorakhpur
+PAIR-00337,0,hard_negative_homonym,Harish Sharma,Imran,67,M,+91-93224-58147,15-3217-1959-7085,Lucknow,हरीश शर्मा,Mohammad,19,M,8403​202​375,71-2728-5528-9785,Gorakhpur
+PAIR-00338,0,hard_negative_same_household_phone,Geeta Sharma,Deepak,45,F,9738277511,UHID-VA-2025-100065,Gorakhpur,Ramesh Sharma,Deepak,70,M,9738277511,UHID-VA-2020-100066,Gorakhpur
+PAIR-00339,0,negative_weak_or_unrelated,Geeta ji,Harish,,F,,,,Rajesh Sharma,Harish,56,M,९००८९४५३००,MRN/H1/50038,Lucknow
+PAIR-00340,1,positive_cross_script,Ramesh Kumar,Anil,86,M,+91-77221-28349,70-2940-9273-3190,Gorakhpur,रमेश कुमार,अनील,86,M,+91-77221-28349,,Gorakhpur
+PAIR-00341,1,positive_alias_noisy,Lakshmi Arif,Mohammad,13,F,6593879188,68-3682-8922-6193,Gorakhpur,Smt. Lakshmi Arif,Mohammad,13,F,6593879188,68-3682-8922-6193,Gorakhpur
+PAIR-00342,0,hard_negative_homonym,Fatima Verma,Harish,16,F,6.50074E+09,34-3054-3462-4709,Lucknow,फातिमा वर्मा,Rajesh,30,F,0875 871 0298,91-1692-8483-3596,Gorakhpur
+PAIR-00343,0,hard_negative_same_household_phone,Suresh Verma,Rajesh,69,M,७५३५८०३५८०,UHID-VA-2022-100098,Kanpur Nagar,Meera Verma,Rajesh,9,F,७५३५८०३५८०,UHID-VA-2025-100047,Kanpur Nagar
+PAIR-00344,0,negative_weak_or_unrelated,Harish ji,Harish,,M,,,,Lakshmi Nair,Deepak,90,F,8169748305,MRN/H1/50095,Gorakhpur
+PAIR-00345,1,positive_cross_script,Lakshmi Yadav,Anil,67,F,6751152013,60-6385-2965-5134,Kanpur Nagar,लक्ष्मी यादव,अनील,68,F,६७५११५२०१३,60-6385-2965-5134,Kanpur Nagar
+PAIR-00346,1,positive_alias_noisy,Fatima hSarma,Ramesh,86,F,0889 043 0019,56-6726-5115-5071,Saharanpur,Fatima ji,Ramesh,86,F,८८९०४३००१९,,Saharanpur
+PAIR-00347,0,hard_negative_homonym,Lakshmi Yadav,Deepak,86,F,7.63181E+09,41-7204-9647-5490,Gorakhpur,लक्ष्मी यादव,Harish,43,F,9.49008E+09,15-7340-6186-4203,Lucknow
+PAIR-00348,0,hard_negative_same_household_phone,Fatima Verma,Rajesh,30,F,0875 871 0298,UHID-VA-2021-100061,Gorakhpur,Priya Verma,Rajesh,55,F,0875 871 0298,UHID-VA-2021-100043,Gorakhpur
+PAIR-00349,0,negative_weak_or_unrelated,Rajesh ji,Harish,,M,,,,Harish Kumar,Harish,60,M,+91-82749-09898,MRN/H1/50042,Saharanpur
+PAIR-00350,1,positive_cross_script,Ramesh Arif,Imran,4,M,+91-96321-69536,32-1312-5978-3359,Kanpur Nagar,रमेश आरिफ,इमरान,4,M,,,Kanpur Nagar
+PAIR-00351,1,positive_alias_noisy,Harish Sharma,Mohammad,19,M,8403​202​375,71-2728-5528-9785,Gorakhpur,Harish S.,Mohammad,19,M,8403​202​375,71-2728-5528-9785,Gorakhpur
+PAIR-00352,0,hard_negative_homonym,Lakshmi Kumar,Suresh,46,F,6.25469E+09,93-1364-5205-3788,Lucknow,लक्ष्मी कुमार,Suresh,40,F,0746 730 6538,36-6769-7275-3253,Gorakhpur
+PAIR-00353,0,hard_negative_same_household_phone,Geeta Arif,Deepak,1,F,0975 986 9587,UHID-VA-2021-100067,Lucknow,Rajesh Arif,Deepak,26,M,0975 986 9587,UHID-VA-2022-100038,Lucknow
+PAIR-00354,0,negative_weak_or_unrelated,Sunita ji,Deepak,,F,,,,Fatima Verma,Harish,16,F,6.50074E+09,MRN/H4/50075,Lucknow
+PAIR-00355,1,positive_cross_script,Suresh Beugm,Deepak,36,M,9410​943​830,69-7906-1788-9961,Kanpur Nagar,सुरेश बेगम,दीपक,36,M,९४१०९४३८३०,,Kanpur Nagar
+PAIR-00356,1,positive_alias_noisy,Geeta Arif,Suresh,23,F,8710724464,46-2182-2818-6946,Gorakhpur,"Arif, Geeta",Suresh,23,F,८७१०७२४४६४,46-2182-2818-6946,Gorakhpur
+PAIR-00357,0,hard_negative_homonym,Mohammad Nair,Anil,27,M,८२२८२०३०७६,71-2628-3284-9187,Gorakhpur,मोहम्मद नायर,Imran,69,M,+91-65472-17629,29-2083-8417-7194,Kanpur Nagar
+PAIR-00358,0,hard_negative_same_household_phone,Priya Yadav,Imran,80,F,0945 424 1520,UHID-VA-2021-100043,Saharanpur,Suresh Yadav,Imran,20,M,0945 424 1520,UHID-VA-2020-100084,Saharanpur
+PAIR-00359,0,negative_weak_or_unrelated,Lakshmi ji,Harish,,F,,,,Lakshmi Arif,Mohammad,13,F,6593879188,MRN/H3/50011,Gorakhpur
+PAIR-00360,1,positive_cross_script,Mohammad Nair,Anil,27,M,८२२८२०३०७६,71-2628-3284-9187,Gorakhpur,मोहम्मद नायर,अनील,27,M,,71-2628-3284-9187,Gorakhpur
+PAIR-00361,1,positive_alias_noisy,Meera Kumra,Suresh,73,F,6.12413E+09,26-9364-2283-5788,Lucknow,Smt. Meera Kumar,Suresh,74,F,६१२४१३२४११,,Lucknow
+PAIR-00362,0,hard_negative_homonym,Ramesh Kumar,Anil,21,M,६४१९७६९१७२,99-3265-3280-8584,Saharanpur,रमेश कुमार,Imran,17,M,+91-98947-17466,52-8471-8394-5442,Gorakhpur
+PAIR-00363,0,hard_negative_same_household_phone,Mohammad Verma,Imran,83,M,+91-91676-64806,UHID-VA-2020-100006,Lucknow,Suresh Verma,Imran,23,M,+91-91676-64806,UHID-VA-2022-100062,Lucknow
+PAIR-00364,0,negative_weak_or_unrelated,Rajesh ji,Mohammad,,M,,,,Ramesh Arif,Imran,4,M,+91-96321-69536,MRN/H2/50096,Kanpur Nagar
+PAIR-00365,1,positive_cross_script,Suresh Verma,Harish,69,M,७६७१३६९३४८,64-3956-4663-7776,Lucknow,सुरेश वर्मा,हरीश,69,M,७६७१३६९३४८,64-3956-4663-7776,Lucknow
+PAIR-00366,1,positive_alias_noisy,Meera Kumar,Harish,20,F,7916321912,59-4870-5885-4336,Saharanpur,M. Kumar,Harish,20,F,७९१६३२१९१२,59-4870-5885-4336,Saharanpur
+PAIR-00367,0,hard_negative_homonym,Meera Devi,Anil,16,F,6569790687,30-9183-1803-4470,Gorakhpur,मीरा देवी,Ramesh,77,F,6.04885E+09,11-2042-5947-9556,Saharanpur
+PAIR-00368,0,hard_negative_same_household_phone,Deepak Kumar,Mohammad,71,M,9301​595​058,UHID-VA-2024-100010,Gorakhpur,Suresh Kumar,Mohammad,11,M,9301​595​058,UHID-VA-2024-100064,Gorakhpur
+PAIR-00369,0,negative_weak_or_unrelated,Pooja ji,Anil,,F,,,,Mohammad Begum,Suresh,46,M,8117​989​843,MRN/H4/50016,Lucknow
+PAIR-00370,1,positive_cross_script,Meera Kumar,Harish,20,F,7916321912,59-4870-5885-4336,Saharanpur,मीरा कुमार,हरीश,20,F,7916321912,59-4870-5885-4336,Saharanpur
+PAIR-00371,1,positive_alias_noisy,Hairsh Sharma,Imran,67,M,+91-93224-58147,15-3217-1959-7085,Lucknow,Harish S.,Imran,68,M,+91-93224-58147,,Lucknow
+PAIR-00372,0,hard_negative_homonym,Deepak Nair,Mohammad,53,M,7795​265​830,59-7645-5539-5986,Lucknow,दीपक नायर,Anil,22,M,+91-89733-11833,14-2830-9698-9042,Saharanpur
+PAIR-00373,0,hard_negative_same_household_phone,Imran Sharma,Suresh,58,M,६८८२५६११७३,UHID-VA-2022-100026,Saharanpur,Harish Sharma,Suresh,83,M,६८८२५६११७३,UHID-VA-2020-100018,Saharanpur
+PAIR-00374,0,negative_weak_or_unrelated,Rajesh ji,Harish,,M,,,,Geeta Nair,Harish,89,F,0806 018 6339,MRN/H3/50079,Gorakhpur
+PAIR-00375,1,positive_cross_script,Lakshmi Arif,Mohammad,13,F,6593879188,68-3682-8922-6193,Gorakhpur,लक्ष्मी आरिफ,मोहम्मद,14,F,6593879188,,Gorakhpur
+PAIR-00376,1,positive_alias_noisy,SureshV erma,Rajesh,52,M,+91-89098-79784,53-8804-6581-3911,Saharanpur,Shri Suresh Verma,Rajesh,52,M,८९०९८७९७८४,,Saharanpur
+PAIR-00377,0,hard_negative_homonym,Lakshmi Devi,Harish,26,F,7054587059,80-8744-2624-3511,Saharanpur,लक्ष्मी देवी,Harish,86,F,6776810815,48-5266-8591-3472,Saharanpur
+PAIR-00378,0,hard_negative_same_household_phone,Ramesh Arif,Imran,4,M,+91-96321-69536,UHID-VA-2020-100096,Kanpur Nagar,Imran Arif,Imran,29,M,+91-96321-69536,UHID-VA-2020-100036,Kanpur Nagar
+PAIR-00379,0,negative_weak_or_unrelated,Geeta ji,Deepak,,F,,,,Rajesh Verma,Mohammad,46,M,+91-93890-70488,MRN/H4/50012,Gorakhpur
+PAIR-00380,1,positive_cross_script,Geeta Verma,Mohammad,57,F,6.08542E+09,99-7488-3701-4973,Gorakhpur,गीता वर्मा,मोहम्मद,58,F,6.08542E+09,,Gorakhpur
+PAIR-00381,1,positive_alias_noisy,Imrna Sharma,Deepak,4,M,८१७९४६१२०५,14-5252-5829-5336,Gorakhpur,Imran S.,Deepak,4,M,,14-5252-5829-5336,Gorakhpur
+PAIR-00382,0,hard_negative_homonym,Geeta Arif,Harish,45,F,7.67440E+09,18-6093-8720-7126,Gorakhpur,गीता आरिफ,Deepak,1,F,0975 986 9587,52-7524-1878-5767,Lucknow
+PAIR-00383,0,hard_negative_same_household_phone,Lakshmi Begum,Ramesh,37,F,0983 208 7087,UHID-VA-2021-100097,Lucknow,Meera Begum,Ramesh,62,F,0983 208 7087,UHID-VA-2023-100069,Lucknow
+PAIR-00384,0,negative_weak_or_unrelated,Lakshmi ji,Mohammad,,F,,,,Suresh Verma,Rajesh,52,M,+91-89098-79784,MRN/H4/50084,Saharanpur
+PAIR-00385,1,positive_cross_script,Ramesh Airf,Imran,4,M,+91-96321-69536,32-1312-5978-3359,Kanpur Nagar,रमेश आरिफ,इमरान,4,M,+91-96321-69536,32-1312-5978-3359,Kanpur Nagar
+PAIR-00386,1,positive_alias_noisy,Priya Devi,Ramesh,92,F,8.45436E+09,67-3880-1681-3433,Saharanpur,Priya D.,Ramesh,93,F,८४५४३६९००७,,Saharanpur
+PAIR-00387,0,hard_negative_homonym,Harish Sharma,Mohammad,37,M,७६७५९९४४२५,81-9302-4768-3460,Saharanpur,हरीश शर्मा,Imran,67,M,+91-93224-58147,15-3217-1959-7085,Lucknow
+PAIR-00388,0,hard_negative_same_household_phone,Lakshmi Begum,Ramesh,37,F,0983 208 7087,UHID-VA-2021-100097,Lucknow,Suresh Begum,Ramesh,62,M,0983 208 7087,UHID-VA-2020-100084,Lucknow
+PAIR-00389,0,negative_weak_or_unrelated,Mohammad ji,Anil,,M,,,,Harish Sharma,Mohammad,37,M,७६७५९९४४२५,MRN/H2/50008,Saharanpur
+PAIR-00390,1,positive_cross_script,Rajesh Sharma,Imran,58,M,+91-74463-81608,67-6717-2128-7469,Saharanpur,राजेश शर्मा,इमरान,58,M,७४४६३८१६०८,,Saharanpur
+PAIR-00391,1,positive_alias_noisy,Geeta Begum,Rajesh,64,F,0701 138 3270,83-2423-4222-2203,Kanpur Nagar,Geeta ji,Rajesh,65,F,७०११३८३२७०,83-2423-4222-2203,Kanpur Nagar
+PAIR-00392,0,hard_negative_homonym,Ramesh Kumar,Deepak,34,M,7975​501​776,38-4810-8176-4052,Kanpur Nagar,रमेश कुमार,Imran,17,M,+91-98947-17466,52-8471-8394-5442,Gorakhpur
+PAIR-00393,0,hard_negative_same_household_phone,Rajesh Begum,Imran,48,M,७०१६६२३९७०,UHID-VA-2022-100074,Lucknow,Pooja Begum,Imran,73,F,७०१६६२३९७०,UHID-VA-2023-100021,Lucknow
+PAIR-00394,0,negative_weak_or_unrelated,Fatima ji,Rajesh,,F,,,,Suresh Nair,Anil,20,M,6407​847​690,MRN/H1/50058,Gorakhpur
+PAIR-00395,1,positive_cross_script,Deepak Niar,Anil,22,M,+91-89733-11833,14-2830-9698-9042,Saharanpur,दीपक नायर,अनील,22,M,८९७३३११८३३,14-2830-9698-9042,Saharanpur
+PAIR-00396,1,positive_alias_noisy,Geeta Nair,Harish,89,F,0806 018 6339,56-8645-4161-9878,Gorakhpur,Geeta ji,Harish,90,F,,56-8645-4161-9878,Gorakhpur
+PAIR-00397,0,hard_negative_homonym,Lakshmi Yadav,Deepak,86,F,7.63181E+09,41-7204-9647-5490,Gorakhpur,लक्ष्मी यादव,Anil,67,F,6751152013,60-6385-2965-5134,Kanpur Nagar
+PAIR-00398,0,hard_negative_same_household_phone,Ramesh Kumar,Imran,17,M,+91-98947-17466,UHID-VA-2020-100054,Gorakhpur,Geeta Kumar,Imran,42,F,+91-98947-17466,UHID-VA-2021-100019,Gorakhpur
+PAIR-00399,0,negative_weak_or_unrelated,Geeta ji,Harish,,F,,,,Sunita Sharma,Deepak,13,F,0940 588 2683,MRN/H4/50031,Kanpur Nagar
+PAIR-00400,1,positive_cross_script,Lakshmi Kumar,Suresh,40,F,0746 730 6538,36-6769-7275-3253,Gorakhpur,लक्ष्मी कुमार,सुरेश,40,F,७४६७३०६५३८,,Gorakhpur
+PAIR-00401,1,positive_alias_noisy,Imran hSarma,Suresh,58,M,६८८२५६११७३,75-2389-9136-6808,Saharanpur,I. Sharma,Suresh,59,M,६८८२५६११७३,,Saharanpur
+PAIR-00402,0,hard_negative_homonym,Priya Devi,Suresh,7,F,9511595245,71-7914-3573-4566,Saharanpur,प्रिया देवी,Ramesh,92,F,8.45436E+09,67-3880-1681-3433,Saharanpur
+PAIR-00403,0,hard_negative_same_household_phone,Lakshmi Nair,Deepak,90,F,8169748305,UHID-VA-2025-100095,Gorakhpur,Harish Nair,Deepak,30,M,8169748305,UHID-VA-2024-100076,Gorakhpur
+PAIR-00404,0,negative_weak_or_unrelated,Harish ji,Mohammad,,M,,,,Geeta Devi,Harish,39,F,0611 415 9781,MRN/H1/50025,Lucknow
+PAIR-00405,1,positive_cross_script,Rajesh Verma,Mohammad,46,M,+91-93890-70488,66-7209-9875-1161,Gorakhpur,राजेश वर्मा,मोहम्मद,46,M,९३८९०७०४८८,,Gorakhpur
+PAIR-00406,1,positive_alias_noisy,Pryia Yadav,Imran,80,F,0945 424 1520,18-1782-2557-4132,Saharanpur,"Yadav, Priya",Imran,80,F,९४५४२४१५२०,18-1782-2557-4132,Saharanpur
+PAIR-00407,0,hard_negative_homonym,Rajesh Sharma,Harish,56,M,९००८९४५३००,80-6059-2975-4036,Lucknow,राजेश शर्मा,Imran,58,M,+91-74463-81608,67-6717-2128-7469,Saharanpur
+PAIR-00408,0,hard_negative_same_household_phone,Mohammad Begum,Suresh,46,M,8117​989​843,UHID-VA-2024-100016,Lucknow,Harish Begum,Suresh,71,M,8117​989​843,UHID-VA-2020-100000,Lucknow
+PAIR-00409,0,negative_weak_or_unrelated,Meera ji,Anil,,F,,,,Fatima Kumar,Rajesh,80,F,0781 564 5205,MRN/H1/50073,Lucknow
+PAIR-00410,1,positive_cross_script,Priya Devi,Ramesh,92,F,8.45436E+09,67-3880-1681-3433,Saharanpur,प्रिया देवी,रमेश,92,F,8.45436E+09,,Saharanpur
+PAIR-00411,1,positive_alias_noisy,Priya Devi,Ramesh,92,F,8.45436E+09,67-3880-1681-3433,Saharanpur,P. Devi,Ramesh,92,F,8.45436E+09,,Saharanpur
+PAIR-00412,0,hard_negative_homonym,Lakshmi Kumar,Suresh,46,F,6.25469E+09,93-1364-5205-3788,Lucknow,लक्ष्मी कुमार,Suresh,40,F,0746 730 6538,36-6769-7275-3253,Gorakhpur
+PAIR-00413,0,hard_negative_same_household_phone,Suresh Kumar,Ramesh,23,M,८९४१८४३५००,UHID-VA-2022-100086,Gorakhpur,Meera Kumar,Ramesh,48,F,८९४१८४३५००,UHID-VA-2023-100045,Gorakhpur
+PAIR-00414,0,negative_weak_or_unrelated,Ramesh ji,Imran,,M,,,,Meera Kumar,Anil,38,F,7.22460E+09,MRN/H2/50069,Lucknow
+PAIR-00415,1,positive_cross_script,Meera Devi,Ramesh,77,F,6.04885E+09,11-2042-5947-9556,Saharanpur,मीरा देवी,रमेश,77,F,६०४८८५००३९,11-2042-5947-9556,Saharanpur
+PAIR-00416,1,positive_alias_noisy,Geeta Verma,Mohammad,57,F,6.08542E+09,99-7488-3701-4973,Gorakhpur,Geeta ji,Mohammad,58,F,6.08542E+09,,Gorakhpur
+PAIR-00417,0,hard_negative_homonym,Lakshmi Yadav,Harish,43,F,9.49008E+09,15-7340-6186-4203,Lucknow,लक्ष्मी यादव,Anil,67,F,6751152013,60-6385-2965-5134,Kanpur Nagar
+PAIR-00418,0,hard_negative_same_household_phone,Pooja Kumar,Suresh,2,F,6565070715,UHID-VA-2025-100029,Gorakhpur,Priya Kumar,Suresh,27,F,6565070715,UHID-VA-2023-100033,Gorakhpur
+PAIR-00419,0,negative_weak_or_unrelated,Rajesh ji,Mohammad,,M,,,,Deepak Sharma,Anil,3,M,८१६४८०३६९०,MRN/H1/50092,Gorakhpur
+PAIR-00420,1,positive_cross_script,Anil Begum,Deepak,5,M,+91-95114-70727,19-8502-9103-9412,Saharanpur,अनील बेगम,दीपक,5,M,,,Saharanpur
+PAIR-00421,1,positive_alias_noisy,Pooja Sharma,Suresh,25,F,7.25509E+09,22-7300-3475-2435,Kanpur Nagar,P. Sharma,Suresh,25,F,7.25509E+09,,Kanpur Nagar
+PAIR-00422,0,hard_negative_homonym,Suresh Begum,Anil,81,M,7197​905​238,52-8913-1339-1644,Lucknow,सुरेश बेगम,Ramesh,1,M,6529​923​572,24-8587-7979-2162,Saharanpur
+PAIR-00423,0,hard_negative_same_household_phone,Geeta Nair,Harish,89,F,0806 018 6339,UHID-VA-2021-100079,Gorakhpur,Lakshmi Nair,Harish,29,F,0806 018 6339,UHID-VA-2025-100077,Gorakhpur
+PAIR-00424,0,negative_weak_or_unrelated,Ramesh ji,Anil,,M,,,,Priya Begum,Deepak,74,F,0832 626 1840,MRN/H3/50013,Kanpur Nagar
+PAIR-00425,1,positive_cross_script,Lakshmi Arif,Mohammad,13,F,6593879188,68-3682-8922-6193,Gorakhpur,लक्ष्मी आरिफ,मोहम्मद,14,F,6593879188,68-3682-8922-6193,Gorakhpur
+PAIR-00426,1,positive_alias_noisy,Lakshmi Sharma,Imran,87,F,9.92933E+09,51-5500-7008-4064,Kanpur Nagar,Lakshmi S.,Imran,87,F,९९२९३३८९२७,,Kanpur Nagar
+PAIR-00427,0,hard_negative_homonym,Meera Devi,Anil,16,F,6569790687,30-9183-1803-4470,Gorakhpur,मीरा देवी,Anil,76,F,8219304819,74-5748-3187-7579,Kanpur Nagar
+PAIR-00428,0,hard_negative_same_household_phone,Harish Kumar,Harish,20,M,7755​127​603,UHID-VA-2024-100076,Gorakhpur,Ramesh Kumar,Harish,45,M,7755​127​603,UHID-VA-2022-100032,Gorakhpur
+PAIR-00429,0,negative_weak_or_unrelated,Meera ji,Ramesh,,F,,,,Pooja Verma,Anil,37,F,9.96348E+09,MRN/H4/50021,Saharanpur
+PAIR-00430,1,positive_cross_script,Meera Nair,Suresh,37,F,7308468267,40-6299-3597-9662,Lucknow,मीरा नायर,सुरेश,37,F,७३०८४६८२६७,,Lucknow
+PAIR-00431,1,positive_alias_noisy,Kavita Yadav,Anil,10,F,0885 987 6054,50-9418-2099-8812,Kanpur Nagar,Smt. Kavita Yadav,Anil,10,F,0885 987 6054,50-9418-2099-8812,Kanpur Nagar
+PAIR-00432,0,hard_negative_homonym,Priya Devi,Ramesh,92,F,8.45436E+09,67-3880-1681-3433,Saharanpur,प्रिया देवी,Suresh,7,F,9511595245,71-7914-3573-4566,Saharanpur
+PAIR-00433,0,hard_negative_same_household_phone,Priya Begum,Rajesh,22,F,0683 110 6636,UHID-VA-2021-100001,Kanpur Nagar,Meera Begum,Rajesh,47,F,0683 110 6636,UHID-VA-2025-100041,Kanpur Nagar
+PAIR-00434,0,negative_weak_or_unrelated,Mohammad ji,Suresh,,M,,,,Geeta Verma,Mohammad,57,F,6.08542E+09,MRN/H4/50039,Gorakhpur
+PAIR-00435,1,positive_cross_script,Meera Kumar,Suresh,73,F,6.12413E+09,26-9364-2283-5788,Lucknow,मीरा कुमार,सुरेश,73,F,6.12413E+09,26-9364-2283-5788,Lucknow
+PAIR-00436,1,positive_alias_noisy,Kavtia Yadav,Rajesh,50,F,0882 529 3226,65-1533-3107-4718,Kanpur Nagar,K. Yadav,Rajesh,50,F,0882 529 3226,,Kanpur Nagar
+PAIR-00437,0,hard_negative_homonym,Harish Kumar,Harish,20,M,7755​127​603,24-7309-5999-9112,Gorakhpur,हरीश कुमार,Harish,60,M,+91-82749-09898,10-2760-4096-3395,Saharanpur
+PAIR-00438,0,hard_negative_same_household_phone,Lakshmi Kumar,Suresh,46,F,6.25469E+09,UHID-VA-2023-100087,Lucknow,Priya Kumar,Suresh,71,F,6.25469E+09,UHID-VA-2023-100033,Lucknow
+PAIR-00439,0,negative_weak_or_unrelated,Sunita ji,Imran,,F,,,,Lakshmi Yadav,Harish,43,F,9.49008E+09,MRN/H4/50009,Lucknow
+PAIR-00440,1,positive_cross_script,Lakshmi Kumar,Suresh,46,F,6.25469E+09,93-1364-5205-3788,Lucknow,लक्ष्मी कुमार,सुरेश,46,F,६२५४६९३३४७,93-1364-5205-3788,Lucknow
+PAIR-00441,1,positive_alias_noisy,Lakshmi Nair,Deepak,90,F,8169748305,68-7198-6497-5583,Gorakhpur,Lakshmi N.,Deepak,90,F,8169748305,,Gorakhpur
+PAIR-00442,0,hard_negative_homonym,Harish Kumar,Harish,20,M,7755​127​603,24-7309-5999-9112,Gorakhpur,हरीश कुमार,Ramesh,84,M,+91-74439-89371,47-9510-8744-3628,Gorakhpur
+PAIR-00443,0,hard_negative_same_household_phone,Ramesh Kumar,Harish,37,M,८२३२२९५५३८,UHID-VA-2022-100044,Kanpur Nagar,Harish Kumar,Harish,62,M,८२३२२९५५३८,UHID-VA-2024-100034,Kanpur Nagar
+PAIR-00444,0,negative_weak_or_unrelated,Fatima ji,Ramesh,,F,,,,Rajesh Devi,Mohammad,47,M,६०८९८८३०९१,MRN/H4/50020,Saharanpur
+PAIR-00445,1,positive_cross_script,Lakshmi aYdav,Deepak,86,F,7.63181E+09,41-7204-9647-5490,Gorakhpur,लक्ष्मी यादव,दीपक,87,F,७६३१८१९९७९,41-7204-9647-5490,Gorakhpur
+PAIR-00446,1,positive_alias_noisy,Harish Devi,Mohammad,43,M,७७७६११८२१५,55-4665-2041-3870,Gorakhpur,H. Devi,Mohammad,44,M,७७७६११८२१५,55-4665-2041-3870,Gorakhpur
+PAIR-00447,0,hard_negative_homonym,Harish Sharma,Mohammad,19,M,8403​202​375,71-2728-5528-9785,Gorakhpur,हरीश शर्मा,Imran,67,M,+91-93224-58147,15-3217-1959-7085,Lucknow
+PAIR-00448,0,hard_negative_same_household_phone,Priya Sharma,Harish,7,F,6.99525E+09,UHID-VA-2023-100033,Gorakhpur,Imran Sharma,Harish,32,M,6.99525E+09,UHID-VA-2020-100036,Gorakhpur
+PAIR-00449,0,negative_weak_or_unrelated,Priya ji,Imran,,F,,,,Deepak Begum,Harish,44,M,6007​240​771,MRN/H1/50082,Lucknow
+PAIR-00450,1,positive_cross_script,Fatima Sahrma,Ramesh,86,F,0889 043 0019,56-6726-5115-5071,Saharanpur,फातिमा शर्मा,रमेश,86,F,0889 043 0019,56-6726-5115-5071,Saharanpur
+PAIR-00451,1,positive_alias_noisy,Lakshmi Sharma,Imran,87,F,9.92933E+09,51-5500-7008-4064,Kanpur Nagar,L. Sharma,Imran,87,F,९९२९३३८९२७,51-5500-7008-4064,Kanpur Nagar
+PAIR-00452,0,hard_negative_homonym,Suresh Verma,Rajesh,69,M,७५३५८०३५८०,80-4493-8123-5120,Kanpur Nagar,सुरेश वर्मा,Harish,69,M,७६७१३६९३४८,64-3956-4663-7776,Lucknow
+PAIR-00453,0,hard_negative_same_household_phone,Mohammad Yadav,Ramesh,17,M,+91-64994-95834,UHID-VA-2020-100048,Lucknow,Suresh Yadav,Ramesh,42,M,+91-64994-95834,UHID-VA-2020-100084,Lucknow
+PAIR-00454,0,negative_weak_or_unrelated,Ramesh ji,Anil,,M,,,,Harish Sharma,Imran,67,M,+91-93224-58147,MRN/H1/50018,Lucknow
+PAIR-00455,1,positive_cross_script,Harish Kumar,Harish,20,M,7755​127​603,24-7309-5999-9112,Gorakhpur,हरीश कुमार,हरीश,21,M,,,Gorakhpur
+PAIR-00456,1,positive_alias_noisy,Suresh Verma,Rajesh,52,M,+91-89098-79784,53-8804-6581-3911,Saharanpur,Shri Suresh Verma,Rajesh,52,M,,,Saharanpur
+PAIR-00457,0,hard_negative_homonym,Harish Kumar,Harish,20,M,7755​127​603,24-7309-5999-9112,Gorakhpur,हरीश कुमार,Ramesh,84,M,+91-74439-89371,47-9510-8744-3628,Gorakhpur
+PAIR-00458,0,hard_negative_same_household_phone,Rajesh Sharma,Imran,58,M,+91-74463-81608,UHID-VA-2020-100024,Saharanpur,Harish Sharma,Imran,83,M,+91-74463-81608,UHID-VA-2020-100042,Saharanpur
+PAIR-00459,0,negative_weak_or_unrelated,Harish ji,Harish,,M,,,,Deepak Sharma,Anil,3,M,८१६४८०३६९०,MRN/H1/50092,Gorakhpur
+PAIR-00460,1,positive_cross_script,Harish Kuamr,Harish,60,M,+91-82749-09898,10-2760-4096-3395,Saharanpur,हरीश कुमार,हरीश,61,M,+91-82749-09898,10-2760-4096-3395,Saharanpur
+PAIR-00461,1,positive_alias_noisy,Deepak Nair,Anil,22,M,+91-89733-11833,14-2830-9698-9042,Saharanpur,Shri Deepak Nair,Anil,22,M,८९७३३११८३३,,Saharanpur
+PAIR-00462,0,hard_negative_homonym,Rajesh Sharma,Imran,58,M,+91-74463-81608,67-6717-2128-7469,Saharanpur,राजेश शर्मा,Harish,56,M,९००८९४५३००,80-6059-2975-4036,Lucknow
+PAIR-00463,0,hard_negative_same_household_phone,Lakshmi Kumar,Suresh,40,F,0746 730 6538,UHID-VA-2021-100091,Gorakhpur,Sunita Kumar,Suresh,65,F,0746 730 6538,UHID-VA-2023-100003,Gorakhpur
+PAIR-00464,0,negative_weak_or_unrelated,Mohammad ji,Imran,,M,,,,Priya Yadav,Imran,80,F,0945 424 1520,MRN/H1/50043,Saharanpur
+PAIR-00465,1,positive_cross_script,MeeraD evi,Anil,76,F,8219304819,74-5748-3187-7579,Kanpur Nagar,मीरा देवी,अनील,76,F,8219304819,,Kanpur Nagar
+PAIR-00466,1,positive_alias_noisy,Priya Kumar,Suresh,68,F,6098484243,11-7077-4689-5489,Kanpur Nagar,P. Kumar,Suresh,68,F,,,Kanpur Nagar
+PAIR-00467,0,hard_negative_homonym,Lakshmi Yadav,Anil,67,F,6751152013,60-6385-2965-5134,Kanpur Nagar,लक्ष्मी यादव,Deepak,86,F,7.63181E+09,41-7204-9647-5490,Gorakhpur
+PAIR-00468,0,hard_negative_same_household_phone,Harish Sharma,Imran,67,M,+91-93224-58147,UHID-VA-2020-100018,Lucknow,Mohammad Sharma,Imran,7,M,+91-93224-58147,UHID-VA-2020-100006,Lucknow
+PAIR-00469,0,negative_weak_or_unrelated,Mohammad ji,Anil,,M,,,,Kavita Yadav,Rajesh,50,F,0882 529 3226,MRN/H4/50007,Kanpur Nagar
+PAIR-00470,1,positive_cross_script,Rajesh Sharma,Harish,56,M,९००८९४५३००,80-6059-2975-4036,Lucknow,राजेश शर्मा,हरीश,56,M,९००८९४५३००,,Lucknow
+PAIR-00471,1,positive_alias_noisy,Harish Devi,Mohammad,43,M,७७७६११८२१५,55-4665-2041-3870,Gorakhpur,Shri Harish Devi,Mohammad,44,M,७७७६११८२१५,55-4665-2041-3870,Gorakhpur
+PAIR-00472,0,hard_negative_homonym,Lakshmi Kumar,Suresh,40,F,0746 730 6538,36-6769-7275-3253,Gorakhpur,लक्ष्मी कुमार,Suresh,46,F,6.25469E+09,93-1364-5205-3788,Lucknow
+PAIR-00473,0,hard_negative_same_household_phone,Meera Kumar,Harish,20,F,7916321912,UHID-VA-2025-100035,Saharanpur,Lakshmi Kumar,Harish,45,F,7916321912,UHID-VA-2021-100097,Saharanpur
+PAIR-00474,0,negative_weak_or_unrelated,Meera ji,Suresh,,F,,,,Lakshmi Yadav,Harish,43,F,9.49008E+09,MRN/H4/50009,Lucknow
+PAIR-00475,1,positive_cross_script,Fatima Sharma,Ramesh,86,F,0889 043 0019,56-6726-5115-5071,Saharanpur,फातिमा शर्मा,रमेश,87,F,८८९०४३००१९,,Saharanpur
+PAIR-00476,1,positive_alias_noisy,Imran Sharma,Deepak,85,M,+91-82290-22710,92-4194-1341-5655,Gorakhpur,Imran ji,Deepak,86,M,+91-82290-22710,92-4194-1341-5655,Gorakhpur
+PAIR-00477,0,hard_negative_homonym,Meera Devi,Anil,16,F,6569790687,30-9183-1803-4470,Gorakhpur,मीरा देवी,Anil,76,F,8219304819,74-5748-3187-7579,Kanpur Nagar
+PAIR-00478,0,hard_negative_same_household_phone,Lakshmi Kumar,Suresh,40,F,0746 730 6538,UHID-VA-2021-100091,Gorakhpur,Pooja Kumar,Suresh,65,F,0746 730 6538,UHID-VA-2023-100057,Gorakhpur
+PAIR-00479,0,negative_weak_or_unrelated,Imran ji,Deepak,,M,,,,Rajesh Verma,Mohammad,46,M,+91-93890-70488,MRN/H4/50012,Gorakhpur
+PAIR-00480,1,positive_cross_script,Fatima Kumar,Rajesh,80,F,0781 564 5205,49-8713-8120-3707,Lucknow,फातिमा कुमार,राजेश,81,F,७८१५६४५२०५,,Lucknow
+PAIR-00481,1,positive_alias_noisy,Kavita Yadav,Rajesh,50,F,0882 529 3226,65-1533-3107-4718,Kanpur Nagar,Kavita Y.,Rajesh,50,F,0882 529 3226,,Kanpur Nagar
+PAIR-00482,0,hard_negative_homonym,Priya Sharma,Harish,7,F,6.99525E+09,57-1936-2959-7406,Gorakhpur,प्रिया शर्मा,Harish,76,F,0694 109 1152,52-7809-7555-5647,Lucknow
+PAIR-00483,0,hard_negative_same_household_phone,Rajesh Devi,Mohammad,47,M,६०८९८८३०९१,UHID-VA-2022-100020,Saharanpur,Sunita Devi,Mohammad,72,F,६०८९८८३०९१,UHID-VA-2023-100003,Saharanpur
+PAIR-00484,0,negative_weak_or_unrelated,Mohammad ji,Suresh,,M,,,,Priya Begum,Deepak,74,F,0832 626 1840,MRN/H3/50013,Kanpur Nagar
+PAIR-00485,1,positive_cross_script,Lakshmi Begum,Ramesh,37,F,0983 208 7087,15-4482-1468-3559,Lucknow,लक्ष्मी बेगम,रमेश,37,F,0983 208 7087,15-4482-1468-3559,Lucknow
+PAIR-00486,1,positive_alias_noisy,Lakshmi Nair,Deepak,90,F,8169748305,68-7198-6497-5583,Gorakhpur,Lakshmi N.,Deepak,91,F,8169748305,68-7198-6497-5583,Gorakhpur
+PAIR-00487,0,hard_negative_homonym,Suresh Begum,Deepak,36,M,9410​943​830,69-7906-1788-9961,Kanpur Nagar,सुरेश बेगम,Anil,81,M,7197​905​238,52-8913-1339-1644,Lucknow
+PAIR-00488,0,hard_negative_same_household_phone,Lakshmi Begum,Ramesh,37,F,0983 208 7087,UHID-VA-2021-100097,Lucknow,Fatima Begum,Ramesh,62,F,0983 208 7087,UHID-VA-2023-100093,Lucknow
+PAIR-00489,0,negative_weak_or_unrelated,Harish ji,Mohammad,,M,,,,Meera Kumar,Harish,20,F,7916321912,MRN/H1/50035,Saharanpur
+PAIR-00490,1,positive_cross_script,Suresh Verma,Harish,69,M,७६७१३६९३४८,64-3956-4663-7776,Lucknow,सुरेश वर्मा,हरीश,69,M,७६७१३६९३४८,64-3956-4663-7776,Lucknow
+PAIR-00491,1,positive_alias_noisy,Geeta Sharma,Deepak,45,F,9738277511,87-3916-1103-1824,Gorakhpur,G. Sharma,Deepak,45,F,९७३८२७७५११,,Gorakhpur
+PAIR-00492,0,hard_negative_homonym,Kavita Yadav,Anil,10,F,0885 987 6054,50-9418-2099-8812,Kanpur Nagar,कविता यादव,Rajesh,50,F,0882 529 3226,65-1533-3107-4718,Kanpur Nagar
+PAIR-00493,0,hard_negative_same_household_phone,Pooja Verma,Anil,37,F,9.96348E+09,UHID-VA-2023-100021,Saharanpur,Mohammad Verma,Anil,62,M,9.96348E+09,UHID-VA-2022-100050,Saharanpur
+PAIR-00494,0,negative_weak_or_unrelated,Imran ji,Mohammad,,M,,,,Suresh Verma,Rajesh,69,M,७५३५८०३५८०,MRN/H3/50098,Kanpur Nagar
+PAIR-00495,1,positive_cross_script,Rajesh Sharma,Harish,56,M,९००८९४५३००,80-6059-2975-4036,Lucknow,राजेश शर्मा,हरीश,56,M,९००८९४५३००,,Lucknow
+PAIR-00496,1,positive_alias_noisy,Priya Kumar,Suresh,68,F,6098484243,11-7077-4689-5489,Kanpur Nagar,"Kumar, Priya",Suresh,68,F,6098484243,11-7077-4689-5489,Kanpur Nagar
+PAIR-00497,0,hard_negative_homonym,Suresh Verma,Rajesh,52,M,+91-89098-79784,53-8804-6581-3911,Saharanpur,सुरेश वर्मा,Harish,69,M,७६७१३६९३४८,64-3956-4663-7776,Lucknow
+PAIR-00498,0,hard_negative_same_household_phone,Lakshmi Devi,Harish,86,F,6776810815,UHID-VA-2025-100077,Saharanpur,Ramesh Devi,Harish,26,M,6776810815,UHID-VA-2022-100044,Saharanpur
+PAIR-00499,0,negative_weak_or_unrelated,Meera ji,Harish,,F,,,,Harish Kumar,Harish,60,M,+91-82749-09898,MRN/H1/50042,Saharanpur
+PAIR-00500,1,positive_cross_script,Deepak Begum,Harish,44,M,6007​240​771,88-6435-2373-5710,Lucknow,दीपक बेगम,हरीश,44,M,६००७२४०७७१,88-6435-2373-5710,Lucknow
+PAIR-00501,1,positive_alias_noisy,Geeta Devi,Harish,39,F,0611 415 9781,44-1165-9548-2271,Lucknow,Geeta ji,Harish,39,F,६११४१५९७८१,,Lucknow
+PAIR-00502,0,hard_negative_homonym,Mohammad Nair,Anil,27,M,८२२८२०३०७६,71-2628-3284-9187,Gorakhpur,मोहम्मद नायर,Deepak,83,M,९११०३५७९२६,13-4498-9429-1647,Saharanpur
+PAIR-00503,0,hard_negative_same_household_phone,Priya Sharma,Harish,76,F,0694 109 1152,UHID-VA-2021-100049,Lucknow,Lakshmi Sharma,Harish,16,F,0694 109 1152,UHID-VA-2023-100027,Lucknow
+PAIR-00504,0,negative_weak_or_unrelated,Lakshmi ji,Anil,,F,,,,Priya Sharma,Harish,76,F,0694 109 1152,MRN/H1/50049,Lucknow
+PAIR-00505,1,positive_cross_script,Harish Kumar,Ramesh,84,M,+91-74439-89371,47-9510-8744-3628,Gorakhpur,हरीश कुमार,रमेश,85,M,+91-74439-89371,47-9510-8744-3628,Gorakhpur
+PAIR-00506,1,positive_alias_noisy,Ramesh Kumar,Imran,17,M,+91-98947-17466,52-8471-8394-5442,Gorakhpur,Shri Ramesh Kumar,Imran,17,M,९८९४७१७४६६,52-8471-8394-5442,Gorakhpur
+PAIR-00507,0,hard_negative_homonym,Priya Devi,Ramesh,92,F,8.45436E+09,67-3880-1681-3433,Saharanpur,प्रिया देवी,Suresh,7,F,9511595245,71-7914-3573-4566,Saharanpur
+PAIR-00508,0,hard_negative_same_household_phone,Meera Kumar,Suresh,73,F,6.12413E+09,UHID-VA-2023-100045,Lucknow,Kavita Kumar,Suresh,13,F,6.12413E+09,UHID-VA-2021-100007,Lucknow
+PAIR-00509,0,negative_weak_or_unrelated,Lakshmi ji,Deepak,,F,,,,Deepak Kumar,Mohammad,71,M,9301​595​058,MRN/H1/50010,Gorakhpur
+PAIR-00510,1,positive_cross_script,Fatima Yadav,Rajesh,19,F,8.44169E+09,66-1784-3939-4952,Saharanpur,फातिमा यादव,राजेश,19,F,,,Saharanpur
+PAIR-00511,1,positive_alias_noisy,Fatima Kumar,Rajesh,80,F,0781 564 5205,49-8713-8120-3707,Lucknow,F. Kumar,Rajesh,80,F,0781 564 5205,,Lucknow
+PAIR-00512,0,hard_negative_homonym,Imran Sharma,Suresh,58,M,६८८२५६११७३,75-2389-9136-6808,Saharanpur,इमरान शर्मा,Deepak,4,M,८१७९४६१२०५,14-5252-5829-5336,Gorakhpur
+PAIR-00513,0,hard_negative_same_household_phone,Fatima Verma,Rajesh,30,F,0875 871 0298,UHID-VA-2021-100061,Gorakhpur,Anil Verma,Rajesh,55,M,0875 871 0298,UHID-VA-2020-100078,Gorakhpur
+PAIR-00514,0,negative_weak_or_unrelated,Harish ji,Mohammad,,M,,,,Mohammad Devi,Anil,53,M,7176​658​183,MRN/H4/50094,Lucknow
+PAIR-00515,1,positive_cross_script,Pooja Verma,Anil,37,F,9.96348E+09,28-1727-8149-2846,Saharanpur,पूजा वर्मा,अनील,37,F,९९६३४८०२३२,28-1727-8149-2846,Saharanpur
+PAIR-00516,1,positive_alias_noisy,Fatima Yadav,Rajesh,19,F,8.44169E+09,66-1784-3939-4952,Saharanpur,F. Yadav,Rajesh,19,F,,66-1784-3939-4952,Saharanpur
+PAIR-00517,0,hard_negative_homonym,Deepak Nair,Anil,22,M,+91-89733-11833,14-2830-9698-9042,Saharanpur,दीपक नायर,Mohammad,53,M,7795​265​830,59-7645-5539-5986,Lucknow
+PAIR-00518,0,hard_negative_same_household_phone,Imran Nair,Mohammad,1,M,8380​510​665,UHID-VA-2024-100004,Lucknow,Mohammad Nair,Mohammad,26,M,8380​510​665,UHID-VA-2020-100090,Lucknow
+PAIR-00519,0,negative_weak_or_unrelated,Ramesh ji,Anil,,M,,,,Rajesh Verma,Mohammad,46,M,+91-93890-70488,MRN/H4/50012,Gorakhpur
+PAIR-00520,1,positive_cross_script,Geeta rAif,Deepak,1,F,0975 986 9587,52-7524-1878-5767,Lucknow,गीता आरिफ,दीपक,2,F,९७५९८६९५८७,52-7524-1878-5767,Lucknow
+PAIR-00521,1,positive_alias_noisy,Lakshmi Kumar,Suresh,46,F,6.25469E+09,93-1364-5205-3788,Lucknow,"Kumar, Lakshmi",Suresh,46,F,६२५४६९३३४७,,Lucknow
+PAIR-00522,0,hard_negative_homonym,Ramesh Kumar,Deepak,34,M,7975​501​776,38-4810-8176-4052,Kanpur Nagar,रमेश कुमार,Harish,37,M,८२३२२९५५३८,22-2137-1050-2967,Kanpur Nagar
+PAIR-00523,0,hard_negative_same_household_phone,Mohammad Nair,Deepak,83,M,९११०३५७९२६,UHID-VA-2022-100050,Saharanpur,Ramesh Nair,Deepak,23,M,९११०३५७९२६,UHID-VA-2020-100096,Saharanpur
+PAIR-00524,0,negative_weak_or_unrelated,Harish ji,Harish,,M,,,,Priya Yadav,Imran,80,F,0945 424 1520,MRN/H1/50043,Saharanpur
+PAIR-00525,1,positive_cross_script,Fatima Yadav,Rajesh,19,F,8.44169E+09,66-1784-3939-4952,Saharanpur,फातिमा यादव,राजेश,19,F,८४४१६९३६६२,,Saharanpur
+PAIR-00526,1,positive_alias_noisy,Kavita Yadav,Anil,10,F,0885 987 6054,50-9418-2099-8812,Kanpur Nagar,"Yadav, Kavita",Anil,11,F,0885 987 6054,50-9418-2099-8812,Kanpur Nagar
+PAIR-00527,0,hard_negative_homonym,Pooja Sharma,Suresh,25,F,7.25509E+09,22-7300-3475-2435,Kanpur Nagar,पूजा शर्मा,Anil,38,F,6720065269,88-2679-7007-7648,Saharanpur
+PAIR-00528,0,hard_negative_same_household_phone,Anil Begum,Deepak,5,M,+91-95114-70727,UHID-VA-2020-100078,Saharanpur,Harish Begum,Deepak,30,M,+91-95114-70727,UHID-VA-2022-100014,Saharanpur
+PAIR-00529,0,negative_weak_or_unrelated,Geeta ji,Mohammad,,F,,,,Priya Kumar,Suresh,68,F,6098484243,MRN/H1/50005,Kanpur Nagar
+PAIR-00530,1,positive_cross_script,Rajesh eBgum,Imran,48,M,७०१६६२३९७०,93-5093-2028-2498,Lucknow,राजेश बेगम,इमरान,48,M,७०१६६२३९७०,,Lucknow
+PAIR-00531,1,positive_alias_noisy,Rjaesh Begum,Imran,48,M,७०१६६२३९७०,93-5093-2028-2498,Lucknow,Rajesh ji,Imran,49,M,७०१६६२३९७०,,Lucknow
+PAIR-00532,0,hard_negative_homonym,Imran Sharma,Deepak,4,M,८१७९४६१२०५,14-5252-5829-5336,Gorakhpur,इमरान शर्मा,Deepak,85,M,+91-82290-22710,92-4194-1341-5655,Gorakhpur
+PAIR-00533,0,hard_negative_same_household_phone,Sunita Kumar,Imran,65,F,7.85164E+09,UHID-VA-2023-100003,Gorakhpur,Priya Kumar,Imran,5,F,7.85164E+09,UHID-VA-2025-100089,Gorakhpur
+PAIR-00534,0,negative_weak_or_unrelated,Ramesh ji,Imran,,M,,,,Imran Sharma,Deepak,4,M,८१७९४६१२०५,MRN/H3/50056,Gorakhpur
+PAIR-00535,1,positive_cross_script,Suresh Begum,Deepak,36,M,9410​943​830,69-7906-1788-9961,Kanpur Nagar,सुरेश बेगम,दीपक,37,M,९४१०९४३८३०,,Kanpur Nagar
+PAIR-00536,1,positive_alias_noisy,Mohamma dBegum,Suresh,46,M,8117​989​843,43-6968-1606-1388,Lucknow,Shri Mohammad Begum,Suresh,46,M,८११७९८९८४३,,Lucknow
+PAIR-00537,0,hard_negative_homonym,Fatima Verma,Harish,16,F,6.50074E+09,34-3054-3462-4709,Lucknow,फातिमा वर्मा,Rajesh,30,F,0875 871 0298,91-1692-8483-3596,Gorakhpur
+PAIR-00538,0,hard_negative_same_household_phone,Lakshmi Yadav,Anil,67,F,6751152013,UHID-VA-2025-100017,Kanpur Nagar,Geeta Yadav,Anil,7,F,6751152013,UHID-VA-2021-100025,Kanpur Nagar
+PAIR-00539,0,negative_weak_or_unrelated,Geeta ji,Harish,,F,,,,Mohammad Nair,Deepak,83,M,९११०३५७९२६,MRN/H1/50050,Saharanpur
+PAIR-00540,1,positive_cross_script,Deepak Nair,Mohammad,53,M,7795​265​830,59-7645-5539-5986,Lucknow,दीपक नायर,मोहम्मद,54,M,7795​265​830,,Lucknow
+PAIR-00541,1,positive_alias_noisy,Kavita Yadav,Anil,10,F,0885 987 6054,50-9418-2099-8812,Kanpur Nagar,Smt. Kavita Yadav,Anil,11,F,८८५९८७६०५४,50-9418-2099-8812,Kanpur Nagar
+PAIR-00542,0,hard_negative_homonym,Priya Begum,Rajesh,22,F,0683 110 6636,69-2270-6989-5259,Kanpur Nagar,प्रिया बेगम,Deepak,74,F,0832 626 1840,41-2849-9365-8062,Kanpur Nagar
+PAIR-00543,0,hard_negative_same_household_phone,Geeta Arif,Suresh,23,F,8710724464,UHID-VA-2025-100053,Gorakhpur,Lakshmi Arif,Suresh,48,F,8710724464,UHID-VA-2021-100091,Gorakhpur
+PAIR-00544,0,negative_weak_or_unrelated,Ramesh ji,Deepak,,M,,,,Harish Kumar,Harish,20,M,7755​127​603,MRN/H2/50076,Gorakhpur
+PAIR-00545,1,positive_cross_script,Lakshmi Begum,Ramesh,37,F,0983 208 7087,15-4482-1468-3559,Lucknow,लक्ष्मी बेगम,रमेश,37,F,,,Lucknow
+PAIR-00546,1,positive_alias_noisy,Meera Kumar,Harish,20,F,7916321912,59-4870-5885-4336,Saharanpur,Meera K.,Harish,20,F,७९१६३२१९१२,59-4870-5885-4336,Saharanpur
+PAIR-00547,0,hard_negative_homonym,Harish Kumar,Harish,20,M,7755​127​603,24-7309-5999-9112,Gorakhpur,हरीश कुमार,Harish,60,M,+91-82749-09898,10-2760-4096-3395,Saharanpur
+PAIR-00548,0,hard_negative_same_household_phone,Rajesh Sharma,Imran,58,M,+91-74463-81608,UHID-VA-2020-100024,Saharanpur,Meera Sharma,Imran,83,F,+91-74463-81608,UHID-VA-2025-100071,Saharanpur
+PAIR-00549,0,negative_weak_or_unrelated,Geeta ji,Harish,,F,,,,Fatima Verma,Harish,16,F,6.50074E+09,MRN/H4/50075,Lucknow
+PAIR-00550,1,positive_cross_script,Mohammad Begum,Suresh,46,M,8117​989​843,43-6968-1606-1388,Lucknow,मोहम्मद बेगम,सुरेश,47,M,८११७९८९८४३,43-6968-1606-1388,Lucknow
+PAIR-00551,1,positive_alias_noisy,Harish Sharma,Imran,67,M,+91-93224-58147,15-3217-1959-7085,Lucknow,H. Sharma,Imran,67,M,+91-93224-58147,15-3217-1959-7085,Lucknow
+PAIR-00552,0,hard_negative_homonym,Mohammad Nair,Anil,27,M,८२२८२०३०७६,71-2628-3284-9187,Gorakhpur,मोहम्मद नायर,Imran,69,M,+91-65472-17629,29-2083-8417-7194,Kanpur Nagar
+PAIR-00553,0,hard_negative_same_household_phone,Priya Devi,Suresh,7,F,9511595245,UHID-VA-2025-100089,Saharanpur,Lakshmi Devi,Suresh,32,F,9511595245,UHID-VA-2025-100077,Saharanpur
+PAIR-00554,0,negative_weak_or_unrelated,Priya ji,Rajesh,,F,,,,Priya Sharma,Harish,76,F,0694 109 1152,MRN/H1/50049,Lucknow
+PAIR-00555,1,positive_cross_script,Geeta Arif,Harish,45,F,7.67440E+09,18-6093-8720-7126,Gorakhpur,गीता आरिफ,हरीश,45,F,,18-6093-8720-7126,Gorakhpur
+PAIR-00556,1,positive_alias_noisy,Fatima Sharma,Ramesh,86,F,0889 043 0019,56-6726-5115-5071,Saharanpur,Fatima S.,Ramesh,86,F,0889 043 0019,56-6726-5115-5071,Saharanpur
+PAIR-00557,0,hard_negative_homonym,Harish Sharma,Mohammad,19,M,8403​202​375,71-2728-5528-9785,Gorakhpur,हरीश शर्मा,Imran,67,M,+91-93224-58147,15-3217-1959-7085,Lucknow
+PAIR-00558,0,hard_negative_same_household_phone,Priya Kumar,Suresh,68,F,6098484243,UHID-VA-2025-100005,Kanpur Nagar,Meera Kumar,Suresh,8,F,6098484243,UHID-VA-2023-100069,Kanpur Nagar
+PAIR-00559,0,negative_weak_or_unrelated,Imran ji,Deepak,,M,,,,Meera Kumar,Harish,20,F,7916321912,MRN/H1/50035,Saharanpur
+PAIR-00560,1,positive_cross_script,Rajesh Sharma,Harish,56,M,९००८९४५३००,80-6059-2975-4036,Lucknow,राजेश शर्मा,हरीश,56,M,,80-6059-2975-4036,Lucknow
+PAIR-00561,1,positive_alias_noisy,Lakshmi Arif,Mohammad,13,F,6593879188,68-3682-8922-6193,Gorakhpur,Smt. Lakshmi Arif,Mohammad,13,F,६५९३८७९१८८,68-3682-8922-6193,Gorakhpur
+PAIR-00562,0,hard_negative_homonym,Deepak Nair,Mohammad,53,M,7795​265​830,59-7645-5539-5986,Lucknow,दीपक नायर,Anil,22,M,+91-89733-11833,14-2830-9698-9042,Saharanpur
+PAIR-00563,0,hard_negative_same_household_phone,Fatima Sharma,Ramesh,86,F,0889 043 0019,UHID-VA-2021-100085,Saharanpur,Meera Sharma,Ramesh,26,F,0889 043 0019,UHID-VA-2025-100035,Saharanpur
+PAIR-00564,0,negative_weak_or_unrelated,Mohammad ji,Deepak,,M,,,,Imran Nair,Mohammad,1,M,8380​510​665,MRN/H3/50004,Lucknow
+PAIR-00565,1,positive_cross_script,Lakshmi Sharma,Imran,87,F,9.92933E+09,51-5500-7008-4064,Kanpur Nagar,लक्ष्मी शर्मा,इमरान,87,F,९९२९३३८९२७,,Kanpur Nagar
+PAIR-00566,1,positive_alias_noisy,Mohammad Devi,Anil,53,M,7176​658​183,40-5587-1375-4742,Lucknow,Mohd. Devi,Anil,54,M,७१७६६५८१८३,,Lucknow
+PAIR-00567,0,hard_negative_homonym,Pooja Sharma,Suresh,25,F,7.25509E+09,22-7300-3475-2435,Kanpur Nagar,पूजा शर्मा,Anil,38,F,6720065269,88-2679-7007-7648,Saharanpur
+PAIR-00568,0,hard_negative_same_household_phone,Sunita Begum,Imran,41,F,6.12832E+09,UHID-VA-2023-100015,Lucknow,Meera Begum,Imran,66,F,6.12832E+09,UHID-VA-2023-100069,Lucknow
+PAIR-00569,0,negative_weak_or_unrelated,Imran ji,Suresh,,M,,,,Priya Begum,Rajesh,22,F,0683 110 6636,MRN/H2/50001,Kanpur Nagar
+PAIR-00570,1,positive_cross_script,Suresh Verma,Rajesh,69,M,७५३५८०३५८०,80-4493-8123-5120,Kanpur Nagar,सुरेश वर्मा,राजेश,70,M,७५३५८०३५८०,,Kanpur Nagar
+PAIR-00571,1,positive_alias_noisy,Suresh Begum,Anil,81,M,7197​905​238,52-8913-1339-1644,Lucknow,S. Begum,Anil,82,M,७१९७९०५२३८,,Lucknow
+PAIR-00572,0,hard_negative_homonym,Kavita Yadav,Anil,10,F,0885 987 6054,50-9418-2099-8812,Kanpur Nagar,कविता यादव,Rajesh,50,F,0882 529 3226,65-1533-3107-4718,Kanpur Nagar
+PAIR-00573,0,hard_negative_same_household_phone,Ramesh Kumar,Deepak,34,M,7975​501​776,UHID-VA-2024-100088,Kanpur Nagar,Harish Kumar,Deepak,59,M,7975​501​776,UHID-VA-2020-100042,Kanpur Nagar
+PAIR-00574,0,negative_weak_or_unrelated,Imran ji,Deepak,,M,,,,Suresh Begum,Deepak,36,M,9410​943​830,MRN/H4/50040,Kanpur Nagar
+PAIR-00575,1,positive_cross_script,Rajesh eVrma,Mohammad,46,M,+91-93890-70488,66-7209-9875-1161,Gorakhpur,राजेश वर्मा,मोहम्मद,46,M,९३८९०७०४८८,66-7209-9875-1161,Gorakhpur
+PAIR-00576,1,positive_alias_noisy,Priya Yadav,Imran,80,F,0945 424 1520,18-1782-2557-4132,Saharanpur,"Yadav, Priya",Imran,80,F,0945 424 1520,18-1782-2557-4132,Saharanpur
+PAIR-00577,0,hard_negative_homonym,Suresh Verma,Harish,69,M,७६७१३६९३४८,64-3956-4663-7776,Lucknow,सुरेश वर्मा,Rajesh,69,M,७५३५८०३५८०,80-4493-8123-5120,Kanpur Nagar
+PAIR-00578,0,hard_negative_same_household_phone,Kavita Yadav,Rajesh,50,F,0882 529 3226,UHID-VA-2021-100007,Kanpur Nagar,Geeta Yadav,Rajesh,75,F,0882 529 3226,UHID-VA-2025-100053,Kanpur Nagar
+PAIR-00579,0,negative_weak_or_unrelated,Lakshmi ji,Harish,,F,,,,Fatima Verma,Harish,16,F,6.50074E+09,MRN/H4/50075,Lucknow
+PAIR-00580,1,positive_cross_script,Ramesh Kumar,Anil,21,M,६४१९७६९१७२,99-3265-3280-8584,Saharanpur,रमेश कुमार,अनील,21,M,६४१९७६९१७२,,Saharanpur
+PAIR-00581,1,positive_alias_noisy,Ramesh Kumar,Deepak,34,M,7975​501​776,38-4810-8176-4052,Kanpur Nagar,Shri Ramesh Kumar,Deepak,34,M,7975​501​776,,Kanpur Nagar
+PAIR-00582,0,hard_negative_homonym,Meera Devi,Anil,16,F,6569790687,30-9183-1803-4470,Gorakhpur,मीरा देवी,Ramesh,77,F,6.04885E+09,11-2042-5947-9556,Saharanpur
+PAIR-00583,0,hard_negative_same_household_phone,Lakshmi Kumar,Suresh,46,F,6.25469E+09,UHID-VA-2023-100087,Lucknow,Priya Kumar,Suresh,71,F,6.25469E+09,UHID-VA-2023-100099,Lucknow
+PAIR-00584,0,negative_weak_or_unrelated,Mohammad ji,Imran,,M,,,,Lakshmi Arif,Mohammad,13,F,6593879188,MRN/H3/50011,Gorakhpur
+PAIR-00585,1,positive_cross_script,Suresh Begum,Ramesh,1,M,6529​923​572,24-8587-7979-2162,Saharanpur,सुरेश बेगम,रमेश,1,M,६५२९९२३५७२,24-8587-7979-2162,Saharanpur
+PAIR-00586,1,positive_alias_noisy,Suresh Begum,Deepak,36,M,9410​943​830,69-7906-1788-9961,Kanpur Nagar,S. Begum,Deepak,36,M,9410​943​830,,Kanpur Nagar
+PAIR-00587,0,hard_negative_homonym,Geeta Verma,Mohammad,57,F,6.08542E+09,99-7488-3701-4973,Gorakhpur,गीता वर्मा,Suresh,45,F,0815 977 3665,82-5754-4142-8330,Gorakhpur
+PAIR-00588,0,hard_negative_same_household_phone,Anil Begum,Deepak,5,M,+91-95114-70727,UHID-VA-2020-100078,Saharanpur,Lakshmi Begum,Deepak,30,F,+91-95114-70727,UHID-VA-2021-100091,Saharanpur
+PAIR-00589,0,negative_weak_or_unrelated,Imran ji,Deepak,,M,,,,Anil Begum,Deepak,5,M,+91-95114-70727,MRN/H4/50078,Saharanpur
+PAIR-00590,1,positive_cross_script,Deepak Begum,Harish,44,M,6007​240​771,88-6435-2373-5710,Lucknow,दीपक बेगम,हरीश,45,M,६००७२४०७७१,88-6435-2373-5710,Lucknow
+PAIR-00591,1,positive_alias_noisy,Mohammad Begum,Suresh,46,M,8117​989​843,43-6968-1606-1388,Lucknow,Mohd. Begum,Suresh,47,M,8117​989​843,,Lucknow
+PAIR-00592,0,hard_negative_homonym,Fatima Verma,Harish,16,F,6.50074E+09,34-3054-3462-4709,Lucknow,फातिमा वर्मा,Rajesh,30,F,0875 871 0298,91-1692-8483-3596,Gorakhpur
+PAIR-00593,0,hard_negative_same_household_phone,Sunita Begum,Imran,41,F,6.12832E+09,UHID-VA-2023-100015,Lucknow,Suresh Begum,Imran,66,M,6.12832E+09,UHID-VA-2022-100062,Lucknow
+PAIR-00594,0,negative_weak_or_unrelated,Lakshmi ji,Anil,,F,,,,Kavita Yadav,Rajesh,50,F,0882 529 3226,MRN/H4/50007,Kanpur Nagar
+PAIR-00595,1,positive_cross_script,Mohammad Devi,Anil,53,M,7176​658​183,40-5587-1375-4742,Lucknow,मोहम्मद देवी,अनील,53,M,7176​658​183,40-5587-1375-4742,Lucknow
+PAIR-00596,1,positive_alias_noisy,Rmaesh Nair,Deepak,90,M,8830​253​631,63-9554-6103-7079,Saharanpur,"Nair, Ramesh",Deepak,91,M,8830​253​631,63-9554-6103-7079,Saharanpur
+PAIR-00597,0,hard_negative_homonym,Kavita Yadav,Anil,10,F,0885 987 6054,50-9418-2099-8812,Kanpur Nagar,कविता यादव,Rajesh,50,F,0882 529 3226,65-1533-3107-4718,Kanpur Nagar
+PAIR-00598,0,hard_negative_same_household_phone,Lakshmi Nair,Deepak,90,F,8169748305,UHID-VA-2025-100095,Gorakhpur,Lakshmi Nair,Deepak,30,F,8169748305,UHID-VA-2025-100083,Gorakhpur
+PAIR-00599,0,negative_weak_or_unrelated,Imran ji,Suresh,,M,,,,Ramesh Arif,Imran,4,M,+91-96321-69536,MRN/H2/50096,Kanpur Nagar
+PAIR-00600,1,positive_cross_script,Lakshmi Arif,Mohammad,13,F,6593879188,68-3682-8922-6193,Gorakhpur,लक्ष्मी आरिफ,मोहम्मद,14,F,६५९३८७९१८८,,Gorakhpur
+PAIR-00601,1,positive_alias_noisy,Lakshmi Sharma,Imran,87,F,9.92933E+09,51-5500-7008-4064,Kanpur Nagar,Smt. Lakshmi Sharma,Imran,87,F,९९२९३३८९२७,51-5500-7008-4064,Kanpur Nagar
+PAIR-00602,0,hard_negative_homonym,Geeta Verma,Suresh,45,F,0815 977 3665,82-5754-4142-8330,Gorakhpur,गीता वर्मा,Mohammad,57,F,6.08542E+09,99-7488-3701-4973,Gorakhpur
+PAIR-00603,0,hard_negative_same_household_phone,Mohammad Yadav,Ramesh,17,M,+91-64994-95834,UHID-VA-2020-100048,Lucknow,Deepak Yadav,Ramesh,42,M,+91-64994-95834,UHID-VA-2024-100070,Lucknow
+PAIR-00604,0,negative_weak_or_unrelated,Harish ji,Imran,,M,,,,Lakshmi Kumar,Suresh,40,F,0746 730 6538,MRN/H2/50091,Gorakhpur
+PAIR-00605,1,positive_cross_script,Harish Verma,Ramesh,90,M,८४६६२५०२४५,36-1270-5095-3317,Lucknow,हरीश वर्मा,रमेश,91,M,८४६६२५०२४५,,Lucknow
+PAIR-00606,1,positive_alias_noisy,Harish Kumar,Ramesh,84,M,+91-74439-89371,47-9510-8744-3628,Gorakhpur,Harish K.,Ramesh,84,M,,,Gorakhpur
+PAIR-00607,0,hard_negative_homonym,Fatima Verma,Harish,16,F,6.50074E+09,34-3054-3462-4709,Lucknow,फातिमा वर्मा,Rajesh,30,F,0875 871 0298,91-1692-8483-3596,Gorakhpur
+PAIR-00608,0,hard_negative_same_household_phone,Ramesh Kumar,Imran,17,M,+91-98947-17466,UHID-VA-2020-100054,Gorakhpur,Lakshmi Kumar,Imran,42,F,+91-98947-17466,UHID-VA-2025-100017,Gorakhpur
+PAIR-00609,0,negative_weak_or_unrelated,Lakshmi ji,Suresh,,F,,,,Geeta Begum,Rajesh,64,F,0701 138 3270,MRN/H4/50055,Kanpur Nagar
+PAIR-00610,1,positive_cross_script,Fatima Verma,Harish,16,F,6.50074E+09,34-3054-3462-4709,Lucknow,फातिमा वर्मा,हरीश,17,F,6.50074E+09,,Lucknow
+PAIR-00611,1,positive_alias_noisy,Kavita Arif,Rajesh,7,F,8297296530,90-5740-5837-3333,Gorakhpur,Kavita A.,Rajesh,7,F,,,Gorakhpur
+PAIR-00612,0,hard_negative_homonym,Pooja Sharma,Suresh,25,F,7.25509E+09,22-7300-3475-2435,Kanpur Nagar,पूजा शर्मा,Anil,38,F,6720065269,88-2679-7007-7648,Saharanpur
+PAIR-00613,0,hard_negative_same_household_phone,Suresh Verma,Rajesh,69,M,७५३५८०३५८०,UHID-VA-2022-100098,Kanpur Nagar,Sunita Verma,Rajesh,9,F,७५३५८०३५८०,UHID-VA-2023-100015,Kanpur Nagar
+PAIR-00614,0,negative_weak_or_unrelated,Priya ji,Ramesh,,F,,,,Meera Devi,Anil,76,F,8219304819,MRN/H2/50047,Kanpur Nagar
+PAIR-00615,1,positive_cross_script,Mohammad Yadav,Ramesh,17,M,+91-64994-95834,28-3504-8247-8603,Lucknow,मोहम्मद यादव,रमेश,17,M,+91-64994-95834,28-3504-8247-8603,Lucknow
+PAIR-00616,1,positive_alias_noisy,Rmaesh Kumar,Imran,17,M,+91-98947-17466,52-8471-8394-5442,Gorakhpur,Ramesh ji,Imran,18,M,+91-98947-17466,52-8471-8394-5442,Gorakhpur
+PAIR-00617,0,hard_negative_homonym,Lakshmi Yadav,Deepak,86,F,7.63181E+09,41-7204-9647-5490,Gorakhpur,लक्ष्मी यादव,Harish,43,F,9.49008E+09,15-7340-6186-4203,Lucknow
+PAIR-00618,0,hard_negative_same_household_phone,Lakshmi Kumar,Suresh,40,F,0746 730 6538,UHID-VA-2021-100091,Gorakhpur,Geeta Kumar,Suresh,65,F,0746 730 6538,UHID-VA-2023-100063,Gorakhpur
+PAIR-00619,0,negative_weak_or_unrelated,Mohammad ji,Imran,,M,,,,Suresh Verma,Suresh,89,M,+91-70928-56877,MRN/H4/50072,Saharanpur
+PAIR-00620,1,positive_cross_script,Ramesh Arif,Imran,4,M,+91-96321-69536,32-1312-5978-3359,Kanpur Nagar,रमेश आरिफ,इमरान,5,M,९६३२१६९५३६,,Kanpur Nagar
+PAIR-00621,1,positive_alias_noisy,Geeat Verma,Suresh,45,F,0815 977 3665,82-5754-4142-8330,Gorakhpur,Geeta ji,Suresh,45,F,८१५९७७३६६५,82-5754-4142-8330,Gorakhpur
+PAIR-00622,0,hard_negative_homonym,Geeta Verma,Suresh,45,F,0815 977 3665,82-5754-4142-8330,Gorakhpur,गीता वर्मा,Mohammad,57,F,6.08542E+09,99-7488-3701-4973,Gorakhpur
+PAIR-00623,0,hard_negative_same_household_phone,Harish Sharma,Mohammad,19,M,8403​202​375,UHID-VA-2024-100034,Gorakhpur,Meera Sharma,Mohammad,44,F,8403​202​375,UHID-VA-2025-100047,Gorakhpur
+PAIR-00624,0,negative_weak_or_unrelated,Deepak ji,Anil,,M,,,,Suresh Begum,Deepak,36,M,9410​943​830,MRN/H4/50040,Kanpur Nagar
+PAIR-00625,1,positive_cross_script,Geeta Arif,Suresh,23,F,8710724464,46-2182-2818-6946,Gorakhpur,गीता आरिफ,सुरेश,23,F,८७१०७२४४६४,46-2182-2818-6946,Gorakhpur
+PAIR-00626,1,positive_alias_noisy,Harihs Devi,Mohammad,43,M,७७७६११८२१५,55-4665-2041-3870,Gorakhpur,Harish D.,Mohammad,43,M,७७७६११८२१५,,Gorakhpur
+PAIR-00627,0,hard_negative_homonym,Priya Sharma,Harish,76,F,0694 109 1152,52-7809-7555-5647,Lucknow,प्रिया शर्मा,Harish,7,F,6.99525E+09,57-1936-2959-7406,Gorakhpur
+PAIR-00628,0,hard_negative_same_household_phone,Mohammad Nair,Anil,27,M,८२२८२०३०७६,UHID-VA-2022-100080,Gorakhpur,Priya Nair,Anil,52,F,८२२८२०३०७६,UHID-VA-2021-100001,Gorakhpur
+PAIR-00629,0,negative_weak_or_unrelated,Harish ji,Ramesh,,M,,,,Rajesh Devi,Mohammad,47,M,६०८९८८३०९१,MRN/H4/50020,Saharanpur
+PAIR-00630,1,positive_cross_script,MeeraD evi,Ramesh,77,F,6.04885E+09,11-2042-5947-9556,Saharanpur,मीरा देवी,रमेश,78,F,6.04885E+09,,Saharanpur
+PAIR-00631,1,positive_alias_noisy,Imran Sharma,Deepak,4,M,८१७९४६१२०५,14-5252-5829-5336,Gorakhpur,I. Sharma,Deepak,5,M,८१७९४६१२०५,,Gorakhpur
+PAIR-00632,0,hard_negative_homonym,Pooja Sharma,Suresh,25,F,7.25509E+09,22-7300-3475-2435,Kanpur Nagar,पूजा शर्मा,Anil,38,F,6720065269,88-2679-7007-7648,Saharanpur
+PAIR-00633,0,hard_negative_same_household_phone,Suresh Begum,Ramesh,1,M,6529​923​572,UHID-VA-2024-100028,Saharanpur,Kavita Begum,Ramesh,26,F,6529​923​572,UHID-VA-2025-100023,Saharanpur
+PAIR-00634,0,negative_weak_or_unrelated,Lakshmi ji,Suresh,,F,,,,Harish Sharma,Imran,67,M,+91-93224-58147,MRN/H1/50018,Lucknow
+PAIR-00635,1,positive_cross_script,Priya Sharma,Harish,7,F,6.99525E+09,57-1936-2959-7406,Gorakhpur,प्रिया शर्मा,हरीश,7,F,६९९५२५७६१८,,Gorakhpur
+PAIR-00636,1,positive_alias_noisy,Lakshmi Kumar,Suresh,40,F,0746 730 6538,36-6769-7275-3253,Gorakhpur,Lakshmi K.,Suresh,40,F,७४६७३०६५३८,36-6769-7275-3253,Gorakhpur
+PAIR-00637,0,hard_negative_homonym,Suresh Verma,Rajesh,69,M,७५३५८०३५८०,80-4493-8123-5120,Kanpur Nagar,सुरेश वर्मा,Harish,69,M,७६७१३६९३४८,64-3956-4663-7776,Lucknow
+PAIR-00638,0,hard_negative_same_household_phone,Suresh Begum,Ramesh,1,M,6529​923​572,UHID-VA-2024-100028,Saharanpur,Lakshmi Begum,Ramesh,26,F,6529​923​572,UHID-VA-2025-100083,Saharanpur
+PAIR-00639,0,negative_weak_or_unrelated,Meera ji,Harish,,F,,,,Ramesh Kumar,Deepak,34,M,7975​501​776,MRN/H3/50088,Kanpur Nagar
+PAIR-00640,1,positive_cross_script,Surehs Nair,Anil,20,M,6407​847​690,18-8866-4995-5175,Gorakhpur,सुरेश नायर,अनील,20,M,६४०७८४७६९०,,Gorakhpur
+PAIR-00641,1,positive_alias_noisy,Suresh Yadav,Imran,85,M,+91-61310-19676,81-2859-9961-6326,Gorakhpur,Suresh ji,Imran,85,M,+91-61310-19676,81-2859-9961-6326,Gorakhpur
+PAIR-00642,0,hard_negative_homonym,Lakshmi Kumar,Suresh,46,F,6.25469E+09,93-1364-5205-3788,Lucknow,लक्ष्मी कुमार,Suresh,40,F,0746 730 6538,36-6769-7275-3253,Gorakhpur
+PAIR-00643,0,hard_negative_same_household_phone,Mohammad Devi,Anil,53,M,7176​658​183,UHID-VA-2024-100094,Lucknow,Geeta Devi,Anil,78,F,7176​658​183,UHID-VA-2023-100039,Lucknow
+PAIR-00644,0,negative_weak_or_unrelated,Meera ji,Anil,,F,,,,Lakshmi Sharma,Imran,87,F,9.92933E+09,MRN/H2/50051,Kanpur Nagar
+PAIR-00645,1,positive_cross_script,Rajesh Verma,Mohammad,46,M,+91-93890-70488,66-7209-9875-1161,Gorakhpur,राजेश वर्मा,मोहम्मद,47,M,+91-93890-70488,66-7209-9875-1161,Gorakhpur
+PAIR-00646,1,positive_alias_noisy,Lakshmi eDvi,Harish,86,F,6776810815,48-5266-8591-3472,Saharanpur,"Devi, Lakshmi",Harish,86,F,,,Saharanpur
+PAIR-00647,0,hard_negative_homonym,Priya Devi,Ramesh,92,F,8.45436E+09,67-3880-1681-3433,Saharanpur,प्रिया देवी,Suresh,7,F,9511595245,71-7914-3573-4566,Saharanpur
+PAIR-00648,0,hard_negative_same_household_phone,Meera Kumar,Suresh,73,F,6.12413E+09,UHID-VA-2023-100045,Lucknow,Meera Kumar,Suresh,13,F,6.12413E+09,UHID-VA-2023-100069,Lucknow
+PAIR-00649,0,negative_weak_or_unrelated,Geeta ji,Deepak,,F,,,,Geeta Begum,Rajesh,64,F,0701 138 3270,MRN/H4/50055,Kanpur Nagar
+PAIR-00650,1,positive_cross_script,Deepak Begum,Harish,44,M,6007​240​771,88-6435-2373-5710,Lucknow,दीपक बेगम,हरीश,44,M,६००७२४०७७१,88-6435-2373-5710,Lucknow
+PAIR-00651,1,positive_alias_noisy,Ramesh Begum,Anil,45,M,७६७९२०८५८८,35-6649-2570-7794,Gorakhpur,Ramesh B.,Anil,45,M,७६७९२०८५८८,,Gorakhpur
+PAIR-00652,0,hard_negative_homonym,Harish Sharma,Mohammad,37,M,७६७५९९४४२५,81-9302-4768-3460,Saharanpur,हरीश शर्मा,Imran,67,M,+91-93224-58147,15-3217-1959-7085,Lucknow
+PAIR-00653,0,hard_negative_same_household_phone,Geeta Verma,Mohammad,57,F,6.08542E+09,UHID-VA-2023-100039,Gorakhpur,Anil Verma,Mohammad,82,M,6.08542E+09,UHID-VA-2020-100078,Gorakhpur
+PAIR-00654,0,negative_weak_or_unrelated,Harish ji,Anil,,M,,,,Rajesh Devi,Mohammad,47,M,६०८९८८३०९१,MRN/H4/50020,Saharanpur
+PAIR-00655,1,positive_cross_script,Pooja Verma,Anil,37,F,9.96348E+09,28-1727-8149-2846,Saharanpur,पूजा वर्मा,अनील,37,F,9.96348E+09,28-1727-8149-2846,Saharanpur
+PAIR-00656,1,positive_alias_noisy,Suresh Begum,Deepak,36,M,9410​943​830,69-7906-1788-9961,Kanpur Nagar,Suresh ji,Deepak,36,M,9410​943​830,69-7906-1788-9961,Kanpur Nagar
+PAIR-00657,0,hard_negative_homonym,Imran Sharma,Deepak,85,M,+91-82290-22710,92-4194-1341-5655,Gorakhpur,इमरान शर्मा,Deepak,4,M,८१७९४६१२०५,14-5252-5829-5336,Gorakhpur
+PAIR-00658,0,hard_negative_same_household_phone,Geeta Verma,Suresh,45,F,0815 977 3665,UHID-VA-2021-100019,Gorakhpur,Fatima Verma,Suresh,70,F,0815 977 3665,UHID-VA-2021-100073,Gorakhpur
+PAIR-00659,0,negative_weak_or_unrelated,Harish ji,Harish,,M,,,,Rajesh Sharma,Harish,56,M,९००८९४५३००,MRN/H1/50038,Lucknow
+PAIR-00660,1,positive_cross_script,Rjaesh Sharma,Harish,56,M,९००८९४५३००,80-6059-2975-4036,Lucknow,राजेश शर्मा,हरीश,57,M,९००८९४५३००,,Lucknow
+PAIR-00661,1,positive_alias_noisy,Lakshmi Kumar,Suresh,40,F,0746 730 6538,36-6769-7275-3253,Gorakhpur,Lakshmi ji,Suresh,41,F,,36-6769-7275-3253,Gorakhpur
+PAIR-00662,0,hard_negative_homonym,Harish Sharma,Mohammad,37,M,७६७५९९४४२५,81-9302-4768-3460,Saharanpur,हरीश शर्मा,Imran,67,M,+91-93224-58147,15-3217-1959-7085,Lucknow
+PAIR-00663,0,hard_negative_same_household_phone,Ramesh Begum,Anil,45,M,७६७९२०८५८८,UHID-VA-2022-100032,Gorakhpur,Mohammad Begum,Anil,70,M,७६७९२०८५८८,UHID-VA-2022-100080,Gorakhpur
+PAIR-00664,0,negative_weak_or_unrelated,Rajesh ji,Anil,,M,,,,Lakshmi Nair,Deepak,90,F,8169748305,MRN/H1/50095,Gorakhpur
+PAIR-00665,1,positive_cross_script,Haris hSharma,Imran,67,M,+91-93224-58147,15-3217-1959-7085,Lucknow,हरीश शर्मा,इमरान,67,M,+91-93224-58147,,Lucknow
+PAIR-00666,1,positive_alias_noisy,Rajesh Sharma,Imran,58,M,+91-74463-81608,67-6717-2128-7469,Saharanpur,Shri Rajesh Sharma,Imran,58,M,+91-74463-81608,67-6717-2128-7469,Saharanpur
+PAIR-00667,0,hard_negative_homonym,Imran Sharma,Suresh,58,M,६८८२५६११७३,75-2389-9136-6808,Saharanpur,इमरान शर्मा,Deepak,85,M,+91-82290-22710,92-4194-1341-5655,Gorakhpur
+PAIR-00668,0,hard_negative_same_household_phone,Suresh Verma,Harish,69,M,७६७१३६९३४८,UHID-VA-2022-100062,Lucknow,Deepak Verma,Harish,9,M,७६७१३६९३४८,UHID-VA-2022-100092,Lucknow
+PAIR-00669,0,negative_weak_or_unrelated,Geeta ji,Mohammad,,F,,,,Rajesh Yadav,Anil,34,M,8092​061​279,MRN/H4/50052,Gorakhpur
+PAIR-00670,1,positive_cross_script,Mohamamd Devi,Anil,53,M,7176​658​183,40-5587-1375-4742,Lucknow,मोहम्मद देवी,अनील,53,M,,40-5587-1375-4742,Lucknow
+PAIR-00671,1,positive_alias_noisy,Geeta Arif,Suresh,23,F,8710724464,46-2182-2818-6946,Gorakhpur,Geeta ji,Suresh,24,F,८७१०७२४४६४,46-2182-2818-6946,Gorakhpur
+PAIR-00672,0,hard_negative_homonym,Lakshmi Devi,Harish,26,F,7054587059,80-8744-2624-3511,Saharanpur,लक्ष्मी देवी,Harish,86,F,6776810815,48-5266-8591-3472,Saharanpur
+PAIR-00673,0,hard_negative_same_household_phone,Suresh Begum,Anil,81,M,7197​905​238,UHID-VA-2024-100064,Lucknow,Meera Begum,Anil,21,F,7197​905​238,UHID-VA-2025-100035,Lucknow
+PAIR-00674,0,negative_weak_or_unrelated,Meera ji,Suresh,,F,,,,Rajesh Sharma,Harish,56,M,९००८९४५३००,MRN/H1/50038,Lucknow
+PAIR-00675,1,positive_cross_script,Mohammad Yadav,Ramesh,17,M,+91-64994-95834,28-3504-8247-8603,Lucknow,मोहम्मद यादव,रमेश,17,M,+91-64994-95834,,Lucknow
+PAIR-00676,1,positive_alias_noisy,Lakshmi Devi,Harish,26,F,7054587059,80-8744-2624-3511,Saharanpur,"Devi, Lakshmi",Harish,26,F,७०५४५८७०५९,,Saharanpur
+PAIR-00677,0,hard_negative_homonym,Lakshmi Kumar,Suresh,40,F,0746 730 6538,36-6769-7275-3253,Gorakhpur,लक्ष्मी कुमार,Suresh,46,F,6.25469E+09,93-1364-5205-3788,Lucknow
+PAIR-00678,0,hard_negative_same_household_phone,Priya Devi,Ramesh,92,F,8.45436E+09,UHID-VA-2023-100099,Saharanpur,Suresh Devi,Ramesh,32,M,8.45436E+09,UHID-VA-2022-100098,Saharanpur
+PAIR-00679,0,negative_weak_or_unrelated,Kavita ji,Anil,,F,,,,Suresh Begum,Deepak,36,M,9410​943​830,MRN/H4/50040,Kanpur Nagar
+PAIR-00680,1,positive_cross_script,Imran Sharma,Suresh,58,M,६८८२५६११७३,75-2389-9136-6808,Saharanpur,इमरान शर्मा,सुरेश,58,M,६८८२५६११७३,,Saharanpur
+PAIR-00681,1,positive_alias_noisy,Mohammad Nair,Anil,27,M,८२२८२०३०७६,71-2628-3284-9187,Gorakhpur,Mohd Nair,Anil,27,M,,71-2628-3284-9187,Gorakhpur
+PAIR-00682,0,hard_negative_homonym,Mohammad Nair,Deepak,83,M,९११०३५७९२६,13-4498-9429-1647,Saharanpur,मोहम्मद नायर,Imran,69,M,+91-65472-17629,29-2083-8417-7194,Kanpur Nagar
+PAIR-00683,0,hard_negative_same_household_phone,Lakshmi Devi,Harish,26,F,7054587059,UHID-VA-2025-100083,Saharanpur,Meera Devi,Harish,51,F,7054587059,UHID-VA-2025-100041,Saharanpur
+PAIR-00684,0,negative_weak_or_unrelated,Sunita ji,Imran,,F,,,,Ramesh Kumar,Anil,21,M,६४१९७६९१७२,MRN/H1/50068,Saharanpur
+PAIR-00685,1,positive_cross_script,Priya Devi,Ramesh,92,F,8.45436E+09,67-3880-1681-3433,Saharanpur,प्रिया देवी,रमेश,93,F,८४५४३६९००७,67-3880-1681-3433,Saharanpur
+PAIR-00686,1,positive_alias_noisy,Suresh Begum,Ramesh,1,M,6529​923​572,24-8587-7979-2162,Saharanpur,Suresh B.,Ramesh,1,M,,,Saharanpur
+PAIR-00687,0,hard_negative_homonym,Meera Devi,Anil,76,F,8219304819,74-5748-3187-7579,Kanpur Nagar,मीरा देवी,Anil,16,F,6569790687,30-9183-1803-4470,Gorakhpur
+PAIR-00688,0,hard_negative_same_household_phone,Priya Kumar,Suresh,68,F,6098484243,UHID-VA-2025-100005,Kanpur Nagar,Lakshmi Kumar,Suresh,8,F,6098484243,UHID-VA-2025-100011,Kanpur Nagar
+PAIR-00689,0,negative_weak_or_unrelated,Meera ji,Suresh,,F,,,,Geeta Arif,Suresh,23,F,8710724464,MRN/H2/50053,Gorakhpur
+PAIR-00690,1,positive_cross_script,Meera Niar,Suresh,37,F,7308468267,40-6299-3597-9662,Lucknow,मीरा नायर,सुरेश,37,F,,,Lucknow
+PAIR-00691,1,positive_alias_noisy,Lakshmi Yadav,Deepak,86,F,7.63181E+09,41-7204-9647-5490,Gorakhpur,Smt. Lakshmi Yadav,Deepak,86,F,,41-7204-9647-5490,Gorakhpur
+PAIR-00692,0,hard_negative_homonym,Suresh Begum,Ramesh,1,M,6529​923​572,24-8587-7979-2162,Saharanpur,सुरेश बेगम,Deepak,36,M,9410​943​830,69-7906-1788-9961,Kanpur Nagar
+PAIR-00693,0,hard_negative_same_household_phone,Geeta Devi,Harish,39,F,0611 415 9781,UHID-VA-2021-100025,Lucknow,Meera Devi,Harish,64,F,0611 415 9781,UHID-VA-2025-100047,Lucknow
+PAIR-00694,0,negative_weak_or_unrelated,Mohammad ji,Anil,,M,,,,Deepak Begum,Harish,44,M,6007​240​771,MRN/H1/50082,Lucknow
+PAIR-00695,1,positive_cross_script,Mohammad Nair,Deepak,83,M,९११०३५७९२६,13-4498-9429-1647,Saharanpur,मोहम्मद नायर,दीपक,83,M,९११०३५७९२६,,Saharanpur
+PAIR-00696,1,positive_alias_noisy,Priya Sharma,Harish,76,F,0694 109 1152,52-7809-7555-5647,Lucknow,P. Sharma,Harish,76,F,६९४१०९११५२,52-7809-7555-5647,Lucknow
+PAIR-00697,0,hard_negative_homonym,Lakshmi Yadav,Anil,67,F,6751152013,60-6385-2965-5134,Kanpur Nagar,लक्ष्मी यादव,Deepak,86,F,7.63181E+09,41-7204-9647-5490,Gorakhpur
+PAIR-00698,0,hard_negative_same_household_phone,Lakshmi Yadav,Anil,67,F,6751152013,UHID-VA-2025-100017,Kanpur Nagar,Fatima Yadav,Anil,7,F,6751152013,UHID-VA-2021-100061,Kanpur Nagar
+PAIR-00699,0,negative_weak_or_unrelated,Mohammad ji,Anil,,M,,,,Pooja Sharma,Anil,38,F,6720065269,MRN/H3/50059,Saharanpur
+PAIR-00700,1,positive_cross_script,Imran Sharma,Suresh,58,M,६८८२५६११७३,75-2389-9136-6808,Saharanpur,इमरान शर्मा,सुरेश,58,M,६८८२५६११७३,75-2389-9136-6808,Saharanpur
+PAIR-00701,1,positive_alias_noisy,Imran Sharma,Deepak,4,M,८१७९४६१२०५,14-5252-5829-5336,Gorakhpur,Imran ji,Deepak,4,M,८१७९४६१२०५,14-5252-5829-5336,Gorakhpur
+PAIR-00702,0,hard_negative_homonym,Meera Kumar,Anil,38,F,7.22460E+09,52-5890-6186-8421,Lucknow,मीरा कुमार,Suresh,73,F,6.12413E+09,26-9364-2283-5788,Lucknow
+PAIR-00703,0,hard_negative_same_household_phone,Geeta Verma,Suresh,45,F,0815 977 3665,UHID-VA-2021-100019,Gorakhpur,Harish Verma,Suresh,70,M,0815 977 3665,UHID-VA-2022-100008,Gorakhpur
+PAIR-00704,0,negative_weak_or_unrelated,Suresh ji,Suresh,,M,,,,Suresh Begum,Anil,81,M,7197​905​238,MRN/H1/50064,Lucknow
+PAIR-00705,1,positive_cross_script,Getea Devi,Harish,39,F,0611 415 9781,44-1165-9548-2271,Lucknow,गीता देवी,हरीश,39,F,,,Lucknow
+PAIR-00706,1,positive_alias_noisy,Faitma Sharma,Ramesh,86,F,0889 043 0019,56-6726-5115-5071,Saharanpur,Smt. Fatima Sharma,Ramesh,86,F,0889 043 0019,56-6726-5115-5071,Saharanpur
+PAIR-00707,0,hard_negative_homonym,Lakshmi Yadav,Harish,43,F,9.49008E+09,15-7340-6186-4203,Lucknow,लक्ष्मी यादव,Anil,67,F,6751152013,60-6385-2965-5134,Kanpur Nagar
+PAIR-00708,0,hard_negative_same_household_phone,Priya Begum,Rajesh,22,F,0683 110 6636,UHID-VA-2021-100001,Kanpur Nagar,Lakshmi Begum,Rajesh,47,F,0683 110 6636,UHID-VA-2023-100027,Kanpur Nagar
+PAIR-00709,0,negative_weak_or_unrelated,Lakshmi ji,Deepak,,F,,,,Mohammad Devi,Anil,53,M,7176​658​183,MRN/H4/50094,Lucknow
+PAIR-00710,1,positive_cross_script,Sunita Kumra,Imran,65,F,7.85164E+09,98-6311-7542-8774,Gorakhpur,सुनीता कुमार,इमरान,65,F,7.85164E+09,98-6311-7542-8774,Gorakhpur
+PAIR-00711,1,positive_alias_noisy,Fatima Yaadv,Rajesh,19,F,8.44169E+09,66-1784-3939-4952,Saharanpur,"Yadav, Fatima",Rajesh,19,F,८४४१६९३६६२,66-1784-3939-4952,Saharanpur
+PAIR-00712,0,hard_negative_homonym,Harish Sharma,Imran,67,M,+91-93224-58147,15-3217-1959-7085,Lucknow,हरीश शर्मा,Mohammad,19,M,8403​202​375,71-2728-5528-9785,Gorakhpur
+PAIR-00713,0,hard_negative_same_household_phone,Priya Devi,Ramesh,92,F,8.45436E+09,UHID-VA-2023-100099,Saharanpur,Meera Devi,Ramesh,32,F,8.45436E+09,UHID-VA-2025-100047,Saharanpur
+PAIR-00714,0,negative_weak_or_unrelated,Deepak ji,Mohammad,,M,,,,Ramesh Arif,Imran,4,M,+91-96321-69536,MRN/H2/50096,Kanpur Nagar
+PAIR-00715,1,positive_cross_script,Pooja Kumar,Suresh,2,F,6565070715,20-7613-8766-7138,Gorakhpur,पूजा कुमार,सुरेश,2,F,6565070715,,Gorakhpur
+PAIR-00716,1,positive_alias_noisy,Geeta Arif,Suresh,23,F,8710724464,46-2182-2818-6946,Gorakhpur,"Arif, Geeta",Suresh,23,F,८७१०७२४४६४,,Gorakhpur
+PAIR-00717,0,hard_negative_homonym,Suresh Verma,Suresh,89,M,+91-70928-56877,96-8802-2764-7166,Saharanpur,सुरेश वर्मा,Rajesh,69,M,७५३५८०३५८०,80-4493-8123-5120,Kanpur Nagar
+PAIR-00718,0,hard_negative_same_household_phone,Meera Devi,Anil,16,F,6569790687,UHID-VA-2025-100071,Gorakhpur,Fatima Devi,Anil,41,F,6569790687,UHID-VA-2023-100093,Gorakhpur
+PAIR-00719,0,negative_weak_or_unrelated,Harish ji,Ramesh,,M,,,,Pooja Kumar,Suresh,2,F,6565070715,MRN/H4/50029,Gorakhpur
+PAIR-00720,1,positive_cross_script,Priya Sharma,Harish,7,F,6.99525E+09,57-1936-2959-7406,Gorakhpur,प्रिया शर्मा,हरीश,7,F,6.99525E+09,57-1936-2959-7406,Gorakhpur
+PAIR-00721,1,positive_alias_noisy,Geet aArif,Harish,45,F,7.67440E+09,18-6093-8720-7126,Gorakhpur,"Arif, Geeta",Harish,46,F,,18-6093-8720-7126,Gorakhpur
+PAIR-00722,0,hard_negative_homonym,Kavita Yadav,Rajesh,50,F,0882 529 3226,65-1533-3107-4718,Kanpur Nagar,कविता यादव,Anil,10,F,0885 987 6054,50-9418-2099-8812,Kanpur Nagar
+PAIR-00723,0,hard_negative_same_household_phone,Ramesh Kumar,Deepak,34,M,7975​501​776,UHID-VA-2024-100088,Kanpur Nagar,Meera Kumar,Deepak,59,F,7975​501​776,UHID-VA-2025-100047,Kanpur Nagar
+PAIR-00724,0,negative_weak_or_unrelated,Priya ji,Imran,,F,,,,Imran Sharma,Deepak,4,M,८१७९४६१२०५,MRN/H3/50056,Gorakhpur
+PAIR-00725,1,positive_cross_script,Pooja Verma,Anil,37,F,9.96348E+09,28-1727-8149-2846,Saharanpur,पूजा वर्मा,अनील,37,F,९९६३४८०२३२,,Saharanpur
+PAIR-00726,1,positive_alias_noisy,Suresh Beugm,Anil,81,M,7197​905​238,52-8913-1339-1644,Lucknow,Shri Suresh Begum,Anil,82,M,७१९७९०५२३८,52-8913-1339-1644,Lucknow
+PAIR-00727,0,hard_negative_homonym,Deepak Nair,Anil,22,M,+91-89733-11833,14-2830-9698-9042,Saharanpur,दीपक नायर,Mohammad,53,M,7795​265​830,59-7645-5539-5986,Lucknow
+PAIR-00728,0,hard_negative_same_household_phone,Suresh Verma,Harish,69,M,७६७१३६९३४८,UHID-VA-2022-100062,Lucknow,Kavita Verma,Harish,9,F,७६७१३६९३४८,UHID-VA-2025-100023,Lucknow
+PAIR-00729,0,negative_weak_or_unrelated,Lakshmi ji,Suresh,,F,,,,Deepak Begum,Harish,44,M,6007​240​771,MRN/H1/50082,Lucknow
+PAIR-00730,1,positive_cross_script,Priya Sharma,Harish,76,F,0694 109 1152,52-7809-7555-5647,Lucknow,प्रिया शर्मा,हरीश,76,F,0694 109 1152,52-7809-7555-5647,Lucknow
+PAIR-00731,1,positive_alias_noisy,Geet aBegum,Rajesh,64,F,0701 138 3270,83-2423-4222-2203,Kanpur Nagar,G. Begum,Rajesh,64,F,0701 138 3270,,Kanpur Nagar
+PAIR-00732,0,hard_negative_homonym,Deepak Nair,Mohammad,53,M,7795​265​830,59-7645-5539-5986,Lucknow,दीपक नायर,Anil,22,M,+91-89733-11833,14-2830-9698-9042,Saharanpur
+PAIR-00733,0,hard_negative_same_household_phone,Suresh Verma,Suresh,89,M,+91-70928-56877,UHID-VA-2020-100072,Saharanpur,Lakshmi Verma,Suresh,29,F,+91-70928-56877,UHID-VA-2025-100083,Saharanpur
+PAIR-00734,0,negative_weak_or_unrelated,Geeta ji,Harish,,F,,,,Rajesh Begum,Imran,48,M,७०१६६२३९७०,MRN/H2/50074,Lucknow
+PAIR-00735,1,positive_cross_script,Priya Begum,Rajesh,22,F,0683 110 6636,69-2270-6989-5259,Kanpur Nagar,प्रिया बेगम,राजेश,23,F,0683 110 6636,69-2270-6989-5259,Kanpur Nagar
+PAIR-00736,1,positive_alias_noisy,Harish Kumar,Harish,20,M,7755​127​603,24-7309-5999-9112,Gorakhpur,Harish K.,Harish,20,M,7755​127​603,24-7309-5999-9112,Gorakhpur
+PAIR-00737,0,hard_negative_homonym,Ramesh Kumar,Harish,37,M,८२३२२९५५३८,22-2137-1050-2967,Kanpur Nagar,रमेश कुमार,Anil,21,M,६४१९७६९१७२,99-3265-3280-8584,Saharanpur
+PAIR-00738,0,hard_negative_same_household_phone,Imran Sharma,Deepak,4,M,८१७९४६१२०५,UHID-VA-2022-100056,Gorakhpur,Harish Sharma,Deepak,29,M,८१७९४६१२०५,UHID-VA-2020-100042,Gorakhpur
+PAIR-00739,0,negative_weak_or_unrelated,Fatima ji,Ramesh,,F,,,,Geeta Sharma,Deepak,45,F,9738277511,MRN/H4/50065,Gorakhpur
+PAIR-00740,1,positive_cross_script,Harish Verma,Ramesh,90,M,८४६६२५०२४५,36-1270-5095-3317,Lucknow,हरीश वर्मा,रमेश,90,M,८४६६२५०२४५,36-1270-5095-3317,Lucknow
+PAIR-00741,1,positive_alias_noisy,Priya Sharma,Harish,76,F,0694 109 1152,52-7809-7555-5647,Lucknow,P. Sharma,Harish,77,F,६९४१०९११५२,,Lucknow
+PAIR-00742,0,hard_negative_homonym,Pooja Sharma,Suresh,25,F,7.25509E+09,22-7300-3475-2435,Kanpur Nagar,पूजा शर्मा,Anil,38,F,6720065269,88-2679-7007-7648,Saharanpur
+PAIR-00743,0,hard_negative_same_household_phone,Priya Begum,Rajesh,22,F,0683 110 6636,UHID-VA-2021-100001,Kanpur Nagar,Geeta Begum,Rajesh,47,F,0683 110 6636,UHID-VA-2021-100055,Kanpur Nagar
+PAIR-00744,0,negative_weak_or_unrelated,Harish ji,Mohammad,,M,,,,Suresh Verma,Rajesh,52,M,+91-89098-79784,MRN/H4/50084,Saharanpur
+PAIR-00745,1,positive_cross_script,Meera Devi,Anil,76,F,8219304819,74-5748-3187-7579,Kanpur Nagar,मीरा देवी,अनील,76,F,८२१९३०४८१९,,Kanpur Nagar
+PAIR-00746,1,positive_alias_noisy,Meera Kumar,Harish,20,F,7916321912,59-4870-5885-4336,Saharanpur,M. Kumar,Harish,20,F,७९१६३२१९१२,,Saharanpur
+PAIR-00747,0,hard_negative_homonym,Lakshmi Yadav,Harish,43,F,9.49008E+09,15-7340-6186-4203,Lucknow,लक्ष्मी यादव,Anil,67,F,6751152013,60-6385-2965-5134,Kanpur Nagar
+PAIR-00748,0,hard_negative_same_household_phone,Ramesh Kumar,Anil,21,M,६४१९७६९१७२,UHID-VA-2022-100068,Saharanpur,Rajesh Kumar,Anil,46,M,६४१९७६९१७२,UHID-VA-2024-100052,Saharanpur
+PAIR-00749,0,negative_weak_or_unrelated,Rajesh ji,Mohammad,,M,,,,Fatima Kumar,Rajesh,80,F,0781 564 5205,MRN/H1/50073,Lucknow
+PAIR-00750,1,positive_cross_script,Priya Devi,Ramesh,92,F,8.45436E+09,67-3880-1681-3433,Saharanpur,प्रिया देवी,रमेश,92,F,8.45436E+09,,Saharanpur
+PAIR-00751,1,positive_alias_noisy,Suresh Begum,Ramesh,1,M,6529​923​572,24-8587-7979-2162,Saharanpur,S. Begum,Ramesh,2,M,६५२९९२३५७२,24-8587-7979-2162,Saharanpur
+PAIR-00752,0,hard_negative_homonym,Kavita Yadav,Rajesh,50,F,0882 529 3226,65-1533-3107-4718,Kanpur Nagar,कविता यादव,Anil,10,F,0885 987 6054,50-9418-2099-8812,Kanpur Nagar
+PAIR-00753,0,hard_negative_same_household_phone,Lakshmi Sharma,Imran,87,F,9.92933E+09,UHID-VA-2023-100051,Kanpur Nagar,Harish Sharma,Imran,27,M,9.92933E+09,UHID-VA-2020-100042,Kanpur Nagar
+PAIR-00754,0,negative_weak_or_unrelated,Rajesh ji,Anil,,M,,,,Imran Sharma,Suresh,58,M,६८८२५६११७३,MRN/H1/50026,Saharanpur
+PAIR-00755,1,positive_cross_script,Meera Kumar,Anil,38,F,7.22460E+09,52-5890-6186-8421,Lucknow,मीरा कुमार,अनील,38,F,7.22460E+09,,Lucknow
+PAIR-00756,1,positive_alias_noisy,Geeta Sahrma,Deepak,45,F,9738277511,87-3916-1103-1824,Gorakhpur,G. Sharma,Deepak,45,F,९७३८२७७५११,,Gorakhpur
+PAIR-00757,0,hard_negative_homonym,Priya Sharma,Harish,7,F,6.99525E+09,57-1936-2959-7406,Gorakhpur,प्रिया शर्मा,Harish,76,F,0694 109 1152,52-7809-7555-5647,Lucknow
+PAIR-00758,0,hard_negative_same_household_phone,Sunita Sharma,Deepak,13,F,0940 588 2683,UHID-VA-2021-100031,Kanpur Nagar,Meera Sharma,Deepak,38,F,0940 588 2683,UHID-VA-2023-100069,Kanpur Nagar
+PAIR-00759,0,negative_weak_or_unrelated,Lakshmi ji,Harish,,F,,,,Suresh Begum,Deepak,36,M,9410​943​830,MRN/H4/50040,Kanpur Nagar
+PAIR-00760,1,positive_cross_script,Deepak Nair,Anil,22,M,+91-89733-11833,14-2830-9698-9042,Saharanpur,दीपक नायर,अनील,23,M,८९७३३११८३३,14-2830-9698-9042,Saharanpur
+PAIR-00761,1,positive_alias_noisy,Priya Begum,Deepak,74,F,0832 626 1840,41-2849-9365-8062,Kanpur Nagar,Smt. Priya Begum,Deepak,74,F,८३२६२६१८४०,41-2849-9365-8062,Kanpur Nagar
+PAIR-00762,0,hard_negative_homonym,Fatima Verma,Rajesh,30,F,0875 871 0298,91-1692-8483-3596,Gorakhpur,फातिमा वर्मा,Harish,16,F,6.50074E+09,34-3054-3462-4709,Lucknow
+PAIR-00763,0,hard_negative_same_household_phone,Priya Kumar,Suresh,68,F,6098484243,UHID-VA-2025-100005,Kanpur Nagar,Pooja Kumar,Suresh,8,F,6098484243,UHID-VA-2025-100059,Kanpur Nagar
+PAIR-00764,0,negative_weak_or_unrelated,Ramesh ji,Imran,,M,,,,Priya Devi,Suresh,7,F,9511595245,MRN/H3/50089,Saharanpur
+PAIR-00765,1,positive_cross_script,Harish Devi,Mohammad,43,M,७७७६११८२१५,55-4665-2041-3870,Gorakhpur,हरीश देवी,मोहम्मद,43,M,७७७६११८२१५,55-4665-2041-3870,Gorakhpur
+PAIR-00766,1,positive_alias_noisy,Rajesh Yadav,Anil,34,M,8092​061​279,30-4329-1053-6078,Gorakhpur,Shri Rajesh Yadav,Anil,34,M,8092​061​279,,Gorakhpur
+PAIR-00767,0,hard_negative_homonym,Ramesh Kumar,Anil,21,M,६४१९७६९१७२,99-3265-3280-8584,Saharanpur,रमेश कुमार,Harish,37,M,८२३२२९५५३८,22-2137-1050-2967,Kanpur Nagar
+PAIR-00768,0,hard_negative_same_household_phone,Deepak Nair,Mohammad,53,M,7795​265​830,UHID-VA-2024-100070,Lucknow,Geeta Nair,Mohammad,78,F,7795​265​830,UHID-VA-2023-100063,Lucknow
+PAIR-00769,0,negative_weak_or_unrelated,Fatima ji,Harish,,F,,,,Suresh Verma,Rajesh,69,M,७५३५८०३५८०,MRN/H3/50098,Kanpur Nagar
+PAIR-00770,1,positive_cross_script,Lakshmi Devi,Harish,86,F,6776810815,48-5266-8591-3472,Saharanpur,लक्ष्मी देवी,हरीश,86,F,६७७६८१०८१५,,Saharanpur
+PAIR-00771,1,positive_alias_noisy,Kavita Yadav,Anil,10,F,0885 987 6054,50-9418-2099-8812,Kanpur Nagar,Kavita Y.,Anil,11,F,,50-9418-2099-8812,Kanpur Nagar
+PAIR-00772,0,hard_negative_homonym,Lakshmi Kumar,Suresh,40,F,0746 730 6538,36-6769-7275-3253,Gorakhpur,लक्ष्मी कुमार,Suresh,46,F,6.25469E+09,93-1364-5205-3788,Lucknow
+PAIR-00773,0,hard_negative_same_household_phone,Imran Sharma,Deepak,4,M,८१७९४६१२०५,UHID-VA-2022-100056,Gorakhpur,Meera Sharma,Deepak,29,F,८१७९४६१२०५,UHID-VA-2023-100069,Gorakhpur
+PAIR-00774,0,negative_weak_or_unrelated,Imran ji,Suresh,,M,,,,Ramesh Kumar,Harish,37,M,८२३२२९५५३८,MRN/H3/50044,Kanpur Nagar
+PAIR-00775,1,positive_cross_script,PriyaS harma,Harish,76,F,0694 109 1152,52-7809-7555-5647,Lucknow,प्रिया शर्मा,हरीश,76,F,६९४१०९११५२,,Lucknow
+PAIR-00776,1,positive_alias_noisy,Kavita Yadav,Rajesh,50,F,0882 529 3226,65-1533-3107-4718,Kanpur Nagar,Kavita Y.,Rajesh,50,F,८८२५२९३२२६,65-1533-3107-4718,Kanpur Nagar
+PAIR-00777,0,hard_negative_homonym,Priya Devi,Suresh,7,F,9511595245,71-7914-3573-4566,Saharanpur,प्रिया देवी,Ramesh,92,F,8.45436E+09,67-3880-1681-3433,Saharanpur
+PAIR-00778,0,hard_negative_same_household_phone,Fatima Verma,Rajesh,30,F,0875 871 0298,UHID-VA-2021-100061,Gorakhpur,Ramesh Verma,Rajesh,55,M,0875 871 0298,UHID-VA-2022-100032,Gorakhpur
+PAIR-00779,0,negative_weak_or_unrelated,Rajesh ji,Mohammad,,M,,,,Geeta Verma,Mohammad,57,F,6.08542E+09,MRN/H4/50039,Gorakhpur
+PAIR-00780,1,positive_cross_script,Priya Kumar,Suresh,68,F,6098484243,11-7077-4689-5489,Kanpur Nagar,प्रिया कुमार,सुरेश,68,F,6098484243,11-7077-4689-5489,Kanpur Nagar
+PAIR-00781,1,positive_alias_noisy,Kavita Arif,Rajesh,7,F,8297296530,90-5740-5837-3333,Gorakhpur,"Arif, Kavita",Rajesh,7,F,8297296530,,Gorakhpur
+PAIR-00782,0,hard_negative_homonym,Geeta Verma,Mohammad,57,F,6.08542E+09,99-7488-3701-4973,Gorakhpur,गीता वर्मा,Suresh,45,F,0815 977 3665,82-5754-4142-8330,Gorakhpur
+PAIR-00783,0,hard_negative_same_household_phone,Harish Sharma,Imran,67,M,+91-93224-58147,UHID-VA-2020-100018,Lucknow,Lakshmi Sharma,Imran,7,F,+91-93224-58147,UHID-VA-2023-100051,Lucknow
+PAIR-00784,0,negative_weak_or_unrelated,Anil ji,Deepak,,M,,,,Suresh Begum,Anil,81,M,7197​905​238,MRN/H1/50064,Lucknow
+PAIR-00785,1,positive_cross_script,Priy aDevi,Ramesh,92,F,8.45436E+09,67-3880-1681-3433,Saharanpur,प्रिया देवी,रमेश,92,F,8.45436E+09,,Saharanpur
+PAIR-00786,1,positive_alias_noisy,Suresh Verma,Harish,69,M,७६७१३६९३४८,64-3956-4663-7776,Lucknow,"Verma, Suresh",Harish,69,M,,64-3956-4663-7776,Lucknow
+PAIR-00787,0,hard_negative_homonym,Harish Kumar,Ramesh,84,M,+91-74439-89371,47-9510-8744-3628,Gorakhpur,हरीश कुमार,Harish,20,M,7755​127​603,24-7309-5999-9112,Gorakhpur
+PAIR-00788,0,hard_negative_same_household_phone,Pooja Verma,Anil,37,F,9.96348E+09,UHID-VA-2023-100021,Saharanpur,Imran Verma,Anil,62,M,9.96348E+09,UHID-VA-2024-100004,Saharanpur
+PAIR-00789,0,negative_weak_or_unrelated,Harish ji,Ramesh,,M,,,,Suresh Begum,Anil,81,M,7197​905​238,MRN/H1/50064,Lucknow
+PAIR-00790,1,positive_cross_script,Harish Sharma,Mohammad,19,M,8403​202​375,71-2728-5528-9785,Gorakhpur,हरीश शर्मा,मोहम्मद,19,M,८४०३२०२३७५,,Gorakhpur
+PAIR-00791,1,positive_alias_noisy,Lakshmi Kumar,Suresh,46,F,6.25469E+09,93-1364-5205-3788,Lucknow,Lakshmi K.,Suresh,46,F,,,Lucknow
+PAIR-00792,0,hard_negative_homonym,Ramesh Kumar,Anil,21,M,६४१९७६९१७२,99-3265-3280-8584,Saharanpur,रमेश कुमार,Deepak,34,M,7975​501​776,38-4810-8176-4052,Kanpur Nagar
+PAIR-00793,0,hard_negative_same_household_phone,Harish Kumar,Harish,60,M,+91-82749-09898,UHID-VA-2020-100042,Saharanpur,Suresh Kumar,Harish,85,M,+91-82749-09898,UHID-VA-2024-100028,Saharanpur
+PAIR-00794,0,negative_weak_or_unrelated,Harish ji,Harish,,M,,,,Ramesh Kumar,Deepak,34,M,7975​501​776,MRN/H3/50088,Kanpur Nagar
+PAIR-00795,1,positive_cross_script,Priya Yadav,Imran,80,F,0945 424 1520,18-1782-2557-4132,Saharanpur,प्रिया यादव,इमरान,81,F,९४५४२४१५२०,,Saharanpur
+PAIR-00796,1,positive_alias_noisy,Kavita Arif,Rajesh,7,F,8297296530,90-5740-5837-3333,Gorakhpur,K. Arif,Rajesh,7,F,8297296530,90-5740-5837-3333,Gorakhpur
+PAIR-00797,0,hard_negative_homonym,Priya Begum,Deepak,74,F,0832 626 1840,41-2849-9365-8062,Kanpur Nagar,प्रिया बेगम,Rajesh,22,F,0683 110 6636,69-2270-6989-5259,Kanpur Nagar
+PAIR-00798,0,hard_negative_same_household_phone,Anil Begum,Deepak,5,M,+91-95114-70727,UHID-VA-2020-100078,Saharanpur,Meera Begum,Deepak,30,F,+91-95114-70727,UHID-VA-2025-100071,Saharanpur
+PAIR-00799,0,negative_weak_or_unrelated,Geeta ji,Harish,,F,,,,Mohammad Verma,Imran,83,M,+91-91676-64806,MRN/H2/50006,Lucknow

@@ -1,0 +1,104 @@
+{
+  "resourceType": "Bundle",
+  "id": "yp-r4-030",
+  "type": "collection",
+  "entry": [
+    {
+      "resource": {
+        "resourceType": "Patient",
+        "id": "p-030",
+        "text": {
+          "status": "generated",
+          "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">भावना चौधरी (D/o Kamlesh), Varanasi Urban 221001</div>"
+        },
+        "identifier": [
+          {
+            "system": "https://healthid.ndhm.gov.in",
+            "value": "99-7122-9860-8565"
+          },
+          {
+            "system": "urn:yp:uhid",
+            "value": "UHID-EV-2021-100061"
+          }
+        ],
+        "name": [
+          {
+            "text": "Bhavna Chaudhary",
+            "family": "Chaudhary",
+            "given": [
+              "Bhavna"
+            ]
+          }
+        ],
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "0968 025 1785"
+          }
+        ],
+        "gender": "female",
+        "birthDate": "1995-06-15",
+        "address": [
+          {
+            "city": "Varanasi Urban",
+            "district": "Varanasi",
+            "postalCode": "221001"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Encounter",
+        "id": "e-030",
+        "status": "finished",
+        "period": {
+          "start": "2024-03-31",
+          "end": "2024-04-03"
+        },
+        "participant": [
+          {
+            "individual": {
+              "display": "Dr. P. V. Narasimhan"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Condition",
+        "id": "c-030",
+        "code": {
+          "text": "Hypothyroidism"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "m-030",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Atorva 20 mg HS"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "DocumentReference",
+        "id": "d-030",
+        "status": "current",
+        "content": [
+          {
+            "attachment": {
+              "contentType": "text/plain",
+              "data": "V2FyZCBzbGlwIGZvciBCaGF2bmEgQ2hhdWRoYXJ5IFBoOjk2ODAyNTE3ODUgQUJIQTo5OS03MTIyLTk4NjAtODU2NQ=="
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

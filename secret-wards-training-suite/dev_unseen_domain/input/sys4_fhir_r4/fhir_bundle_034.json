@@ -1,0 +1,104 @@
+{
+  "resourceType": "Bundle",
+  "id": "yp-r4-034",
+  "type": "collection",
+  "entry": [
+    {
+      "resource": {
+        "resourceType": "Patient",
+        "id": "p-034",
+        "text": {
+          "status": "generated",
+          "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">नेहा चौधरी (W/o Santosh), Prayagraj Civil Lines 211001</div>"
+        },
+        "identifier": [
+          {
+            "system": "https://healthid.ndhm.gov.in",
+            "value": "26-3920-3095-4463"
+          },
+          {
+            "system": "urn:yp:uhid",
+            "value": "UHID-EV-2023-100069"
+          }
+        ],
+        "name": [
+          {
+            "text": "Neha Chaudhary",
+            "family": "Chaudhary",
+            "given": [
+              "Neha"
+            ]
+          }
+        ],
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "8.03880E+09"
+          }
+        ],
+        "gender": "female",
+        "birthDate": "1957-06-15",
+        "address": [
+          {
+            "city": "Prayagraj Civil Lines",
+            "district": "Prayagraj",
+            "postalCode": "211001"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Encounter",
+        "id": "e-034",
+        "status": "finished",
+        "period": {
+          "start": "2024-09-19",
+          "end": "2024-10-10"
+        },
+        "participant": [
+          {
+            "individual": {
+              "display": "Dr. Anita Deshmukh"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Condition",
+        "id": "c-034",
+        "code": {
+          "text": "Type 2 Diabetes Mellitus"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "m-034",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Atorva 20 mg HS"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "DocumentReference",
+        "id": "d-034",
+        "status": "current",
+        "content": [
+          {
+            "attachment": {
+              "contentType": "text/plain",
+              "data": "V2FyZCBzbGlwIGZvciBOZWhhIENoYXVkaGFyeSBQaDo4MDM4ODAzNTQwIEFCSEE6MjYtMzkyMC0zMDk1LTQ0NjM="
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+DISTRICT HOSPITAL — DISCHARGE SUMMARY
+मरीज़ / Patient: गोपाल चौधरी (Gopal C.)
+Kin: C/O Kamlesh | Mob: 7859​653​295
+UHID: UHID-EV-2024-100040 | ABHA: 21-2847-6865-8508 | Email: gopal.chaudhary40@yugaantar-mail.invalid
+Address: Khera Khurd, PIN 226101, Lucknow | Age/Sex: 63Y/M
+DOA: 2025-01-18 | DOD: 2025-01-19
+Chief Complaint: C/O high fever, Wilson's disease (r/o Bell's palsy).
+Vitals: BP 105/82 mmHg, HbA1c 7.3%.
+Rx (दवाइयाँ): Ramipril 5 mg OD x 30 days — खाना खाने के बाद।
+Consultant: Dr. S. K. Sharma
+Audit Token: CANARY-NOTE-000-LEAK

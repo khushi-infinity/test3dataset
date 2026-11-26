@@ -1,0 +1,104 @@
+{
+  "resourceType": "Bundle",
+  "id": "yp-r4-047",
+  "type": "collection",
+  "entry": [
+    {
+      "resource": {
+        "resourceType": "Patient",
+        "id": "p-047",
+        "text": {
+          "status": "generated",
+          "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">पुष्पा रेड्डी (C/O Zafar), Bhitargaon 209209</div>"
+        },
+        "identifier": [
+          {
+            "system": "https://healthid.ndhm.gov.in",
+            "value": "61-5035-5668-2829"
+          },
+          {
+            "system": "urn:yp:uhid",
+            "value": "UHID-EV-2025-100095"
+          }
+        ],
+        "name": [
+          {
+            "text": "Pushpa Reddy",
+            "family": "Reddy",
+            "given": [
+              "Pushpa"
+            ]
+          }
+        ],
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "8336335636"
+          }
+        ],
+        "gender": "female",
+        "birthDate": "1972-06-15",
+        "address": [
+          {
+            "city": "Bhitargaon",
+            "district": "Kanpur Nagar",
+            "postalCode": "209209"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Encounter",
+        "id": "e-047",
+        "status": "finished",
+        "period": {
+          "start": "2025-08-15",
+          "end": "2025-08-28"
+        },
+        "participant": [
+          {
+            "individual": {
+              "display": "Dr. P. V. Narasimhan"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Condition",
+        "id": "c-047",
+        "code": {
+          "text": "Acute Bronchitis"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "m-047",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Atorva 20 mg HS"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "DocumentReference",
+        "id": "d-047",
+        "status": "current",
+        "content": [
+          {
+            "attachment": {
+              "contentType": "text/plain",
+              "data": "V2FyZCBzbGlwIGZvciBQdXNocGEgUmVkZHkgUGg6ODMzNjMzNTYzNiBBQkhBOjYxLTUwMzUtNTY2OC0yODI5"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

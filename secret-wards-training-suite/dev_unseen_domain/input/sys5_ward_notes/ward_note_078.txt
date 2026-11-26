@@ -1,0 +1,11 @@
+DISTRICT HOSPITAL — DISCHARGE SUMMARY
+मरीज़ / Patient: कमलेश सिद्दीकी (Kamlesh S.)
+Kin: C/O Santosh | Mob: 9026​305​797
+UHID: UHID-EV-2024-100118 | ABHA: 55-8898-9116-4715 | Email: kamlesh.siddiqui118@yugaantar-mail.invalid
+Address: Khera Khurd, PIN 226101, Lucknow | Age/Sex: 66Y/M
+DOA: 2024-04-07 | DOD: 2024-04-21
+Chief Complaint: C/O high fever, Iron Deficiency Anemia (r/o Guillain-Barré syndrome).
+Vitals: BP 161/63 mmHg, HbA1c 8.2%.
+Rx (दवाइयाँ): Dolo 650 mg BD x 5 days — खाना खाने के बाद।
+Consultant: Dr. Ramesh Kulkarni
+Audit Token: CANARY-NOTE-078-LEAK

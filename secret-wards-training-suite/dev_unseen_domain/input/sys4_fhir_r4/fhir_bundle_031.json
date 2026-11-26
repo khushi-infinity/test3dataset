@@ -1,0 +1,104 @@
+{
+  "resourceType": "Bundle",
+  "id": "yp-r4-031",
+  "type": "collection",
+  "entry": [
+    {
+      "resource": {
+        "resourceType": "Patient",
+        "id": "p-031",
+        "text": {
+          "status": "generated",
+          "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">भावना अय्यर (D/o Devendra), Noida Sector 62 201309</div>"
+        },
+        "identifier": [
+          {
+            "system": "https://healthid.ndhm.gov.in",
+            "value": "90-7245-3916-6885"
+          },
+          {
+            "system": "urn:yp:uhid",
+            "value": "UHID-EV-2023-100063"
+          }
+        ],
+        "name": [
+          {
+            "text": "Bhavna Iyer",
+            "family": "Iyer",
+            "given": [
+              "Bhavna"
+            ]
+          }
+        ],
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "7.19518E+09"
+          }
+        ],
+        "gender": "female",
+        "birthDate": "2013-06-15",
+        "address": [
+          {
+            "city": "Noida Sector 62",
+            "district": "Gautam Buddha Nagar",
+            "postalCode": "201309"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Encounter",
+        "id": "e-031",
+        "status": "finished",
+        "period": {
+          "start": "2025-11-05",
+          "end": "2025-11-09"
+        },
+        "participant": [
+          {
+            "individual": {
+              "display": "Dr. Ramesh Kulkarni"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Condition",
+        "id": "c-031",
+        "code": {
+          "text": "Enteric Fever (Typhoid)"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "m-031",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Dolo 650 mg BD x 5 days"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "DocumentReference",
+        "id": "d-031",
+        "status": "current",
+        "content": [
+          {
+            "attachment": {
+              "contentType": "text/plain",
+              "data": "V2FyZCBzbGlwIGZvciBCaGF2bmEgSXllciBQaDo3MTk1MTg3NzgxIEFCSEE6OTAtNzI0NS0zOTE2LTY4ODU="
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

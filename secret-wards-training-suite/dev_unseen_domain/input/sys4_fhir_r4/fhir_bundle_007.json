@@ -1,0 +1,104 @@
+{
+  "resourceType": "Bundle",
+  "id": "yp-r4-007",
+  "type": "collection",
+  "entry": [
+    {
+      "resource": {
+        "resourceType": "Patient",
+        "id": "p-007",
+        "text": {
+          "status": "generated",
+          "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">उषा अय्यर (D/o Zafar), Chauri Chaura 273201</div>"
+        },
+        "identifier": [
+          {
+            "system": "https://healthid.ndhm.gov.in",
+            "value": "11-6016-6714-9065"
+          },
+          {
+            "system": "urn:yp:uhid",
+            "value": "UHID-EV-2023-100015"
+          }
+        ],
+        "name": [
+          {
+            "text": "Usha Iyer",
+            "family": "Iyer",
+            "given": [
+              "Usha"
+            ]
+          }
+        ],
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "7.93681E+09"
+          }
+        ],
+        "gender": "female",
+        "birthDate": "1938-06-15",
+        "address": [
+          {
+            "city": "Chauri Chaura",
+            "district": "Gorakhpur",
+            "postalCode": "273201"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Encounter",
+        "id": "e-007",
+        "status": "finished",
+        "period": {
+          "start": "2025-09-07",
+          "end": "2025-09-26"
+        },
+        "participant": [
+          {
+            "individual": {
+              "display": "Dr. Arvind Kejriwal"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Condition",
+        "id": "c-007",
+        "code": {
+          "text": "Type 2 Diabetes Mellitus"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "m-007",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Amlong 5 mg OD"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "DocumentReference",
+        "id": "d-007",
+        "status": "current",
+        "content": [
+          {
+            "attachment": {
+              "contentType": "text/plain",
+              "data": "V2FyZCBzbGlwIGZvciBVc2hhIEl5ZXIgUGg6NzkzNjgxNDc3MCBBQkhBOjExLTYwMTYtNjcxNC05MDY1"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

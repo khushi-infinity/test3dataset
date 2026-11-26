@@ -1,0 +1,104 @@
+{
+  "resourceType": "Bundle",
+  "id": "yp-r4-008",
+  "type": "collection",
+  "entry": [
+    {
+      "resource": {
+        "resourceType": "Patient",
+        "id": "p-008",
+        "text": {
+          "status": "generated",
+          "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">भावना चौधरी (C/O Santosh), Barabanki 225001</div>"
+        },
+        "identifier": [
+          {
+            "system": "https://healthid.ndhm.gov.in",
+            "value": "91-8511-7150-5052"
+          },
+          {
+            "system": "urn:yp:uhid",
+            "value": "UHID-EV-2025-100017"
+          }
+        ],
+        "name": [
+          {
+            "text": "Bhavna Chaudhary",
+            "family": "Chaudhary",
+            "given": [
+              "Bhavna"
+            ]
+          }
+        ],
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "7531070389"
+          }
+        ],
+        "gender": "female",
+        "birthDate": "1955-06-15",
+        "address": [
+          {
+            "city": "Barabanki",
+            "district": "Barabanki",
+            "postalCode": "225001"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Encounter",
+        "id": "e-008",
+        "status": "finished",
+        "period": {
+          "start": "2025-10-20",
+          "end": "2025-10-24"
+        },
+        "participant": [
+          {
+            "individual": {
+              "display": "Dr. Meenakshi Sundaram"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Condition",
+        "id": "c-008",
+        "code": {
+          "text": "Dengue Fever"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "m-008",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Augmentin 625 Duo TDS x 7 days"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "DocumentReference",
+        "id": "d-008",
+        "status": "current",
+        "content": [
+          {
+            "attachment": {
+              "contentType": "text/plain",
+              "data": "V2FyZCBzbGlwIGZvciBCaGF2bmEgQ2hhdWRoYXJ5IFBoOjc1MzEwNzAzODkgQUJIQTo5MS04NTExLTcxNTAtNTA1Mg=="
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

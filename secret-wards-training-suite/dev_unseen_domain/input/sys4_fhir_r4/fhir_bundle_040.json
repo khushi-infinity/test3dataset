@@ -1,0 +1,104 @@
+{
+  "resourceType": "Bundle",
+  "id": "yp-r4-040",
+  "type": "collection",
+  "entry": [
+    {
+      "resource": {
+        "resourceType": "Patient",
+        "id": "p-040",
+        "text": {
+          "status": "generated",
+          "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">सरिता चौधरी (W/o Santosh), Bhitargaon 209209</div>"
+        },
+        "identifier": [
+          {
+            "system": "https://healthid.ndhm.gov.in",
+            "value": "72-5200-9721-3556"
+          },
+          {
+            "system": "urn:yp:uhid",
+            "value": "UHID-EV-2023-100081"
+          }
+        ],
+        "name": [
+          {
+            "text": "Sarita Chaudhary",
+            "family": "Chaudhary",
+            "given": [
+              "Sarita"
+            ]
+          }
+        ],
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "9.11571E+09"
+          }
+        ],
+        "gender": "female",
+        "birthDate": "1935-06-15",
+        "address": [
+          {
+            "city": "Bhitargaon",
+            "district": "Kanpur Nagar",
+            "postalCode": "209209"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Encounter",
+        "id": "e-040",
+        "status": "finished",
+        "period": {
+          "start": "2024-10-07",
+          "end": "2024-10-25"
+        },
+        "participant": [
+          {
+            "individual": {
+              "display": "Dr. S. K. Sharma"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Condition",
+        "id": "c-040",
+        "code": {
+          "text": "Urinary Tract Infection"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "m-040",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Ecosprin 75 mg OD"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "DocumentReference",
+        "id": "d-040",
+        "status": "current",
+        "content": [
+          {
+            "attachment": {
+              "contentType": "text/plain",
+              "data": "V2FyZCBzbGlwIGZvciBTYXJpdGEgQ2hhdWRoYXJ5IFBoOjkxMTU3MTc0NzYgQUJIQTo3Mi01MjAwLTk3MjEtMzU1Ng=="
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

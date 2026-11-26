@@ -1,0 +1,10 @@
+DISTRICT HOSPITAL — DISCHARGE SUMMARY
+मरीज़ / Patient: नेहा चौधरी (Chaudhary, Neha)
+Kin: W/o Sanjay | Mob: 9.56667E+09
+UHID: UHID-EV-2023-100051 | ABHA: 23-3713-3504-6668 | Email: neha.chaudhary51@yugaantar-mail.invalid
+Address: Chauri Chaura, PIN 273201, Gorakhpur | Age/Sex: 60Y/F
+DOA: 2025-10-06 | DOD: 2025-10-18
+Chief Complaint: C/O high fever, Acute Viral Gastroenteritis (r/o Addison's disease).
+Vitals: BP 149/87 mmHg, HbA1c 11.1%.
+Rx (दवाइयाँ): Azee 500 mg OD x 3 days — खाना खाने के बाद।
+Consultant: Dr. Nandini Menon

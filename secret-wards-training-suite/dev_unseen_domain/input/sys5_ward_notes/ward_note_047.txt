@@ -1,0 +1,10 @@
+DISTRICT HOSPITAL — DISCHARGE SUMMARY
+मरीज़ / Patient: नेहा अय्यर (Smt. Neha Iyer)
+Kin: C/O Zafar | Mob: 9.26402E+09
+UHID: UHID-EV-2023-100087 | ABHA: 48-8430-8080-1674 | Email: neha.iyer87@yugaantar-mail.invalid
+Address: Khera Khurd, PIN 226101, Lucknow | Age/Sex: 29Y/F
+DOA: 2025-08-01 | DOD: 2025-08-08
+Chief Complaint: C/O high fever, Urinary Tract Infection (r/o Parkinson's disease).
+Vitals: BP 137/83 mmHg, HbA1c 9.9%.
+Rx (दवाइयाँ): Dolo 650 mg BD x 5 days — खाना खाने के बाद।
+Consultant: Dr. Anita Deshmukh

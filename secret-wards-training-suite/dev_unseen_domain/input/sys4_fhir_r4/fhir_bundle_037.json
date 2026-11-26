@@ -1,0 +1,104 @@
+{
+  "resourceType": "Bundle",
+  "id": "yp-r4-037",
+  "type": "collection",
+  "entry": [
+    {
+      "resource": {
+        "resourceType": "Patient",
+        "id": "p-037",
+        "text": {
+          "status": "generated",
+          "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">पुष्पा मिश्रा (C/O Santosh), Chauri Chaura 273201</div>"
+        },
+        "identifier": [
+          {
+            "system": "https://healthid.ndhm.gov.in",
+            "value": "80-1416-6641-1259"
+          },
+          {
+            "system": "urn:yp:uhid",
+            "value": "UHID-EV-2023-100075"
+          }
+        ],
+        "name": [
+          {
+            "text": "Pushpa Mishra",
+            "family": "Mishra",
+            "given": [
+              "Pushpa"
+            ]
+          }
+        ],
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "6.36591E+09"
+          }
+        ],
+        "gender": "female",
+        "birthDate": "2016-06-15",
+        "address": [
+          {
+            "city": "Chauri Chaura",
+            "district": "Gorakhpur",
+            "postalCode": "273201"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Encounter",
+        "id": "e-037",
+        "status": "finished",
+        "period": {
+          "start": "2025-10-15",
+          "end": "2025-10-19"
+        },
+        "participant": [
+          {
+            "individual": {
+              "display": "Dr. P. V. Narasimhan"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Condition",
+        "id": "c-037",
+        "code": {
+          "text": "Type 2 Diabetes Mellitus"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "m-037",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Azee 500 mg OD x 3 days"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "DocumentReference",
+        "id": "d-037",
+        "status": "current",
+        "content": [
+          {
+            "attachment": {
+              "contentType": "text/plain",
+              "data": "V2FyZCBzbGlwIGZvciBQdXNocGEgTWlzaHJhIFBoOjYzNjU5MTI5NDIgQUJIQTo4MC0xNDE2LTY2NDEtMTI1OQ=="
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

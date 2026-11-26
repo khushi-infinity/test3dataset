@@ -1,0 +1,104 @@
+{
+  "resourceType": "Bundle",
+  "id": "yp-r4-049",
+  "type": "collection",
+  "entry": [
+    {
+      "resource": {
+        "resourceType": "Patient",
+        "id": "p-049",
+        "text": {
+          "status": "generated",
+          "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">ज़ोया ठाकुर (C/O Kamlesh), Noida Sector 62 201309</div>"
+        },
+        "identifier": [
+          {
+            "system": "https://healthid.ndhm.gov.in",
+            "value": "31-8627-4859-7236"
+          },
+          {
+            "system": "urn:yp:uhid",
+            "value": "UHID-EV-2023-100099"
+          }
+        ],
+        "name": [
+          {
+            "text": "Zoya Thakur",
+            "family": "Thakur",
+            "given": [
+              "Zoya"
+            ]
+          }
+        ],
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "7.15740E+09"
+          }
+        ],
+        "gender": "female",
+        "birthDate": "2012-06-15",
+        "address": [
+          {
+            "city": "Noida Sector 62",
+            "district": "Gautam Buddha Nagar",
+            "postalCode": "201309"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Encounter",
+        "id": "e-049",
+        "status": "finished",
+        "period": {
+          "start": "2025-08-21",
+          "end": "2025-09-10"
+        },
+        "participant": [
+          {
+            "individual": {
+              "display": "Dr. Farhan Qureshi"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Condition",
+        "id": "c-049",
+        "code": {
+          "text": "Community Acquired Pneumonia"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "m-049",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Amlong 5 mg OD"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "DocumentReference",
+        "id": "d-049",
+        "status": "current",
+        "content": [
+          {
+            "attachment": {
+              "contentType": "text/plain",
+              "data": "V2FyZCBzbGlwIGZvciBab3lhIFRoYWt1ciBQaDo3MTU3NDAwMjE4IEFCSEE6MzEtODYyNy00ODU5LTcyMzY="
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
